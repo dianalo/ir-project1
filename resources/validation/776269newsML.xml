@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="776269" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: TABLE - CNA Income Shares Inc Q2 net rises.</title>
+<headline>TABLE - CNA Income Shares Inc Q2 net rises.</headline>
+<dateline>CHICAGO 1997-08-04</dateline>
+<text>
+<p>SIX MONTHS ENDING JUNE 30		   1997	     1996</p>
+<p> Net Assets at Market Value	  $90,323,217   $ 83,840,364</p>
+<p> Net Assets Per Share			  10.31	     9.77</p>
+<p> Net Income				  4,334,578	4,280,343</p>
+<p>Net Income Per Average Number of</p>
+<p>  Shares Outstanding			     .49		.50</p>
+<p> Dividends Paid			    4,193,891	4,278,734</p>
+<p> Dividends Paid Per Share			.48		.50</p>
+<p> Average Shares Outstanding	    8,715,636	8,434,106</p>
+<p> Total Number of Shares Outstanding  8,759,022	8,580,885</p>
+<p>THREE MONTHS ENDING JUNE 30</p>
+<p> Net Income				  2,169,138	2,123,122</p>
+<p>Net Income Per Average Number of</p>
+<p>  Shares Outstanding			    0.24	     0.25</p>
+<p>		   ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

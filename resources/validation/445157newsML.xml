@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="445157" id="root" date="1997-03-15" xml:lang="en">
+<title>TAIWAN: Taiwan three-month NCDs average yield at 6.056 pct.</title>
+<headline>Taiwan three-month NCDs average yield at 6.056 pct.</headline>
+<dateline>TAIPEI 1997-03-15</dateline>
+<text>
+<p>Taiwan's central bank issued T$7 billion in three-month negotiable certificates of deposits on Saturday at an average yield of 6.056 percent, a central bank official said.</p>
+<p>The range of the bids was between 6.000 and 6.100 percent.</p>
+<p>Demand totalled T$12.25 billion.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

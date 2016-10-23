@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73240" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: U.S. Bioscience amends Schering-Plough pact.</title>
+<headline>U.S. Bioscience amends Schering-Plough pact.</headline>
+<dateline>WEST CONSHOHOCKEN, Pa. 1996-09-24</dateline>
+<text>
+<p>U.S. Bioscience Inc said on Tuesday it and Schering-Plough Corp amended their 1993 European distribution agreement for U.S. Bioscience's Ethyol drug.</p>
+<p>Under the deal, effective retroactively to January 1, 1996, Schering-Plough's exclusive marketing period will be extended by two years, through 2003, and Schering-Plough will provide U.S. Bioscience with a net incremental payment of $3.4 million, U.S. Bioscience said.  </p>
+<p>Schering-Plough will also buy Ethyol from U.S. Bioscience at a price based on a percent of net sales and U.S. Bioscience will no longer absorb certain promotional expenses previously shared by the parties.</p>
+<p>Following the exclusive period, U.S. Bioscience may choose to enter into a two-year transition period in which U.S. Bioscience would co-promote Ethyol in Europe and afterwards all rights to market Ethyol in Europe would revert to U.S. Bioscience.</p>
+<p>Ethyol is a cytoprotective drug which, when given prior to treatment, can protect healthy cells from the damaging effects of chemotherapy.</p>
+<p>--New York Newsdesk, 212-859-1733</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST CONSHOHOCKEN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485004" id="root" date="1997-04-03" xml:lang="en">
+<title>INDIA: Six wounded in Kashmir grenade attack.</title>
+<headline>Six wounded in Kashmir grenade attack.</headline>
+<dateline>SRINAGAR, India 1997-04-03</dateline>
+<text>
+<p>A grenade attack in Kashmir wounded at least six people at a busy marketplace on Thursday, police said.</p>
+<p>Suspected separatist guerrillas lobbed a hand grenade at a paramilitary patrol in the crowded Lal Chowk area of Srinagar, the summer capital of India's Jammu and Kashmir state, police said.</p>
+<p>The grenade missed its target and exploded on the road, wounding six pedestrians, they said. No group has claimed responsibility.</p>
+<p>More than a dozen militant groups are waging a separatist rebellion in Jammu and Kashmir, mainly Hindu India's only Moslem-majority province.</p>
+<p>Police and hospitals say more than 20,000 people have been killed since the revolt in the Himalayan region broke out in 1990.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SRINAGAR, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

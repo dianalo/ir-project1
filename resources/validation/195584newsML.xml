@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195584" id="root" date="1996-11-17" xml:lang="en">
+<title>PAKISTAN: Pakistan sacks Punjab province parliament.</title>
+<headline>Pakistan sacks Punjab province parliament.</headline>
+<dateline>ISLAMABAD 1996-11-17</dateline>
+<text>
+<p>Pakistani President Farooq Leghari dissolved the Punjab provincial assembly on Sunday and sacked the provincial government there, state radio said.</p>
+<p>It said provincial governor Khawaja Ahmad Tariq Rahim issued the dissolution order with presidential approval, saying that the provincial cabinet had also ceased to exist.  </p>
+<p>Punjab's was the last of Pakistan's four provincial assemblies still intact after Leghari dissolved the lower house of the national parliament on November 5, sacked prime minister Benazir Bhutto on disputed charges of corruption and misrule and ordered fresh elections for next February 3.</p>
+<p>The provincial assemblies and the cabinets in the other three provinces -- Sindh, North West Frontier and Baluchistan -- were sacked after the November 5 action on largely similar charges of corruption and maladministration.</p>
+<p>The decision on Punjab, Pakistan's most populous province, was held up because of legal wrangling over the fate of a reinstated chief minister, Manzoor Ahmed Wattoo, after a court order issued before Bhutto's sacking.</p>
+<p>Wattoo had been due to submit to a vote of confidence on Sunday under a court order but, being sure of defeat, he sent in his resignation on Saturday, leading to the automatic restoration of pro-Bhutto Chief Minister Mohammad Arif Nakai.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

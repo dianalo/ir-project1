@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121543" id="root" date="1996-10-16" xml:lang="en">
+<title>AUSTRIA: Austrian shares close lower, further losses seen.</title>
+<headline>Austrian shares close lower, further losses seen.</headline>
+<text>
+<p>1225 GMT - Austrian shares fall after last minute sell-off ahead of Friday's expiry date. Traders say index unable to hold Tuesday's 1,090 levels and could head down to 1,060.</p>
+<p>* ATX index closes down 14,98 points or 1.38 percent at 1,073.54</p>
+<p>* October ATX future up 3.8 schillings at 1,085.6</p>
+<p>* Eight ATX shares up, 11 down, two unchanged</p>
+<p>* Leading gainer Creditanstalt  up 120 schillings at 1,550</p>
+<p>* Leading decliner VA Stahl, down 20 schillings at 350</p>
+<p>* Vienna Bourse index down 4.26 points or 1.03 percent at 411.33</p>
+<p>-- Vienna newsroom, +431 531 12257</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

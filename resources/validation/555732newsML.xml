@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555732" id="root" date="1997-05-02" xml:lang="en">
+<title>USA: US OPTIONS FOCUS/Cypress Semiconductor calls.</title>
+<headline>US OPTIONS FOCUS/Cypress Semiconductor calls.</headline>
+<dateline>CHICAGO 1997-05-02</dateline>
+<text>
+<p>Call options in Cypress Semiconductor Corp saw heavy traffic on the Chicago Board Options Exchange, accompanied by a surge in volume of the underlying stock, traders said.</p>
+<p>Cypress May 15.0 calls were among the most heavily traded calls on CBOE, with 4,555 contracts changing hands by late afternoon.</p>
+<p>&quot;Tuesday they bought May 15.0 and they've been buying them ever since,&quot; said John Streibich, a designated primary market-maker on the CBOE floor. &quot;Today there's been all sorts of different people buying them.&quot;  </p>
+<p>Premium on the virtually at-the-money option was up 7/16 to 3/4 against a 3/8 rise in the stock to 14-3/4. At-the-money options have a delta of 50, which means their premium should in theory move at half the speed of the underlying stock.</p>
+<p>Streibich said interest today had spread to June 15.0 and June 17.5, which had volume of 1,138 and 877 contracts respectively. The May options did not have the 17.5 strike price yet.</p>
+<p>Traders said implied volatility for the May 15.0 has risen to about 60 percent from usual levels of about 48, while most other strikes were priced in the 50-55 percent area.  </p>
+<p>Jay Shartsis, director of options trading at R.F. Lafferty &amp; Co, said trading was fueled by vague rumor that a microprocessor giant would take over Cypress.</p>
+<p>&quot;That's the rumor,&quot; he said. &quot;A lot of people are just buying on the rumor, but I don't know what to make of it personally.&quot;</p>
+<p>A brokerage firm trader said Cypress had been in the rumor mills from time to time in the past six months, although none of the rumors had proved to have any basis.</p>
+<p>Streibich noted that a lot of the orders were in big blocks, which suggested they could be institutional buying.  </p>
+<p>The first of such big buying came just before the close on Tuesday, when one buyer took 5,000 of May 15.0 calls, he said.</p>
+<p>Elsewhere in the market, high-tech stocks rallied sharply and stimulated a lot of option flows, most notably in the networking shares which had been the hardest-hit sector in the market's March/April decline.</p>
+<p>Traders said investor's resurgent interest in the equity market was spilling into the tech stocks at last.</p>
+<p>Cisco Systems Inc options were at the top of CBOE's most-actives list on both the put and call sides, with the stock up 3-1/2 at 56-7/8 in late trade.  </p>
+<p>Calls on Ascend Communications Inc and Cascade Communications on CBOE, as well as 3Com Corp on the Pacific Exchange, were also actively traded.</p>
+<p>Shartsis said the stock market had rallied this week despite an open interest buildup in put options on the broader indices.</p>
+<p>&quot;Amid all the bearishness, the market has just skyrocketed straight up,&quot; he said. &quot;But that's the way they do it.&quot;</p>
+<p>Still, he said the market might be due for some correction now.</p>
+<p>-- Shin Kishima/Chicago Derivatives Desk ((312-408-8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

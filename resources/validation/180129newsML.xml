@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180129" id="root" date="1996-11-11" xml:lang="en">
+<title>AUSTRALIA: RTRS-News Corp first qtr net profit falls.</title>
+<headline>RTRS-News Corp first qtr net profit falls.</headline>
+<dateline>SYDNEY 1996-11-12</dateline>
+<text>
+<p>Three months ended Sept 30</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Net profit			    283.0 vs 308.0</p>
+<p>    Operating profit		    312.0 vs 309.0</p>
+<p>    Sales (billion)		    3.145  vs 3.131</p>
+<p>    Other income			  378.0 vs 377.0</p>
+<p>    Shr (cents)			     9.0 vs 10.0</p>
+<p>    Abnormal items		   loss 2.0 vs 24.0 profit</p>
+<p>    Tax					26.0 v 28.0</p>
+<p>    Other			   169     vs	91</p>
+<p>Industry results based on operating income in latest qtr:</p>
+<p>    Newspapers		    112     vs     108</p>
+<p>    Magazines and inserts	68     vs	65</p>
+<p>    Television		     67     vs     111</p>
+<p>    Filmed entertainment	 96     vs	40</p>
+<p>    Book publishing		17     vs	57</p>
+<p>    Other		   profit 18     vs  loss 4</p>
+<p>NOTE: The News Corp Ltd is a global media and entertainment group controlled by Rupert Murdoch. Net profit is after an abnormal loss of A$2 million.  </p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

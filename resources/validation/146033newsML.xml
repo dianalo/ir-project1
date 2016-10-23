@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146033" id="root" date="1996-10-27" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 27-OCT.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 27-OCT.</headline>
+<text>
+<p>Tropical cyclone 06B in the Bay of Bengal will continue to threaten shipping with top winds of near 50 mph as it tracks northward while slowly strengthening. TC 06B will make landfall near far northwestern India and Bangladesh by 48-72 hours. Top winds could be near 65 mph by that time with flash flooding and local damage possible.</p>
+<p>Tropical Storm Lili is transitioning into an extratropical weather system in the northeastern Atlantic. The remnants of Lili will bring moderate to heavy rains and strong gusty winds to the British Isles later Sunday into early Monday.</p>
+<p>THERE ARE NO FURTHER EMERGENCY STATEMENTS AT THIS TIME</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

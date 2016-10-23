@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180358" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: USDA sees China grain imports at 32 mln MT by 2005.</title>
+<headline>USDA sees China grain imports at 32 mln MT by 2005.</headline>
+<dateline>WASHINGTON 1996-11-11</dateline>
+<text>
+<p>China will be a net importer of 32 million tonnes of grain annually by the year 2005, as demand continues to outpace domestic supplies, according to U.S. Agriculture Department report released Monday.</p>
+<p>Since 1993, China has shifted from net exports of 7.5 million tonnes of grain to net imports of 15.5 million tonnes.</p>
+<p>The new report by USDA's Economic Research Service said China's grain self-sufficiency is likely to decrease from 95 percent to 91 percent in the next decade.</p>
+<p>It noted China's Academy of Science has estimated grain imports could reach 45 million tonnes per year.  </p>
+<p>&quot;China has a large agricultural sector and is a major grain producer. However, it is doubtful that China's farmers will be able to keep pace with population increases and growing domestic demand for feed grains to produce meat, eggs and milk products,&quot; the report said.</p>
+<p>It said most of China's arable land is already under cultivation and that it is likely total area sown to grains will decline in the next decade due to economic expansion.</p>
+<p>The report said China's grain yields have potential to rise with high-yielding seed varieties, better fertilizers and more efficient use of irrigation and pesticides.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

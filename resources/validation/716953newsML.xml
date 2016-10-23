@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716953" id="root" date="1997-07-09" xml:lang="en">
+<title>BANGLADESH: Bangladesh taka ends flat, dollar supplies tight.</title>
+<headline>Bangladesh taka ends flat, dollar supplies tight.</headline>
+<dateline>DHAKA 1997-07-09</dateline>
+<text>
+<p>The Bangladesh taka closed flat on Wednesday following a squeeze on the supply of U.S. dollars for a second straight session, dealers said.</p>
+<p>The local currency ended at 43.7540/7560 to the dollar after being quoted in a wide range of 43.7500/7700 per dollar in early trade. Deals mostly centred at 43.7550.</p>
+<p>But dealers said the central bank sold dollars to importers, restraining the U.S. currency's gains against the local currency.</p>
+<p>Call money was unchanged from the previous rate of 5.0-5.5 percent.</p>
+<p>-- Dhaka Newsroom +880-2-506363</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

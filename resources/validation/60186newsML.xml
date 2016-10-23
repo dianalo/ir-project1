@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60186" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: KCP&amp;L pulls plug on UtiliCorp merger.</title>
+<headline>KCP&amp;L pulls plug on UtiliCorp merger.</headline>
+<dateline>NEW YORK 1996-09-18</dateline>
+<text>
+<p>Kansas City Power &amp; Light Co. said Wednesday it abandonded its eight-month effort to merge with UtiliCorp United Inc.</p>
+<p>Kansas City Power cited a lack of shareholder support in the face of a more lucrative, though hostile, offer from Western Resources Inc.  </p>
+<p>In a prepared statement, KCP&amp;L said the $1.7 billion deal was called off &quot;in view of the failure of KCPL stockholders to approve the KCPL/UtiliCorp merger.&quot;</p>
+<p>Western's bid, repeatedly rebuffed by KCP&amp;L management despite richer per-share terms and a larger indicated dividend, is valued at about $1.9 billion.</p>
+<p>The outcome of the two-on-one fight against Western has been closely watched by utility officers, directors and investment bankers who have agreed that deregulation of the U.S. electricity will mean more hostile combinations in the future.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

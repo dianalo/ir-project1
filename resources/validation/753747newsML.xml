@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753747" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: PRIMEX sees potential FY EPS $1.65.</title>
+<headline>PRIMEX sees potential FY EPS $1.65.</headline>
+<dateline>ST. PETERSBURG, Fla. 1997-07-24</dateline>
+<text>
+<p>PRIMEX Technologies Inc said Thursday it sees the potential for earnings of around $1.65 per share for the year.</p>
+<p>The company based its projection on a recent modification to one of its multi-year tank ammunition contracts with the Army, which it said would allow for the acceleration of $62 million of cash payments into the third quarter.</p>
+<p>Wall Street expects the company to report earnings of $1.55 a share for fiscal 1997, according to First Call.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PETERSBURG, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90485" id="root" date="1996-10-02" xml:lang="en">
+<title>POLAND: FIVE NEW POLISH STOCKS TO START LIVE TRADE OCT 28.</title>
+<headline>FIVE NEW POLISH STOCKS TO START LIVE TRADE OCT 28.</headline>
+<dateline>WARSAW 1996-10-02</dateline>
+<text>
+<p>The Warsaw Stock Exchange will add five new stocks to 10 issues already listed in the bourse's continuous trading system, the bourse said in a statement.</p>
+<p>It said Animex, Wielkopolski Bank Kredytowy (WBK), Stomil Olsztyn, Okocim and Gorazdze would start trading on October 28.</p>
+<p>The bourse said Animex, WBK and Okocim would trade in lots of 500 shares, Stomil would trade in 250-share lots and Gorazdze in lots of 100 shares.</p>
+<p>Last month the bourse president Wieslaw Rozlucki said the exchange planned to trade live the main market's 20 most active and heavily capitalised stocks by the end of the year.</p>
+<p>The issues in continuous trade are also traded on the main market under its single-price auction system.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I48110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

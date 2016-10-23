@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236674" id="root" date="1996-12-05" xml:lang="en">
+<title>RUSSIA: CFM International, Rybinsk Motors plan JV.</title>
+<headline>CFM International, Rybinsk Motors plan JV.</headline>
+<dateline>RYBINSK, Russia 1996-12-05</dateline>
+<text>
+<p>French-based aero engines maker CFM International plans a joint venture with Russian engine manufacturer AO Rybinskiye Motory, CFM officials said.</p>
+<p>CFM International is a joint venture of France's Snecma and U.S. General Electric Co.</p>
+<p>The company supplies engines for Boeing and Airbus Industrie passenger and cargo planes.</p>
+<p>Rolland Duclos, CFM engine sales director for the CIS, told a news conference on Wednesday that Rybinsk Motors had promising technical potential to produce the CFM-56 aircraft engine.</p>
+<p>He said the joint venture would gradually work toward producing CFM-56 motors in the Russian city.</p>
+<p>&quot;Possibly we will begin with production of spare parts for these engines, but the final target will be complete assembly,&quot; Duclos said. &quot;We have started work on this project.&quot;</p>
+<p>-- Viktor Anoshkin, Moscow newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3640002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RYBINSK, Russia"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

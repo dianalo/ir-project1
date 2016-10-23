@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="274871" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: Bradlees names Peter Thorner CEO.</title>
+<headline>Bradlees names Peter Thorner CEO.</headline>
+<dateline>BRAINTREE, Mass 1996-12-24</dateline>
+<text>
+<p>Bradlees Inc said Tuesday its board of directors had appointed Peter Thorner as the company's chairman and chief executive officer, effective immediately.</p>
+<p>Thorner will succeed Mark Cohen, who has resigned, the company said.</p>
+<p>The company said Thorner became its president and chief operating officer in June 1995 and member of the board of directors the following month.</p>
+<p>Bradlees operates 110 discount department stores in Maine, New Hampshire, Massachusetts, Connecticut, New York, New Jersey and Pennsylvania</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRAINTREE, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

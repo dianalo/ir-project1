@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129154" id="root" date="1996-10-20" xml:lang="en">
+<title>HONG KONG: Rescue mission for stricken ship near Hong Kong.</title>
+<headline>Rescue mission for stricken ship near Hong Kong.</headline>
+<dateline>HONG KONG 1996-10-20</dateline>
+<text>
+<p>A Hong Kong air rescue team was trying to airlift 24 crew from a vessel south of the colony on Sunday after the ship developed engine trouble, government radio said.</p>
+<p>The rescuers in two helicopters were carrying out the airlift co-ordinated by the Marine Department to ferry the crew on board Equator Pearl 110 nautical miles south of Hong Kong to a nearby vessel, the government said in a statement.</p>
+<p>A department spokesman said by telephone the rescue was still progressing at 0715 GMT and it was not known how many people had been removed from the vessel.</p>
+<p>The helicopters had been sent to the scene at 0530 GMT, the statement said.</p>
+<p>The department received a report from the captain saying that the ship had engine trouble, the statement said.</p>
+<p>The department deployed a fixed-wing aircraft from the Government Flying Service to the scene and alerted ships in the area to help. The vessel was later located by the aircraft.</p>
+<p>About an hour later, the captain decided to abandon the ship because of rough seas, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

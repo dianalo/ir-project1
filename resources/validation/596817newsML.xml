@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="596817" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: CBOT board rescinds plan to extend day pit hours.</title>
+<headline>CBOT board rescinds plan to extend day pit hours.</headline>
+<dateline>CHICAGO 1997-05-20</dateline>
+<text>
+<p>The Chicago Board of Trade (CBOT) said its board of directors on Tuesday rescinded a proposal made last month to extend daytime pit trading hours for financial futures and options.  </p>
+<p>The proposal was part of a plan approved by the board on April 16 to restructure CBOT's trading hours by scrapping the evening open-outcry session and essentially replacing it with the Project A electronic after-hours trading system.</p>
+<p>The plan to discontinue the evening session on April 2, 1998, pending a membership vote, is still in effect, the CBOT said.</p>
+<p>&quot;The board's decision comes after broad member input since our last meeting on the best way to structure our 24-hour trading day,&quot; CBOT chairman Patrick Arbor said in a statement.  </p>
+<p>Under the revised plan, daytime open-outcry trading hours for financial contracts, such as 30-year Treasury bond futures, would be unchanged, opening at 0720 CDT/1220 GMT and closing at 1400 CDT/1900 GMT. The April proposal had sought to extend the close by one hour.</p>
+<p>Under the new plan, Project A session would start at 1430 CDT/1930 GMT and shut the next morning at 0645 CDT/1145 GMT.</p>
+<p>Currently, the day pit trade is followed by the afternoon Project A session from 1430 CDT to 1630 CDT/2130 GMT, the night pit from 1820 CDT/2320 GMT to 2105 CDT/0205 GMT and the overnight Project A from 2200 CDT/0300 GMT to 0645 CDT.  </p>
+<p>CBOT officials could not immediately confirm whether a date for a membership vote had been set. Arbor said further review should be undertaken and additional user input gathered before a decision for a change would be enacted.</p>
+<p>Scrapping the night pit trading has been a touchy issue putting futures commission merchants (FCMs) against the so-called &quot;locals&quot; and other traders.</p>
+<p>FCMs have bemoaned that the session was a financial drain, given the steadily declining trading volume, while others still saw it as a valuable source of supplemental income and training ground for inexperienced traders.</p>
+<p>((-- Chicago Derivatives Desk 312-408-8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

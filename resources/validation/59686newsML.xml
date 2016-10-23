@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59686" id="root" date="1996-09-17" xml:lang="en">
+<title>AUSTRALIA: RTRS-Astro to spend A$5 mln on diamonds.</title>
+<headline>RTRS-Astro to spend A$5 mln on diamonds.</headline>
+<dateline>JOONDALUP, Australia 1996-09-17</dateline>
+<text>
+<p>Mining entrepreneur Joe Gutnick's Astro Mining NL said on Tuesday it expected to spend A$5 million on diamond exploration and research in the Yilgarn region of Western Australia over the next three years.</p>
+<p>About A$3 million will be allocated for exploration and a further A$2 million for research of Astro's six prospects, which cover some 32,500 square km north-east of Kalgoorlie, Stephan Meyer, general manager of exploration for Astro said.</p>
+<p>&quot;Results from the research could be seen in exploration as early as the middle of next year,&quot; Meyer said</p>
+<p>Meyer was speaking to Reuters after addressing the Paydirt diamond conference here.</p>
+<p>The research will study geochemical difficulties associated with the region's harsh environment, Meyer said.</p>
+<p>&quot;Three years is an extremely long time in market terms,&quot; Meyer said. &quot;But we expect the results during the research's course, rather than at its end.&quot;</p>
+<p>Meye told Reuters that Australia was largely been unexplored for diamonds and that research is critical to finding new diamond fields.</p>
+<p>Gutnick is chairman and managing director of Astro.</p>
+<p>-- Sydney Newsroom 612-9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOONDALUP, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

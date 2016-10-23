@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733686" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: CUSIPS -- Fort Collins, Colo.</title>
+<headline>CUSIPS -- Fort Collins, Colo.</headline>
+<text>
+<p>CITY OF FORT COLLINS, COLORADO</p>
+<p>RE: $9,465,000</p>
+<p>STORMWATER UTILITY ENTERPRISE</p>
+<p>STORM DRAINAGE REVENUE REFUNDING &amp; IMPROVEMENT BDS</p>
+<p>SERIES 1997</p>
+<p>This issue is book entry through DTC.</p>
+<p>     Award:		  07/16/1997</p>
+<p>     Delivery:	     08/19/1997 (Expected)</p>
+<p>     Initial trade:	07/17/1997</p>
+<p>	     MATURITY			     CUSIP</p>
+<p>	     --------			     -----</p>
+<p>	    12/01/1998			  347132AA0</p>
+<p>	    12/01/1999			  347132AB8</p>
+<p>	    12/01/2000			  347132AC6</p>
+<p>	    12/01/2001			  347132AD4</p>
+<p>	    12/01/2002			  347132AE2</p>
+<p>	    ----------------------------------------</p>
+<p>	    12/01/2003			  347132AF9</p>
+<p>	    12/01/2004			  347132AG7</p>
+<p>	    12/01/2005			  347132AH5</p>
+<p>	    12/01/2006			  347132AJ1</p>
+<p>	    12/01/2007			  347132AK8</p>
+<p>	    ----------------------------------------</p>
+<p>	    12/01/2009			  347132AM4</p>
+<p>	    12/01/2010			  347132AN2</p>
+<p>	    12/01/2011			  347132AP7</p>
+<p>	    12/01/2017			  347132AQ5</p>
+<p>George K. Baum &amp; Company</p>
+<p>A.G. Edwards &amp; Sons, Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

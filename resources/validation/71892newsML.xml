@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71892" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Ucyclyd says FDA approves Buphenyl distribution. [CORRECTED]</title>
+<headline>Ucyclyd says FDA approves Buphenyl distribution. [CORRECTED]</headline>
+<dateline>HUNT VALLEY, Md. 1996-09-24</dateline>
+<text>
+<p>Ucyclyd Pharma Inc said on Tuesday the U.S. Food and Drug Administration recently gave it approval to distribute sodium phenylbutyrate, a drug used to treat urea cycle disorders.</p>
+<p>(Corrects spelling of company name from Ocyclyd Pharma Inc. Inserts &quot;urea&quot; to give correct name of disorder).</p>
+<p>The drug, which was marketed under the trade name Buphenyl, was manufactured by Maryland-based Pharmaceutics International Inc and was shipped commercially starting September 3, Ocyclyd said in a statement. </p>
+<p>Urea cycle disorders affected about 400 patients around the world.</p>
+<p>The company was not immediately available for further comment.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNT VALLEY, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="352098" id="root" date="1997-02-03" xml:lang="en">
+<title>TURKEY: Turk trader sells Iraq 2,300-T sugar, to sell more.</title>
+<headline>Turk trader sells Iraq 2,300-T sugar, to sell more.</headline>
+<dateline>ANKARA 1997-02-03</dateline>
+<text>
+<p>A Turkish sugar trading company, Lebsan, said on Monday it had sold 2,300 tonnes of white ICUMSA-45 sugar to Iraq in January and 200 tonnes to Iran.</p>
+<p>Okkes Leblebici, general manager of the company, told Reuters the company would continue to sell sugar to the two countries.  </p>
+<p>&quot;The sales to Iraq are made to local companies there and they are normal humanitarian sales,&quot; he said, referring to Iraq's purchases since the Gulf War under a U.N.-monitored scheme which is separate from the current U.N. oil-for-food sales plan.</p>
+<p>&quot;There will be more sales to these countries in the near future,&quot; he said. &quot;All sugar we trade is of ICUMSA-45 quality,&quot; he said.</p>
+<p>Leblebici said Lebsan planned to sell the sugar in batches of 1,000 tonnes from two customs areas in Turkey -- one in Agri, which borders Iran and Armenia, and the other in the southeastern city of Gaziantep, where the company is based.</p>
+<p>&quot;We use Agri for sales to Iran and Gaziantep for Iraq,&quot; he said.</p>
+<p>He said sales to Iran could be passed on to Uzbekistan and Azerbaijan. He would not give details on prices.</p>
+<p>Lebsan bought 46,000 tonnes of white sugar from Turkseker, Turkey's state sugar refineries, through a tender.</p>
+<p>Leblebici said its Turkseker purchase was being shipped from Agri and the southeastern Elbistan refineries.</p>
+<p>--Ercan Ersoy, Ankara Newsroom 90-312-4462940</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

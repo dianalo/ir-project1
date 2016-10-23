@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536726" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Musicland Stores Corp Q1 loss narrows.</title>
+<headline>Musicland Stores Corp Q1 loss narrows.</headline>
+<dateline>MINNEAPOLIS, Minn. 1997-04-24</dateline>
+<text>
+<p>1997	  1996</p>
+<p> Sales					  $376,080   $383,570</p>
+<p> Cost of sales				 249,617    253,737</p>
+<p> Selling/general/administrative costs  129,946    139,489</p>
+<p>Operating loss before depreciation,</p>
+<p>   amortization/restructuring charge   (3,483)    (9,656)</p>
+<p> Depreciation and amortization	     9,852     11,559</p>
+<p> Restructuring charge				-     35,000</p>
+<p> Operating loss			     (13,335)   (56,215)</p>
+<p> Interest expense				7,648	6,672</p>
+<p> Loss before income taxes		 (20,983)   (62,887)</p>
+<p> Income taxes					  -   (10,251) (a)</p>
+<p>    Net loss				  (20,983)   (52,636) (a)</p>
+<p> Net loss per common share		  (0.63)     (1.58) (a)</p>
+<p> Weighted average shares outstanding    33,481     33,371</p>
+<p>	    (In thousands, except per share amounts)</p>
+<p>(a)  Restated for adjustments to reflect effect of a December 31, 1996 deferred tax valuation allowance in each quarter.</p>
+<p>NOTE: 1996 Q1 loss includes $35 million restructuring charge.  </p>
+<p>		CONSOLIDATED BALANCE SHEETS (UNAUDITED)</p>
+<p>								March 31,</p>
+<p>							   1997	 1996</p>
+<p>Current assets:</p>
+<p>    Cash and cash equivalents		  $78,968     $1,393</p>
+<p>    Inventories				    464,031    567,605</p>
+<p>    Deferred income taxes			11,800  16,187 (a)</p>
+<p>    Other current assets			  11,181     33,179</p>
+<p>	  Total current assets		   565,980    618,364</p>
+<p> Property, net				     249,854    305,532</p>
+<p> Goodwill						    -     97,507</p>
+<p> Deferred income taxes			     1,200	    -</p>
+<p> Other assets					  6,217	6,022</p>
+<p> Total Assets					823,251  1,027,425</p>
+<p>		   LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)</p>
+<p>Current liabilities:</p>
+<p>    Revolver					 273,000    296,000</p>
+<p>    Accounts payable			     315,254    316,386</p>
+<p>    Restructuring reserve			 10,735     31,391</p>
+<p>    Other current liabilities		   66,725     68,371</p>
+<p>	  Total current liabilities	    665,714    712,148</p>
+<p> Long-term debt				    122,774    110,000</p>
+<p> Other long-term liabilities		    53,174     55,266</p>
+<p> Deferred income taxes				   -  6,836 (a)</p>
+<p>Stockholders' equity (deficit):</p>
+<p>    Common stock					 343	  343</p>
+<p>    Additional paid-in capital		 253,849    254,350</p>
+<p>    Accumulated deficit		  (259,632)   (97,547) (a)</p>
+<p>    Deferred compensation			(7,998)    (8,998)</p>
+<p>    Common stock subscriptions		 (4,973)    (4,973)</p>
+<p>	  Total stockholders' equity (deficit)</p>
+<p>							(18,411)    143,175</p>
+<p>Total Liabilities and Stockholders'</p>
+<p>  Equity (Deficit)				 823,251  1,027,425</p>
+<p>		((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

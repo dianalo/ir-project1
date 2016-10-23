@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325866" id="root" date="1997-01-22" xml:lang="en">
+<title>UK: Lehman Brothers sets warrants on dollar/mark.</title>
+<headline>Lehman Brothers sets warrants on dollar/mark.</headline>
+<dateline>LONDON 1997-01-22</dateline>
+<text>
+<p>Lehman Brothers Finance SA has issued 12 million European-style corridor warrants, in four equal tranches, on the dollar/mark, lead manager Lehman Brothers Bankhaus AG said.</p>
+<p> WARRANTS	RANGE	 ISS PRICE   YIELD	   MATURITY</p>
+<p> TRANCHE A    1.54-1.64    7.35 DEM    144.61 PCT    23.APR.97</p>
+<p> TRANCHE B    1.55-1.65    4.50 DEM    245.15 PCT    23.JUL.97</p>
+<p> TRANCHE C    1.55-1.70    4.35 DEM    143.23 PCT    19.DEC.97</p>
+<p> TRANCHE D    1.50-1.65    5.40 DEM     93.94 PCT    19.DEC.97</p>
+<p> PAYDATE 29.JAN.97	LISTING FFT SGT DDF     MIN EXER LOT 100</p>
+<p> SPOT REFERENCE  1.5875</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

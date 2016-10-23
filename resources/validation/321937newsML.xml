@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321937" id="root" date="1997-01-21" xml:lang="en">
+<title>FRANCE: French stocks close higher on Greenspan comments.</title>
+<headline>French stocks close higher on Greenspan comments.</headline>
+<dateline>PARIS 1997-01-21</dateline>
+<text>
+<p>French stocks finished higher on Tuesday after U.S. Federal Reserve Chairman Alan Greenspan gave an upbeat assessment of the U.S. economy, pulling the bourse out of negative territory where it had spent most of the day.</p>
+<p>The blue-chip CAC-40 index finished up 3.78 points, or 0.16 percent, at 2,409.88 after recovering from a session low of 2,384.77. The CAC-40 January futures contract rose three points to 2,415.</p>
+<p>Volume was 6.3 billion francs.</p>
+<p>&quot;Greenspan reassured the markets with his comments. Wall Street went up and so did we,&quot; one trader said. &quot;But you have to be careful when you remember the impact he had last time.&quot;</p>
+<p>Greenspan said U.S. inflation was rising more slowing and economic growth rising faster than official data suggest.</p>
+<p>He described the rise in the U.S. stock market as &quot;breathtaking&quot; but the comment appeared more neutral than his market-moving remarks in the fall that the euphoria might be overdone.</p>
+<p>Shares in luxury goods group LVMH fell 0.74 percent to 1,484 francs on profit-taking after recent gains. Lehman Brothers downgraded the stock to underperform, but many analysts remain bullish on LVMH and applaud its recent purchase of U.S. duty free chain DFS and its sale of Guinness shares.</p>
+<p>Shares in drinks group Pernod Ricard rose 3.68 percent to 310 francs after its SEGM unit signed an agreement to take control of the second-biggest producer of ouzo in Greece, EPOM.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76190" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Lehman cites market, rates for Q3 rev fall.</title>
+<headline>Lehman cites market, rates for Q3 rev fall.</headline>
+<dateline>NEW YORK 1996-09-25</dateline>
+<text>
+<p>Lehman Brothers Holdings Inc said volatile market conditions and delayed underwritings were among the key reasons the company failed to extend a more than year-long streak of quarterly revenue growth.</p>
+<p>Lehman's third quarter net revenues, which represents total revenues less interest expenses, amounted to $722 million, short of both the $750 million in net revenues it posted a year ago and the second quarter's $833 million.  </p>
+<p>&quot;Volatile conditions in the debt and equity markets, as well as seasonal softness in several businesses, interrupted the five consecutive quarters of higher revenues we had posted,&quot; Lehman Chairman and Chief Executive Richard Fuld said in a statement.</p>
+<p>Lehman also cited the effects of interest rate movements on customer trading volumes and decisions by issuers to delay scheduled underwritings for the decline.</p>
+<p>For the quarter, revenues from principal transactions rose to $303 million from $245 million a year ago but investment banking revenues fell to $237 million from $251 million.  </p>
+<p>Commissions revenues fell to $77 million from $116 million while interest and dividend revenues rose to $2.96 billion from $2.83 billion.</p>
+<p>However, interest expenses for the quarter rose to $2.86 billion from $2.70 billion, more than offsetting the increase in interest and dividend related revenues.</p>
+<p>Other revenues fell to $4 million from $11 million.</p>
+<p>Below the revenue line, the picture was somewhat better, with Lehman's return on common equity rising to 9.0 percent from 8.5 percent a year ago. Still, that was well short of the 13.4 percent figure posted in the second quarter.  </p>
+<p>Lehman's pre-tax margin for the quarter was 16.0 percent, down from the second quarter's 20.2 percent level but up from 14.5 percent a year ago.</p>
+<p>&quot;While quarterly revenue was off for a number of market related and seasonal reasons, it is important to note that our discipline around expenses remained strong,&quot; Fuld said.</p>
+<p>Total non-interest expenses for the quarter fell to $606 million from $641 million a year ago, a key reason the company was able to improve quarterly net earnings to $77 million or $0.60 per share from $71 million or $0.52 per share last year.</p>
+<p>-- New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

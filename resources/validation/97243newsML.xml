@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97243" id="root" date="1996-10-04" xml:lang="en">
+<title>GREECE: Evert re-elected Greece's opposition leader.</title>
+<headline>Evert re-elected Greece's opposition leader.</headline>
+<dateline>ATHENS 1996-10-04</dateline>
+<text>
+<p>Miltiadis Evert was re-elected leader of Greece's conservative opposition New Democracy party on Friday, defeating challenger George Souflias.</p>
+<p>Party officials said Evert, who resigned as leader last week after a national election defeat, received 103 votes from party delegates to 84 for Souflias.</p>
+<p>&quot;We are turning a new page,&quot; Evert told reporters after his victory. &quot;No one lost. There are no winners or losers.&quot;</p>
+<p>Evert resigned as party president after losing elections on September 22, saying he was assuming responsibility for New Democracy's failure to oust the ruling socialists.</p>
+<p>A stocky, outspoken former mayor of Athens, Evert was blamed for the election defeat by many conservatives who said his populist style had failed to inspire voters.</p>
+<p>The serious, professorial speeches of the socialist Prime Minister Costas Simitis, appeared more convincing than Evert's fist-banging oratory.</p>
+<p>The election returned the socialists to power with a strong absolute majority in parliament despite opinion poll predictions of a neck-and-neck race.</p>
+<p>Evert's resignation ignited a fierce leadership battle in New Democracy, with many young members rushing to declare their candidacy.</p>
+<p>But new faces, such as Dora Bakoyianni and Constantine Karamanlis, dropped out, leaving Souflias, a former education and national economy minister, as Evert's only challenger.</p>
+<p>&quot;There are people in every town, in every village, who are telling us to set bickering aside and look at the problems the country is facing,&quot; Evert said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113980" id="root" date="1996-10-14" xml:lang="en">
+<title>POLAND: Poland likely to free petrol prices in Q1 1997.</title>
+<headline>Poland likely to free petrol prices in Q1 1997.</headline>
+<dateline>WARSAW 1996-10-14</dateline>
+<text>
+<p>The Polish government will probably liberalise gasoline prices in February or March next year when world oil prices are likely to start falling, the government spokeswoman said on Monday.</p>
+<p>&quot;There are forecasts that world oil prices should start falling some time in February or March. This moment would seem a good one for freeing the prices,&quot; Aleksandra Jakubowska told a news briefing.  </p>
+<p>Early this year, the government said prices of domestically produced gasoline, now controlled by the finance minister, would be freed by the end of 1996.</p>
+<p>But faced with mounting world oil prices, it delayed the liberalisation, fearing it would jeopardise its plans to cut inflation to 17 percent this year from 21.6 percent in 1995.</p>
+<p>Instead, it last week introduced measures to stabilise the petrol market, including a 400,000-tonne duty-free import quota for diesel fuel, a small rise in official caps for petrol prices and a excise tax cut for imported and domestic diesel.</p>
+<p>Poland's refineries cover about 80 percent of the country's petrol consumption. Imported gasoline has no price limit but high excise tax often make purchases abroad unprofitable.</p>
+<p>-- Marcin Grajewski +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

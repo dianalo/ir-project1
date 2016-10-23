@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71308" id="root" date="1996-09-23" xml:lang="en">
+<title>FINLAND: Raisio sees no competition from Campbell.</title>
+<headline>Raisio sees no competition from Campbell.</headline>
+<dateline>HELSINKI 1996-09-23</dateline>
+<text>
+<p>Finnish food, animal feeds and chemicals group Raision Tehtaat Oy said on Monday U.S. company Campbell Soup Co's new mail-order meals will not compete with its cholesterol-reducing Benecol margarine.</p>
+<p>&quot;They will not be competitors. The (Campbell) meals concerned are based on normal nutrition components, which are combined in a certain way,&quot; Jukka Kaitaranta, head of Raisio's Benecol unit told Reuters by telephone.</p>
+<p>Kaitaranta was asked to comment on a report in Friday's New York Times about Campbell's plans to begin selling frozen meals engineered to reduce cholesterol, blood pressure and diabetes by mail-order delivery.</p>
+<p>Campbell's meals cannot be based on Benecol's key ingredient plant sterol as Raisio has a U.S. patent for it, Kaitaranta said.</p>
+<p>-- Helsinki newsroom +358-0-6805 0248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

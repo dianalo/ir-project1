@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325568" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Adept Technology Q2 shr $0.03 vs $0.20.</title>
+<headline>Adept Technology Q2 shr $0.03 vs $0.20.</headline>
+<dateline>SAN JOSE, Calif. 1997-01-22</dateline>
+<text>
+<p>ADEPT TECHNOLOGY, INC.</p>
+<p>					(in thousands)</p>
+<p>			     Three months ended    Six months ended</p>
+<p>			  Dec. 28,     Dec. 30,  Dec. 28,  Dec. 30,</p>
+<p>				 1996	  1995	1996	1995</p>
+<p> Net revenues	   $18,887    $ 20,743  $ 37,324  $ 40,414</p>
+<p> Cost of revenues	11,239	11,923    22,298    23,281</p>
+<p> Gross margin	     7,648	 8,820    15,026    17,133</p>
+<p>Operating expenses:</p>
+<p>Research, development</p>
+<p>     &amp; engineering	2,054	 2,073     4,030     4,019</p>
+<p>selling, gen and admin  5,328	 4,985    10,480     9,786</p>
+<p>total oper expenses	7,382	 7,058    14,510    13,805</p>
+<p> Operating income	   266	 1,762	 516     3,328</p>
+<p> Interest income, net     163	    33	 297	 134</p>
+<p>Income before provision</p>
+<p>   for income taxes	 429	 1,795	 813     3,462</p>
+<p>Provision for income</p>
+<p>   taxes			155	   312	 293	 600</p>
+<p> Net income		   274	 1,483	 520     2,862</p>
+<p> Net income per share     .03	   .20	 .06	 .40</p>
+<p>avg shrs oustanding     8,393	 7,268     8,382     7,084</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34350">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

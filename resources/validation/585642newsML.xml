@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="585642" id="root" date="1997-05-15" xml:lang="en">
+<title>UK: LIFFE white sugar ends little changed.</title>
+<headline>LIFFE white sugar ends little changed.</headline>
+<dateline>LONDON 1997-05-15</dateline>
+<text>
+<p>LIFFE sugar ended barely changed on Thursday evening after a slow day.</p>
+<p>Front-month August finished 10 cents firmer at $318.00 per tonne after trading between $316.60 and $318.80.</p>
+<p>October ended down 20 cents at $307.50, its low for the day, after earlier touching $308.60.</p>
+<p>Commission house sales balanced buying dominated by one broker team, with flat-price buying of August the main feature, traders said.</p>
+<p>Chartists pegged good support in August at Thursday's low of $306.60.</p>
+<p>In Paris, August finished 20 cents easier at $318.30.</p>
+<p>--London Newsroom +44 171 542-8065</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

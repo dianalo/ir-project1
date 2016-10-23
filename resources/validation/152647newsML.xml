@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152647" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Getchell Gold Q3 shr rises to $0.16.</title>
+<headline>Getchell Gold Q3 shr rises to $0.16.</headline>
+<dateline>ENGLEWOOD, Colo. 1996-10-30</dateline>
+<text>
+<p>(In Thousands, Except Per Share Amounts)</p>
+<p>					Three Months	  Nine Months</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net sales			$17,020 $17,605  $48,868  $51,064</p>
+<p> Cost of sales		   20,592  16,939   55,606   50,955</p>
+<p> Gross loss (profit)	    3,572   (666)    6,738    (109)</p>
+<p>Selling, general and</p>
+<p>  administrative expenses	 870   1,078    3,310    2,555</p>
+<p> Exploration expenses	     606     366    2,189    1,844</p>
+<p>Abandonment and impairment</p>
+<p>  of mineral properties	   ---     ---	---   11,531</p>
+<p> Loss from operations	   5,048     778   12,237   15,821</p>
+<p>Interest expense, net of</p>
+<p>  capitalized amounts	     436     961	970    2,007</p>
+<p> Interest and other income  (1,266)    (80)  (4,365)    (125)</p>
+<p> Loss before income taxes     4,218   1,659    8,842   17,703</p>
+<p> Income tax expense (benefit)   ---   (425)    (870)	568</p>
+<p> Net loss			   4,218   1,234    7,972   18,271</p>
+<p> Net loss per common share     0.16    0.07     0.31     1.01</p>
+<p> Avg shares			26,045  18,183   25,718   18,167</p>
+<p>Full company name is Getchell Gold Corp</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ENGLEWOOD, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

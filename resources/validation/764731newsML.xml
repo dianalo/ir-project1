@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="764731" id="root" date="1997-07-29" xml:lang="en">
+<title>SOUTH KOREA: Five million N.Koreans hit by famine - aid group.</title>
+<headline>Five million N.Koreans hit by famine - aid group.</headline>
+<dateline>SEOUL 1997-07-29</dateline>
+<text>
+<p>At least five million people in North Korea are badly hit by famine and many could die if they do not receive immediate foreign help, an aid group said on Tuesday.</p>
+<p>&quot;It is a disaster in the making,&quot; Ted Yamamori, president of the Food for the Hungry International, told Reuters in Seoul after visiting the hunger-stricken North last week.  </p>
+<p>&quot;The consensus of aid workers operating in North Korea is that at least five million people are badly affected by famine,&quot; Yamamori said.</p>
+<p>Yamamori, who visited North Korea from July 22-26 to monitor the distribution of 120 tonnes of wheat flour donated by his group, quoted Northern officials as saying about one-fifth of the country's arable land was seriously affected by drought.</p>
+<p>&quot;The people of North Korea appear to be suffering from hunger on the level of the notorious Somalia and Ethiopia famines,&quot; he said. &quot;Only in North Korea, they are suffering in silence out of the view of the world's media.&quot;</p>
+<p>North Korea said on Friday that a heat wave and a subsequent drought were having a &quot;catastrophic&quot; impact on its economy and worsening food shortages there.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

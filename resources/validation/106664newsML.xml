@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106664" id="root" date="1996-10-09" xml:lang="en">
+<title>MALAYSIA: Malaysian hostel fire kills 11 schoolchildren.</title>
+<headline>Malaysian hostel fire kills 11 schoolchildren.</headline>
+<text>
+<p>KUALA LUMPUR, Oct 9 (Reuter)  Eleven primary schoolchildren were burnt to death early on Wednesday in a fire that engulfed their hostel in Malaysia's Borneo state of Sarawak, the national news agency Bernama said.</p>
+<p>The victims were 10 boys aged between eight and 11 and a nine-year-old girl, Bernama quoted the fire chief in Saratok town, Wan Alkap Wan Drus, as saying.</p>
+<p>The fire had nearly burnt itself out by the time firemen arrived at 2.40 a.m. (1840 GMT on Tuesday) in the village of Kampung Sessang in the remote interior of Sarawak, a state mostly covered by rainforests, the fire chief said.</p>
+<p>Kampung Sessang is about 60 km (40 miles) from Saratok, which is about 310 km (190 miles) north of the state capital, Kuching.</p>
+<p>Wan Alkap said 18 children were sleeping in the hostel at the time of the fire. The seven surviving pupils were injured and were being treated for burns in hospital.</p>
+<p>Wan Alkap said the dead children could only be identified from objects on their bodies. Most of them were Moslems, he said.</p>
+<p>The Saratok fire station was investigating, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

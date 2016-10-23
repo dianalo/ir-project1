@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1996-10-01" id="root" itemid="87235" xml:lang="en">
+<title>USA: Mitsubishi September US car sales rise.</title>
+<headline>Mitsubishi September US car sales rise.</headline>
+<dateline>DETROIT 1996-10-01</dateline>
+<text>
+<p>Mitsubishi Motors Corp</p>
+<p>			Sep 1-30, 1996     Sep 1-30, 1995 *Pct Chng</p>
+<p> Domestic Car	    11,208	     6,631	    +76.1</p>
+<p> Domestic Truck		 0		   0	     N.A.</p>
+<p> Import Car		 3,392	     4,864	    -27.4</p>
+<p> Import Truck		 809	     2,046	    -58.8</p>
+<p>		  Jan 1-Sep 30, 1996 Jan 1-Sep 30, 1995 *Pct Chng</p>
+<p> Domestic Car	    96,327	    77,639	    +23.5</p>
+<p> Domestic Truck		 0		   0	     N.A.</p>
+<p> Import Car		32,072	    60,112	    -46.9</p>
+<p> Import Truck	    11,929	    17,264	    -31.2</p>
+<p>* Pct change based on daily selling rate. Sale days 24 in latest month vs 25, 231 for year to date vs 230 in year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-10-01" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1996-10-01" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="DETROIT" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104605" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: ASV gets financing to expand plant.</title>
+<headline>ASV gets financing to expand plant.</headline>
+<dateline>GRAND RAPIDS, Minn. 1996-10-09</dateline>
+<text>
+<p>ASV Inc said Wednesday it received approval for a $1.8 million financing package for its proposed plant expansion.</p>
+<p>It said the Iron Range Resource and Rehabilitation Board approved a loan to facilitate a financing package for ASV involving the board and other participating agencies.</p>
+<p>The financing will provide loans to ASV for a 60,000-square-foot plant expansion adjacent to its existing 40,000-square-foot manufacturing plant. ASV estimates the plant expansion will provide up to an additional 100 jobs over the next year and a half.</p>
+<p>ASV, which designs and manufactures track-driven vehicles and related accessories, said these funds, along with funds from a recently announced $5 million private placement, will it to fund its growth for the next several years.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRAND RAPIDS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162960" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Hector Communications Q3 full results.</title>
+<headline>Hector Communications Q3 full results.</headline>
+<dateline>HECTOR, Minn. 1996-11-04</dateline>
+<text>
+<p>Three Months Ended Sept. 30  Nine Months Ended Sept. 30</p>
+<p>			   1996	1995	   1996	  1995</p>
+<p> Revenues	$7,217,721 $1,437,862  $14,048,917  $4,181,783</p>
+<p>Operating Income</p>
+<p>		    2,497,423    297,225    4,467,248     773,292</p>
+<p>Other Income (Expense):</p>
+<p>Interest expense, net of interest income</p>
+<p>		  (1,718,433)  (322,393)  (3,236,167)   (692,476)</p>
+<p>Gain (loss) on marketable securities portfolio</p>
+<p>			     --    195,057	687,947   (115,336)</p>
+<p>Other investment income</p>
+<p>			231,740     15,000	362,432	45,000</p>
+<p>Net Other Income (Expense)</p>
+<p>		  (1,486,693)  (112,336)  (2,185,788)   (762,812)</p>
+<p>Income (Loss) Before</p>
+<p>  Income Taxes  1,010,730    184,889    2,281,460	10,480</p>
+<p>Income Tax Expense</p>
+<p>  (Benefit)	 541,000     70,000    1,160,000    (10,000)</p>
+<p>Income Before Minority</p>
+<p>  Interest	  469,730    114,889    1,121,460	20,480</p>
+<p>Minority Interest in Alliance Telecommunications Corp.</p>
+<p>			176,222	   --	224,424	    --</p>
+<p>Net Income (Loss)</p>
+<p>			293,508    114,889	897,036	20,480</p>
+<p>Net Income (Loss) Per Share</p>
+<p>			    .13	  .05	    .40	   .01</p>
+<p>Average Shares</p>
+<p>  Outstanding   2,271,000  2,256,000    2,264,000   2,260,000</p>
+<p> EBITDA	   4,326,977    689,204    8,093,807   1,900,577</p>
+<p>EBITDA Adjusted for Minority Interest in Alliance Telecommunications</p>
+<p>  Corp.	   3,201,157    689,204    6,298,177   1,900,577</p>
+<p>Adjusted EBITDA Per Share</p>
+<p>			   1.41	  .31	   2.78	   .84</p>
+<p>Note: EBITDA = Earnings Before Interest Expense and Investment Income, Income Taxes, Depreciation and Amortization.</p>
+<p>Note: Full company name is Hector Communications Corp.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HECTOR, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

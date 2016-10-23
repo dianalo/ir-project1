@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88828" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: High Plains Wheat - Planting resumes.</title>
+<headline>High Plains Wheat - Planting resumes.</headline>
+<dateline>KANSAS CITY, Mo. 1996-10-01</dateline>
+<text>
+<p>Farmers in the High Plains took advantage of the return of dry weather and were planting winter wheat in earnest, grain merchandisers said Tuesday.</p>
+<p>&quot;Finally there is quite a bit of planting going on,&quot; said a dealer in central Kansas. &quot;They (producers) ought to be able to get most of it done in the next week because subsoil moisture (levels are) so high and it's supposed to stay dry.&quot;</p>
+<p>At least two Kansas dealers said they were buying newly harvested corn. Farmer selling of wheat was slow, however, and basis bids were steady to slightly weaker.  </p>
+<p>Basis values in cents/bu against KCBT wheat, cash=dollars/bu.</p>
+<p>			  Basis	    Prev	     Cash price</p>
+<p>KANSAS</p>
+<p> Colby	     -22  +  Z     -22  +  Z	     4.2000</p>
+<p> Dodge City	-16  +  Z     -16  +  Z	     4.2600</p>
+<p> Hutchinson	+16  +  Z     +16  +  Z	     4.5800</p>
+<p> Newton	    +20  +  Z     +20  +  Z	     4.6200</p>
+<p> Salina	    +13  +  Z     +13  +  Z	     4.5500</p>
+<p> Topeka	    +32  +  Z     +32  +  Z	     4.7400</p>
+<p> Wichita	   +22  +  Z     +25  +  Z	     4.6400</p>
+<p> Kansas City     +26  +  Z     +26  +  Z	     4.6800</p>
+<p>			 Basis	    Prev		Cash price</p>
+<p>TEXAS</p>
+<p> Fort Worth	+25  +  Z     +25  +  Z	     4.6700</p>
+<p> Galveston	 +52  +  Z     +52  +  Z	     4.9400</p>
+<p> Houston	   +51  +  Z     +51  +  Z	     4.9300</p>
+<p>OKLAHOMA</p>
+<p> Catoosa	   +32  +  Z     +32  +  Z	     4.7400</p>
+<p> Enid		+20  +  Z     +20  +  Z	     4.6200</p>
+<p> Guymon	    -14  +  Z     -14  +  Z	     4.2800</p>
+<p>(Note: Z=KCBT December wheat futures)</p>
+<p>--Kansas City bureau, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

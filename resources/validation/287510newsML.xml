@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287510" id="root" date="1997-01-05" xml:lang="en">
+<title>SOUTH KOREA: KEDO delegation to visit N.Korea next month - paper.</title>
+<headline>KEDO delegation to visit N.Korea next month - paper.</headline>
+<dateline>SEOUL 1997-01-05</dateline>
+<text>
+<p>An international consortium helping set up North Korea's nuclear energy programme plans to send a survey team early in February to Shinpo where light-water reactors are to be built, domestic media reported on Sunday.</p>
+<p>&quot;We will be able to dispatch the seventh site survey team to North Korea early next month,&quot; The Chosun Ilbo quoted a consortium official as saying.</p>
+<p>The U.S.-led consortium, called the Korean Peninsula Energy Development Organisation (KEDO), would also send a working level consultation team to discuss issues of logistics and other details with Pyongyang.</p>
+<p>On Friday, Seoul officials said a landmark nuclear agreement with North Korea would be back on track next week when KEDO sign protocols with North Korea for building light-water reactors.</p>
+<p>The move was the first concrete step to repair damage from the incursion of a North Korean submarine into the South in September. It followed an apology by Pyongyang over the incident last Sunday.</p>
+<p>The incursion froze all contacts between the two Koreas.</p>
+<p>The KEDO official was quoted as saying a survey team of about 60 people would stay for five months.</p>
+<p>North Korea and the United States signed the landmark agreement in Geneva in October 1994 to end the crisis over the North's suspected nuclear weapons development.</p>
+<p>KEDO is a consortium created by South Korea, the United States and Japan to implement the Geneva accord under which Pyongyang promised to dismantle its weapons-grade nuclear programme in return for safer light-water reactors.</p>
+<p>Under the $4.5 billion deal, Pyongyang will be provided with two light-water reactors and interim supplies of fuel oil.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

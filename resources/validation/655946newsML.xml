@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="655946" id="root" date="1997-06-12" xml:lang="en">
+<title>CZECH REPUBLIC: Czech PX50 falls at price fixing.</title>
+<headline>Czech PX50 falls at price fixing.</headline>
+<dateline>PRAGUE 1997-06-12</dateline>
+<text>
+<p>Czech shares tumbled at Thursday's price fixing on the Prague bourse but with SPT Telecom and CEZ, accounting for 34 percent of the PX50's capitalisation, untraded, dealers said the real trend was difficult to ascertain.</p>
+<p>Among the major issues which were traded, Komercni Banka dropped 52 crown to 1,998 and Ceska Sporitelna rose three crowns to 300.</p>
+<p>Tobacco company Tabak was the biggest index decliner, dropping 234 crowns to 7,666.</p>
+<p>-- Robin Shepherd, Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

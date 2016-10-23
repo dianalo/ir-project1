@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87225" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Photon sees Q4 revs about $4.5 mln.</title>
+<headline>Photon sees Q4 revs about $4.5 mln.</headline>
+<dateline>MILPITAS, Calif 1996-10-01</dateline>
+<text>
+<p>Photon Dynamics Inc said Tuesday it expects to report revenue for the fourth quarter, ended September 30, of about $4.5 million, below previous expectations.</p>
+<p>The company said that because it has quarterly revenues of less than $8 million and some of its equipment costs over $1 million performance can be greatly affected by the shipments of any single unit.</p>
+<p>The company said it could have met analyst expectations for the quarter, but for two problems. The company failed to complete work on three systems which it attempted to book and ship within the quarter. Those systems are in the company's backlog for next quarter.</p>
+<p>The second problem the company had was that one customer said it will not take shipment of the machine which it ordered and was built for it. Photon said it is considering legal action to recover its losses on this project.</p>
+<p>The company said that despite the problems it still expects to report a record year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILPITAS, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76553" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Washington Post page one - Sept 25.</title>
+<headline>Washington Post page one - Sept 25.</headline>
+<dateline>WASHINGTON 1996-09-24</dateline>
+<text>
+<p>The Washington Post carried the following stories on its front page on Sept. 25:</p>
+<p>---</p>
+<p>UNITED NATIONS - Five world powers promise to stop nuclear testing as President Clinton and top officials of China, France, Russia and Britain sign the Comprehensive Test Ban Treaty.</p>
+<p>---</p>
+<p>WASHINGTON - Federal Reserve officials, apparently convinced that U.S. economic growth already is slowing enough to check inflation, made no change in short-term interest rates.</p>
+<p>---</p>
+<p>WASHINGTON - D.C. congressional delegate Eleanor Holmes Norton, who called for creation of the District's financial control board, has become disenchanted with its approach to reform.</p>
+<p>---</p>
+<p>SHELBY, Ohio - Republican presidential candidate Bob Dole steps up his campaign efforts to paint Bill Clinton as a liberal Democrat.</p>
+<p>---</p>
+<p>WASHINGTON - A federal jury convicted a major California agriculture cooperative of illegally showering former Agriculture Secretary Mike Espy with almost $6,000 in gifts.</p>
+<p>---</p>
+<p>EAGLE PASS, Texas - Mexican drug gangs have become increasingly brazen as they push tons of marijuana, cocaine and heroin across the border, prompting ranchers to seek a bigger U.S. military role against the traffickers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

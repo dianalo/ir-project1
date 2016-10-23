@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40612" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Mobil to sell Reston complex to Zell company.</title>
+<headline>Mobil to sell Reston complex to Zell company.</headline>
+<dateline>FAIRFAX, Va. 1996-09-09</dateline>
+<text>
+<p>Mobil Corp said on Monday it agreed to sell Phase I of Reston Town Center Urban Core to an affiliate of financier Samuel Zell's Equity Office Holdings LLC for an undisclosed sum.</p>
+<p>The 20-acre commercial development in northern Virgina opened in 1990 and consists of over 500,000 square feet of office space, 200,000 square feet of retail/restaurant space, the 514-room Hyatt Regency Hotel, an 11-screen multiplex cinema and a one-acre open-air plaza with fountain and pavilion, the company said.</p>
+<p>The sale, which is expected to close in the fourth quarter, excludes the Hyatt Regency Hotel, which will be sold separately.</p>
+<p>The remaining 65 acres of undeveloped property in the Urban Core Phase II are part of Mobil's previously announced of 18 planned communities in seven states to Westbrook Partners, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFAX, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137413" id="root" date="1996-10-23" xml:lang="en">
+<title>INDIA: Indian zinc output steady in April-September.</title>
+<headline>Indian zinc output steady in April-September.</headline>
+<dateline>NEW DELHI 1996-10-23</dateline>
+<text>
+<p>India's zinc production in the first six months of fiscal 1996/97 (April-March) remained steady at 64,185 tonnes against 64,187 tonnes in the same period in 1995/96, a mines ministry statement said on Wednesday.</p>
+<p>The government had set a target of 74,650 tonnes of zinc production for the period between April and September 1996.</p>
+<p>India's state-owned and private firms produced 11,983 tonnes of the metal in September 1996 against a target of 14,200 tonnes, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179369" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Sylvan Learning takes stake in Jostens.</title>
+<headline>Sylvan Learning takes stake in Jostens.</headline>
+<dateline>COLUMBIA, Md. 1996-11-11</dateline>
+<text>
+<p>Sylvan Learning Systems Inc said on Monday it had made a minority investment in Jostens Learning Corp, which provides technology-based educational programs for students in kindergarten through 12th grade.</p>
+<p>Sylvan would own 19 percent of Jostens' equity, through a preferred stock investment and dividends, the company said.</p>
+<p>Sylvan also said it would incorporate Jostens' computer-based curriculum products into its educational programs, delivered through Sylvan Learnings Centers and contract educational services sites.</p>
+<p>&quot;This alliance brings many opportunities to better the market position of both organizations,&quot; said Dave Shaffer, chairman and chief executive officer of Jostens.  </p>
+<p>Jostens Learning was sold in June 1995 by Jostens Inc to a group led by Boston-based Bain Capital Corp. The company is now privately held by an investment group led by Bain and Information Partners affiliates, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98279" id="root" date="1996-10-05" xml:lang="en">
+<title>ITALY: Italian police confiscate 270 kg of explosives.</title>
+<headline>Italian police confiscate 270 kg of explosives.</headline>
+<dateline>BRINDISI, Italy 1996-10-05</dateline>
+<text>
+<p>Italian police said on Saturday they had smashed an extortion ring, detaining nine people and confiscating 270 kg (600 lb) of explosives.</p>
+<p>Police said they found the explosives in two separate raids near southeastern Adriatic port of Brindisi.</p>
+<p>The operation began two weeks ago when police discovered 70 kg (150 lb) of explosives in a cave, police said, and concluded late on Friday when another 200 kg were confiscated after a raid on a warehouse.</p>
+<p>Police said the explosives were set to be packaged into small bombs for use in an extortion racket.</p>
+<p>The nine suspects were being held on charges of criminal association and illegal transport and sale of explosives.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRINDISI, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="660767" id="root" date="1997-06-13" xml:lang="en">
+<title>GERMANY: Mannesmann Jan-May group sales up 16 pct.</title>
+<headline>Mannesmann Jan-May group sales up 16 pct.</headline>
+<dateline>DUESSELDORF, Germany 1997-06-13</dateline>
+<text>
+<p>Mannesmann AG said on Friday its group sales in the first five months of 1997 rose 16 percent to 14.3 billion marks ($8.3 billion), and that earnings in the period improved further.</p>
+<p>The automotive, telecommunications, and pipes and trading divisions contributed to the improvement, the company said in a statement distributed at its annual general meeting.  </p>
+<p>Mannesmann said incoming orders in the five-month period rose 14 percent to 16.9 billion marks.</p>
+<p>The engineering division remained in the red due to seasonal accounting swings.</p>
+<p>But Mannesmann reaffirmed its forecast of further profit gains this year.</p>
+<p>($ = 1.728 German Marks)</p>
+<p>-- Bonn newsroom, 49-228-2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUESSELDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

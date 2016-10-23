@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41491" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Unocal reports offshore Indonesia wells.</title>
+<headline>Unocal reports offshore Indonesia wells.</headline>
+<dateline>LOS ANGELES 1996-09-09</dateline>
+<text>
+<p>Unocal Corp said Monday its Indonesian subsidiary had drilled seven successful oil and gas exploration wells in the Mahakam Delta area offshore East Kalimantan in Indonesia.</p>
+<p>&quot;Based on the drilling to date, we currently estimate that these discoveries contain more than 40 million barrels of oil equivalent (BOE) of recoverable oil and gas with a finding costs of about 50 cents per BOE,&quot; said Charles Williamson, Unocal group vice presidnet for international operations.</p>
+<p>It said four of the drilling successes came in the first phase of the company's &quot;saturation-exploration&quot; (S-X) program.</p>
+<p>Williamson noted that a typical S-X well costs about $1 million and takes under 10 days to complete, compared wtih $4.3 million and more than 50 days for a conventional well.</p>
+<p>Unocal expects to drill 20 S-X wells this year, the first phase of a three-year, 60-well program.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

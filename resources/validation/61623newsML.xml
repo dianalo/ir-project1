@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61623" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: U.S. bulk millfeeds - Prices mixed in quiet market.</title>
+<headline>U.S. bulk millfeeds - Prices mixed in quiet market.</headline>
+<dateline>CHICAGO 1996-09-18</dateline>
+<text>
+<p>Millfeed prices were mixed on Wednesday as many dealers kept a close watch on declining CBOT corn prices.</p>
+<p>&quot;Business has died,&quot; one dealer said. He said many buyers were on the sidelines waiting for lower millfeed prices. &quot;There appears to be an easiness, mainly because of the grain markets,&quot; he said.</p>
+<p>A Tennessee dealer agreed, noting that the nearby positions were soft with pressure from the CBOT board.</p>
+<p>A Missouri broker said demand has also slackened for millfeed pellets for catfish.  </p>
+<p>&quot;The cool weather has slowed down their metabolism and catfish (in Mississippi ponds) do not eat as much,&quot; he said.</p>
+<p>On the other hand, one Minnesota dealer said nearby supplies remained very tight.</p>
+<p>&quot;People call me everyday for immediate shipments,&quot; he said. &quot;Supplies are not adequate.&quot;</p>
+<p>He said some areas are out of old crop corn and have not started harvesting.</p>
+<p>--Doris Frankel 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

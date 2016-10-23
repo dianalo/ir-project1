@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139198" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: CU Bancorp Q3 loss.</title>
+<headline>CU Bancorp Q3 loss.</headline>
+<dateline>ENCINO, Calif. 1996-10-24</dateline>
+<text>
+<p>(Amounts in thousands of dollars)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   Sept. 30,	  Sept. 30,</p>
+<p>					  1996     1995    1996    1995</p>
+<p>Revenue from earning assets $15,899  $13,931 $46,515 $41,735  Cost of funds		     4,460    4,160  13,044  11,912</p>
+<p>Net revenue from earning</p>
+<p>assets before provision for</p>
+<p>  loan losses		     11,439    9,771  33,471  29,823</p>
+<p> Provision for loan losses     4,050	100   4,400   1,025</p>
+<p>Net revenue from earning</p>
+<p>  assets			     7,389    9,671  29,071  28,798</p>
+<p> Gain on sale of servicing	   0	  0	 0     383</p>
+<p> Gain on sale of securities	  0	  4     114	46</p>
+<p> Other income			1,748    1,815   5,507   5,140</p>
+<p> Total noninterest income	1,748    1,819   5,621   5,569</p>
+<p>Salaries and related benefits</p>
+<p>					 5,905    4,347  15,614  13,063</p>
+<p> Other expense		    11,075    4,274  21,022  13,560</p>
+<p> Total noninterest expense    16,980    8,621  36,636  26,623</p>
+<p> Income before taxes	   (7,843)    2,869  (1,944)  7,744</p>
+<p> Taxes on income		 (2,725)    1,159   (177)   3,036</p>
+<p> Net income			(5,118)    1,710 (1,767)   4,708</p>
+<p> Earnings per share	     (0.44)     0.16  (0.15)    0.44</p>
+<p>Average fully diluted shares</p>
+<p>  outstanding		     11,588   10,669  11,528  10,656</p>
+<p>				     CU BANCORP</p>
+<p>		  Consolidated Statements of Financial Condition</p>
+<p>			(Amounts in thousands of dollars)</p>
+<p>					     Sep 30,  Dec. 31,  Sep 30,</p>
+<p>						   1996     1995     1995</p>
+<p>Assets</p>
+<p> Cash and due from banks	     $ 81,991 $ 67,173 $ 65,320</p>
+<p> Short-term investments		  64,717   47,100   50,000</p>
+<p> Cash and short-term investments    146,708  114,273  115,320</p>
+<p> Investment securities		  171,849  206,966  204,672</p>
+<p> Gross loans				486,616  401,849  388,297</p>
+<p> Reserve for loan losses		 13,548   10,043   10,053</p>
+<p> Net loans				  473,068  391,806  378,244</p>
+<p> Other real estate owned		  1,109    4,918    5,643</p>
+<p> Premises and equipment, net	   16,558   15,476   15,707</p>
+<p>Accrued interest receivable and</p>
+<p>  other assets			     25,045   15,661   16,852</p>
+<p> Total assets			     834,337  749,100  736,438</p>
+<p>Liabilities and Shareholders'</p>
+<p>Equity Deposits:</p>
+<p>     Demand				 253,905  226,307  217,051</p>
+<p>     Savings				251,563  228,304  224,974</p>
+<p>     Certificates of deposit	  225,718  198,930  200,560</p>
+<p> Total deposits			   731,186  653,541  642,585</p>
+<p>Accrued interest payable and</p>
+<p>  other liabilities			16,933   11,137   11,739</p>
+<p> Total liabilities			748,119  664,678  654,324</p>
+<p>Shareholders' equity:</p>
+<p>     Common stock			  75,347   70,123   67,485</p>
+<p>     Unrealized gain on securities	 41	663	 17</p>
+<p>     Retained earnings		   10,830   13,818   14,612</p>
+<p>     Unearned compensation		    0    (182)	  0</p>
+<p> Total shareholders' equity	    86,218   84,422   82,114</p>
+<p>Total liabilities and shareholders'</p>
+<p>  equity				    834,337  749,100  736,438</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ENCINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

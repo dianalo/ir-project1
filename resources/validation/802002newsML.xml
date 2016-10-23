@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802002" id="root" date="1997-08-15" xml:lang="en">
+<title>BOSNIA: Two Moslems shot dead, another wounded.</title>
+<headline>Two Moslems shot dead, another wounded.</headline>
+<dateline>SARAJEVO 1997-08-15</dateline>
+<text>
+<p>Two Bosnian Moslems were killed and another was wounded by automatic gunfire from unidentified gunmen in eastern Bosnia on Friday, a United Nations spokesman said.</p>
+<p>U.N. police monitors said Moslem-Croat federation authorities were investigating the shooting incident which occurred near a former front line.</p>
+<p>&quot;Our officers can confirm there are two dead and one seriously injured male. They are collecting information and observing the police investigation,&quot; U.N. spokesman Liam McDowall told Reuters.</p>
+<p>The shooting occurred around the village of Laze, eight km (five miles) north of Sapna along the boundary between Bosnia's Moslem-Croat federation and Serb entity.</p>
+<p>U.S. and Russian soldiers in the NATO-led peace force went to the scene but could not confirm the account by Moslem-Croat federation authorities.</p>
+<p>The federation interior ministry said the Moslems were &quot;ambushed&quot; at about 9 a.m. as they rode in a tractor to cut firewood in the eastern Sapna region. Four more Bosnians who were travelling along the same road earlier had also gone missing, it said.</p>
+<p>The ministry demanded that the NATO-led Stabilisation Force (SFOR) &quot;undertake urgent and energetic measures&quot; to protect the village of Laze, which it said was inhabited by Serbs before the 1992-95 war.</p>
+<p>NATO peace-keeping troops patrol a zone of separation between the two territories and all weapons are supposed to be banned from the zone.</p>
+<p>The village of Laze straddles the zone of separation but it was unclear if the shooting occurred inside the zone.</p>
+<p>Last year, violence erupted along the boundary line in eastern Bosnia when Serb authorities tried to block Moslems moving back to their pre-war homes.</p>
+<p>Some Bosnian Moslems, prevented from moving back to their homes in Serb territory, have moved into damaged houses in the zone of separation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

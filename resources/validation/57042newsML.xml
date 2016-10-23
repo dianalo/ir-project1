@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57042" id="root" date="1996-09-16" xml:lang="en">
+<title>AUSTRALIA: RTRS-Rabbit virus said vital to Australian farms.</title>
+<headline>RTRS-Rabbit virus said vital to Australian farms.</headline>
+<dateline>CANBERRA 1996-09-16</dateline>
+<text>
+<p>The national release of the rabbit calicivirus to combat Australia's A$600-million-a-year rural pest will be vital to the farming sector, the National Farmers Federation said on Monday.</p>
+<p>The federation said in a statement that the use of the biological control agent from October was vital to increasing agricultural production.</p>
+<p>A study by private economic consultancy ACIL last year found an 80 percent fall in rabbit numbers would increase agricultural production by three percent, with an extra A$600 million going into farmers' pockets, the federation said.</p>
+<p>&quot;Australia's farmers are already spending around A$300 million out of their own pockets for work which includes rabbit control, and they will need to continue spending on conventional pest control measures... to complement the effectiveness of the virus,&quot; federation chairman Harry Bonanno said.</p>
+<p>He said for effective rabbit control extra funding would be needed from states and through the partial sale of telecoms carrier Telstra Corp.</p>
+<p>The partial sale could raise upto A$8 billion, A$1 billion of which will be used for the environment fund.</p>
+<p>Primary Industries Minister John Anderson said on Monday the clean-up programme would cost the national and state governments a total A$100 million.</p>
+<p>-- Canberra bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I25680">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

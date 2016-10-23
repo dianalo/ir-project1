@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253911" id="root" date="1996-12-12" xml:lang="en">
+<title>JAPAN: KDD says opposed to NTT entering int'l market soon.</title>
+<headline>KDD says opposed to NTT entering int'l market soon.</headline>
+<dateline>TOKYO 1996-12-12</dateline>
+<text>
+<p>Kokusai Denshin Denwa Co Ltd (KDD) is opposed to Nippon Telegraph and Telephone Corp (NTT) entering the international telecommunications market before NTT's planned restructuring in 1999, KDD president Tadashi Nishimoto told reporters on Thursday.  </p>
+<p>&quot;NTT is not allowed to do any international business under the current laws,&quot; Nishimoto said.</p>
+<p>He added that NTT now monopolises the local-call market and should not be allowed to enter the international market before full competition is introduced locally.</p>
+<p>Nishimoto's comments run counter to the position of the Posts and Telecommunications Ministry, which has said that depending on NTT's plans, it could be allowed to enter the international market before its expected break-up in 1999, even though the law would not be changed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

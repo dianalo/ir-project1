@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="610879" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Yutaka Shoji -96/97 parent results.</title>
+<headline>Yutaka Shoji -96/97 parent results.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Revenues	     5.30		vs	    8.27</p>
+<p> Operating     loss 1.95		vs	prft 613 million</p>
+<p> Current	 loss 1.77		vs	prft 961 million</p>
+<p> Net	     loss 1.80		vs	prft 329 million</p>
+<p> EPS	   loss 405.56 yen	  vs    prft 80.94 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p> Shares		4 million	  vs	   4 million</p>
+<p> Ord div	     10.00 yen	  vs	   10.00 yen</p>
+<p> -Commem div	     -		vs	    3.00 yen</p>
+<p>NOTE - Yutaka Shoji Co Ltd trades commodity futures.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

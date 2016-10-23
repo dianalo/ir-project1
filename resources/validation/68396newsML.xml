@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68396" id="root" date="1996-09-20" xml:lang="en">
+<title>JAPAN: Miyakoshi Corp up on speculative buying.</title>
+<headline>Miyakoshi Corp up on speculative buying.</headline>
+<dateline>TOKYO 1996-09-20</dateline>
+<text>
+<p>Shares of Miyakoshi Corp jumped in early Friday morning trade, propelled by speculative investors' buying, traders said.</p>
+<p>The share price was up 43 yen at 543 yen at 0058 GMT. It was the second largest percentage gainer in the first section of the Tokyo Stock Exchange. Volume was 1.732 million shares.  </p>
+<p>&quot;Rumours that speculative players have set a target for the issue pushed up the price,&quot; said a second-tier Japanese securities house trader.</p>
+<p>Another trader said, after the price rose past 515 yen, the previous high for 1996 marked on September 12, the issue attracted buying from individual investors.</p>
+<p>Miyakoshi Corp's share price climbed to as high as 560 yen in the morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

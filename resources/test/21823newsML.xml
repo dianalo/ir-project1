@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1996-08-29" id="root" itemid="21823" xml:lang="en">
+<title>USA: CBOT grain/oilseed receipts and shipments.</title>
+<headline>CBOT grain/oilseed receipts and shipments.</headline>
+<dateline>CHICAGO 1996-08-29</dateline>
+<text>
+<p>Grain and soybean receipts and shipments, in bushels, at delivery locations for the previous trading day, according to the Chicago Board of Trade -</p>
+<p>		     Receipts	  Shipments</p>
+<p>Wheat</p>
+<p>Chicago	     14,171		   0</p>
+<p>St. Louis	  253,917	   165,033</p>
+<p>Toledo	     188,063	   327,782</p>
+<p>Corn</p>
+<p>Chicago		6,619	    68,503</p>
+<p>St. Louis	   21,561	     1,839</p>
+<p>Toledo		16,618	   422,842</p>
+<p>Oats</p>
+<p>Chicago		    0		   0</p>
+<p>Minneapolis	 31,418	    75,273</p>
+<p>Soybeans</p>
+<p>Chicago	    177,278	     5,814</p>
+<p>St. Louis	  101,566	    55,560</p>
+<p>Toledo		30,133	   170,122</p>
+<p>(Chicago Newsdesk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-08-29" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1996-08-29" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="CHICAGO" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

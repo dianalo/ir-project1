@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178466" id="root" date="1996-11-10" xml:lang="en">
+<title>AUSTRALIA: RTRS-Ansett Australia launches electronic tickets.</title>
+<headline>RTRS-Ansett Australia launches electronic tickets.</headline>
+<dateline>SYDNEY 1996-11-11</dateline>
+<text>
+<p>Airline Ansett Australia said it would launch on Monday a ticketless travel product called E-Ticket for domestic customers.</p>
+<p>&quot;While traditional paper ticketing will still be available to customers, E-Ticket replaces the paper ticket with an electronically-stored ticket image in Ansett's reservations system,&quot; Ansett said.</p>
+<p>E-Ticket customers would be issued with a receipt as a record of the transactions, it said.</p>
+<p>&quot;E-ticketed customers will no longer have to queue for tickets at airports or wait for tickets to arrive in the post, while changes to travel plans can be made more efficiently and faster and without having to have tickets reissued,&quot; Ansett said.</p>
+<p>Ansett is 50 percent owned by News Corp Ltd and 50 percent owned by Air New Zealand Ltd.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

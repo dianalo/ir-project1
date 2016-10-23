@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="504743" id="root" date="1997-04-12" xml:lang="en">
+<title>USA: U.S., Japan deal averts maritime sanctions.</title>
+<headline>U.S., Japan deal averts maritime sanctions.</headline>
+<dateline>WASHINGTON 1997-04-11</dateline>
+<text>
+<p>Maritime talks between the United States and Japan ended Friday with U.S. negotiators recommending sanctions not be imposed on Japanese ships.</p>
+<p>&quot;Just completed maritime discussions between the U.S. and Japanese governments were conducted in good faith and represent a reasonable basis for not imposing sanctions otherwise scheduled to go into effect April 14,&quot; Maritime Administrator Albert Herberger said in a written statement.  </p>
+<p>Herberger, who headed the U.S. delegation, and Sadao Iwata, who led the Japanese side, signed a &quot;Memorandum of Consultation&quot; which addresses the major issues discussed during the talks, the statement said.</p>
+<p>In the memorandum, the Japanese side stated that the process of deregulation of its licensing system for port transportation business had already begun and that applications by U.S. carriers and their consortia partners for operations at berths in Japan's ports would be approved.</p>
+<p>&quot;The U.S. side said it is essential to complete deregulation of licensing of port transportation services as soon as possible, but no later than December 1998,&quot; Herberger said.</p>
+<p>On the issue of competition for stevedoring services in Japan, the negotiators endorsed an interim agreement &quot;providing a framework&quot; for reforming the system by July 31, Herberger said.</p>
+<p>The U.S. side included a list of specific goals to be resolved before July 31, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

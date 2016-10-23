@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88258" id="root" date="1996-10-01" xml:lang="en">
+<title>SINGAPORE: International schools not for Singapore children.</title>
+<headline>International schools not for Singapore children.</headline>
+<dateline>SINGAPORE 1996-10-01</dateline>
+<text>
+<p>Children of Singapore citizens are generally not allowed to attend international schools as they would be deprived of desirable social values, a minister said on Tuesday.</p>
+<p>Responding to a query in parliament, Education Minister Lee Yock Suan said international schools were specifically for expatriate children.</p>
+<p>&quot;Singapore citizens residing in Singapore should receive their education in schools where citizenship education consistent with our national values and aspirations is taught,&quot; he said.</p>
+<p>&quot;If they attend foreign system schools, they will miss out on the curricula and activities conducted in our schools which seek to inculcate in our students desirable social values and a sense of national identity.&quot;</p>
+<p>Member of parliament Lew Syn Pau said that since schooling was not compulsory in Singapore, it was inconsistent for the government to place restrictions on parents who chose to send their children to schools of their choice.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

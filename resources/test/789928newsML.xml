@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-08-10" id="root" itemid="789928" xml:lang="en">
+<title>AUSTRALIA: RUGBY LEAGUE-AUSTRALIAN RESULTS/STANDINGS.</title>
+<headline>RUGBY LEAGUE-AUSTRALIAN RESULTS/STANDINGS.</headline>
+<dateline>SYDNEY 1996-08-11</dateline>
+<text>
+<p>Results of Australian premiership rugby league matches played at the weekend.</p>
+<p>Played on Sunday:</p>
+<p> Balmain	32  South Queensland  14</p>
+<p> Manly	  48  Western Suburbs   14</p>
+<p> Illawarra    12  Newcastle	   22</p>
+<p>Played on Saturday:</p>
+<p> Sydney City  40  South Sydney	20</p>
+<p> Gold Coast    8  Parramatta	  18</p>
+<p>Played on Friday:</p>
+<p> St George    22  North Sydney	14</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-08-11" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-08-10" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="SYDNEY" />
+<dc element="dc.creator.location.country.name" value="AUSTRALIA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

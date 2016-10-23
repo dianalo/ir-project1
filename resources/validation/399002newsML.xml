@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="399002" id="root" date="1997-02-24" xml:lang="en">
+<title>AUSTRALIA: RTRS-FOCUS-Comalco profit plunges into red.</title>
+<headline>RTRS-FOCUS-Comalco profit plunges into red.</headline>
+<byline>Mark Bendeich</byline>
+<dateline>MELBOURNE 1997-02-24</dateline>
+<text>
+<p>Australia's biggest aluminium producer, Comalco Ltd, plunged heavily into the red on Monday, blaming its loss for calendar 1996 on weak aluminium prices, an adverse exchange rate and higher smelting costs.</p>
+<p>Comalco's net profit before abnormals slid to A$32.9 million in 1996 from A$264.8 million in 1995, in line with expectations, but abnormals dragged the bottom line to a A$16.8 million loss.</p>
+<p>The result made a small dent in the stock's share price, which dropped eight cents on the news but recovered by 0125 GMT (12.25 p.m.) to A$6.80, down only two cents from Friday's close.  </p>
+<p>Comalco is owned 67 percent by global mining group RTZ-CRA.</p>
+<p>&quot;The market has pretty much factored in the loss and is now focusing on future earnings prospects,&quot; a Brisbane dealer said.</p>
+<p>As expected, Comalco's smelting division played a part in the earnings nose-dive.</p>
+<p>Higher operating costs at its three smelters shaved A$32 million from group operating profit, Comalco said. It blamed this on higher prices for raw materials like fuel, power and coke, and on costs associated with smelter upgrades and expansions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

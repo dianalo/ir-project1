@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230388" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: Boeing, McDonnell collaborate on planes.</title>
+<headline>Boeing, McDonnell collaborate on planes.</headline>
+<dateline>LONG BEACH, Calif. 1996-12-03</dateline>
+<text>
+<p>Boeing Co and McDonnell Douglas Corp reached an agreement Tuesday to collaborate on future Boeing wide-body commercial airplane programs.</p>
+<p>In a joint statement, the aerospace companies said the first project in which McDonnell Douglas would participate is the development of proposed new versions of the Boeing 747 jumbo jet.  </p>
+<p>The move comes as Boeing faces record orders for its commercial aircraft and McDonnell Douglas is looking for ways to keep its employees working.</p>
+<p>McDonnell Douglas recently lost a bid to build a next- generation fighter plane for the Pentagon and has shelved plans to build a long-range commerical aircraft that would go head to head with the 747.</p>
+<p>&quot;We have a record number of orders for commercial jets and several ongoing development programs,&quot; Ron Woodard, president of Boeing Commercial Airplane Group said. &quot;McDonnell Douglas has excellent design and production capability -- both in people and facilities -- that are not being fully utilized. We look forward to applying those resources to future Boeing wide-body airplane programs in a way that is a win-win for both of us.&quot;</p>
+<p>Boeing said initially the agreement is expected to bring several hundred McDonnell Douglas employees to Seattle in January to begin assisting with engineering design and analysis on the 747-500X/-600X.  The agreement should be finalized in January 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONG BEACH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

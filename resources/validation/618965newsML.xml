@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="618965" id="root" date="1997-05-27" xml:lang="en">
+<title>MALTA: PRESS DIGEST - Malta - May 27.</title>
+<headline>PRESS DIGEST - Malta - May 27.</headline>
+<dateline>VALLETTA 1997-05-27</dateline>
+<text>
+<p>The following are the leading stories in the Maltese press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>THE TIMES</p>
+<p>- Europe Union sees Malta undecided on EU membership. EU external relations commissioner Hans Van den Broek arrived in Malta on Monday for a 24-hour visit to discuss a new framework of relations between the EU and Malta following the island's decision to freeze its application to join the bloc.</p>
+<p>IN-NAZZJON</p>
+<p>- Shadow Finance Minister expects government revenue to drop under new system of indirect taxation. John Dalli, speaking in Parliament when it started debating a new system to replace VAT, said the government had not issued any projections on the revenue it expected from the new system but his calculations showed a drop to about 80 million Maltese pounds ($21m approx).</p>
+<p>L-ORIZZONT</p>
+<p>- Two young men arraigned over hold-up at a branch of Bank of Valletta last week when some $55,000 was stolen. It was later recovered by the police.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

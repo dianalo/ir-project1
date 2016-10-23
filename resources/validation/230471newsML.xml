@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230471" id="root" date="1996-12-03" xml:lang="en">
+<title>SWITZERLAND: SOCCER-ALBANIA REINSTATED BY FIFA.</title>
+<headline>SOCCER-ALBANIA REINSTATED BY FIFA.</headline>
+<dateline>ZURICH 1996-12-03</dateline>
+<text>
+<p>The Albanian Football Association (AFA) was reinstated by FIFA, world soccer's governing body, on Tuesday, clearing the way for a World Cup qualifying match against Northern Ireland to go ahead.</p>
+<p>FIFA had suspended Albania indefinitely after the sports ministry ordered the suspension of the AFA's general secretary Eduard Dervishi and dissolved its executive committee.</p>
+<p>Albanian sports secretary Marjeta Pronjari said Dervishi had broken the country's civil law by consistently postponing new executive committee elections.</p>
+<p>FIFA, however, did not recognise the AFA's actions and suspended Albania, throwing into jeopardy the group nine World Cup qualifier against Northern Ireland on December 14.</p>
+<p>Under pressure from FIFA, the AFA later reversed its decision to suspend Dervishi.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652464" id="root" date="1997-06-11" xml:lang="en">
+<title>UK: Earth has asteroid companion, study finds.</title>
+<headline>Earth has asteroid companion, study finds.</headline>
+<dateline>LONDON 1997-06-11</dateline>
+<text>
+<p>The Earth has another companion besides the moon -- an asteroid, astronomers reported on Wednesday.</p>
+<p>Paul Wiegert of York University in Ontario and colleagues said the asteroid, five km (three miles) in diameter, followed an orbit locked to that of the Earth.</p>
+<p>&quot;Although it is not a satellite of the planet per se, it is, apart from the moon, the only known natural companion of the Earth,&quot; they wrote in a report in the science journal Nature.</p>
+<p>The asteroid, dubbed 3753, follows a kidney bean-shaped orbit that crosses the Earth's at an angle. But the Earth's gravity affects it, pushing it away. &quot;A possible collision with our planet is avoided,&quot; they wrote.</p>
+<p>They said the origin of the asteroid was &quot;an enigma&quot;.</p>
+<p>&quot;More detailed investigation of this object is clearly required; even the direct exploration of 3753 by spacecraft is presumably well within the reach of current technology,&quot; they added.dz</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

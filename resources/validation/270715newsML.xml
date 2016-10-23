@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270715" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: U.S. Plains fed cattle trade quiet - feedlots.</title>
+<headline>U.S. Plains fed cattle trade quiet - feedlots.</headline>
+<dateline>CHICAGO 1996-12-20</dateline>
+<text>
+<p>U.S. Plains feedlot cattle markets were quiet early, with no reported sales following this week's activity, which reportedly cleaned up most showlists, feedlot sources said.</p>
+<p>A few pens of cattle were still offered at $66.00 to $67.00 per cwt, but cattle feeders did not expect to see any more sales. No bids were reported but they were expected at $64.00 to $65.00 if they surfaced.</p>
+<p>Activity was expected light next week because of the Christmas holiday on Wednesday, but prices could bump higher if pipeline supplies get low, sources said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

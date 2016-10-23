@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72908" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Former CIA chief urges U.S. to pursue ABM changes.</title>
+<headline>Former CIA chief urges U.S. to pursue ABM changes.</headline>
+<byline>Robert Green</byline>
+<dateline>WASHINGTON 1996-09-24</dateline>
+<text>
+<p>The United States should seek changes in the Anti-Ballistic Missile treaty to meet potential threats from countries like China and Iraq, former Central Intelligence Director James Woolsey said on Tuesday.</p>
+<p>&quot;It is quite reasonable to believe that within a few years Saddam or the Chinese rulers will be able to threaten something far more troubling than firings of relatively inaccurate ballistic missiles,&quot; Woolsey said at a Senate Foreign Relations Committee hearing.</p>
+<p>&quot;It is my judgment that the administration is not currently giving this vital problem the proper weight it dserves,&quot; Woolsey added.</p>
+<p>He was President Bill Clinton's first CIA director, serving from 1993 until late 1994 when he was forced to resign because of scandal involving Aldrich Ames, a CIA employee who worked as an undercover Soviet agent.</p>
+<p>Woolsey said a National Intelligence Estimate this February that found there was no likely missile threat to the contiguous United States within the next 15 years ignored the danger to Alaska and Hawaii from North Korean missiles.</p>
+<p>Committee Chairman Jesse Helms, a North Carolina Republican, wants the United States to withdraw from the ABM treaty with Russia that limits the missile defences of the two countries. But Woolsey said he believed the treaty only needed modifications.</p>
+<p>&quot;As only one example, if we could reach agreement on returning to something very similar to the ABM treaty's original 1972 form, permitting two sites, not one, in each country, a thin national defence against most threats other than a large attack by Russia would be made substantially earlier,&quot; Woolsey said.</p>
+<p>But he said Russia was trying to make the ABM treaty more restrictive on the United States by limiting the speed of missile interceptors. &quot;I see no reason why we are moving to make it harder to adjust the treaty to the post-cold-war era rather than easier.&quot;</p>
+<p>Clinton and fellow Democrats in Congress have blocked a Republican bill to develop a nationwide antimissile system. But Clinton did sign a military funding bill on Monday that increased 1997 spending on missile defence by nearly $1 billion more than he requested to $3.7 billion.</p>
+<p>&quot;The Clinton administration appears to be ready to leave the American people strategically naked as hostile nations rush forward in their relentless pursuit of nuclear, chemical and biological-tipped missiles,&quot; Helms said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

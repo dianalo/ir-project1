@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="401220" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: U.S. lawmakers seek new controls on managed care.</title>
+<headline>U.S. lawmakers seek new controls on managed care.</headline>
+<dateline>WASHINGTON 1997-02-25</dateline>
+<text>
+<p>Two groups of lawmakers on Tuesday proposed new federal controls on managed health care, as the industry moved to set up and enforce its own new quality standards.</p>
+<p>Responding to what they said were abuses by the industry, Massachusetts Democratic Sen. Edward Kennedy and other lawmakers introduced a bill to ensure that managed care patients had access to speciality care, emergency room treatment and clinical trials.</p>
+<p>&quot;At its best, managed care offers the opportunity to achieve both greater efficiency and higher quality in health care. In too many cases, however, the pressure for profits leads to lesser care -- not better care,&quot; Kennedy said.</p>
+<p>A separate bipartisan group of lawmakers introduced another bill focusing on emergency treatment. It would require health plans to cover emergency care even if the problem later proved not to have been an emergency.</p>
+<p>&quot;We've all heard horror stories in which someone has been denied payment for an emergency room visit because their chest pains didn't turn out to be a heart attack,&quot; said Maryland Democratic Representative Ben Cardin, one of the sponsors.</p>
+<p>Consumers have flocked to managed care plans in recent years, drawn by lower premiums, a wider array of preventive services and other benefits. Today 75 percent of privately insured Americans belong to some type of managed care plan.</p>
+<p>But complaints have also grown that cost-conscious health plans are refusing to refer patients to more expensive specialists and cutting back on benefits.</p>
+<p>To address those concerns, Congress passed a bill last year requiring a minimum 48-hour hospital stay after childbirth.</p>
+<p>Similar bills have recently been introduced to ensure that women are not hurried out of hospitals after a mastectomy.</p>
+<p>In an effort to head off new legislation, health maintenance organisations have begun to set their own national policies and standards.</p>
+<p>The board of the American Association of Health Plans, the leading trade group for health maintenance organisations and other managed care plans, voted on Monday night to require member plans to follow quality standards or risk being thrown out of the organisation. The membership will vote this summer.</p>
+<p>But the American Hospital Association said it supports the emergency room bill, which uses a &quot;prudent layperson&quot; standard. That means if a patient could reasonably believe the symptoms were a true emergency, such as chest pains, the treatment would be covered.</p>
+<p>Such a policy would attempt to discourage using the emergency room for minor medical problems that could easily be treated in a doctor's office or clinic.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

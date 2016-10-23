@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="519929" id="root" date="1997-04-18" xml:lang="en">
+<title>LATVIA: CENTRAL BANK LAT FIXINGS FOR APRIL 21.</title>
+<headline>CENTRAL BANK LAT FIXINGS FOR APRIL 21.</headline>
+<dateline>RIGA 1997-04-18</dateline>
+<text>
+<p>The central bank on Friday set the following rates for the lat, which are valid for April 21.</p>
+<p>    USD	  0.584</p>
+<p>    ATS	  0.0482</p>
+<p>    AUD	  0.453</p>
+<p>    BEF	  0.0165</p>
+<p>    CAD	  0.418</p>
+<p>    CHF	  0.400</p>
+<p>    CZK	  0.0194</p>
+<p>    DEM	  0.340</p>
+<p>    DKK	  0.0889</p>
+<p>    ECU	  0.663</p>
+<p>    EEK	  0.0424</p>
+<p>    100ESP     0.402</p>
+<p>    FIM	  0.113</p>
+<p>    FRF	  0.1009</p>
+<p>    GBP	  0.954</p>
+<p>    100HUF     0.323</p>
+<p>    100ITL     0.0344</p>
+<p>    100JPY     0.464</p>
+<p>    KGS	  0.0326</p>
+<p>    LTL	  0.146</p>
+<p>    MDL	  0.127</p>
+<p>    NLG	  0.302</p>
+<p>    NOK	  0.0826</p>
+<p>    PLN	  0.186</p>
+<p>    1000RUR    0.1017</p>
+<p>    SDR	  0.7997</p>
+<p>    SEK	  0.0758</p>
+<p>    SKK	  0.0175</p>
+<p>    XAU     199.96</p>
+<p>-- Riga newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

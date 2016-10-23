@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181939" id="root" date="1996-11-12" xml:lang="en">
+<title>UK: Cadbury to use derivatives of gene soy.</title>
+<headline>Cadbury to use derivatives of gene soy.</headline>
+<dateline>LONDON 1996-11-12</dateline>
+<text>
+<p>Cadbury's, the confectionary arm of Cadbury Schweppes Plc, said on Tuesday it would use derivatives of genetically-modified soyabeans in its products from next year.</p>
+<p>A spokesman said the company believed genetically-altered soyabeans were safe and in any case it was impossible to separate them from ordinary beans.</p>
+<p>&quot;It has passed the safety regulations in the U.S. and the EU and there is no requirement for labelling. We believe it is safe,&quot; the spokesman told Reuters.</p>
+<p>Chocolate manufacturers mainly use lecithin, a derivative of soyabeans, as an emulsifier. But its share in a bar of chocolate is tiny and other emulsifiers can be used.</p>
+<p>Soyabeans being harvested in the United States for the 1996/97 season have been at the centre of aggressive campaigning by Greenpeace and consumer groups who say a possible risk to human health cannot be ruled out as soya is used in some 30,000 food products.</p>
+<p>The beans have been genetically-altered to resist a weed killer in technology developed by U.S. chemical company Monsanto.</p>
+<p>Nestle SA, the world's biggest food and beverage company, said it would use genetically-altered soy derivatives in its products, except in Germany where consumer reaction has been most acute.</p>
+<p>Nestle's spokesman Francois Perroud said in a telephone interview from Switzerland genetically-altered soya products would be used in Britain as in other countries worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="756381" id="root" date="1997-07-25" xml:lang="en">
+<title>CANADA: GM Canada Chevy, Buick car plants idled.</title>
+<headline>GM Canada Chevy, Buick car plants idled.</headline>
+<dateline>TORONTO 1997-07-25</dateline>
+<text>
+<p>General Motors Corp's Canadian unit said on Friday it idled two of its Oshawa, Ontario car assembly plants until further notice due to a three-day-old strike at the carmaker's Warren, Michigan parts plant.</p>
+<p>GM Canada spokesman Chick McGregor said Oshawa plants 1 and 2, which make Chevrolet Lumina and Monte Carlo model cars and Buick Regal and Century models, were idled after Thursday's night shift and would remain down &quot;until further notice.&quot;</p>
+<p>The plants employ about 5,200 workers and produce about 2,000 cars a day, McGregor said.</p>
+<p>Oshawa's truck plant was unaffected by the strike.  </p>
+<p>More than 16,900 GM workers in North America have been affected by the work stoppage in Warren.</p>
+<p>About 2,800 workers walked off the job at the transmission, wheel and suspension parts plant in suburban Detroit late Tuesday night over demands for more jobs.</p>
+<p>GM said in a statement it would not speculate on when or which additional facilities could be affected by the strike.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

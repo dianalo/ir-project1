@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="741671" id="root" date="1997-07-20" xml:lang="en">
+<title>ITALY: Hospitals release most of hurt in Venice whirlwind.</title>
+<headline>Hospitals release most of hurt in Venice whirlwind.</headline>
+<dateline>BIBIONE, Italy 1997-07-20</dateline>
+<text>
+<p>Forty people were injured when a whirlwind swept through the beach resort of Bibione near Venice on Sunday, uprooting trees and driving boats out to sea, the Italian news agency Ansa said.</p>
+<p>It said most of those injured were released from hospital after being treated for cuts and minor concussions. Four were detained for observation.</p>
+<p>Most of the people hurt in the whirlwind that hit Bibione early on Sunday morning were vacationers who had been sleeping in camping grounds or inside boats anchored in the harbour, coast guard officer Massimo Zaccaria said.</p>
+<p>Some 300 firefighters, police and volunteers worked throughout the day clearing rubble and looking for others who might have been buried in the wreckage, Zaccaria said.</p>
+<p>Coast guard officials went out to recover some 30 boats sunk after being lifted and thrown out to sea by the gusts, he said.</p>
+<p>The violent winds uprooted hundreds of trees, wrecked some 250 cars and damaged some 30 homes and shops in the port area, camping grounds and central square of the town, Ansa said.</p>
+<p>The roofs of several buildings alongside the harbour were also completely torn off, added Zaccaria who spent the morning clearing the rubble.</p>
+<p>&quot;Everything is completely destroyed. It is beyond imagination,&quot; he said.</p>
+<p>Bibione is a beach resort about 40 km (25 miles) northeast of Venice.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIBIONE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

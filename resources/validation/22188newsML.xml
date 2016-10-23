@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22188" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Imprint Records in Brazil license deal.</title>
+<headline>Imprint Records in Brazil license deal.</headline>
+<dateline>NASHVILLE, Tenn. 1996-08-29</dateline>
+<text>
+<p>Paradoxx Music and Imprint Records said in a joint statement that they have entered a licensing agreement for Imprint products in Brazil.</p>
+<p>&quot;Although not yet a major territory for country music, Brazil is one of those frontiers that has shown a good appetite for good music... no matter what the format,&quot; Imprint chairman and chief executive officer Roy Wunsch said in a statement.</p>
+<p>Paradoxx currently has the largest market share of any independent label in Brazil and the Paradoxx's staff has experience on major record labels, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261696" id="root" date="1996-12-17" xml:lang="en">
+<title>SWEDEN: Profit-taking topples Swedish shares at close.</title>
+<headline>Profit-taking topples Swedish shares at close.</headline>
+<dateline>STOCKHOLM 1996-12-17</dateline>
+<text>
+<p>Profit taking brought some blue chips lower on Tuesday.</p>
+<p>The market was awaiting the outcome of the U.S. Federal Reserve's policy-making Federal Open Market Committee which began at 1400 GMT.</p>
+<p>The bourse's general index closed down 1.18 percent at 2,259.04 in turnover totalling 3.83 billion crowns.</p>
+<p>Drug company Astra slid eight crowns to 321 in the wake of a company seminar in London on Monday. &quot;The presentation in London was optimistic...if the share did not manage to rise after that, I guess many have decided to sell a bit.&quot;  </p>
+<p>Insurer Skandia rose one crown to 192 crowns after withdrawing its proposal to merge with mortgage lender Stadshypotek.</p>
+<p>The withdrawal follows a takeover bid on Stadshypotek, launched by banking group Handelsbanken last Thursday.</p>
+<p>The Swedish shareholders' association on Tuesday recommended shareholders in Stadshypotek accept Handelsbanken's bid.</p>
+<p>Stadshypotek fell 1.50 crowns to 186.5 crowns and Handelsbanken ended five crowns lower at 190 crowns.</p>
+<p>-- Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="806034" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: Labatt signs deal to make Lowenbrau in N. America.</title>
+<headline>Labatt signs deal to make Lowenbrau in N. America.</headline>
+<dateline>DARIEN, Conn. 1997-08-18</dateline>
+<text>
+<p>Labatt Brewing Co Ltd said Monday that it has singed an agreement with Lowenbrau AG of Germany, also privately-held, to make Lowenbrau beers in North America.</p>
+<p>Labatt said the agreement is effective in Canada immediately, but Lowenbrau's current US agreement with Miller Brewing Co, a unit of Philip Morris Cos Inc, expires in September 1999.</p>
+<p>A Labatt spokesman added that that agreement could be terminated earlier. &quot;We are ready to move immediately&quot; he said, &quot;but the ball is now in Miller's Court.&quot;</p>
+<p>He added that Lowenbrau sales in the U.S. have declined from around 1.2 million barrels annually in 1980 to about 400,000 barrels currently.</p>
+<p>Hugo Powell, Labatt's chief operating officer for the Americas, said in a statement, &quot;We're confident we can expand the brand's presence in the North American market.&quot;</p>
+<p>Labatt USA imports and brews an array of specialty beers including Labatt Blue, Rolling Rock, Dos Equis and Tecate. It is a joint venture of Labatt Brewing Co Ltd, a subsidiary of Interbrew SA of Belgium, and Fomento Economico Mexicano SA de CV affiliate FEMSA Cerveza SA de CV of Mexico.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DARIEN, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

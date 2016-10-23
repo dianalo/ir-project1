@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122294" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Federal Reserve report 3 (H.4.1) - October 17.</title>
+<headline>Federal Reserve report 3 (H.4.1) - October 17.</headline>
+<text>
+<p>ONE WEEK ENDED October 16 - daily avgs-millions</p>
+<p> Govts bought outright....387,116 down......177</p>
+<p> Govts repurchases..........3,945 up......1,898</p>
+<p> Agencies bought outright...2,309 .........unch</p>
+<p> Agencies repurchases.......1,624 up......1,086</p>
+<p> Acceptances repurchases......nil .........unch</p>
+<p> Matched sales.............11,995 vs.....11,818</p>
+<p> Matched sales with cust...11,995 vs.....11,818</p>
+<p> Other Fed assets..........31,637 up........308</p>
+<p> Other Fed liabilities.....13,834 up........324</p>
+<p> Other deposits with Fed......381 up.........11</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

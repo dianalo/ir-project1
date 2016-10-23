@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278214" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: InVision wins $52 million FAA contract.</title>
+<headline>InVision wins $52 million FAA contract.</headline>
+<dateline>WASHINGTON 1996-12-26</dateline>
+<text>
+<p>The Federal Aviation Administration on Thursday ordered sophisticated scanning equipment from InVision Technologies that can instantly analyze and identify explosive materials for installation at the nation's busiest airports.</p>
+<p>&quot;This is an important step in our continuing effort to counter terrorism,&quot; FAA's Acting Administrator Linda Hall Daschle said in a written statement.</p>
+<p>The agency has awarded a contract for 54 of the state-of-the-art explosive detection systems to InVision Technologies, of Foster City, California, at a cost of $52.2 million.</p>
+<p>The White House Commission on Aviation Safety and Security, headed by Vice President Al Gore, in its Sept. 9 interim report recommended the federal government buy significant numbers of the detection machines along with automated X-rays and other innovative systems.</p>
+<p>Daschle described the detection technology as &quot;the world's best&quot; and said the FAA would move swiftly to install it at America's busiest airports. For security reasons, the agency would not divulge the deployment schedule or location of the units.</p>
+<p>The contract calls for the company to deliver the first unit in January and the rest over the next 12 months. The government has the option to purchase additional systems in the second year which would boost the contract's value to $110.9 million.</p>
+<p>The equipment, known as the CTX-5000 SP, is the first and only explosive-detection system for inspecting checked baggage that has passed FAA's rigorous tests for certification.</p>
+<p>The machine automatically screens bags for explosives using technology similar to medical CAT scans. It uses X-rays to map objects inside a bag and combines multiple views to create cross-sectional images or &quot;slices.&quot;</p>
+<p>Next, the equipment analyzes the slices and identifies objects that might contain explosive materials. Its computer then indicates an alarm, reconstructs the slices and displays the images for the operator to evaluate. The entire process takes only seconds.</p>
+<p>The FAA said the purchase of the new systems was only one step in its efforts to improve security. In addition, the FAA planned to hire 300 new special agents in 1997, accelerate the use of aggressive inspections and enforcement actions, and issue new rules to upgrade security requirements.</p>
+<p>The agency also would seek to improve the training of baggage screeners, institute stricter employment verification and background checks of airport workers and impose stiff penalties on individuals and companies that falsified security information, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

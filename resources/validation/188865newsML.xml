@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="188865" id="root" date="1996-11-14" xml:lang="en">
+<title>BRAZIL: Brazil shares end off on profit-taking, trade gap.</title>
+<headline>Brazil shares end off on profit-taking, trade gap.</headline>
+<dateline>SAO PAULO 1996-11-14</dateline>
+<text>
+<p>Brazilian stocks ended lower in light trade on Thursday, led by benchmark Telebras amid late profit-taking and continued concern about Brazil's record October trade deficit, brokers said.</p>
+<p>&quot;The market remained under pressure from profit-taking,&quot; one dealer said.</p>
+<p>Others said investors were also jittery about trade after Brasilia revealed a massive $1.308 billion trade gap for October.</p>
+<p>The Sao Paulo bourse's Bovespa index closed down 0.73 percent at 65,230 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

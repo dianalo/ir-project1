@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652901" id="root" date="1997-06-11" xml:lang="en">
+<title>BRAZIL: Brazil gov't wins amendment vote, delays others.</title>
+<headline>Brazil gov't wins amendment vote, delays others.</headline>
+<dateline>BRASILIA 1997-06-11</dateline>
+<text>
+<p>The Brazilian government defeated an opposition amendment to its civil service reform bill Wednesday but delayed until next week another lower house vote that could render the reform useless.</p>
+<p>After a stinging defeat Tuesday, when left-wing parties struck down an important article of the bill, the government crushed another proposed change that would have prevented greater autonomy for state agencies.</p>
+<p>That amendment was defeated when 344 members of the Chamber of Deputies voted against it, 36 more than the three-fifth majority of 308 needed.</p>
+<p>But government whips called off until next week voting on further amendments, including one which would keep the lifetime job guarantees of civil servants and reverse the reform's most important article.</p>
+<p>The bill is considered crucial to the government's attempts to rein in public spending but has run into entrenched opposition in Congress. Many observers now believe the government may not get the legislation and another bill to reform the pension system through Congress before next year's presidential and congressional elections.</p>
+<p>(( -- William Schomberg, Brasilia newsroom 5561 2230358))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

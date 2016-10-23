@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="671517" id="root" date="1997-06-18" xml:lang="en">
+<title>USA: U.S West Coast crude rises with WTI, trade thins.</title>
+<headline>U.S West Coast crude rises with WTI, trade thins.</headline>
+<dateline>LOS ANGELES 1997-06-17</dateline>
+<text>
+<p>U.S. West Coast crude oil prices rose Tuesday in line with increasing values for West Texas Intermediate (WTI) grade, traders said.</p>
+<p>The market for local West Coast crudes was quiet Tuesday, with discounts unchanged following several sales of Alaska North Slope (ANS) crude last week and Monday, traders said.</p>
+<p>One small refiner in the U.S Northwest still needed to buy ANS and bid $2.25 under July WTI.</p>
+<p>On Monday, a large, Houston-based producer sold a cargo of ANS to a U.S Northwest refiner for $2.16 off July deliveries of WTI, the U.S basis for cash and futures oil markets.</p>
+<p>The $2.16 reflected higher volumes of imports, weak refinery margins, and a glut of buyers.</p>
+<p>Two cargoes of Alaska North Slope (ANS) crude sold Thursday and Friday, at $2.10 and $2.07 a barrel under July West Texas Intermediate (WTI).</p>
+<p>The previous ANS deal was done at $1.75 in late May.</p>
+<p>Outright prices for ANS were $17.04/17.24 a barrel, up 20 cents from Monday.</p>
+<p>Heavier California grades remained unchanged near postings this week.</p>
+<p>-- David Brinkerhoff, Los Angeles bureau, +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

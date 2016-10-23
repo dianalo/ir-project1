@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244719" id="root" date="1996-12-09" xml:lang="en">
+<title>AUSTRALIA: RTRS-Cons Rutile to raise A$96.4 mln.</title>
+<headline>RTRS-Cons Rutile to raise A$96.4 mln.</headline>
+<dateline>BRISBANE 1996-12-09</dateline>
+<text>
+<p>Consoldiated Rutile Ltd said on Monday it would raise A$96.4 million through a 19-for-10 rights issue to fund a fully franked dividend of A$1.62 per share, which will cost A$96.7 million.  </p>
+<p>Cons Rutile shares ended steady at A$2.65 on Monday.</p>
+<p>The company told shareholders at the annual meeting that it was looking at ways of unlocking A$86.5 million of franking credits.</p>
+<p>Shareholders were also told the company planned to resume paying dividends once uncertainties surrounding the company's suspended mineral sands project in the West African nation of Sierra Leone were resolved. Cons Rutile has a 50 percent stake in the Sierra Leone operation, involving an investment of A$90 million. It did not mention the African project in its dividend statement. -- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

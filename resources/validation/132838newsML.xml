@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132838" id="root" date="1996-10-22" xml:lang="en">
+<title>CZECH REPUBLIC: ICE HOCKEY-CZECH SPARTA QUARANTINED AFTER RUSSIAN TRIP.</title>
+<headline>ICE HOCKEY-CZECH SPARTA QUARANTINED AFTER RUSSIAN TRIP.</headline>
+<dateline>PRAGUE 1996-10-22</dateline>
+<text>
+<p>The entire Czech HC Sparta hockey side have been placed under quarantine after several players contracted dysentery during a trip to Russia last week to play CSKA Moscow.</p>
+<p>Sparta officials said players Martin Cinibulk, Robert Schistad and Miroslav Hlinka had been admitted to hospital after the team arrived back in the Czech Republic.</p>
+<p>They said in preliminary testing, all but two players tested positive for the highly contagious disease. Those affected have been quarantined for three days.</p>
+<p>&quot;On the advice of the hospital, (all of) the players must submit to an examination in three days time. If they do not test negative, they must again, after several more days, undergo another examination,&quot; Sparta official Jaroslav Velechovsky said.</p>
+<p>&quot;Only once they pass the test will they be allowed to train with the team again.&quot;</p>
+<p>Team officials were at a loss to explain how the players caught the disease, which can be contracted through contaminated food or contact with areas exposed to the virus such as bathrooms or showers.</p>
+<p>Dysentery, outbreaks of which are usually found in Third World countries, causes severe dehydration, diarrhoea and stomach sickness.</p>
+<p>&quot;In Moscow we lived in a Czech house and we ate there as well. Only at the CSKA Moscow stadium did we take anything from the Russians, and that was only water and fruit,&quot; Sparta manager Miroslav Kunes said.</p>
+<p>Sparta were due to play Vitkovice on Tuesday, but league officials have cancelled all the team's matches until November 1 at the earliest.</p>
+<p>In addition, Sparta's facilities in Prague have been fumigated and disinfected, team officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

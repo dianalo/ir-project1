@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="723690" id="root" date="1997-07-11" xml:lang="en">
+<title>AUSTRALIA: Australian debt simmers down,confident of rate cut.</title>
+<headline>Australian debt simmers down,confident of rate cut.</headline>
+<dateline>SYDNEY 1997-07-11</dateline>
+<text>
+<p>----------(Snapshot at 12.05 P.M./0205 GMT)-----------------</p>
+<p>FUTURES					  CASH YIELD</p>
+<p>90-DAY BILLS  (SEP) 94.94  (- 0.01)    5.16    (UNCH)</p>
+<p>3-YR T-BONDS  (SEP) 94.18  (- 0.02)    5.62    (+ 0.03)</p>
+<p>10-YR T-BONDS (SEP) 93.330 (-0.030)    6.67    (+ 0.03)</p>
+<p>AUD/USD  0.4730 (PREV 0.7425) US 30-YR  6.56   (6.56 NY)</p>
+<p>---------------------(July 11)------------------------------</p>
+<p>*Australian debt simmered down after Thursday's blistering rally, but although the RBA remained silent on policy, analysts feel that an easing is on cards.</p>
+<p>*Housing finance weaker than expected at down 8.4 percent.  </p>
+<p>The Australian debt market simmered down after Thursday's blistering rally which took long dated yields to their lowest level in 3-1/2 years, but remained convinced that monetary policy would be loosened again.</p>
+<p>The Reserve Bank remained silent on policy after Thursday's weaker than expected employment report, although this came as no great surprise given that it may have been seen as a panic reaction to a lagging indicator, analysts said.</p>
+<p>They saw such a move as more likely after the inflation and wages reports later this month and possibly after the August 5 board meeting.  </p>
+<p>&quot;For bonds, it is consoldiation time. The three-year part of the curve now looks to be close to fully priced...and the 10-year bonds need an injection of fresh news to spike towards 6.5 percent and 25 basis points on the spread to the U.S.,&quot; said economists at Citibank Australia in a report.</p>
+<p>The Australian/U.S. 10-year bond yield spread sank to around 35 basis points at one stage on Thursday, its lowest level since the early 1980s.</p>
+<p>A larger than expected 8.4 percent fall in May housing finance drew little reaction from the market, being largely a correction to the 12.2 percent jump the previous month.  </p>
+<p>---------------------(SPREADS)---------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	-40 (+ 02)    43 (+ 03) * FUTURES   86   (+ 01.5)</p>
+<p> CAD	 79 (UNCH)    68 (+ 02) * CASH     107   (+ 02)</p>
+<p> NZD     -112 (- 08)   -11 (UNCH) *</p>
+<p>---------------------------------------------------------</p>
+<p>The local market slightly underperformed the U.S. and Canada after Thursday's sharp tightening. However, it narrowed to the short-end of the New Zealand curve following a larger than expected March quarter current account and after the RBNZ warned that monetary conditions were too easy.  </p>
+<p>-------------------(TECHNICALS)--------------------------------</p>
+<p>FUTURES     *SUP-RES	 *2ND SUP-RES   *3RD SUP-RES   *RSI</p>
+<p>10-YEAR(SEP)*93.310-93.360 *93.280-93.410  93.200-91.470 *75.91</p>
+<p>3-YEAR (SEP)*94.18-94.25   *94.12-94.31   *94.08-94.36   *74.91</p>
+<p>90-DAY (SEP)*94.92-94.97   *94.85-95.00   *94.80-95.05   *68.36</p>
+<p>---------------------------------------------------------------</p>
+<p>-- Colin Brinsden 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202969" id="root" date="1996-11-20" xml:lang="en">
+<title>JAPAN: Japan chemical firms set up petchem joint venture.</title>
+<headline>Japan chemical firms set up petchem joint venture.</headline>
+<dateline>TOKYO 1996-11-20</dateline>
+<text>
+<p>Leading chemical firms Mitsui Petrochemical Industries Ltd and Sumitomo Chemical Co Ltd said on Wednesday they had set up a joint venture to produce polyethylene.</p>
+<p>The firms said the new company would be capitalised at 400 million yen and be able to produce 200,000 tonnes of linear low density polyethylene annually.</p>
+<p>A joint statement said Evolue Japan, owned 75 percent by Mitsui Petrochemical and 25 percent by Sumitomo Chemical, would start commercial production in the spring of 1998.</p>
+<p>The plant would be the first in the world to produce linear low density polyethylene using metallocene as a catalyst, they said.</p>
+<p>Low density polyethylene is used to make carrier bags and food wrapping and to cover wires.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233431" id="root" date="1996-12-04" xml:lang="en">
+<title>SWITZERLAND: SOCCER-GRASSHOPPER ZURICH V AJAX AMSTERDAM TEAMS.</title>
+<headline>SOCCER-GRASSHOPPER ZURICH V AJAX AMSTERDAM TEAMS.</headline>
+<dateline>ZURICH 1996-12-04</dateline>
+<text>
+<p>Teams for Wednesday's European Cup Champions' League group A match between Grasshopper Zurich of Switzerland and Ajax Amsterdam of the Netherlands:</p>
+<p>Grasshopper Zurich: 1-Pascal Zuberbuehler, 3-Pascal Thueler, 4-Mats Gren, 6-Murat Yakin, 7-Antonio Esposito, 9-Viorel Moldovan, 10-Massimo Lombardo, 13-Georgios Nemtsoudis, 14-Johann Vogel, 15-Nestor Subiat, 29-Boris Smiljanic.</p>
+<p>Ajax Amsterdam: 1-Edwin Van der Sar, 2-John Veldman, 3-Frank de Boer, 6-Ronald De Boer, 7-Tijani Babangida, 9-Patrick Kluivert, 11-Marc Overmars, 14- Martijn Reuser, 18-Kiki Musampa, 19-Arnold Scholten, 32-Arno Splinter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

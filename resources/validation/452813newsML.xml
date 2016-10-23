@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="452813" id="root" date="1997-03-19" xml:lang="en">
+<title>ARGENTINA: Argentine grain/oilseed stocks on February 1.</title>
+<headline>Argentine grain/oilseed stocks on February 1.</headline>
+<dateline>BUENOS AIRES 1997-03-19</dateline>
+<text>
+<p>Argentine Agriculture Secretariat figures for domestic grain stocks on February 1 in tonnes, followed by figures for a month earlier and a year earlier:</p>
+<p> Bread wheat    6,773,871	 5,907,781	 4,816,674</p>
+<p> Maize		520,603	   777,515	   358,874</p>
+<p> Sorghum	     65,453	    78,169	    19,766</p>
+<p> Barley	     241,172	   205,066	   272,768</p>
+<p> Sunflowerseed    121,979	   163,413	  126,223</p>
+<p> Linseed	     24,617	    19,757	   92,199</p>
+<p> Groundnutseed     87,227	   140,894	   20,551</p>
+<p> Soybean	    435,440	   780,205	1,026,381</p>
+<p>((-- Buenos Aires Newsroom +541-318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

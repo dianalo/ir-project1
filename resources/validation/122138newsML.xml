@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122138" id="root" date="1996-10-16" xml:lang="en">
+<title>CYPRUS: Cyprus's CPI rises 1.72 pct in September.</title>
+<headline>Cyprus's CPI rises 1.72 pct in September.</headline>
+<dateline>NICOSIA 1996-10-16</dateline>
+<text>
+<p>Cyprus's consumer price index rose 1.72 percent in September due to sharp increases in prices of clothing, footwear and furniture after the end of summer sales in August, the Department of Statistics and Research said.</p>
+<p>    Consumer price index	Sept 96    Aug 96   Sept 95</p>
+<p>    Month/month change (pct)   1.72	 -1.31     1.16</p>
+<p>    Year/year change (pct)     3.88	  3.32     0.50</p>
+<p>    Index (1992=100)	   116.81	114.84   112.44</p>
+<p>- Michele Kambas, Nicosia newsroom 357 2 365089</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

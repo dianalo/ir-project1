@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244226" id="root" date="1996-12-09" xml:lang="en">
+<title>UK: British Gas undecided on Morecambe Bay field.</title>
+<headline>British Gas undecided on Morecambe Bay field.</headline>
+<dateline>LONDON 1996-12-09</dateline>
+<text>
+<p>British Gas said on Monday said it was still undecided on any possible sell-off of Morecambe Bay, Britain's biggest gas field, saying it was too early for details to be finalised.</p>
+<p>&quot;It has been going on for a few months. It is not an option that is ruled out,&quot; a British Gas spokesman told Reuters.</p>
+<p>The Sunday Times newspaper had reported on Sunday that the field, which supplies about a fifth of U.K.'s gas, would be sold either to a single purchaser or broken up into smaller parcels.</p>
+<p>The British Gas official said the company had not decided on the mode of sale.  </p>
+<p>He said the company did not have an accurate valuation of the field either.</p>
+<p>Last week British Gas reached a deal with British Petroleum over take-or-pay contracts which oblige the company to buy more gas than it can sell.</p>
+<p>British Gas also struck a similar deal with its own production unit. BP and the production unit would be paid compensation totalling 293 million stg for giving British Gas relief in volumes and prices.</p>
+<p>The utility is still busy renegotiating contracts with other North Sea gas producers.</p>
+<p>&quot;Morecambe Bay is linked to the complications of the take-or pay negotiations,&quot; the official said.</p>
+<p>--London Newsroom +0171-542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

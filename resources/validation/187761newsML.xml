@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="187761" id="root" date="1996-11-13" xml:lang="en">
+<title>JAPAN: Nippon Credit may be hit by loan guarantees - paper.</title>
+<headline>Nippon Credit may be hit by loan guarantees - paper.</headline>
+<dateline>TOKYO 1996-11-13</dateline>
+<text>
+<p>Loan guarantees made by Nippon Credit Bank Ltd for a financially troubled non-bank unit may affect the bank's business, a Japanese daily said on Wednesday.</p>
+<p>A spokesman for Nippon Credit was not immediately available for comment.</p>
+<p>The Asahi Shimbun said the bank issued a letter to a financial institution which extended loans of about 240 billion yen to the bank's unit. In the letter, Nippon Credit said it would take responsibility for the unit's management.</p>
+<p>Nippon Credit itself extended loans of about 120 billion yen to the unit, the paper said.</p>
+<p>The unit's total debts are worth about 1.1 trillion yen and the unit's restructuring has not been smooth, the paper said.</p>
+<p>Nippon Credit said the letter was not a loan guarantee but the financial institution which extended loans said it understood that Nippon Credit would cover any losses if the unit could not repay the loan, the paper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

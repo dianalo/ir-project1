@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181094" id="root" date="1996-11-11" xml:lang="en">
+<title>PHILIPPINES: Philippine annual corn imports seen at 1.0 mln T.</title>
+<headline>Philippine annual corn imports seen at 1.0 mln T.</headline>
+<dateline>MANILA 1996-11-11</dateline>
+<text>
+<p>The Philippines is expected to increase corn imports from this year's 400,000 tonnes to one million tonnes annually up to the year 2000, experts said on Monday.</p>
+<p>The projected increase can be attributed to the low use of high-quality corn seeds by domestic farmers, University of the Philippines Integrated Plant Breeding (IPB) deputy director Manuel Logrono told reporters.</p>
+<p>Logrono said low corn production is a result of low utilisation of hybrid corn.</p>
+<p>The use of certified corn seeds in the Philippines, Logrono said, is between 17 to 20 percent against 80 to 90 percent in Thailand.</p>
+<p>The Department of Agriculture says the Philippines imported an average of 400,000 tonnes of corn yearly between 1990 and 1995 due to inadequate domestic production.</p>
+<p>- Manila newsroom 63 2 8418939 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="762149" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: SWIMMING-RESULTS AT U.S. NATIONAL CHAMPIONSHIPS.</title>
+<headline>SWIMMING-RESULTS AT U.S. NATIONAL CHAMPIONSHIPS.</headline>
+<dateline>NASHVILLE, Tennessee 1997-07-28</dateline>
+<text>
+<p>Results at the</p>
+<p>U.S. swimming national championships on Monday:</p>
+<p>Women</p>
+<p>400-metre freestyle</p>
+<p>1. Brooke Bennett 4:11.34</p>
+<p>2. Diana Munz 4:12.68</p>
+<p>3. Cristina Teuscher 4:13.20</p>
+<p>4. Jennifer Parmenter 4:14.48</p>
+<p>5. Trina Jackson 4:15.07</p>
+<p>6. Jessica Foschi 4:15.50</p>
+<p>100-metre backstroke</p>
+<p>1. Lea Loveless Maurer 1:01.53</p>
+<p>2. Beth Botsford 1:02.13</p>
+<p>3. Barbara Bedford 1:02.28</p>
+<p>4. Catherine Fox 1:02.45</p>
+<p>5. Amanda Adkins 1:02.88</p>
+<p>6. Lia Oberstar 1:03.57</p>
+<p>Men</p>
+<p>100-metre freestyle</p>
+<p>1. Scott Tucker 49.68</p>
+<p>2. Neil Walker 49.70</p>
+<p>3. Bradley Schumacher 50.16</p>
+<p>4. Jon Olsen 50.26</p>
+<p>5. Gary Hall 50.32</p>
+<p>6. Bryan Jones 50.34</p>
+<p>200-metre butterfly</p>
+<p>1. Tom Malchow  1:58.37</p>
+<p>2. Ugur Taner 1:59.08</p>
+<p>3. Steven Brown 1:59.84</p>
+<p>4. Jeff Julian 2:00.22</p>
+<p>5. Andrew Livingston 2:00.61</p>
+<p>6. Doak Finch 2:01.54</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tennessee"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263246" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Material Technology, Securfone to merge.</title>
+<headline>Material Technology, Securfone to merge.</headline>
+<dateline>LOS ANGELES 1996-12-18</dateline>
+<text>
+<p>Material Technology Inc said on Wednesday it has signed a letter under which Securfone America will acquire no less than 90 percent of Material Technology's outstanding capital stock in a reverse merger.</p>
+<p>Financial details were undisclosed.</p>
+<p>Based in San Diego, Securfone America provides prepaid cellular and telephone line calling cards.</p>
+<p>&quot;This opportunity will benefit shareholders by giving them a stake in a new technology in the growing cellular business,&quot; Robert Bernstein, Materials Technology president, said in a statement.</p>
+<p>Materials Technology is a development stage company engaged in researching and developing metal fatigue monitoring technologies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

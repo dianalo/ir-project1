@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149988" id="root" date="1996-10-29" xml:lang="en">
+<title>TANZANIA: Tanzania soap manufacturers protest tax increase.</title>
+<headline>Tanzania soap manufacturers protest tax increase.</headline>
+<dateline>DAR ES SALAAM 1996-10-29</dateline>
+<text>
+<p>Tanzanian soap manufacturers on Tuesday protested a tax increase on crude vegetable oil which they said could damage their business.</p>
+<p>The Soap Manufacturers Association of Tanzania (SMAT) complained in a statement about a rise early this month in the import tax on crude vegetable oil to 25 percent from 10 percent.</p>
+<p>&quot;The excessive tax policy will definitely kill the soap industry in Tanzania. With such a high tax disadvantage of 70 percent (in Tanzania) versus 30 percent in Kenya, it will be very profitable to import soap,&quot; SMAT added.</p>
+<p>SMAT said taxes comprised 50 percent of the sale price of soap and the new tax would increase the total to around 70 percent. &quot;Where in the world do they tax such a basic human need so heavily,&quot; SMAT said.</p>
+<p>SMAT said more than $25 million had been invested in the Tanzanian soap industry in the last five years and the industry directly employed some 2,500 people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="355610" id="root" date="1997-02-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-Costello aims to keep Australia inflation low.</title>
+<headline>RTRS-Costello aims to keep Australia inflation low.</headline>
+<dateline>CANBERRA 1997-02-04</dateline>
+<text>
+<p>Australian Treasurer Peter Costello said on Tuesday the government intended to keep inflation low.</p>
+<p>&quot;The government has put in place and intends to keep in place a low-inflation environment which is conducive towards that (the protection of savings),&quot; Costello told parliament in answer to a question about savings.</p>
+<p>Australian consumer prices rose 1.5 percent between the December quarters of 1995 and 1996, and the government forecasts an annual inflation rate of just 1.0 percent in the June quarter.  </p>
+<p>The Reserve Bank of Australia (RBA), citing low inflationary pressure, eased monetary policy three times between July and December, each time dropping its overnight cash rate target by 0.5 percentage points.</p>
+<p>The cash rate currently trades around 6.0 percent.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

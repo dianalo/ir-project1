@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196589" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Intel CEO eyes 15-17 pct PC growth target.</title>
+<headline>Intel CEO eyes 15-17 pct PC growth target.</headline>
+<dateline>LAS VEGAS 1996-11-18</dateline>
+<text>
+<p>Intel Corp's president and chief executive officer Andy Grove said the personal computer industry is expected to continue to target 15 to 17 percent growth.</p>
+<p>&quot;That's our objective -- to keep it at that growth rate,&quot; Grove told a news briefing after his keynote address to the Comdex PC industry trade show here.</p>
+<p>Grove noted that the industry has broadly grown at a rate of 15 to 17 percent for the last 10 years.</p>
+<p>He said the next challenge for the industry was to produce life-like three-dimensional capabilities.</p>
+<p>Out of a score of 100 points, the industry should be able to deliver satisfaction of around 40 in three-dimensional capabilities by the year 2000, Grove said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

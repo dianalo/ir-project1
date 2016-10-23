@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109287" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Ford to name Nasser as operations head - WSJ.</title>
+<headline>Ford to name Nasser as operations head - WSJ.</headline>
+<dateline>NEW YORK 1996-10-10</dateline>
+<text>
+<p>Ford Motor Co's board of directors is expected to announce on Thursday that it will appoint Jacques Nasser to president of the company's automotive operations, the Wall Street Journal reported.</p>
+<p>The newspaper said in its Thursday edition that Nasser would replace Edward Hagenlocker, whom the board would name chairman.</p>
+<p>The promotions would come into effect immediately, it added.</p>
+<p>Nasser has been group vice president in charge of product development since May 1994, while Hagenlocker has been in charge of operations since May 1994, as well, the newspaper said.</p>
+<p>The vice chairman post has remained vacant, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

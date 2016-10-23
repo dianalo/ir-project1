@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468897" id="root" date="1997-03-26" xml:lang="en">
+<title>BULGARIA: Bulgarian court rejects Intracom appeal.</title>
+<headline>Bulgarian court rejects Intracom appeal.</headline>
+<dateline>SOFIA 1997-03-26</dateline>
+<text>
+<p>Greek telecoms manufacturer Intracom on Wednesday lost an appeal against the Bulgarian lottery for compensation of a cancelled contract.</p>
+<p>Bulgaria's administrative court refused to implement a 1995 ruling by the International Arbitrage Court in Paris that the lottery should pay Intracom more than $6.5 million for cancelling a contract in 1993.</p>
+<p>Wednesday's ruling upheld a decision by a Sofia court last September refusing to legalise the decision of the Paris court.</p>
+<p>&quot;The supreme administrative court rejected the appeal of the Greek firm Intracom...and left in force a decision of Sofia's City Court from last September,&quot; state radio said.</p>
+<p>But Intracom and its subsidiary Intralot had already sealed a new 12-year deal with the sports lottery operator Totalisator on September 16 and agreed not to implement the decision of the Paris Court, managing director Pericles Katsioulas told Reuters in an interview.</p>
+<p>The lottery contract has sparked a row in Bulgaria amid fears that the Greek group would siphon off lottery profits.</p>
+<p>Katsioulas tried to allay all fears saying that under the contract Intracom would develop the lottery and sharply increase its profits by implementing modern automatic systems.</p>
+<p>Bulgaria's chief prosecutor Ivan Tatarchev said the contract should be invalid as it had not been signed by authorised officials.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

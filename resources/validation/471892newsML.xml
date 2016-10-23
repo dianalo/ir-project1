@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="471892" id="root" date="1997-03-27" xml:lang="en">
+<title>MALAYSIA: Malaysia Cahya Mata 1996 net up 47 pct.</title>
+<headline>Malaysia Cahya Mata 1996 net up 47 pct.</headline>
+<dateline>KUALA LUMPUR 1997-03-27</dateline>
+<text>
+<p>Year to Dec 31, 1996</p>
+<p>		   (in million ringgit unless stated)</p>
+<p>    Net profit		 106.03   vs	  72.06</p>
+<p>    Shr	 (cents)	 80.3    vs	  58.7</p>
+<p>    Turnover		 1,159.20   vs	 507.42</p>
+<p>    Pre-tax profit	   254.47   vs	 120.72</p>
+<p>    Minorities	  less  40.62   vs  less  21.95</p>
+<p>    Extraordinaries   less   0.10   vs  less   0.28</p>
+<p>    Dividend  (cents)	 14.0    vs	  13.0</p>
+<p>NOTE - Full name of the company is Cahya Mata Sarawak Bhd. It is involved in infrastructure construction, banking and stockbroking.</p>
+<p>-- Kuala Lumpur newsroom (603-201 4813)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

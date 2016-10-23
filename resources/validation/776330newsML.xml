@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="776330" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: Petroleum Development expects record Q2.</title>
+<headline>Petroleum Development expects record Q2.</headline>
+<dateline>BRIDGEPORT, W.Va. 1997-08-04</dateline>
+<text>
+<p>Petroleum Development Corp said Monday it expects to report record second quarter results later this week.</p>
+<p>The company also said it has completed drilling of the second of four programs planned for 1997. The second program, funded primarily by the PDC 1997-A partnership included 22 wells in Pennsylvania and Michigan, 21 of which have been or will be completed.</p>
+<p>Including these wells, Petroluem Development said, it has now drilled 106 wells in 1997, compared to 97 for the entire 1996 calendar year, with an even 100 wells completed or scheduled for completion.</p>
+<p>It is expected that all of the wells from the first two programs will be in production in time for the 1997-1998 heating season, the company said.</p>
+<p>The compression and water injection facilities for the two Michigan projects (which include the 23 successful Michigan wells) are expected to start operations in August and September. The majority of the Pennsylvania and West Virginia wells are already in production.</p>
+<p>Drilling activities will resume in September when the company closes its PDC 1997-B partnership. Currently subscriptions in the partnership total $2.3 million, about double subscriptions from a year ago.</p>
+<p>The company said it anticipates drilling about 20 wells in that program. A third and fourth partnership are scheduled to close in November and December.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRIDGEPORT, W.Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

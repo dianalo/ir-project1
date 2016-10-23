@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570096" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Saks April same-store sales up.</title>
+<headline>Saks April same-store sales up.</headline>
+<dateline>NEW YORK 1997-05-08</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1997	 1996	     Total     Same-Store</p>
+<p>Month	     $155.8     $140.7     +10.7	 +0.6</p>
+<p>Year-to-date    $520.4     $464.5     +12.0	 +2.6</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>    Month is   four weeks ended	   May 3.</p>
+<p>    Full company name is			  Saks Holdings Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

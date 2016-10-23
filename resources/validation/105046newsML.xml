@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105046" id="root" date="1996-10-09" xml:lang="en">
+<title>MONTSERRAT: Volcano-plagued Montserrat sets Nov. 11 election.</title>
+<headline>Volcano-plagued Montserrat sets Nov. 11 election.</headline>
+<dateline>OLVESTON, Montserrat 1996-10-09</dateline>
+<text>
+<p>Montserrat, the tiny British Caribbean island territory threatened by an active volcano, will go to the polls on Nov. 11.</p>
+<p>&quot;Government House has announced that the general election in Montserrat will take place on Monday, November 11,&quot; Gov. Frank Savage said in a brief statement on Wednesday.</p>
+<p>Savage dissolved the seven-seat parliament on Tuesday at the request of Chief Minister Reuben Meade ahead of a debate on a no-confidence motion.</p>
+<p>Opponents have charged that Meade, of the National Progressive Party, has mishandled a crisis caused by the eruption of the island's volcano, which he denies. Meade is outnumbered 4-3 in parliament by independents.</p>
+<p>The election, the first since Oct. 8, 1991, pits Meade against two former government leaders, John Osborne and P. Austin Bramble.</p>
+<p>Montserrat, one of the Leeward Islands of the eastern Caribbean, has seen its population of about 11,000 drop to an estimated 7,000 since its Soufriere Hills volcanic system roared to life in July 1995 after more than 100 years of virtual dormancy.</p>
+<p>Most of the residents who have remained on the island have been evacuated from their homes three times as the volcano has waxed and waned. The last evacuation, which included the capital Plymouth, began in April and was still in effect.</p>
+<p>The volcano has cut tourist revenues, eliminated many jobs, destroyed farmland and caused severe crowding in the so-called &quot;safe zone,&quot; where evacuated residents have been forced to live in crowded conditions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MONT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OLVESTON, Montserrat"/>
+<dc element="dc.creator.location.country.name" value="MONTSERRAT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166607" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: RESEARCH ALERT - Brooks Fiber rated buy.</title>
+<headline>RESEARCH ALERT - Brooks Fiber rated buy.</headline>
+<text>
+<p>-- Chicago Corp said it initiated coverage of Brooks Fiber Properties Inc with a buy rating and a price target of $48 a share.</p>
+<p>-- Brooks Fiber shares were up 1/2 at 33.</p>
+<p>-- Brooks Fiber, a competitive local exchange carrier, is expected to have systems in operation or under construction in a total of 50 cities by the end of 1998.</p>
+<p>-- Chicago Corp said in a report dated Monday that Brooks Fiber's operations are poised for higher revenue, which could grow from an estimated $47 million in 1996 to more than $1 billion by 2001.</p>
+<p>-- It said it conservatively estimates Brooks Fiber will report negative earnings before interest, taxes, depreciation and amortization (EBITDA) until 1998, and negative earnings until 2000.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

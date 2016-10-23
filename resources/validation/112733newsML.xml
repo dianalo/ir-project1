@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112733" id="root" date="1996-10-12" xml:lang="en">
+<title>BELGIUM: EU Commission says markka entry step to Euro.</title>
+<headline>EU Commission says markka entry step to Euro.</headline>
+<dateline>BRUSSELS 1996-10-12</dateline>
+<text>
+<p>The European Commission said on Saturday the entry of the Finnish markka into the EU Exchange Rate Mechanism was a very positive signal on the road to creating a single currency.</p>
+<p>A statement issued by Commission President Jacques Santer and Yves-Thibault de Silguy, the commissioner responsible for monetary policy, said the Finnish decision demonstrated their commitment to participate in the euro, the future currency.  </p>
+<p>The statement said the chosen central rate for the markka was fully in line with Finland's good economic performance and with market sentiment, praising its public finances and absence of inflation.</p>
+<p>&quot;The enlargement of the mechanism to include a new currency is a new very positive signal on the way to the realisation of the euro,&quot; the statement said.</p>
+<p>Santer and de Silguy said the economic situation in the European Union was now more favourable as governments made real efforts to improve their budgets.</p>
+<p>&quot;There are no inflationary pressures. Both long and short term rates have fallen considerably, in particular in recent months, and spreads have significantly narrowed. All these factors are favourable for growth and employment in Europe,&quot; the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="G151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

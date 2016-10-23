@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19569" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Circle Intl makes Brazilian acquisition.</title>
+<headline>Circle Intl makes Brazilian acquisition.</headline>
+<dateline>SAN FRANCISCO 1996-08-28</dateline>
+<text>
+<p>Global freight forwarder Circle International said it has bolstered its stake in Brazil by acquiring Brazilian specialty customs broker IMEX. Terms were not disclosed.</p>
+<p>IMEX, which specializes in the biotechnology, high tech and telecommunications industries, was founded in 1976 and has offices at Brazil's major airports and ports.</p>
+<p>&quot;The decision to acquire IMEX is part of Circle's strategic positioning to operate as a full service logistics provider in Latin America rather than a traditional freight forwarder,&quot; said Wilson Braun, Circle's chief operating officer for Latin America.</p>
+<p>Braun said Circle and IMEX have worked together to serve clients Goodyear Tire &amp; Rubber Co and Ford Motor Co.</p>
+<p>Circle is part of the U.S. freight forwarder Harper Group. --Air Cargo Newsroom Tel +44 171 542 8982 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

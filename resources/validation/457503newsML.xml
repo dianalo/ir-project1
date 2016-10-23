@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457503" id="root" date="1997-03-20" xml:lang="en">
+<title>SWEDEN: Brokers uncertain on Nordbanken share dip.</title>
+<headline>Brokers uncertain on Nordbanken share dip.</headline>
+<dateline>STOCKHOLM 1997-03-20</dateline>
+<text>
+<p>A fall in the share price of Swedish state-controlled bank Nordbanken on Thursday could not easily be explained, brokers said.</p>
+<p>At 1415 GMT the bank's share price was 9.5 crowns lower at 257.5, a dip of 3.5 percent against a general market index fall of 0.67 percent.</p>
+<p>&quot;It is a boring day on the bourse and most people are hanging back. A large sale can put pressure on the share price,&quot; one broker said.</p>
+<p>Nordbanken's managing director Hans Dalborg said on Thursday that he was prepared to go back into merger negotiations with S-E-Banken if the banks' owners agreed.</p>
+<p>S-E-Banken shares were 0.5 higher at 83.50 crowns.</p>
+<p>&quot;Perhaps the market thinks that Nordbanken will make a rather expensive bid for S-E-Banken which could affect the share price but this is pure speculation,&quot; another broker said.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

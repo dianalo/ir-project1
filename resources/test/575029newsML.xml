@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-05-12" id="root" itemid="575029" xml:lang="en">
+<title>USA: Commercial Assets Q1 net rises.</title>
+<headline>Commercial Assets Q1 net rises.</headline>
+<dateline>DENVER 1997-05-12</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>							 March 31,</p>
+<p>					     1997		     1996</p>
+<p>GAAP Income</p>
+<p>   Revenues			 2,155,000		 2,318,000</p>
+<p>   Net Income		     1,735,000		 1,607,000</p>
+<p>   Net Income per Share		0.17			0.16</p>
+<p>Weighted-Average Shares</p>
+<p>  Outstanding		    10,316,000		10,142,000</p>
+<p>NOTE: The company said GAAP (generally accepted accounting principles) results include adjustments for estimated future credit losses. Company also reported results according to REIT (real estate investment trust) method, which deducts losses as they occur. REIT results presented below.</p>
+<p>Estimated REIT Income</p>
+<p>   Revenues			 2,333,000		 2,832,000</p>
+<p>   REIT Income		    1,912,000		 2,059,000</p>
+<p>   REIT Income per Share	     0.19			0.20</p>
+<p>NOTE: Full name is Commercial Assets Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-05-12" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-05-12" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="DENVER" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

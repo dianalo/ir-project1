@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1996-10-08" id="root" itemid="102690" xml:lang="en">
+<title>USA: St Louis deliverable wheat and corn stocks.</title>
+<headline>St Louis deliverable wheat and corn stocks.</headline>
+<dateline>CHICAGO 1996-10-08</dateline>
+<text>
+<p>The Chicago Board of Trade reported the following stocks of wheat and corn in St Louis, deliverable against CBOT futures. (in 000's bushels)</p>
+<p>					     10/04     WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>Soft Red Winter			   1,221   1,173   2,446</p>
+<p>Hard Red Winter				NA	NA	NA</p>
+<p>Dark Northern Spring			 NA	NA	NA</p>
+<p>Northern Spring				NA	NA	NA</p>
+<p>Total Deliverable Grades		1,221   1,173   2,446</p>
+<p>Non-Del Grades/Ungraded		 1,394   1,367   2,332</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL ST. LOUIS WHEAT STOCKS	  2,615   2,540   4,778</p>
+<p>Total Deliverable Grades		  367     872	32</p>
+<p>Non-Del Grades/Ungraded		     0	 0	 0</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL ST. LOUIS CORN STOCKS	     367     872	32</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-10-08" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1996-10-08" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="CHICAGO" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="274234" id="root" date="1996-12-23" xml:lang="en">
+<title>PHILIPPINES: San Jose Oil changes name.</title>
+<headline>San Jose Oil changes name.</headline>
+<dateline>MANILA 1996-12-23</dateline>
+<text>
+<p>The board of Philippine oil exploration company San Jose Oil said on Monday its newly elected board has approved a name change to Fil-Estate Corporation.</p>
+<p>In a disclosure to the Philippine Stock Exchange, the company said the board had also approved the subscription of Fil-Estate Management Inc, the parent company of Fil-Estate Land, to 700 million pesos worth of San Jose Oil shares in exchange for assets.</p>
+<p>Company officials said the deal, which was concluded in November, gave Fil-Estate Management a 70 percent stake in San Jose Oil.</p>
+<p>One of the assets is Fil-Estate Management's 23 percent interest in Metro Rail Transit Corp, operator of the country's third light rail transit.</p>
+<p>San Jose Oil earlier said the oil exploration firm would be converted into a holding company.</p>
+<p>- Manila newsroom 63 2 8418939 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

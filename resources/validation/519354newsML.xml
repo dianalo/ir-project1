@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="519354" id="root" date="1997-04-17" xml:lang="en">
+<title>GERMANY: German Feb retail sales rise 0.2 pct real m/m.</title>
+<headline>German Feb retail sales rise 0.2 pct real m/m.</headline>
+<dateline>WIESBADEN, Germany 1997-04-17</dateline>
+<text>
+<p>The Federal Statistics Office reported the following economic indicator (previously announced data in brackets):</p>
+<p>				Feb 97   Jan 97     Feb 96   Jan-Feb 97</p>
+<p> Yr/yr pct chg (real)     -6.0   unch	  unch     -2.0</p>
+<p> Yr/yr pct chg (nominal)  -5.0   +1.0	  +1.0     -1.0</p>
+<p>Seasonally-adjusted figures:</p>
+<p> M/m pct chg (real)	 +0.2   +2.7	  -2.0</p>
+<p> M/m pct chg (nominal)    +0.2   +1.7	  unch</p>
+<p>NOTE - Data are based on a survey of 20,000 businesses based on European Union statistical standards. Figures exclude petrol and vehicle sales. Month-on-month figures are calendar- and seasonally-adjusted. Base index year is 1994.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

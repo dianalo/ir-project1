@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213552" id="root" date="1996-11-25" xml:lang="en">
+<title>TURKEY: SOCCER-ILIE SIGNS FOR GALATASARAY.</title>
+<headline>SOCCER-ILIE SIGNS FOR GALATASARAY.</headline>
+<dateline>ISTANBUL 1996-11-25</dateline>
+<text>
+<p>Romanian footballer Adrian Ilie has signed a three-and-a-half year contract to join compatriots Georghe Hagi and Iulian Filipescu at Istanbul club Galatasaray, Anatolian news agency said on Monday.</p>
+<p>Under the deal the Turkish club will pay Ilie's old club, Steaua Bucharest, a $2.8 million transfer fee, while the the player will receive a further $800,000.</p>
+<p>&quot;I came here to play football and win the championship with my friends. Together with Hagi and Filipescu we can achive every kind of success,&quot; Ilie told reporters.</p>
+<p>Galatasaray are currently top of the Turkish league but were knocked out of the second round of the European Cup Winners' Cup by Paris Saint-Germain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

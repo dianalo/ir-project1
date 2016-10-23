@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150842" id="root" date="1996-10-29" xml:lang="en">
+<title>NETHERLANDS: European feeds remain calm despite weaker dollar.</title>
+<headline>European feeds remain calm despite weaker dollar.</headline>
+<dateline>ROTTERDAM 1996-10-29</dateline>
+<text>
+<p>A weaker dollar failed to spark much activity on the European meals and feeds market due to a lower Chicago soymeal futures opening this afternoon, market sources said.</p>
+<p>&quot;We saw some prodaric trades in most products, while some more activity was seen in EU rapemeal on technical covering,&quot; one broker said.</p>
+<p>Nov EU rapemeal traded at 0.25 marks up at 29.25 marks per 100 kg fob lower Rhine, Dec at 29 and Feb/April at 28.90 marks.</p>
+<p>A small lot afloat Argentine soymeal pellets traded at $265 a tonne cif Rotterdam.  </p>
+<p>Afloat citruspulp pellets changed hands at $114 a tonne fob Rotterdam and Nov at $109.50 cif.</p>
+<p>Afloat Thai tapioca pellets traded at 20.25 marks per 100 kg fob lower Rhine.--KAREL LUIMES +31 20 504 5832</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROTTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

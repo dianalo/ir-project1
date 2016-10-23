@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161083" id="root" date="1996-11-01" xml:lang="en">
+<title>PHILIPPINES: Manila foreign exchange market closed for holiday.</title>
+<headline>Manila foreign exchange market closed for holiday.</headline>
+<dateline>MANILA 1996-11-01</dateline>
+<text>
+<p>--------------------------- Nov 1 --------------------------</p>
+<p>* Monday's trend seen dictated by Central Bank</p>
+<p>------------------------------------------------------------</p>
+<p>The Philippine foreign exchange market was closed on Friday for a holiday for All Saints Day.</p>
+<p>All Saints Day on November 1 and All Souls Day the following day are festivals when Filipinos visit cemeteries to pray for the dead.</p>
+<p>On Thursday, the Philippine peso ended a tad lower at 26.285 from 26.284 on arbitrage play for the long weekend.  </p>
+<p>Traders said the Central Bank was firm at not letting the dollar slip below 26.285 level.</p>
+<p>On Monday, in the absence of any developments, the peso will just follow where the Central Bank wants it to be, one trader said. -- UDAY KHANDEPARKAR (632) 841 8934</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

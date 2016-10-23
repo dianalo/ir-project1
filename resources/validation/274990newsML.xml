@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="274990" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: Enron Corp files for $150 mln in securities.</title>
+<headline>Enron Corp files for $150 mln in securities.</headline>
+<dateline>WASHINGTON 1996-12-24</dateline>
+<text>
+<p>Enron Corp said Tuesday its business trust, Enron Capital Trust II, plans to offer six million trust-originated preferred securities, which have a liquidation amount of $25 per preferred security.</p>
+<p>Proceeds from the sale of the securities will be used by the trust to purchase partnership preferred securities representing the limited partnership interestes in Enron Preferred Funding II, the filing said.</p>
+<p>The partnership will use the funds to make investments in the debentures and, to a limited extent, certain eligible debt securities. Proceeds from the debentures will be used to  repay short-term debt and other general corporate purposes.</p>
+<p>The offering will be made through Merrill Lynch &amp; Co.</p>
+<p>Enron is an integrated natural gas company with headquarters in Houston, Texas.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

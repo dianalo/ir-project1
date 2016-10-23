@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163499" id="root" date="1996-11-04" xml:lang="en">
+<title>HUNGARY: Germany to take back hazardous waste from Hungary.</title>
+<headline>Germany to take back hazardous waste from Hungary.</headline>
+<dateline>BUDAPEST 1996-11-04</dateline>
+<text>
+<p>Germany will take back a shipment of 380 tonnes of hazardous waste stuck in Hungary for months after Croatia refused to grant transit, the Hungarian environment ministry said on Monday.</p>
+<p>&quot;We can confirm that Germany will take back the shipment,&quot; ministry spokesman Jozsef Nagy told Reuters.</p>
+<p>Hungary had asked Germany to take back the industrial chemicals which Budapest authorities regarded as an illegal consignment of hazardous waste.</p>
+<p>Press reports said the shipment included six tonnes of wood preservative from the north German state of Lower Saxony and 34 tonnes of a substance used to treat the outer shell of army tanks.</p>
+<p>The consignment was due to be shipped to China via Croatia, but Croatian authorities refused to let it cross the border.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

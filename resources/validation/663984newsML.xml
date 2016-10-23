@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="663984" id="root" date="1997-06-16" xml:lang="en">
+<title>CANADA: Canada province paves way for tobacco lawsuit.</title>
+<headline>Canada province paves way for tobacco lawsuit.</headline>
+<dateline>VANCOUVER, British Columbia 1997-06-16</dateline>
+<text>
+<p>British Columbia announced legislation on Monday paving the way for the Canadian province to sue tobacco companies to recoup medical costs for treating smokers.</p>
+<p>But the province said that before filing a lawsuit, it was asking the tobacco industry to compensate it voluntarily for tobacco-related illness and smoking prevention programs. Provincial officials also demanded that tobacco companies acknowledge publicly that tobacco was addictive and caused cancer and lung and heart disease.  </p>
+<p>The proposed legislation makes British Columbia the first province in Canada and likely the first government outside the United States to pursue such action, similar to the approach taken by 37 U.S. states, legal experts said.</p>
+<p>&quot;I believe our readiness to take this action will force the industry to consider the other options we are presenting,&quot; Health Minister Joy MacPhail said in a statement.</p>
+<p>She said the province was prepared to consider &quot;other revenue measures such as licensing fees to ensure the industry pays its share of the cost of smoking prevention and the treatment of tobacco-related illnesses.&quot;</p>
+<p>British Columbia's government-funded health care program pays out an estimated $420 million Canadian to $560 million Canadian ($311 million to $415 million) a year for smoking-related illnesses.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER, British Columbia"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

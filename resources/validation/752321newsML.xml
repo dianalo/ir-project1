@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="752321" id="root" date="1997-07-24" xml:lang="en">
+<title>KENYA: Canadian firm signs $30 mln oil deal with Kenya.</title>
+<headline>Canadian firm signs $30 mln oil deal with Kenya.</headline>
+<byline>Maja Wallengren</byline>
+<dateline>NAIROBI 1997-07-24</dateline>
+<text>
+<p>Canada's Tornado Resources Ltd have signed two contracts with the National Oil Corporation of Kenya (NOCK) for the exploration of two potential oil and gas fields worth $30 million, a Kenyan minister said on Thursday.</p>
+<p>The deal is the first to be signed in Kenya's oil and gas industry in 10 years and covers the inland block L-One in the northern Mandera basin and offshore Block L-10 in the Lamu basin, Energy Minister Joseph M'Mukindia told Reuters.</p>
+<p>&quot;We have signed two agreements which cover one in the Lamu basin close to the Tanzanian border and one in the Mandera basin close to the Kenyan-Egyptian border and for both the basins it's a three-year agreement,&quot; he said in an interview.</p>
+<p>&quot;Tornado Resources Limited has committed themselves to spend about $30 million within those three years which means about $15 million per basin,&quot; M'Mukindia said.</p>
+<p>Calgary-based Tornado Resources are to drill at least three wells in each basin in addition to undertake seismic surveys and most of the wells will be wild cat wells, M'Mukindia said.</p>
+<p>&quot;We are very hopeful that we are going to discover commercial quantities of oil and, or, gas and we are very, very excited about this development because for the last ten years very little exploration has been carried out in this country.</p>
+<p>&quot;...We are very hopeful that with the discoveries that have been made in Ethiopia and in Tanzania, that Kenya may be well on the verge of also discovering substantial quantities of hydrocarbons,&quot; he said.</p>
+<p>He said the deals were &quot;a pure venture by the Canadian company&quot; but were signed in partnership with the NOCK.</p>
+<p>Should commercial finds of oil or gas be discovered, the Kenyan government and Tornado Resources would share revenues once the Canadians recovered their costs of the exploration, according to contract documents.</p>
+<p>Tornado Resources Ltd -- oil and gas producer with significant land position in the Western Canadian Sedimentary Basin -- plans to list its shares for trading on the Toronto Stock Exchange by the third quarter of 1997.</p>
+<p>The last time any exploration was undertaken in Kenya was when Shell in 1987 drilled some wells in northwestern Turkani region. Shell did find some hydrocarbons, but not of a size big enough to be commercially viable, the minister said.</p>
+<p>M'Mukindia said NOCK was preparing to launch bids for another 10 exploration blocks in Kenya later this year, of which five or six would be offshore blocks in the Lamu basin in waters just north of the Tanzanian border.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

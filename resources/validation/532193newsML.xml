@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="532193" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Mallinckrodt supports Molecular Biosystems.</title>
+<headline>Mallinckrodt supports Molecular Biosystems.</headline>
+<dateline>ST. LOUIS 1997-04-23</dateline>
+<text>
+<p>Mallinckrodt Inc said it is supporting its business partner, Molecular Biosystems Inc, as that company works its way through legal challenges delaying final review and approval of Molecular Biosystems' FS069, a new ultrasound imaging contrast agent.</p>
+<p>&quot;We believe that FS069 meets the requirements for review as a medical device because it does not depend upon the metabolism of the body or chemical action to accomplish its purposes,&quot; said C. Ray Holman, Mallinckrodt chairman.</p>
+<p>The legal challenges were instigated by three Molecular Biosystems' competitors who have their own ultrasound products now under review by the U.S. Food and Drug Administration.</p>
+<p>Late Tuesday, Molecular Biosystems filed a motion asking the Federal District court in Washington, D.C. to reconsider a decision enjoining the FDA from proceeding on review and market clearance for FS069 and the competitors' products until the FDA responds to citizens' petitions filed earlier this year.</p>
+<p>The petitions challenge the FDA's decision to review FS069 as a medical device while reviewing the competing products as drugs.</p>
+<p>	  ((Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157887" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: U.S. wheat weekly export sales highlights - USDA.</title>
+<headline>U.S. wheat weekly export sales highlights - USDA.</headline>
+<dateline>WASHINGTON 1996-10-31</dateline>
+<text>
+<p>U.S. wheat major net sales activity in the week ended Oct 24 reported by exporters for the following purchasing countries, in tonnes:</p>
+<p>Net Sales:    1996/97		   1997/98</p>
+<p> Sri Lanka    102,500			Nil</p>
+<p> Japan	   92,700</p>
+<p> Philippines   69,300</p>
+<p> S Korea	 44,500</p>
+<p> Yemen	   35,000</p>
+<p> Israel	 -32,000</p>
+<p>Net sales of 437,000 tonnes were up 56 percent from the previous week, but 8 percent off the four-week average.</p>
+<p>Exports of 545,200 tonnes were off 8 percent from the week earlier, and 22 percent lower than the four-week average.</p>
+<p>Primary Export Destinations: Egypt (100,900), Japan (59,700), Sri Lanka (52,500) and South Korea (48,300).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

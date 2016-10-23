@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242618" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Video Update Inc Q2 full results.</title>
+<headline>Video Update Inc Q2 full results.</headline>
+<dateline>ST. PAUL, Minn. 1996-12-09</dateline>
+<text>
+<p>(In thousands except per share data)</p>
+<p>			 Three Months	  Six Months</p>
+<p>		    Ended October 31,    Ended October 31,</p>
+<p>			1996	  1995	1996	   1995</p>
+<p> Total revs     $20,124     10,671    38,687	 15,843</p>
+<p> Net income	   470	  486     1,033	    786</p>
+<p> Shr primary	0.03	 0.05	0.08	   0.10</p>
+<p> Shr diluted	0.03	 0.05	0.08	   0.09</p>
+<p>  Avg shrs dil  14,601     10,518    13,461	  8,652</p>
+<p>NOTE: Net income per share for the Q3 and six-months ended October 31, 1996 are based on greater number of shares outstanding compared to the prior periods resulting from the company's exercise of Class A warrants in September 1995 and subsequent public offering completed in October 1996.</p>
+<p>((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="687490" id="root" date="1997-06-25" xml:lang="en">
+<title>NORWAY: Investors seek out Norway blue chips, market flat.</title>
+<headline>Investors seek out Norway blue chips, market flat.</headline>
+<dateline>OSLO 1997-06-25</dateline>
+<text>
+<p>Norwegian shares remained flat on Wednesday, although sentiment was positive despite reduced volume as the summer lull set in.</p>
+<p>Dealers said players continued to search out the blue chip stocks as volatility in short-term interest rates had increased risk in smaller companies.</p>
+<p>&quot;Of what little interest there is the main volume is in the blue chips. They appear slightly safer than the smaller caps because of short term interest rates,&quot; said one broker.</p>
+<p>The Total share index closed 0.23 percent up at 1,183.67 points in moderate turnover of 800 million crowns.</p>
+<p>Dealers said offshore technology companies Kvaerner and Aker Maritime continued to gather interest due to the high level of activity in the British, Norwegian and Danish oil sectors.</p>
+<p>&quot;This industry is technology driven and there are a lot of developments in Europe, as well as the Gulf of Mexico and West Africa, which are leading to new (hydrocarbon) finds. That's good for suppliers to the oil industry,&quot; the broker said.</p>
+<p>Forestry group Norske Skog and metals producer Elkem were seen as positive with upward potential following a bottoming out of product prices, dealers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

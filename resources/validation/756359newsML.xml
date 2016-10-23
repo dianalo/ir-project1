@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="756359" id="root" date="1997-07-25" xml:lang="en">
+<title>CANADA: Canadian dollar ends Friday on weaker note.</title>
+<headline>Canadian dollar ends Friday on weaker note.</headline>
+<dateline>TORONTO 1997-07-25</dateline>
+<text>
+<p>Canada's dollar ended softer on Friday, extending its recent weakness as investors pondered the direction of Canadian interest rates, analysts said.</p>
+<p>The currency finished around C$1.3840 (US$0.7225) on Friday from Thursday's close at C$1.3815 (US$0.7238).</p>
+<p>&quot;It followed through weakness in the last few days,&quot; said I.D.E.A. analyst Harvinder Kalirai.</p>
+<p>&quot;The general perception is that the Canadian dollar cannot rally unless the Bank of Canada hikes rates,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-07-01" id="root" itemid="699199" xml:lang="en">
+<title>USA: Minneapolis deliverable oat stocks.</title>
+<headline>Minneapolis deliverable oat stocks.</headline>
+<dateline>CHICAGO 1997-07-01</dateline>
+<text>
+<p>The Chicago Board of Trade reported the following stocks of oats in Minneapolis, deliverable against CBOT futures. (in 000's bu).</p>
+<p>						6/27     WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>Total Deliverable Grades		5,449   5,311   5,634</p>
+<p>Non-Del Grades/Ungraded		 1,038     995   1,723</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL MINNEAPOLIS OATS STOCKS	 6,487   6,306   7,357</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-07-01" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-07-01" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="CHICAGO" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

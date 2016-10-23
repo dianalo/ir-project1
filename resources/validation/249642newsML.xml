@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249642" id="root" date="1996-12-11" xml:lang="en">
+<title>SPAIN: Spain firm spurns electricity pact over sunk costs.</title>
+<headline>Spain firm spurns electricity pact over sunk costs.</headline>
+<dateline>MADRID 1996-12-11</dateline>
+<text>
+<p>Spanish electricity company Hidroelectrica del Cantabrico did not sign a new electricity protocol on Wednesday because it was not satisfied with provisions for sunk costs, Industry Minister Josep Pique said.</p>
+<p>Shortly before the government and major electricity companies signed the new framework aimed at making the sector more competitive, Cantabrico announced it was pulling out.  </p>
+<p>&quot;The Industry Ministry considers the approach (of Cantabrico) unacceptable...and has decided to sign the protocol without this company,&quot; Pique said at a news conference after the signing.</p>
+<p>The protocol recognised about two trillion pesetas of sunk costs -- fixed costs in plant and generation which in general will no longer be compensated by the state under the new more competitive regime.</p>
+<p>Electricity companies will be allowed to pass on these costs via tariffs over the next 10 years.</p>
+<p>The protocol divided up about 75 percent of the costs among companies.</p>
+<p>The allocation of the remaining 25 percent will be determined by work groups to be set up to study the issue.</p>
+<p>Pique said the company had demanded a renegotiation of the terms for distributing the latter 25 percent.</p>
+<p>Cantabrico said in a statement aspects of the protocol were too vague and could cause damage to the company's assets in the future.</p>
+<p>-- Madrid Newsroom +341-585-2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

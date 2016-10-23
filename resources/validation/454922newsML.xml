@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="454922" id="root" date="1997-03-19" xml:lang="en">
+<title>SOUTH KOREA: Korea First Bank to cut credit to Sammi.</title>
+<headline>Korea First Bank to cut credit to Sammi.</headline>
+<dateline>SEOUL 1997-03-19</dateline>
+<text>
+<p>Major creditor Korea First Bank will not extend additional credit to troubled Sammi Steel Co, the bank's president said on Wednesday.  </p>
+<p>&quot;The Korea First Bank will not grant more credit to Sammi Steel,&quot; president Ryoo Shee-yul told reporters at a press conference.</p>
+<p>&quot;We will have to let Sammi Steel default on promissory notes if it fails to honour its debt obligation,&quot; Ryoo said.</p>
+<p>Sammi Steel and four affiliates, including its trading arm Sammi Corp, filed for receivership with a Seoul court late on Tuesday.</p>
+<p>The companies have been reeling under the weight of debt repayments.  </p>
+<p>Chung Jee-tae, president of Commercial Bank of Korea, said his bank would watch closely steps other banks take over Sammi Corp.</p>
+<p>Commercial Bank is a major creditor of Sammi Corp.</p>
+<p>Sammi's woes sent share prices on the Seoul stock market falling in early Wednesday trading, with financial shares leading the slide on fears that lenders and payment guarantors of the Sammi Group would be in trouble.</p>
+<p>-- Seoul Newsroom (822) 727 5647</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

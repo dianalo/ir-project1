@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="211109" id="root" date="1996-11-22" xml:lang="en">
+<title>TAIWAN: Taiwan third-quarter GDP up 5.61 percent - official.</title>
+<headline>Taiwan third-quarter GDP up 5.61 percent - official.</headline>
+<dateline>TAIPEI 1996-11-22</dateline>
+<text>
+<p>Taiwan's gross domestic product grew a year-on-year 5.61 percent in the third quarter, an official of the Directorate General of Budget, Accounting and Statistics said on Friday.  </p>
+<p>The directorate forecast full-year 1996 GDP growth would reach only 5.7 percent, a significant downward revision from its most recent forecast of 5.89 percent and below the 1995 full-year growth rate of 6.0 percent.</p>
+<p>The directorate, in a quarterly statement, gave no reason for the downward revision of the 1996 growth forecast, an apparent reflection of the economy's failure to reach its third-quarter target of 6.09 percent.</p>
+<p>The third-quarter GDP showing was a slight improvement over the 5.42 percent registered in the second quarter, showing that a recovery is under way -- albeit more slowly than hoped.  </p>
+<p>			  Q3 1996  Q2 1996   Q3 1995</p>
+<p> GDP growth (pct)     +5.61    +5.42     +6.21</p>
+<p>The agency forecast fourth-quarter growth of 6.6 percent, a relatively ambitious target that it justified on the basis of an expected big increase in imports and likely gradual increases in domestic investment and consumption.</p>
+<p>The directorate said attributed the lacklustre third-quarter performance to lower-than-expected growth in the financial and construction industries and domestic investment that was also below expectations.</p>
+<p>Third-quarter GDP performance was well below expectations of local economists, who as recently as Monday had forecast that growth would come in at a modest 5.9-6.0 percent.</p>
+<p>Economists have attributed the frustrating sluggishness of Taiwan's recovery to a crackdown on gang-linked business as well as a slower-than-expected rebound in exports.  </p>
+<p>-- Taipei newsroom (2-508-0815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

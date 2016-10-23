@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453483" id="root" date="1997-03-19" xml:lang="en">
+<title>NETHERLANDS: EU &quot;disapproves&quot; of Israeli building on West Bank.</title>
+<headline>EU &quot;disapproves&quot; of Israeli building on West Bank.</headline>
+<dateline>THE HAGUE 1997-03-19</dateline>
+<text>
+<p>The European Union said on Wednesday it disapproved of the construction work begun by Israel in Arab East Jerusalem, describing the action as &quot;an obstacle to peace&quot;.</p>
+<p>&quot;The EU disapproves of this move. It clearly prejudices the outcome of the permanent status negotiations,&quot; the EU said in a statement released by the Dutch presidency.</p>
+<p>The statement came as Israeli bulldozers for the second day ripped into the pine-covered hill called Jabal Abu Ghneim in Arabic and Har Homa in Hebrew where Israel is planning a Jewish settlement.</p>
+<p>&quot;At this critical moment of the peace process it is more than ever necessary that both parties show restraint and return to political dialogue on all matters under dispute,&quot; the statement added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE HAGUE"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

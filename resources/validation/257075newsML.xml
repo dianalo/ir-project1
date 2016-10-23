@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257075" id="root" date="1996-12-14" xml:lang="en">
+<title>USA: Frigid cold, snow headed for central U.S..</title>
+<headline>Frigid cold, snow headed for central U.S..</headline>
+<dateline>CHICAGO 1996-12-14</dateline>
+<text>
+<p>An Arctic airmass is forecast to bring cold, snow and high winds from Montana to Texas next week, meterologists said Saturday.</p>
+<p>Sub-zero temperatures should extend into Nebraska, while lows in the teens could extend in the Texas panhandle.</p>
+<p>Winds accompanying the cold should produce cold-weather advisories as far south as the Texas panhandle, said Kevin Roth, Weather Services Corp meteorologist.</p>
+<p>Denver residents can expect highs in teens and lows below zero, while Great Falls, Mon., residents should experience highs in the single-digits and lows of 10 to 30 below zero.</p>
+<p>The eastern seaboard will turn cold late next week, before warming early the following the week. Although cold, eastern areas should be spared the single-digit to sub-zero temperatures likely in the Plains, forecasters said.</p>
+<p>Snow accompanying the Arctic system should be heaviest along the eastern edge of the Rocky Mountains, with two to eight inches likely in parts of Wyoming. Up to six inches could fall in northern Kansas, Nebraska and Iowa by Wednesday. One to two inches could fall as far south as the Texas panhandle.</p>
+<p>High winds associated the system should produce bitter wind chills that could harm livestock from Nebraska to Texas, said Paul Mason, Weather Express Inc meteorologist, Omaha.</p>
+<p>Texas cattlemen can expect 15 to 30 mph winds with gusts up to 45 mph, while residents near the central Rockies should prepare for 25 to 40 mph winds with gusts up to 70.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

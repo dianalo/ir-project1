@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251403" id="root" date="1996-12-12" xml:lang="en">
+<title>GERMANY: SWIMMING-EUROPEAN SHORT-COURSE RESULTS.</title>
+<headline>SWIMMING-EUROPEAN SHORT-COURSE RESULTS.</headline>
+<dateline>ROSTOCK, Germany 1996-12-12</dateline>
+<text>
+<p>Results in the European</p>
+<p>sprints and short-course swimming championships on Thursday:</p>
+<p>Men's 400 metres freestyle heats (six fastest qualify for</p>
+<p>Friday's final):</p>
+<p>Heat one:</p>
+<p> 1. Dimitrios Maganas (Greece)	 3 minutes 48.94 seconds</p>
+<p> 2. Maciej Kajak (Poland)		3:53.18</p>
+<p> 3. Kjell Ivar Lundemoen (Norway)    3:56.38</p>
+<p> 4. Sandro Tomas (Croatia)	     3:56.96</p>
+<p> 5. Bruno Orsoni (France)		4:02.44</p>
+<p>Heat two:</p>
+<p> 1. Stefan Pohl (Germany)		3:50.91</p>
+<p> 2. Emiliano Brembilla (Italy)	 3:51.09</p>
+<p> 3. Igor Koleda (Belarus)		3:53.68</p>
+<p> 4. Denys Zavhorodniy (Ukraine)	3:57.97</p>
+<p> 5. Maxime Leutenegger (Switzerland) 4:02.81</p>
+<p> 6. Richard Kristinsson (Iceland)    4:08.35</p>
+<p>Heat three:</p>
+<p> 1. Thomas Lohfing (Germany)	   3:51.50</p>
+<p> 2. Alexei Stepanov (Russia)	   3:51.50</p>
+<p> 3. Igor Snitko (Ukraine)		3:51.83</p>
+<p> 4. Arunas Savickas (Lithuania)	3:56.70</p>
+<p> 5. Fausto Mauri (Switzerland)	 3:56.73</p>
+<p> 6. Sigurgeir Hreggvidson (Iceland)  4:07.99</p>
+<p>Ends Thursday's heats.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROSTOCK, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

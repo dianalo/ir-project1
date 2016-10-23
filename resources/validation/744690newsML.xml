@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744690" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE - Walter Industries Inc Q4 shr down.</title>
+<headline>TABLE - Walter Industries Inc Q4 shr down.</headline>
+<dateline>TAMPA, Fla. 1997-07-22</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr profit		 $0.39   profit	 $0.72</p>
+<p> Net profit		21,600   profit	39,700</p>
+<p> Revs		     399,100		  398,200</p>
+<p>	  12 MONTHS</p>
+<p> Shr profit		 $0.67     loss	 $1.66</p>
+<p> Net profit		37,100     loss	84,700</p>
+<p> Revs		   1,507,000		1,486,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE - Q2 1996 includes non-recurring tax benefits of about $27 million, or $0.49 per share.</p>
+<p>1996 full year results include an after-tax adjustment of $101.1 million adjustment from the adoption of a required accounting change, and a $5.4 million after-tax charge related to debt refinancing.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

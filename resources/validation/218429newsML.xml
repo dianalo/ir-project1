@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218429" id="root" date="1996-11-26" xml:lang="en">
+<title>GERMANY: Deutsche Postbank to cross shares with BHW.</title>
+<headline>Deutsche Postbank to cross shares with BHW.</headline>
+<dateline>BONN 1996-11-26</dateline>
+<text>
+<p>Deutsche Postbank AG said on Tuesday it had reached a cooperation agreement with BHW of Hameln, with each taking a stake of at least 10 percent in the other.</p>
+<p>Deutsche Postbank said it expects its 1996 group profit to exceed the 226 million marks ($148.4 million) it earned last year. ($ = 1.522 German Marks)  </p>
+<p>BHW is a building society for civil servants. Its full name is BHW Bausparkasse Beamtenheimstaettenwerk Gemeinnuetzige Bausparkasse fuer den oeffentlichen Dienst GmbH.</p>
+<p>Postbank is due to be privatised in the near future, but has been tangled in a battle with the postal service Deutsche Post AG over the ownership structure.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

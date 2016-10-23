@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65078" id="root" date="1996-09-19" xml:lang="en">
+<title>UK: Elf UK completes Milford Haven refinery upgrade.</title>
+<headline>Elf UK completes Milford Haven refinery upgrade.</headline>
+<dateline>LONDON 1996-09-19</dateline>
+<text>
+<p>Elf UK, a subsidiary of French oil company Elf Aquitaine, and Murco Petroleum, a unit of Murphy Oil Corp, have completed a 70 million stg upgrade of their 100,000 barrels per day (bpd) Milford Haven refinery on the south Wales coast, Elf said on Thursday.</p>
+<p>They have built a new hydro-desulphurisation plant, used to remove sulphur from oil products, in anticipation of Europe's &quot;green&quot; diesel law coming into effect on October 1, the statement said.</p>
+<p>The law requires all European diesel fuel to contain no more than 0.05 percent sulphur, from a previous limit of 0.2 percent.</p>
+<p>Construction of the unit began in February 1995, employing 500 workers, and it was brought on stream without interrupting the flow of the refinery.</p>
+<p>The sulphur extracted is recovered and sold, thereby reducing emissions of sulphur dioxide into the atmosphere.</p>
+<p>-- London Newsroom +44 171 542 8145</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="631977" id="root" date="1997-06-02" xml:lang="en">
+<title>SPAIN: Telefonica to merge CTC with VTR - press.</title>
+<headline>Telefonica to merge CTC with VTR - press.</headline>
+<dateline>MADRID 1997-06-02</dateline>
+<text>
+<p>Chilean operator VTR, controlled by the Luksic group and SBC Communications Inc, will merge with CTC, the largest Chilean telephone operator which is controlled by Spain's Telefonica de Espana, according to press reports that cited director general Javier Revuelta in New York.</p>
+<p>The report could not be immediately confirmed with Telefonica.</p>
+<p>VTR is owned 51 percent by the Luksic group and 49 percent by SBC.</p>
+<p>Currently, the two own Chilean mobile telephone group Startel. CTC owns 45 percent, while VTR owns 45 percent.</p>
+<p>On May 16, CTC denied its merger talks with VTR had hit a snag.</p>
+<p>--Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

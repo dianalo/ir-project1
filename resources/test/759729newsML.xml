@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-07-28" id="root" itemid="759729" xml:lang="en">
+<title>NEW ZEALAND: New Zealand city weather forecasts for Wednesday.</title>
+<headline>New Zealand city weather forecasts for Wednesday.</headline>
+<dateline>WELLINGTON 1996-07-29</dateline>
+<text>
+<p>Forecasts for tomorrow.</p>
+<p>		speed	 dir   tonight	  tomorrow	 temp</p>
+<p>Auckland	moderate  NW  mostly fine	some light rain  14</p>
+<p>Hamilton	moderate  NW  cloud increasing some light rain  14</p>
+<p>Napier/Hastin moderate  N   mostly fine	high cloud	 15</p>
+<p>New Plymouth  moderate  NW  cloudy	     some rain	  13</p>
+<p>Wellington    fresh     NW  cloudy	     rain easing	13</p>
+<p>Greymouth/Hok moderate  W   some rain	  rain easing	11</p>
+<p>Christchurch  variable winds  high cloud     high cloud	 14</p>
+<p>Dunedin	 SW change     risk of rain     showers clearing 11</p>
+<p>Queenstown    gusty     SW  rain easing	few showers	 7</p>
+<p>Invercargill  fresh     SW  some rain	  showers	     8</p>
+<p>-- Wellington newsroom (64 4) 473 4746</p>
+<p>	 e-mail wellington.newsroom@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-07-29" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-07-28" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="WELLINGTON" />
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263628" id="root" date="1996-12-18" xml:lang="en">
+<title>KENYA: Kenya objects to Zaire comments on summit.</title>
+<headline>Kenya objects to Zaire comments on summit.</headline>
+<dateline>NAIROBI 1996-12-18</dateline>
+<text>
+<p>Kenya replied sharply to Zaire on Wednesday over claims that a summit on the Great Lakes crisis was organised by English-speaking African leaders dancing to the tune of an unnamed foreign power.</p>
+<p>&quot;The claim that the initiative for the meeting is not African smacks of neo-colonial mentality that nothing positive can originate from black Africa,&quot; an official Kenyan statement said.</p>
+<p>&quot;The truth of the matter is that the summit was convened by President (Daniel arap) Moi of Kenya.&quot;</p>
+<p>Monday's Nairobi summit, attended by South Africa's Nelson Mandela and eight other leaders, was boycotted by Zaire. The summit called for a peaceful settlement between President Mobutu Sese Seko's government and the rebels who have seized control of eastern Zaire.</p>
+<p>Zaire's information minister, Boguo Makele, told Reuters in Kinshasa on Tuesday the summit was part of an Anglo-Saxon plot aiming to destabilise French-speaking Zaire.</p>
+<p>&quot;After analysing documents in our possession it seems that the initiative for this meeting is not African and that in effect a foreign power directly implicated in the events in the east is the author of this masquerade,&quot; Boguo added.</p>
+<p>Zairean ministers have accused the United States of backing Rwanda, which supports the rebels, with logistical help.</p>
+<p>The statement, signed by the senior civil servant in the Kenyan information ministry, said French-speaking Rwanda and Cameroon attended the summit and Zaire turned down its invitation.</p>
+<p>&quot;Contrary to the impression given by Mr Makele's sentiments, the summit demonstrates that African countries can, should and indeed must generate home-grown solutions to domestic problems and not, so many decades after independence, wait for direction by Western nations,&quot; the statement said.</p>
+<p>The leaders of Eritrea, Ethiopia, Tanzania, Uganda, Zambia and Zimbabwe were the other summit participants.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

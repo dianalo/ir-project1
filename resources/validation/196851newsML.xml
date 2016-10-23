@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196851" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: PRESALE - $60 mln Orlando Util Comm, Fla.</title>
+<headline>PRESALE - $60 mln Orlando Util Comm, Fla.</headline>
+<text>
+<p>AMT: 60,000,000     DATE: 11/19/96	NYC Time: 1000     CUSIP: 686509</p>
+<p>ISSUER: Orlando Utilities Comm				     ST: FL</p>
+<p>ISSUE: Water &amp; elec, series 1996A (multi-modal)		TAX STAT: Exempt-REV</p>
+<p>M/SP/F: Aa1/AA/AA							BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None						     BANK QUAL: N</p>
+<p>DTD: 12/01/96							    SURE BID: Y</p>
+<p>DUE: 10/01/23						 SR MGR:</p>
+<p>1ST CPN: 04/01/97</p>
+<p>CALL: Non-Callable					  TIC</p>
+<p>DELIVERY: 12/5/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: The Bank of New York, NYC</p>
+<p>L.O.: Bryant, Miller &amp; Olive, Tampa</p>
+<p>F.A.: First Southwest Co., Orlando</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2023		 60,000,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

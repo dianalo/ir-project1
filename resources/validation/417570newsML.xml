@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417570" id="root" date="1997-03-04" xml:lang="en">
+<title>MEXICO: Mexican daily port, shipping update for March 4.</title>
+<headline>Mexican daily port, shipping update for March 4.</headline>
+<dateline>MEXICO CITY 1997-03-04</dateline>
+<text>
+<p>Mexican crude ports Pajaritos and Dos Bocas reopened early Tuesday as wind speeds declined in the Gulf of Mexico, the Communications and Transport Ministry said in its 1000 local/1600 GMT daily meteorological report.</p>
+<p>The ports reopened at 0630 local/1230 GMT Tuesday as wind speeds fell to a maximum 20 km per hour, from about 45 km per hour. Both crude ports had closed Sunday afternoon.</p>
+<p>Coatzacoalcos port was closed to smaller tourism and fishing boats, the ministry said.  </p>
+<p>The ministry updated port conditions and shipping warnings for the Gulf of Mexico, Caribbean and Pacific Coast.</p>
+<p>-- Pacific Coast:</p>
+<p>Weak cold front moving east-southeast along Baja California peninsula, where winds 10 to 20 knots (19 to 38 km/11 to 22 miles per hour) and waves four to seven feet high. Warm weather and light winds along most of coast, with light rains along Oaxaca coast.</p>
+<p>-- Gulf of Mexico:</p>
+<p>Cold front along northwestern gulf dissipated. Warmer termperatures and clear skies with strongest winds from 10 to 1 knots (19 to 28 km/11 to 17 miles per hour).</p>
+<p>-- Caribbean:</p>
+<p>Hot and mostly clear skies, moderate east and southeast winds from 20 to 30 km per hour.</p>
+<p>((--Timna Tanners, Mexico City newsroom +525 728-7903))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

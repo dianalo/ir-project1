@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="541573" id="root" date="1997-04-26" xml:lang="en">
+<title>MEXICO: RESEARCH ALERT - Apasco upgraded to buy.</title>
+<headline>RESEARCH ALERT - Apasco upgraded to buy.</headline>
+<dateline>MEXICO CITY 1997-04-25</dateline>
+<text>
+<p>Flemings Research on Friday upgraded Mexican cement company Apasco SA de CV to buy from hold.</p>
+<p>--Analyst Ben Uglow said uncertainty in the near future over Mexico cement prices and recent weak quarterly earning report had created &quot;buying opportunity in Apasco shares.&quot;  </p>
+<p>--Q1 results showed &quot;major deterioration&quot; in profitability due to price declines and electricity cost increases, but those seen as &quot;one-time events not expected to recur during the remainder of the year.&quot;</p>
+<p>--Price competition in Mexico &quot;will likely be short-lived,&quot; Uglow said.</p>
+<p>--Mexican cement industry showing volume recovery of five percent or more this year.</p>
+<p>--Apasco &quot;remains a well-managed, highly cash-generative cement business.&quot;</p>
+<p>((--Dan Trotta, Mexico City newsroom, +525 728-9507))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

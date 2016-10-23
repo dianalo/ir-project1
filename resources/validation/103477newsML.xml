@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103477" id="root" date="1996-10-08" xml:lang="en">
+<title>ISRAEL: Israel reopens two Gaza crossings.</title>
+<headline>Israel reopens two Gaza crossings.</headline>
+<dateline>GAZA 1996-10-08</dateline>
+<text>
+<p>Israel reopened two crossing points at its border with Gaza on Tuesday for the first time since a wave of Israeli-Palestinian violence last month, Palestinian officials said.</p>
+<p>&quot;The Beit Hanoun (Erez) checkpoint opened today and 1,500 workers left Gaza for jobs in Israel,&quot; said Major General Nasr Yousef, commander of Palestinian security forces in the West Bank and Gaza.</p>
+<p>Further south in the Gaza Strip, the Karni crossing point, which handles goods only, reopened after Israel and the PLO agreed that their security personnel in the terminal would be armed only with pistols, a Palestinian security official said.</p>
+<p>&quot;In the first stage, it will be open only for the import and export of food,&quot; the official, Hisham Desouqi, told Reuters. Gradually other material will be allowed through.&quot;</p>
+<p>No Israeli officials were immediately available to comment on the report.</p>
+<p>Israel, in a further sign of an easing of tensions with the Palestinians, lifted on Tuesday a blockade of the West Bank town of Ramallah. It had already cancelled so-called &quot;internal closures&quot; on other Palestinian towns in the West Bank.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GAZA"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

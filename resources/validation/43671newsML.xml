@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43671" id="root" date="1996-09-10" xml:lang="en">
+<title>MEXICO: RESEARCH ALERT - Credit Lyonnais says buy Cemex.</title>
+<headline>RESEARCH ALERT - Credit Lyonnais says buy Cemex.</headline>
+<dateline>MEXICO CITY 1996-09-10</dateline>
+<text>
+<p>Credit Lyonnais Securities said Tuesday it had started coverage of Cemex with a buy rating at a price of 32.30 pesos or $8.50 for the ADR.</p>
+<p>&quot;We believe that Cemex is significantly undervalued compared with the Mexican market and the cement sector,&quot; the brokerage said. &quot;The company currently trades at 8.1x and 5.7x our 1996 and 1997 EV/EBITDA estimates versus an average of 11.1x and 8.2x for the other major Mexican cement companies.&quot;</p>
+<p>Credit Lyonnais said it had set an 18-month target price of 51 pesos for the &quot;B&quot; shares, which were trading at 32 pesos, down 0.30, on Tuesday morning.</p>
+<p>-- Michael Stott, Mexico City newsroom +525 728 7902</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

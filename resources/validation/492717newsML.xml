@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="492717" id="root" date="1997-04-07" xml:lang="en">
+<title>NETHERLANDS: Denmark defies China warning on rights resolution.</title>
+<headline>Denmark defies China warning on rights resolution.</headline>
+<dateline>NOORDWIJK, Netherlands 1997-04-07</dateline>
+<text>
+<p>Foreign Minister Niels Helveg Petersen said on Monday Denmark would press ahead with a U.N. resolution criticising China's human rights record despite China warning it would severely damage relations.</p>
+<p>&quot;We have made our decision,&quot; Petersen told the Danish Ritzaus news agency.  </p>
+<p>Denmark's decision ignored warnings earlier on Monday from Beijing where Foreign Ministry spokesman Shen Guofang said: &quot;If Denmark insists on doing this it will end up as the biggest loser.&quot;</p>
+<p>The Netherlands, which currently holds the rotating EU presidency, has been trying without success to persuade the 15- nation bloc to join forces and sponsor a resolution criticising China at the Geneva meeting of the United Nations human rights commission.</p>
+<p>Although most members support the move, France blocked the resolution and has instead called for dialogue with China rather than confrontation.</p>
+<p>Dutch Foreign Minister Hans van Mierlo has said the Netherlands would support the Danish resolution outside of the EU.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOORDWIJK, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

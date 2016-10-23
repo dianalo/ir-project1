@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162355" id="root" date="1996-11-03" xml:lang="en">
+<title>AUSTRALIA: RTRS-Email half year net profit falls.</title>
+<headline>RTRS-Email half year net profit falls.</headline>
+<dateline>SYDNEY 1996-11-04</dateline>
+<text>
+<p>Six months to September 30</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Net				     23.85  vs 26.61</p>
+<p>    Pre-tax profit			37.78  vs 28.04</p>
+<p>Dividend (cents)			 8.0 vs 11.5</p>
+<p>NOTE: Email Ltd is a appliance and building products manufacturer.  </p>
+<p>    Sales (billion)			1.09 vs 1.02</p>
+<p>    Other income			    371 vs 298</p>
+<p>    Shr (cents)			     8.3 vs 9.50</p>
+<p>    Abnormal items		  loss 5.78 vs loss 2.38</p>
+<p>Dividend is fully franked</p>
+<p>Pay date January 2, 1997</p>
+<p>Reg date November 29, 1996</p>
+<p>    Tax					8.08 vs credit 0.95</p>
+<p>    Interest				21.22 vs 17.27</p>
+<p>    Depreciation			  27.84 vs 29.02</p>
+<p>NOTE: Pre-tax earnings by division</p>
+<p>    Metals distribution		 35.11 vs 21.74</p>
+<p>    Major appliances		     7.12 vs 1.02</p>
+<p>    Building products		   14.19 vs 8.44</p>
+<p>    Industrial products		  6.57 vs 14.67</p>
+<p>NOTE: Sales by division</p>
+<p>    Metals distribution		516.48 vs 356.07</p>
+<p>    Major appliances		   249.91 vs 273.09</p>
+<p>    Building products		  142.45 vs 150.42</p>
+<p>    Industrial products		175.35 vs 196.43</p>
+<p>-- Sydney Newsroom 61-2 373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

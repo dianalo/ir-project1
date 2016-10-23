@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262123" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: RESEARCH ALERT - UBS starts Lazare Kaplan.</title>
+<headline>RESEARCH ALERT - UBS starts Lazare Kaplan.</headline>
+<text>
+<p>-- UBS Securities analyst Michael Dudas said he started Lazare Kaplan International Inc with a buy rating and set a 12- to 18-month target price of $27 to $30 per share.</p>
+<p>-- In published comments, he estimated the company would see a five-year revenue growth rate of 18 percent and net earnings growth of 25 percent.</p>
+<p>-- He said the stock is currently trading at 10.7 times his fiscal 1997 year earnings estimate of $1.60 per share and 9.5 times his fiscal 1998 estimate of $1.80 per share.</p>
+<p>-- E. Auchard, Wall Street bureau, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

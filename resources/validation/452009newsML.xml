@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="452009" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Clinton admin. to offer encryption bill shortly.</title>
+<headline>Clinton admin. to offer encryption bill shortly.</headline>
+<dateline>WASHINGTON 1997-03-19</dateline>
+<text>
+<p>The Clinton administration plans to introduce legislation soon that would clearly affirm that encryption users in this country are free to use any type or strength of encryption technology, a senior administration official said Wednesday.</p>
+<p>Currently, no such explicit law is on the books.</p>
+<p>Under Secretary of Commerce William Reinsch also told a Senate Commerce Committee hearing the bill would explicitly state that participation in so-called &quot;key management infrastructure&quot; would be voluntary. Key refers to the password or software &quot;key&quot; that can read encrypted information.</p>
+<p>The bill also would:</p>
+<p>-- Spell out the legal conditions for the release of &quot;recovery information&quot; to law enforcement officials. The bill also provides legal safeguards for third-party &quot;key recovery agents&quot; who have properly released such information.</p>
+<p>-- Criminalizes the misuse of keys and the use of encryption to further a crime.</p>
+<p>-- Offers, on a voluntary basis, firms that are in the business of providing public cryptography keys the opportunity to obtain government recognition. Such recognition, Reinsch said, would allow firms to &quot;market the trustworthiness implied by government approval.</p>
+<p>The testimony came in a hearing on two bills introduced by Senate lawmakers that would remove almost all export curbs on encryption technology.</p>
+<p>The administration's newest export policy, enacted through executive order in November and in effect since January 1, allows export of stronger encryption than previously allowed.</p>
+<p>But it requires companies to incorporate features within two years allowing the government to crack the codes by getting access to the software keys.</p>
+<p>Administration officials said they opposed the export provisions in the two Senate bills, saying that the export liberalization goes too far.</p>
+<p>The bills were offered by Sens Patrick Leahy (D-Vt.) and Conrad Burns (R-Montana).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473244" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - March 27.</title>
+<headline>PRESS DIGEST - Washington Post business - March 27.</headline>
+<dateline>WASHINGTON 1997-03-26</dateline>
+<text>
+<p>The Washington Post carries the following stories on its business page March 27:</p>
+<p>WASHINGTON - MCI Communications Corp. announced that it won a multimillion-dollar contract from the U.S. Postal Service that could be the District-based company's largest ever.</p>
+<p>WASHINGTON - Partners were heading for the exits, associates were being laid off and the firm was saddled with more pricey downtown office space than it could afford. The D.C. offices of Arent, Fox, Kintner, Plotkin and Kahn were getting pounded in 1993.</p>
+<p>WASHINGTON - The government's criminal antitrust probe of the food additives business resulted in guilty pleas by two giant Swiss chemical companies that agreed to pay a total of $25 million in criminal fines for price fixing.</p>
+<p>WASHINGTON - You're in a bar in Seoul, trying to impress a South Korean businesss associate. &quot;A bottle of Johnny Walker Black, please,&quot; you tell the waiter. Sorry Big Spender, but only Korean scotch is available.</p>
+<p>NEW YORK - A federal judge has approved Texaco Inc's record $176.1 million settlement of a widely watched racial discrimination suit, the company said today.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

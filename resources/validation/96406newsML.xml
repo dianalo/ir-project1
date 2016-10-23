@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96406" id="root" date="1996-10-04" xml:lang="en">
+<title>CUBA: C.E.Heath reported in Cuban joint venture.</title>
+<headline>C.E.Heath reported in Cuban joint venture.</headline>
+<dateline>HAVANA 1996-10-04</dateline>
+<text>
+<p>Cuban state insurance company Esicuba and British insurance group C.E. Heath Plc have agreed to form a joint venture to provide insurance brokering in Cuba, Cuban media said Friday.</p>
+<p>The venture will be Cuba's first foreign association in the insurance sector.</p>
+<p>The official news agency Prensa Latina quoted the president of Esicuba, Ramon Martinez, as announcing the agreement at the end of an insurance conference in Havana this week.</p>
+<p>The news agency gave no details of the structure of the proposed new company. Officials from the Cuban and British companies were not available for comment.</p>
+<p>Esicuba (Seguros Internacionales de Cuba S.A.) offers insurance coverage to Cuban and foreign interests in Cuba and to Cuban interests abroad. It also operates in the international reinsurance market.</p>
+<p>Its venture with a foreign company is in line with Cuba's current policy of seeking foreign investment in virtually all sectors of the economy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

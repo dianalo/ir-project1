@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213385" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Allied Waste raises $525 mln in notes.</title>
+<headline>Allied Waste raises $525 mln in notes.</headline>
+<dateline>SCOTTSDALE, Ariz. 1996-11-25</dateline>
+<text>
+<p>Allied Waste Industries Inc said on Monday its wholly owned subsidiary, Allied Waste North America Inc, priced $525 million of senior subordinated notes due December 1, 2006, with a coupon rate of 10.25 percent.</p>
+<p>Allied Waste said it plans to use the proceeds from the offering to complete its acquisition of Laidlaw Inc's solid waste operations.</p>
+<p>The company said the offering was increased from $475 million last week due to demand.</p>
+<p>Goldman Sachs &amp; Co was lead manager of the offering, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTSDALE, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

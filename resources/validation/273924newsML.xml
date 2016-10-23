@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273924" id="root" date="1996-12-23" xml:lang="en">
+<title>GERMANY: Bilfinger won 150 mln dmk in new orders.</title>
+<headline>Bilfinger won 150 mln dmk in new orders.</headline>
+<dateline>MANNHEIM, Germany 1996-12-23</dateline>
+<text>
+<p>German construction company Bilfinger + Berger AG said on Monday it had in November won orders in Australia worth a total of 150 million marks.</p>
+<p>The group said its Australian unit Baulderstone Hornibrook had won orders to build a 33-floor hotel in Brisbane, a 21-floor apartment complex in Melbourne and a residential building in Sydney as well as pavilions for the Sydney Olympic Games in 2000.</p>
+<p>Baulderstone Hornibrook is starting 1997 with orders worth more than 1.5 billion marks, up from 600 million a year ago, Bilfinger said.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANNHEIM, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

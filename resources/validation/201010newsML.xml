@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201010" id="root" date="1996-11-19" xml:lang="en">
+<title>UK: Five injured in Channel Tunnel train fire.</title>
+<headline>Five injured in Channel Tunnel train fire.</headline>
+<dateline>LONDON 1996-11-19</dateline>
+<text>
+<p>Five truck drivers were hurt on Monday night after a fire broke out in a truck being transported on a train through the Channel Tunnel from Britain to France.</p>
+<p>&quot;The five men have been taken to hospital,&quot; a spokesman for channel tunnel operator Eurotunnel told Reuters. &quot;The train is still on fire. It is being tackled by both the French and British fire fighting services,&quot; the spokeswoman added.</p>
+<p>The 35 mile long (51 km) tunnnel linking England and France was closed after the freight-shuttle train, used to transport trucks and their drivers, was evacuated just after 9 p.m. (same GMT) with the carriages around 12 miles (19 km) from the French end of the tunnel.</p>
+<p>The fire broke out toward the back of the 730 metre (yard) long train, which can carry up to 28 large trucks, the Eurotunnel spokeswoman said.</p>
+<p>&quot;It is the first time the tunnel has been closed for an emergency. We have had safety drills in the past but this is the first real event,&quot; she said.</p>
+<p>Thirty one passengers were evacuated from the northbound tunnel to a central service shaft and then transported via another shuttle train back to France via the southbound tunnel.</p>
+<p>Three of the injured truck drivers were taken to a hospital in Calais and the other two were in hospital in Lille, the spokeswoman said.</p>
+<p>Eurotunnel said they did not know when the tunnel would be opened for passenger traffic. &quot;We do not know exactly what damage has been caused because the firefighters are still dealing with it,&quot; the spokeswoman said.</p>
+<p>&quot;Both the French and the Kent(British) fire services they are making steady progress fighting the fire but it is not completely out yet,&quot; she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

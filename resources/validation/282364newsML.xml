@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="282364" id="root" date="1996-12-31" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - France - Le Monde Dec 31.</title>
+<headline>PRESS DIGEST - France - Le Monde Dec 31.</headline>
+<dateline>PARIS 1996-12-31</dateline>
+<text>
+<p>These are leading stories in today's afternoon daily Le Monde, dated Jan 1.</p>
+<p>FRONT PAGE</p>
+<p>-- President Jacques Chirac expected to tell the nation on Tuesday evening he is confident his policy will put the nation in a position to honour its commitments to the single currency on January 1, 1999.</p>
+<p>BUSINESS PAGES</p>
+<p>-- France Telecom, a private limited company as of December 31, faces major challenges in terms of management style, restructuring, training and corporate culture in the run-up to deregulation of the telecoms market in early 1998.</p>
+<p>-- CMA press release after board meeting notes financial disagreement over purchase of state-owned CGM shipping company, but adds &quot;concessions have been made to encourage an accord&quot;. The CFDT trade union at its December 17 meeting called on crews to strike.</p>
+<p>-- Air Liberte founder Lotfi Belhassine has resigned from the board and turned over the chair to Marc Rochet.</p>
+<p>-- Paris Newsroom +33 1 4221 5381</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

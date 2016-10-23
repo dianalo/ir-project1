@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="663922" id="root" date="1997-06-16" xml:lang="en">
+<title>INDIA: Indian rupee recovers after RBI's dollar purchase.</title>
+<headline>Indian rupee recovers after RBI's dollar purchase.</headline>
+<dateline>BOMBAY 1997-06-16</dateline>
+<text>
+<p>The Indian rupee gained to 35.81/82 against the dollar on Monday afternoon from the opening level of 35 83/84 despite an intervention by the Reserve Bank of India (RBI) earlier in the day, dealers said.</p>
+<p>They said RBI bought dollars at 35.81 and 35.82 levels.</p>
+<p>Spot rupee moved by three paise from 35.81 to 35.83 on Monday, dealers said.</p>
+<p>Forward dollar premiums showed a mild uptrend but were largely steady, they said.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

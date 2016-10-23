@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-06-03" id="root" itemid="632801" xml:lang="en">
+<title>USA: Fannie Mae to redeem $650 mln in notes.</title>
+<headline>Fannie Mae to redeem $650 mln in notes.</headline>
+<dateline>WASHINGTON 1997-06-03</dateline>
+<text>
+<p>Fannie Mae on Tuesday said that it will redeem all outstanding amounts of four medium-term note issues totalling $650 million as follows.</p>
+<p>    Principal    Interest    Maturity   Cusip	Redemption</p>
+<p>    Amount	  Rate (%)     Date     Number	  Date</p>
+<p> $250 million	6.55	06/13/01   31364CEK0   06/13/97</p>
+<p> $ 50 million	7.27	06/06/01   31364CED6   06/13/97</p>
+<p> $ 50 million	7.50	06/03/03   31364CDV7   06/13/97</p>
+<p> $300 million	7.19	04/25/01   31364AR61   07/03/97</p>
+<p>The redemption price of the debentures will be 100 percent of the principal amount plus interest accrued to the redemption date, Fannie Mae said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-06-03" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-06-03" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="WASHINGTON" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

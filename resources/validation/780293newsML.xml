@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780293" id="root" date="1997-08-05" xml:lang="en">
+<title>AUSTRALIA: SFE ponders wheat futures move from pit to screens.</title>
+<headline>SFE ponders wheat futures move from pit to screens.</headline>
+<dateline>MELBOURNE 1997-08-05</dateline>
+<text>
+<p>The Sydney Futures Exchange (SFE) is seriously considering changing trading in its low-turnover wheat contract from floor pits to screen dealing, SFE chief executive Les Hosking said on Tuesday.</p>
+<p>This would allow electronic matching of bids, Hosking told an in-house conference sponsored by the Australian Wheat Board.</p>
+<p>Electronic devices now being designed for availability in six to 12 months would allow competitive pricing to take place, Hosking said. Hosking said the contract was not growing, partly because some physical wheat prices were not easily available.  </p>
+<p>However, he said technology would &quot;make it (the futures market) happen&quot;.</p>
+<p>While development of the market in wheat futures would take time, in 18 months to two years the contract would be much more liquid, Hosking said.</p>
+<p>There was no inevitability that wheat futures would move to screen trading, Hosking later told Reuters.</p>
+<p>The biggest present programme at the SFE was the the building of electricity futures trading, he said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

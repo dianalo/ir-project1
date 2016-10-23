@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="510482" id="root" date="1997-04-15" xml:lang="en">
+<title>PAKISTAN: U.S. officials arrest Pakistani airman for drugs.</title>
+<headline>U.S. officials arrest Pakistani airman for drugs.</headline>
+<dateline>ISLAMABAD 1997-04-14</dateline>
+<text>
+<p>U.S. drug officials have arrested a senior Pakistan Air Force (PAF) officer in New York for allegedly carrying heroin in a PAF Boeing 707, a military statement said on Monday.</p>
+<p>The statement by the Inter-Services Public Relations Department did not give the date of the arrest of Squadron Leader Mohammad Farooq or state the purpose of the plane's trip to the United States.</p>
+<p>However, a local vernacular newspaper, Khabrain, said the officer was arrested three days ago and that he had been due to bring to Pakistan spare parts for U.S.- made F-16 fighters.</p>
+<p>The statement said Farooq was arrested for possessing about two kg (4.4 pounds) of heroin and that the arrest was &quot;the result of a proactive programme started by PAF to combat the rapidly increasing spectre of drug trafficking&quot;.</p>
+<p>It said the plane was returning to Pakistan on Tuesday.</p>
+<p>&quot;The Chief of the Air Staff (Air Chief Marshal Abbas Khattak) has ordered an immediate high-level inquiry into this shameful act since it is not only a breach of law but also undermines military discipline and morale,&quot; the statement said.</p>
+<p>&quot;Disciplinary action as well as other measures to preclude recurrence of such offences are being further enforced,&quot; it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

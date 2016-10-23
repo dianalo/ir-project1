@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71570" id="root" date="1996-09-23" xml:lang="en">
+<title>SINGAPORE: SMB hits high of S$0.32 at open.</title>
+<headline>SMB hits high of S$0.32 at open.</headline>
+<dateline>SINGAPORE 1996-09-23</dateline>
+<text>
+<p>Newly-listed SMB United Ltd hit a high of Singapore $0.32 cents at the open on Monday, giving it a three cent premium over its initial offer price of S$0.29.  </p>
+<p>Dealers said the stock quickly traded down to its IPO price of S$0.29 before recovering to S$0.305 after 20 minutes of trading. Volume was about 7.4 million shares.</p>
+<p>&quot;The debut was a bit disappointing. There was only one lot traded at S$0.32 at the open. Most people had expected that price to hold at least. There are lots of sellers queued at S$0.32,&quot; said a dealer with a local broking firm.</p>
+<p>She said general weak market sentiment affected trading in SMB, which had offered 103.13 million shares in its IPO.</p>
+<p>SMB is a manufacturer of low voltage switchgears used in power distribution. -- Singapore Newsroom 65-8703080</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561872" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Century Telephone to see $0.75/shr gain.</title>
+<headline>Century Telephone to see $0.75/shr gain.</headline>
+<dateline>MONROE, La. 1997-05-06</dateline>
+<text>
+<p>Century Telephone Enterprises Inc said Tuesday it will report a pre-tax gain of $70 million in connection with its strategic alliance with Brooks Fiber Properties Inc.</p>
+<p>The company said that for merging its competitive local exchange carrier business with Brooks, it received 4.3 million Brooks  shares, or 12 percent of that company's common stock, with an aftertax value of $45 million, or $0.75 per share.</p>
+<p>The company said the transaction provides future opportuniuties for Century and Brooks to develop additional local networks in Century's wireless markets in Michigan on a 50/50 joint venture basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONROE, La."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

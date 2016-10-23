@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="464281" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: SBS Technologies sees EPS shortfall.</title>
+<headline>SBS Technologies sees EPS shortfall.</headline>
+<dateline>ALBUQUERQUE, N.M. 1997-03-24</dateline>
+<text>
+<p>SBS Technologies, Inc said on Monday it expected its third quarter results would be at the low end of analysts' estimates ranging from $0.31 to $0.36 per share, because of an unfavorable sales mix.</p>
+<p>While SBS said it expected substantial increases in sales and net income due to recent acquisitions, earnings per share would not reach the mean of analysts' estimates.  </p>
+<p>&quot;We expect our revenue to be in line with the average of analysts' expectations for the quarter,&quot; Christopher Amenson, chief executive officer, said. &quot;However, a slightly unfavorable sales mix among our product lines will likely result in less favorable margins than analysts' expectations, and earnings per share at the low end of published estimates.&quot;</p>
+<p>The company said its other businesses were growing and it continued to expand product development efforts and marketing and sales spending.</p>
+<p>&quot;We remain confident in our position in the markets we serve and in the strategy we are executing to achieve continued long term growth,&quot; Amenson said.</p>
+<p>SBS Technologies makes embedded computer components.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALBUQUERQUE, N.M."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

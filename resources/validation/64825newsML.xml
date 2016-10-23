@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64825" id="root" date="1996-09-19" xml:lang="en">
+<title>INDIA: India rupee ends slightly up vs dlr in dull trade.</title>
+<headline>India rupee ends slightly up vs dlr in dull trade.</headline>
+<dateline>BOMBAY 1996-09-19</dateline>
+<text>
+<p>The Indian rupee ended Thursday at 35.71/72 per dollar against the day's opening 35.72/73, dealers said.</p>
+<p>In dull trade, the rupee was range bound between a high of 35.715 per dollar and a low of 35.73, they said.</p>
+<p>The Reserve Bank of India bought dollars at 35.7175 and 35.72 rupees, dealers said.</p>
+<p>In the forward section, the premia for six-month dollars ended Thursday at an annualised rate of 10.36 percent against Wednesday's close of 10.42 percent, dealers said.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

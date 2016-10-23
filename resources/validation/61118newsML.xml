@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61118" id="root" date="1996-09-18" xml:lang="en">
+<title>LATVIA: Latvia cabinet okays balanced 1997 budget.</title>
+<headline>Latvia cabinet okays balanced 1997 budget.</headline>
+<dateline>RIGA 1996-09-18</dateline>
+<text>
+<p>The Latvian government has approved a balanced budget for 1997 and the package will be passed to parliament for consideration, the government said on Wednesday.</p>
+<p>The government's press office said in a statement the budget was approved on Tuesday and included spending and revenues of 544 million lats.</p>
+<p>The govermment of Prime Minister Andris Shkele pledged when it took office late last year that it would rein in Latvia's budget deficit, which soared to 90 million lats in 1995.</p>
+<p>The deficit ballooned in the wake of a banking crisis and poor revenue collection.</p>
+<p>The 1996 deficit is expected to be around 40 million lats.</p>
+<p>The reduction and eventual elimination of the deficit has been backed by the International Monetary Fund (IMF), which earlier this year gave Latvia further funds on condition it got its fiscal house in order.</p>
+<p>The newspaper said Latvia's maximum foreign debt would be 540 million lats but that only 56 million lats worth of loans would be able to get state guarantees.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

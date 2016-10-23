@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123940" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Canada spot propane weakens in slow trade.</title>
+<headline>Canada spot propane weakens in slow trade.</headline>
+<dateline>NEW YORK 1996-10-17</dateline>
+<text>
+<p>Canada spot propane prices dipped for the second consecutive week, pressured by slow trade and renewed confidence in stocks, players said on Thursday.</p>
+<p>Weaker values in the U.S. hubs also helped lower Canada prices, traders added.</p>
+<p>In the Eastern Canadian hub of Sarnia, spot propane dropped about 1.25 cents a gallon during the week to between 52.50/53.00 cents in quiet trade.</p>
+<p>&quot;Inventories are starting to look pretty good for eastern Canada now,&quot; said one player, noting last month's nearly 14 percent stock build.</p>
+<p>In the Western hub of Edmonton, spot material fell one cent to 44.00/44.50 cents. The region had 23.5 percent stock build last month.</p>
+<p>Sarnia normal butane, however, remained largely unchanged at 48.50/49.00 cents amid tight supplies.</p>
+<p>A transportation symposium sponsored this week by the National Propane Association of Canada dampened activity, players added.</p>
+<p>-- Laney Salisbury, New York Bureau +1 212 859 1631</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61317" id="root" date="1996-09-18" xml:lang="en">
+<title>PHILIPPINES: First Gas says to sign $650mln deal with Siemens.</title>
+<headline>First Gas says to sign $650mln deal with Siemens.</headline>
+<dateline>MANILA 1996-09-18</dateline>
+<text>
+<p>The Philippines' First Gas Holdings Corp said it would sign an agreement with Siemens A.G. of Germany to build a $650 million power plant in Batangas province just south of Manila.  </p>
+<p>The agreement is to be signed in October to coincide with the visit to Manila by German Chancellor Helmut Kohl, First Gas president Peter Garrucho told reporters.</p>
+<p>The 990-megawatt gas-fired power plant will be built in the municipality of Santa Rita in Batangas, he said.</p>
+<p>First Gas is a joint venture of British Gas and First Philippine Holdings Corp.</p>
+<p>-- Manila newsroom (632) 841 8913 Fax (632) 817 6267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

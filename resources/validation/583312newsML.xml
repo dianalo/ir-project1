@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583312" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Carmel Container Q1 net falls.</title>
+<headline>Carmel Container Q1 net falls.</headline>
+<dateline>NEW YORK 1997-05-14</dateline>
+<text>
+<p>(Figures adjusted to March 31, 1997)</p>
+<p>							 CONVENIENCE</p>
+<p>			    1996	   1997    TRANSLATION</p>
+<p>			 (NIS 000)    (NIS 000)	 ($000)</p>
+<p> NET SALES	     102,657	 87,841	 26,135</p>
+<p> GROSS PROFIT	   19,530	 13,193	  3,925</p>
+<p>OPERATING</p>
+<p> INCOME		   11,720	  4,448	  1,323</p>
+<p> NET INCOME		6,317	    257	     76</p>
+<p>WEIGHTED</p>
+<p> AVERAGE SHARES    2,512.000    2,512.000    2,512.000</p>
+<p>NET INCOME</p>
+<p> PER SHARE		  2.52	   0.10	   0.03</p>
+<p>NOTE: On March 31, 1997, the rate of exchange of New Israeli Shekels (NIS) 3.361=$1.</p>
+<p>The company said lower results for the current quarter reflect an economic slowdown, lower subsidiary sales and the reorgonization of a new plant.</p>
+<p>Full name is Carmel Container Systems Ltd.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

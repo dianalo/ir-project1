@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133786" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Democrat has big lead in Washington governor's race.</title>
+<headline>Democrat has big lead in Washington governor's race.</headline>
+<dateline>SEATTLE 1996-10-22</dateline>
+<text>
+<p>In the race to succeed outgoing Washington Gov. Mike Lowry, Democrat Gary Locke has a wide lead over Republican Ellen Craswell, according to poll results published on Tuesday.</p>
+<p>With two weeks before the Nov. 5 election, Locke, the top elected official in the state's biggest county, was favoured by 52 percent of likely voters, according to two opinion polls published in the Seattle Post-Intelligencer newspaper.</p>
+<p>Craswell, a former state senator, was supported by 37 percent of those questioned by Evans/McDonough Inc., which generally does polling for Democrats, and by 26 percent in the independent Elway poll.</p>
+<p>Both polls also said President Bill Clinton was far ahead of Republican challenger Bob Dole with support from 47 percent of likely voters.</p>
+<p>The Elway poll said Dole was favoured by just 28 percent, while the Evans/McDonough poll said the former Senate majority leader had backing from 38 percent of those questioned.</p>
+<p>Third party candidate Ross Perot was seen getting six percent of the vote in both polls, with the remainder going to consumer activist Ralph Nader or undecided.</p>
+<p>The Elway poll surveyed 400 likely voters and had a margin of error of five percentage points. The Evans/McDonough poll questioned 600 likely voters and had a margin of error of four percentage points.</p>
+<p>In the Elway Poll, Craswell won overwhelming support from voters who identified themselves as Republicans and from Christian conservatives. Craswell, who emerged a narrow winner in an eight-way primary last month, is from the party's Christian conservative wing and has pledged she would return state government to Biblical values.</p>
+<p>Locke, a former state legislator who is now executive of King County, which includes Seattle, has promoted a moderate platform after the more liberal Democrat Lowry, who is stepping down after one term.</p>
+<p>If elected, Locke, the son of Chinese immigrants, would be the first Asian-American U.S. state governor outside Hawaii.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

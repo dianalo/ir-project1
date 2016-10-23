@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34494" id="root" date="1996-09-05" xml:lang="en">
+<title>MEXICO: APL, TMM upgrade Mexico-Asia shipping service.</title>
+<headline>APL, TMM upgrade Mexico-Asia shipping service.</headline>
+<dateline>MEXICO CITY 1996-09-05</dateline>
+<text>
+<p>Shippers APL Limited and its Mexican partner Transportacion Maritima Mexicana SA (TMM) have upgraded the weekly all-water service between Mexico and Asia, APL said Thursday.</p>
+<p>&quot;The improvements between Asia and Mexico have been made possible through an upgrading and redeployment of the six ships in service, which are operated by TMM,&quot; APL said.</p>
+<p>&quot;All the ships in service have been replaced with fast, modern container ships operating at 21-22.5 knots, compared with approximately 17-knot vessels used since the service was inaugurated in 1994,&quot; APL said.  </p>
+<p>APL said the faster services will reduce transit times by 10 days from the Mexican Pacific port of Manzanillo to Bangkok and by five days to Kaohsiung to Manzanillo. It did not specify journey times.</p>
+<p>The Mexico-Asia service features a 13-day transit from Yokohama to Manzanillo and is designed for Asian manufacturers of time-sensitive consumer goods and auto parts and for Mexican exporters of chemicals, industrial and raw materials, refrigerated and dry foodstuffs.</p>
+<p>The service provides direct vessel calls at Hong Kong, Kaohsuing, Kobe and Yokohama to Mexico.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

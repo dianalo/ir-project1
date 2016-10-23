@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40352" id="root" date="1996-09-09" xml:lang="en">
+<title>GERMANY: Viesturs Vucins named chief of Global One.</title>
+<headline>Viesturs Vucins named chief of Global One.</headline>
+<dateline>BONN 1996-09-09</dateline>
+<text>
+<p>Deutsche Telekom AG said it, France Telecom and Sprint Corp of the U.S. had decided to make Viesturs Vucins president and chief executive of their Global One telecommunications venture.</p>
+<p>Telekom said in a statement Vucins would be based in Brussels and start work immediately.</p>
+<p>&quot;Viesturs Vucins is an exceptionally gifted manager with huge experience in telecommunications,&quot; the statement said.</p>
+<p>Vucins was previously founder and president of Unisource/Uniworld in Europe, president of Swedish Telecom International and worked 17 years at Ericsson Fibre Optics Co .</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

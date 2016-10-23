@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="472021" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: Cohen approves production of new U.S. Navy plane.</title>
+<headline>Cohen approves production of new U.S. Navy plane.</headline>
+<dateline>WASHINGTON 1997-03-27</dateline>
+<text>
+<p>Defense Secretary William Cohen approved Thursday initial production of the Navy's advanced F/A-18E/F, giving it an advantage if one of three next-century U.S. warplanes must be scrapped.</p>
+<p>The Navy said Cohen and Undersecretary of Defense Paul Kaminiski approved production of the first 62 of a total 1,000 of the F/A-18E/F planes the Navy plans to buy from McDonnell Douglas Corp. for $71.5 billion.</p>
+<p>The decision gives the F/A-18E/F an advantage because the other two U.S. warplanes planned for the next century are far from the production stage and the Congressional Budget Office has questioned whether the military can afford all three.</p>
+<p>The others are the F-22 stealth fighter being developed by Lockheed Martin and Boeing for the Air Force and a Joint Strike Fighter for which Lockheed Martin and Boeing are competing.</p>
+<p>A major review being conducted by the military under Cohen's leadership is also considering whether the military can afford all three of the planes.</p>
+<p>Kaminsky said in a memorandum that he approved early production of the F/A-18E/F, known as the Super Hornet, because the Navy estimated that would produce significant cost savings.</p>
+<p>Navy officials said the decision was approved by Cohen.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

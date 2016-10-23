@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701605" id="root" date="1997-07-02" xml:lang="en">
+<title>HUNGARY: Budapest BSE suspends Pannon-Flax -traders.</title>
+<headline>Budapest BSE suspends Pannon-Flax -traders.</headline>
+<dateline>BUDAPEST 1997-02-12</dateline>
+<text>
+<p>The Budapest Stock Exchange suspended trading in the shares of textile industrial company Pannon-Flax on Wednesday following an over-rapid intraday rise after the release its 1996 results, traders said.</p>
+<p>Pannon-Flax shares opened at 570 forints and rallied 20 percent to a year-high of 660 forints, triggering its suspension about a quarter hour before spot trading closes, they said.</p>
+<p>Styl was suspended at 0958 GMT at 1,450 forints, having surged 20.58 percent since its last closing price of 1,200 forints on June 25.</p>
+<p>Until that time three deals were made for a total of 275 shares.</p>
+<p>A stock exchange official in the floor confirmed the suspension to Reuters.</p>
+<p>&quot;It was suspended for too rapid rise,&quot; she said.</p>
+<p>The stock exchange decides to suspend trading for a day in any stock if its price movements exceed 20 percent in either direction.</p>
+<p>-- Budapest newsroom +36 1 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="440646" id="root" date="1997-03-13" xml:lang="en">
+<title>EGYPT: Egyptian overnight, one-week rates fall.</title>
+<headline>Egyptian overnight, one-week rates fall.</headline>
+<dateline>CAIRO 1997-03-13</dateline>
+<text>
+<p>Overnight and one-week interbank rates on the Egyptian pound fell on Thursday in an extremely liquid private-sector market, bankers said.</p>
+<p>Most bankers said overnight rates fell to between eight and 8-3/4 percent from 8-3/4 and 9-7/8 percent on Wednesday.</p>
+<p>But one banker quoted a range of 9-1/2 and 9-7/8 percent.</p>
+<p>One-week rates were between 8-3/4 and nine percent against Wednesday's 9-3/4 to 9-7/8 percent.</p>
+<p>The market is usually most liquid on Wednesdays and Thursdays, the last two days of the Egyptian working week.</p>
+<p>Bankers also attributed the high liquidity in the market to refused T-Bills bids this week. The central bank received bids for bills worth 1,676.650 million pounds but accepted only 751.450 million.</p>
+<p>Public sector banks kept rates steady at 10-1/2 percent.</p>
+<p>$1 = 3.395 pounds</p>
+<p>-- Cairo newsroom +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133034" id="root" date="1996-10-22" xml:lang="en">
+<title>CANADA: Westcoast Energy says B.C. okays project.</title>
+<headline>Westcoast Energy says B.C. okays project.</headline>
+<dateline>VANCOUVER 1996-10-22</dateline>
+<text>
+<p>Westcoast Energy Inc said on Tuesday the Island Cogeneration Project won approval from the British Columbia government to build a cogeneration plant at Fletcher Challenge Canada Ltd's Elk Falls pulp and paper mill near Campbell River.</p>
+<p>The Island Cogeneration Project is a C$200 million joint venture between Fletcher Challenge Energy Inc and Westcoast Power Inc.  </p>
+<p>The project will be 60 percent-owned by Fletcher Energy, a unit of Fletcher Challenge Ltd  of New Zealand, and 40 percent by Westcoast. The C$200 million investment will be divided proportionately between them according to their ownership positions.</p>
+<p>The provincially owned utility, B.C. Hydro, will enter into final negotiations to purchase the 240 megawatts of power the project will generate. The natural gas-fueled plant is expected to go into operation in 1999. It will also process steam for the adjacent pulp and paper mill, allowing the mill to retire older boilers and cut costs.  </p>
+<p>&quot;Without the projected cost reduction this entails, it would be difficult for the Elk Falls mill to continue operating at its current level,&quot; said Fletcher Challenge Canada president Doug Whitehead.</p>
+<p>Westcoast chief executive Michael Phelps said the project would offer a boost to the province's gas industry as well. He estimated it would increase demand by 40 million cubic feet a day and entail natural gas purchases of about C$2 billion over its 20-year life. &quot;That will have a big impact on production,&quot; he said.</p>
+<p>The venture was selected from 10 finalists.  </p>
+<p>Another contender was a cogeneration project proposed by forest giant MacMillan Bloedel Ltd at its Port Alberni pulp and paper mill. At a news conference, British Columbia Premier Glen Clark said the government was granting approval to only one project now, but said he &quot;would not close the door to that (MacMillan) project indefinitely.&quot;</p>
+<p>Vancouver Island currently generates only about 25 percent of its power needs, with the rest imported over expensive submarine cables. The Island project would increase that figure to about 35 percent, which would leave room for future projects, Clark said.  </p>
+<p>The venture will have receive an average C$0.033 per kilowatt hour generated over its 20-year life, said Fletcher Challenge Energy vice president Bob Hepple. It will generate a net 236,000 kilowatts per hour and run 24 hours a day. It will operate about 94 percent of the year after downtime for maintenance.</p>
+<p>The province said the was roughly on par with the cost of power generation for B.C. Hydro currently. But the utility will save money because it will not have to transmit the electricity underwater and will be able to defer building further submarine transmission capacity.</p>
+<p>-- Reuters Vancouver Bureau (604) 664-7314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

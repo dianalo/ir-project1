@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699088" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: U.S. money managers lower cash positions -- MCM.</title>
+<headline>U.S. money managers lower cash positions -- MCM.</headline>
+<dateline>NEW YORK 1997-07-01</dateline>
+<text>
+<p>U.S. fixed-income managers held their dollar-weighted durations on their debt portfolios mostly steady, but cash positions dropped for the second consecutive week, an MCM MoneyWatch Inc survey said.</p>
+<p>&quot;Cash positions fell further ... but are still above the December (1996) lows,&quot; said MCM MoneyWatch vice president Astrid Adolfson, who conducts the weekly survey.</p>
+<p>The drop may be attributed to quarter-end &quot;windowdressing,&quot; because both ends of the yield curve became overweighted, Adolfson added.  </p>
+<p>In the week ending June 30, durations as a percentage of benchmark inched lower to 108.0 from 108.1 percent.</p>
+<p>A duration reading above 100 percent indicates the group of investors polled is mostly long on the market.</p>
+<p>A portfolio's duration represents its average maturity and is used by portfolio managers to calculate exposure to risk.</p>
+<p>In the &quot;next likely move&quot; category, portfolio managers representing 32 percent of total assets in the survey said they would &quot;buy,&quot; unchanged from the prior week.</p>
+<p>Strategists leaning toward &quot;sell&quot; held steady at 19 percent.  </p>
+<p>Forty-nine percent of managers said they were &quot;neutral&quot; on the market.</p>
+<p>Cash as a percentage of assets fell to 2.75 percent from 2.84 percent registered the previous week.</p>
+<p>The survey showed 33 percent of investors polled overweighted the 10-plus years duration sector, up from 31 percent the previous week, while 9.0 percent underweighted it.</p>
+<p>The remaining 58 percent were &quot;neutral.&quot;</p>
+<p>In the five- to 10-year duration sector, 50 percent of investors polled said they overweighted the securities and 11 percent underweighted them.  </p>
+<p>The survey included 38 domestic participants who manage about $110 billion in fixed-income assets. The poll is conducted weekly by MCM and usually is released on Tuesday.</p>
+<p>Results of the survey follow:</p>
+<p>   Category*					 June 30, 1997</p>
+<p>   Duration percentage of benchmark		 108.0 pct</p>
+<p>   Next Likely Move-Buy(B)/Sell(S)     32 pct B- 19 pct S</p>
+<p>Over(O)-Under(U) Weight Benchmark</p>
+<p>   Governments				  15 pct O-49 pct U</p>
+<p>   Corporates				   64 pct O-23 pct U</p>
+<p>   Mortgages				    34 pct O-49 pct U</p>
+<p>   Cash as a percentage of assets		    2.75 pct</p>
+<p>Percentage experiencing cash</p>
+<p>	In (I) - Out (O)			41 pct I- 2 pct O</p>
+<p>Over(O)-Under(U) weight Benchmark</p>
+<p>   1- to 5-year duration sector	   29 pct O-44 pct U</p>
+<p>   5- to 10-year duration sector	  50 pct O-11 pct U</p>
+<p>   10+     year duration sector	   33 pct O- 9 pct U</p>
+<p>* Table provided by MCM MoneyWatch Inc consultants.</p>
+<p>Results are dollar-weighted.</p>
+<p>(( -- N.A. Treasury Desk, 212-859-1660 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

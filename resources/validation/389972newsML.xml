@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389972" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: Easco Inc Q4 shr loss vs profit.</title>
+<headline>Easco Inc Q4 shr loss vs profit.</headline>
+<dateline>GIRARD, Ohio 1997-02-20</dateline>
+<text>
+<p>(In thousands, except share and per share data)</p>
+<p>					Periods Ended December 31,</p>
+<p>				 Three Months		Year</p>
+<p>			    1996     1995(A)	 1996     1995(A)</p>
+<p> Net sales	    $75,660    $76,234    $333,011   $339,703</p>
+<p>Reorganization charge</p>
+<p>			    3,479	   --	 3,479	   --</p>
+<p>Net income (loss)</p>
+<p>			( 26,169)	2,773   ( 22,318)     11,651</p>
+<p>Earnings (loss) per</p>
+<p>common share(B)</p>
+<p>Net income (loss)</p>
+<p>			  ( 2.54)	 0.27     ( 2.17)	 1.22</p>
+<p>Weighted average number</p>
+<p>of common shares</p>
+<p>outstanding  10,315,483 10,243,144  10,261,774  9,544,514</p>
+<p>NOTE - (A) On a pro forma basis, after giving effect to the company's common stock offering on April 21, 1995, as if it had occurred on January 1, 1995, for the three months ended December 31, 1995 net income and the weighted average number of common shares outstanding would have been unchanged.</p>
+<p>For the year ended December 31, 1995, net income and the weighted average number of common shares outstanding would increase by $250,000 and 698,630, respectively, and net income per common share would decrease by $0.08.</p>
+<p>(B) Earnings (loss) per share amounts include after tax, non-cash LIFO income of $0.08 and $0.15 per share for the three months ended December 31, 1996 and 1995, respectively, and $0.19 and $0.11 per share for the years ended December 31, 1996 and 1995, respectively.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GIRARD, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="307863" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: FCC pulls some MobileMedia paging licenses.</title>
+<headline>FCC pulls some MobileMedia paging licenses.</headline>
+<dateline>NEW YORK 1997-01-15</dateline>
+<text>
+<p>The U.S. Federal Communications Commission (FCC) has terminated nearly 300 paging licenses held by MobileMedia Corp, MobileMedia said on Wednesday.</p>
+<p>Specifically, the FCC terminated approximately 185 authorizations for unconstructed paging facilities and 99 authorizations for facilities completed after the expiration date of their construction permits.</p>
+<p>MobileMedia is permitted to operate from those completed facilities on an interim basis until the FCC takes further action, the company said.  </p>
+<p>The FCC's action does not affect other existing paging facilities or MobileMedia's nationwide paging authorizations, the company said.</p>
+<p>Further, the FCC dismissed approximately 94 applications for fill-in sites around existing paging stations as defective because they were predicated on unconstructed facilties. Those applications had been filed under the &quot;40-mile rule,&quot; MobileMedia said.</p>
+<p>The FCC issued a Public Notice relating to the status of the authorizations on Monday.  </p>
+<p>MobileMedia in December said it might seek Chapter 11 bankruptcy protection after it failed to make a scheduled $5.6 million interest payment on its 9-3/8 percent senior subordinated debt due 2007.</p>
+<p>The company said it was uncertain how the FCC notice would affect current and future operations, but it &quot;could have a material adverse impact upon the financial condition or operations of the company.&quot;  The company had said it discovered misrepresentations and other violations which occurred during the licensing procedure for six percent to seven percent of its approximate 8,000 local transmission one-way paging stations.</p>
+<p>((--Al Yoon, 212-859-1672))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

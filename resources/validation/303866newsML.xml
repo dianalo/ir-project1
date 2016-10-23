@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303866" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Cold, snow forecast for U.S. winter wheat regions.</title>
+<headline>Cold, snow forecast for U.S. winter wheat regions.</headline>
+<dateline>CHICAGO 1997-01-13</dateline>
+<text>
+<p>Winter wheat fields will probably remain frozen this week but meteorologists said another snow storm will provide some protection from winter kill.</p>
+<p>&quot;We should see snow in the central Plains tonight and tomorrow, moving east Wednesday,&quot; said Joel Burgio, meteorologist with Weather Services Corp. &quot;That should provide some protective snow cover for wheat.&quot;</p>
+<p>Temperatures remained bitterly cold Monday morning. Goodland, Kan., reported a low temperature of -17 Farenheit and Indianapolis dipped to -12 F.  </p>
+<p>Temperatures should average five to 15 degrees below normal through Sunday, said Craig Solberg, meteorologist with Frees-Notis.</p>
+<p>&quot;It looks like (the cold) is going to last through this coming weekend,&quot; Solberg said. &quot;There will be some snow across western Kansas and Nebraska early this week.&quot;</p>
+<p>He also predicted light snow across the soft red winter wheat growing regions of Illinois, Indiana and Ohio.</p>
+<p>Those areas received moderate snowfall over the weekend which lessened the risk of winter kill, Burgio noted.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

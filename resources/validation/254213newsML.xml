@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254213" id="root" date="1996-12-13" xml:lang="en">
+<title>UK: SOCCER-RONALDO VOTED BEST PLAYER IN MAGAZINE POLL.</title>
+<headline>SOCCER-RONALDO VOTED BEST PLAYER IN MAGAZINE POLL.</headline>
+<dateline>LONDON 1996-12-13</dateline>
+<text>
+<p>Barcelona striker Ronaldo eclipsed Newcastle's Alan Shearer to win World Soccer magazine's player of the year title, the publication said on Friday.</p>
+<p>George Weah of AC Milan came third in the readers' poll.</p>
+<p>Berti Vogts was voted best manager after steering Germany to European championship success.</p>
+<p>He received nearly three times as many votes as Alex Ferguson, who guided Manchester United to a second English league and cup double.</p>
+<p>Top 10 players:</p>
+<p>1. Ronaldo (Barcelona and Brazil)</p>
+<p>2. Alan Shearer (Newcastle and England)</p>
+<p>3. George Weah (AC Milan and Liberia)</p>
+<p>4. Matthias Sammer (Borussia Dortmund and Germany)</p>
+<p>5. Juergen Klinsmann (Bayern Munich and Germany)</p>
+<p>6. Gabriel Batistuta (Fiorentina and Argentina)</p>
+<p>7. Eric Cantona (Manchester United)</p>
+<p>8. Nwankwo Kanu (Internazionale and Nigeria)</p>
+<p>9. Jari Litmanen (Ajax and Finland)</p>
+<p>10. Gianluca Vialli (Chelsea and Italy).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

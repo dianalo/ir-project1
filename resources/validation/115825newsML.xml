@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115825" id="root" date="1996-10-14" xml:lang="en">
+<title>SOUTH AFRICA: SOVEREIGN FOOD HALF YEAR EARNINGS SLUMP.</title>
+<headline>SOVEREIGN FOOD HALF YEAR EARNINGS SLUMP.</headline>
+<dateline>JOHANNESBURG 1996-10-14</dateline>
+<text>
+<p>Half year ended August 31 </p>
+<p>			(million rand unless stated)	 </p>
+<p>    Shr, attrib (cts)     0.73	  vs 29.55</p>
+<p>    Div (cts)		  -	    vs  -   </p>
+<p>    Attrib income	   0.19	  vs 7.39</p>
+<p>    Pre-tax		   0.19	  vs 8.33</p>
+<p>    Tax			  -	    vs 0.95</p>
+<p>    Interest paid	   0.17	  vs 0.24 received</p>
+<p>    Turnover		  43.48	 vs 36.64</p>
+<p>Full name: Sovereign Food Investments Ltd </p>
+<p>NOTE - The company said it was hit by falling margins in the</p>
+<p>poultry industry. However, the situation was expected to improve</p>
+<p>significantly in the second half with the group returning to</p>
+<p>&quot;meaningful real growth&quot; in the coming financial year.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

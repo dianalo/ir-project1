@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576825" id="root" date="1997-05-12" xml:lang="en">
+<title>GREECE: GREEK BROKERS INITIATE CORPORATE BRIEFING.</title>
+<headline>GREEK BROKERS INITIATE CORPORATE BRIEFING.</headline>
+<dateline>ATHENS 1997-05-12</dateline>
+<text>
+<p>Athens bourse-listed companies will regularly brief Greek equity analysts and brokers over their fundamentals and business plans, the Greek brokers' association (SMEHA) said in a statement.</p>
+<p>SMEHA launches a scheme of regular corporate briefings following the warm welcome by Greek institutional investors of private briefings by Greek listed companies.</p>
+<p>Greek institutionals have already been briefed in private by a total of 42 Greek listed companies since December 1996 in meetings held at the Association of Greek Institutional Investors.</p>
+<p>The schedule of SMEHA's corporate briefings for the coming days is as follows:</p>
+<p>May 14, 1997 Nireus Fisheries </p>
+<p>May 21, 1997 OTE </p>
+<p>--Angelos Kiosklis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

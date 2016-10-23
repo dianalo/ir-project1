@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="677113" id="root" date="1997-06-20" xml:lang="en">
+<title>USA: Calif Moss Landing 750 MW unit seen up at 1800 PDT.</title>
+<headline>Calif Moss Landing 750 MW unit seen up at 1800 PDT.</headline>
+<dateline>LOS ANGELES 1997-06-19</dateline>
+<text>
+<p>The remaining 750 megawatt (MW) unit at the Moss Landing natural gas-fired power plant near Monterey, Calif., was set to restart at 1800 PDT Thursday, a spokesman for the plant's owner, Pacific Gas &amp; Electric Co, said.</p>
+<p>Moss Landing's other 750 MW was restarted Wednesday afternoon.</p>
+<p>Both units tripped off-line late Monday night following an unidentified disturbance to the power line which connects the plant to the regional power grid.</p>
+<p>((--Los Angeles bureau + 1 213 955 6761))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

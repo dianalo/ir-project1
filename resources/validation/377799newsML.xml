@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="377799" id="root" date="1997-02-14" xml:lang="en">
+<title>UK: London stocks hit record, Tokyo edges higher.</title>
+<headline>London stocks hit record, Tokyo edges higher.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended Friday.</p>
+<p>LONDON - Britain's FTSE 100 index finished at another closing high, inspired by record gains in the United States overnight and continued domestic corporate activity. The FTSE 100 index closed 13.9 points higher at 4,341.0, up 33.2 from last week.</p>
+<p>FRANKFURT - German shares ended bourse trade up but off the highs reached earlier as the push to catch up with Thursday night's post-bourse rally ran out of steam amid modest volumes. The DAX-30 index of leading shares closed 18.70 points higher at 3,248.18, a rise of 110.17 from seven days ago. In post-bourse trade the DAX index stood at 3,249.17.</p>
+<p>PARIS - French shares closed with a slight loss as investors took profits ahead of the weekend as the market needed a breather after storming to fresh highs during the week, helped by company revenue figures which were broadly welcomed, a soaring Wall Street and the rising dolllar. The blue-chip CAC-40 index closed down 0.99 points, or 0.04 percent, at 2,627.42, up 29.90 on the week.</p>
+<p>ZURICH - Swiss shares set a closing record in the blue-chip SMI, regaining energy after a 10-day run of record highs was halted by a lower finish the day before. Some investors were cautious ahead of the weekend and because some U.S. markets will be closed on Monday for Presidents Day. The All-share Swiss Performance Index (SPI) was up 15.09 points or 0.53 percent, at 2,839.43, a rise of 56.18 from seven days ago.</p>
+<p>TOKYO - Tokyo stocks closed higher for the fourth consecutive day, but the rally lost some steam as profit-taking kicked in after recent gains. Wall Street's surge past the 7,000 barrier helped certain global stocks, but the overall impact was limited. The key Nikkei 225 average closed up 33.94 points or 0.18 percent at 18,722.00, rising 854.96 from last week.</p>
+<p>HONG KONG - Hong Kong stocks ended heavily depressed after plummeting to a two-month low as investors continued to unwind positions and search for better value elsewhere. The Hang Seng Index closed with a loss of 126.69 points or 0.96 percent at 13,113.26, falling 547.24 on the week.</p>
+<p>SYDNEY - The Australian stock market closed lower as traders succumbed to the temptation to take profits after the run to record highs. The All Ordinaries index lost 13.8 points to 2,482.6, up 35.90 from last Friday.</p>
+<p>JOHANNESBURG - South African shares ended off their worst levels in quiet trade as bullish U.S. producer inflation raised hopes of strong gains on Wall Street later. Trade on the day had been generally quiet and featureless, with only the U.S. wholesale price number providing any form of direction after the Dow's rise above the 7,000 mark overnight failed to provide inspiration.</p>
+<p>The Overall index lost 20.8 points to 7,020.7, rising 141.1 from seven days ago. The Industrial index dropped 27.5 points to 8,305.3, up 102.3 from last Friday, and the Gold index was up 4.7 points to 1,395.1, a rise of 37.6 from a week ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242485" id="root" date="1996-12-08" xml:lang="en">
+<title>PAKISTAN: Karachi port handles 86,292 tonnes cargo.</title>
+<headline>Karachi port handles 86,292 tonnes cargo.</headline>
+<dateline>KARACHI, Pakistan 1996-12-08</dateline>
+<text>
+<p>Pakistan's Karachi Port Trust said it had handled 86,292 tonnes of export and import cargo in the 24 hours to 7 a.m. (0200 GMT) on Sunday compared to 68,675 tonnes in the same period on Saturday.</p>
+<p>Cargo handling in tonnes:</p>
+<p>				    Sunday	December 7</p>
+<p>    Export cargo		12,725	 6,706</p>
+<p>    Import cargo		73,567	61,969</p>
+<p>In the past 24 hours, five ships sailed and seven berthed. In the next 24 hours, five ships are expected to sail and 10 are expected to arrive.  </p>
+<p>Berthing schedule of major vessels unloading or expected to unload at Karachi Port:</p>
+<p>    Commodity	  Tonnes/TEUs  Ship		   Berthing</p>
+<p>Gas oil		  27,000	 Chilam Castle	 8/12</p>
+<p>Crude oil		70,000	 Capt Miranda	  8/12</p>
+<p>Tallow		    3,840	 Vanino		  8/12</p>
+<p>Containers		  500	 Sea Pearl	    10/12</p>
+<p>-- Karachi newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

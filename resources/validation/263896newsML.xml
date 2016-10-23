@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263896" id="root" date="1996-12-18" xml:lang="en">
+<title>MEXICO: Mexico electricity commission sets $250 mln loan.</title>
+<headline>Mexico electricity commission sets $250 mln loan.</headline>
+<dateline>MEXICO CITY 1996-12-18</dateline>
+<text>
+<p>Mexico's Federal Electricity Commission said on Wednesday that it had agreed on a syndicated loan worth $250 million.</p>
+<p>The five-year variable rate loan will pay an average of LIBOR plus 200 basis points, it said in a statement, adding that the lead agents for the loan were Societe Generale and Citibank.  </p>
+<p>The funds from the loan will be used to finance investment and improve the company's debt profile, it said.</p>
+<p>Co-leaders of the loan were Bank of Montreal, Bank of Tokyo, Mitsubishi of Japan, and Banco Santander Investment.</p>
+<p>The commission said that 15 other banking institutions also took part in the loan, including banks from Korea and Taiwan that took place for the first time in a syndicated loan with a Mexican organisation.</p>
+<p>The commission's director-general, Rogelio Gasca Neri, said that the loan was put together in a month and will be an important factor in covering its investments and 1996 obligations.</p>
+<p>((-- Robert Kozak, Mexico City newsroom (525) 728-9559))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104440" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: US jet fuel drops on NYMEX, low-sulfur diffs slip.</title>
+<headline>US jet fuel drops on NYMEX, low-sulfur diffs slip.</headline>
+<dateline>NEW YORK 1996-10-09</dateline>
+<text>
+<p>U.S. spot jet fuel prices plummeted with NYMEX futures by late Wednesday, with stepped-up production pushing differentials down on low-sulfur 55-grade fuel, players said.</p>
+<p>New York Harbor 55-grade was traded for 3.50 cents under November futures, about a half-cent weaker than Tuesday diffs, players said, with Gulf diffs easing 0.25 cent to about 0.75 cent over.</p>
+<p>New York Harbor and Gulf 54-grade jet were stable, although falling NYMEX values drove absolute prices 2.20 cents lower, players said.</p>
+<p>-- New York Energy Desk +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

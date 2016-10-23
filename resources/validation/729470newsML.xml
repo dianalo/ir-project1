@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="729470" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Suit challenges San Jose, Calif. airport plan - paper.</title>
+<headline>Suit challenges San Jose, Calif. airport plan - paper.</headline>
+<dateline>SAN JOSE, Calif. 1997-07-15</dateline>
+<text>
+<p>A neighborhood group and two residents who live beneath San Jose International Airport's flight path have filed a lawsuit challenging the city's $700 million airport expansion plan, according to a published report on Tuesday.</p>
+<p>The lawsuit, filed by Citizens Against Airport Pollution in Santa Clara County Superior Court, alleged the city failed to adequately assess the noise, traffic and other impacts of the airport expansion, the San Jose Mercury News reported.</p>
+<p>The suit seek to have the San Jose city council's June 10 approval of the new airport master plan set aside until the project's environmental review is revised.  It also seeks to block the city from beginning construction until the lawsuit has been resolved, according to the Mercury News.</p>
+<p>((-- San Francisco newsroom, 415-677-2511))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I5020002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

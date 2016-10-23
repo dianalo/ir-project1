@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="696012" id="root" date="1997-06-30" xml:lang="en">
+<title>AUSTRALIA: Top 20 Australian Dividend Yields - July 1.</title>
+<headline>Top 20 Australian Dividend Yields - July 1.</headline>
+<dateline>SYDNEY 1996-07-01</dateline>
+<text>
+<p>Twenty highest dividend yields for Australian companies included in the 320-share All Ordinaries Index based on closing prices on Monday.</p>
+<p>Dividends based on rolling 12 months.</p>
+<p>Yields are not grossed up for franking credits.</p>
+<p>					   Dividend</p>
+<p>Rank Name		     Yield    Close</p>
+<p> 1   Mt Leyshon Gold	14.04     1.78</p>
+<p> 2   Cudgen R.Z.	    10.42     2.40</p>
+<p> 3   Aust Tour		 9.87     0.76</p>
+<p> 4   Prime Credit Tr	 9.23     1.06</p>
+<p> 5   Prop Income Inv	 8.77     1.15</p>
+<p> 6   Davids Limited	  8.62     1.16</p>
+<p> 7   BT Prop Trust	   8.59     1.90</p>
+<p> 8   Indu Property	   8.49     1.00</p>
+<p> 9   Centro Prop	     8.37     2.30</p>
+<p>10   Natl Consol	     8.26     1.09</p>
+<p>11   Sea World Prop	  8.21     1.45</p>
+<p>12   Ipoh			8.18     2.20</p>
+<p>13   Countrywide-PP	  7.94     1.28</p>
+<p>14   Colonial Mutual	 7.78     1.37</p>
+<p>15   Hills Inds		7.77     2.20</p>
+<p>16   Schroder Prop	   7.77     2.38</p>
+<p>17   Colonial Coml	   7.76     2.38</p>
+<p>18   Villa World	     7.75     1.29</p>
+<p>19   Equitilink		7.69     0.65</p>
+<p>20   Natl In Prop	    7.69     1.14</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I22472">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I8500029">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

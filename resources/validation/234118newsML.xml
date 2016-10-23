@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234118" id="root" date="1996-12-04" xml:lang="en">
+<title>YEMEN: Yemen Central Bank cuts bank deposit rates.</title>
+<headline>Yemen Central Bank cuts bank deposit rates.</headline>
+<dateline>SANAA 1996-12-04</dateline>
+<text>
+<p>The Central Bank of Yemen said on Wednesday it had reduced interest rates on bank deposits by five percentage points in a bid to boost investment and trade.</p>
+<p>The Central Bank said it had cut the interest rate on three-month deposits to 20 percent, six-month deposits to 21 percent, nine-month deposits to 21.5 percent and one-year deposits to 22 percent. It said it had also lowered the interest rate on savings accounts to 20 percent.</p>
+<p>&quot;The move aims at restoring...investment and trade activities after recent stagnation. The previous high interest rates on deposits translated into high interest rates on bank facilities and loans,&quot; An official Central Bank source told Reuters.</p>
+<p>&quot;The previous move by the bank in March aimed at withdrawing liquidity from the market to improve the reserves and the situation of the Central Bank of Yemen,&quot; he said.</p>
+<p>A mission from the International Monetary Fund is currently in Yemen for talks with the ministry of finance and the Central Bank to evaluate impoverished Yemen's economic reform programme launched in March 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

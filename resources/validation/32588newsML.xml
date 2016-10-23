@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32588" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Audi August US car sales rise.</title>
+<headline>Audi August US car sales rise.</headline>
+<dateline>DETROIT 1996-09-04</dateline>
+<text>
+<p>Audi AG **</p>
+<p>			Aug 1-31, 1996     Aug 1-31, 1995 *Pct Chng</p>
+<p> Domestic Car		   0		   0	     N.A.</p>
+<p> Domestic Truck		 0		   0	     N.A.</p>
+<p> Import Car		 2,977	     1,009	   +195.0</p>
+<p> Import Truck		   0		   0	     N.A.</p>
+<p>		  Jan 1-Aug 31, 1996 Jan 1-Aug 31, 1995 *Pct Chng</p>
+<p> Domestic Car		   0		   0	     N.A.</p>
+<p> Domestic Truck		 0		   0	     N.A.</p>
+<p> Import Car		17,856	    10,989	    +60.9</p>
+<p> Import Truck		   0		   0	     N.A.</p>
+<p>* Pct change based on daily selling rate. Sale days 27 in latest month vs 27, 207 for year to date vs 205 in year ago. ** 100% owned by Volkswagen AG</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

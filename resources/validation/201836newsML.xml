@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201836" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: BASEBALL-ANGELS SIGN INFIELDER DAVE HOLLINS.</title>
+<headline>BASEBALL-ANGELS SIGN INFIELDER DAVE HOLLINS.</headline>
+<dateline>ANAHEIM, California 1996-11-20</dateline>
+<text>
+<p>The Anaheim Angels added some power to their infield Wednesday with the signing of free agent Dave Hollins, formerly of the Seattle Mariners.</p>
+<p>The 31-year-old Hollins is primarily a third baseman but has also played first and the outfield in his seven-year major league career. Hollins hit .262 with 16 homers and 78 runs batted in with the Minnesota Twins and the Mariners last season.</p>
+<p>Anaheim will be the fifth team in two years for the injury-plagued Hollins. He played 149 games last season after totalling only 144 games in the two previous seasons.</p>
+<p>A lifetime .259 hitter, Hollins began his big-league career with Philadelphia in 1990. He had his best years with the Phillies. In 1992 he hit .270 with 27 home runs, 93 RBI and 104 runs scored.</p>
+<p>Anaheim tried six different players at third base last season.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118810" id="root" date="1996-10-15" xml:lang="en">
+<title>GERMANY: Deutsche denies plans to close branches.</title>
+<headline>Deutsche denies plans to close branches.</headline>
+<dateline>FRANKFURT 1996-10-15</dateline>
+<text>
+<p>Deutsche Bank AG, Germany's largest commercial bank, on Tuesday said it had no plans to close half of its main branch offices but was mulling a restructuring of its entire branch system.</p>
+<p>A Deutsche Bank spokesman this morning denied a report in today's edition of the Handelsblatt newspaper saying the bank planned to close half of its 16 main branch offices.</p>
+<p>&quot;This is not the case,&quot; said a Deutsche Bank spokesman in answer to a Reuter enquiry.</p>
+<p>But he said the bank was mulling a restructuring of the entire branch network although no decisions had been taken.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

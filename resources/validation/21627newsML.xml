@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21627" id="root" date="1996-08-29" xml:lang="en">
+<title>HONG KONG: Guangzhou Shipyard H1 net down 33 pct.</title>
+<headline>Guangzhou Shipyard H1 net down 33 pct.</headline>
+<dateline>HONG KONG 1996-08-29</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million yuan unless stated)</p>
+<p>    Shr (yuan)		   0.0653 vs 0.0978</p>
+<p>    Dividend (yuan)	    nil    vs 0.04</p>
+<p>    Exceptional items	  nil    vs nil</p>
+<p>    Net			    32.30  vs 48.39</p>
+<p>    Turnover		     896.07 vs 849.39</p>
+<p>    Company name		 Guangzhou Shipyard International</p>
+<p>				     Co Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Guangzhou Shipyard International is a shipbuilding, container manufacturing and ship repairing firm.</p>
+<p>-- HK Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265383" id="root" date="1996-12-18" xml:lang="en">
+<title>FRANCE: Michelin promotes Spanish, Italian restaurants.</title>
+<headline>Michelin promotes Spanish, Italian restaurants.</headline>
+<dateline>PARIS 1996-12-18</dateline>
+<text>
+<p>The Michelin guide, bible of gourmets across Europe, has given two new restaurants in Spain and Italy its coveted three-star rating but stripped two Italian eateries and a famous Swiss auberge of their third star.</p>
+<p>In its 1997 hotel and restaurant guides, Michelin promoted El Bulli in Rosas, northeastern Spain, and Don Alfonso 1890 in Sant'Agata sui Due Golfi near Sorrento in southwestern Italy to its top rank, an honour enjoyed by 19 restaurants in France.</p>
+<p>But it removed the third star from the Antica Osteria del Ponte in Abbiategrasso outside Milan and Gualtiero Marchesi in Erbusco near Brescia in northern Italy.</p>
+<p>The gastronomic guide also demoted Freddy Girardet's vaunted restaurant in Crissier near Lausanne, Switzerland, just as Girardet retires from the kitchen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

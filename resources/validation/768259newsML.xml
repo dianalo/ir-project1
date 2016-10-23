@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="768259" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: Fila Holdings Q2 hurt by slow U.S. sales.</title>
+<headline>Fila Holdings Q2 hurt by slow U.S. sales.</headline>
+<dateline>NEW YORK 1997-07-31</dateline>
+<text>
+<p>Fila Holdings SpA said Thursday that its weak second quarter earnings reflected a sales slowdown in the U.S. market.</p>
+<p>The company said it was suffering from sluggish demand for basketball shoes and the a continued weakness in brand appeal in the U.S. basketball market.</p>
+<p>The company also said its backlog scheduled for delivery in the U.S. for July through December, 1997, fell 14 percent from the year-earlier period, with footwear falling 15 percent and apparel down 13 percent.</p>
+<p>Fila said it had experienced disappointing levels of holiday orders for its Grant Hill IV collection of footwear which had also affected orders of apparel.</p>
+<p>Fila reported ADS earnings today of $0.56, versus $0.98 in the year-earlier period.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

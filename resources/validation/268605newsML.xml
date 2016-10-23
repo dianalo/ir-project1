@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268605" id="root" date="1996-12-19" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia's Nat'l Rail says may buy AN assets.</title>
+<headline>RTRS-Australia's Nat'l Rail says may buy AN assets.</headline>
+<dateline>CANBERRA 1996-12-19</dateline>
+<text>
+<p>Australian government-owned interstate freight operator National Rail Corp said on Thursday it was interested in purchasing some of intrastate freight operator Australian National's assets when it was privatised.</p>
+<p>&quot;We have an interest ourselves in pursuing some of the businesses that Australian National currently operates,&quot; National Rail managing director Vince Graham told reporters.</p>
+<p>&quot;We're interested in adding freight volume to our businesses if there is a commercially sensible way of doing that.&quot;</p>
+<p>The government has announced a scoping study into both freight businesses as part of its plan to sell them in 1997.  </p>
+<p>Other groups interested in Australian National include infrastructure investor Macquarie Bank Ltd and New Zealand's Tranz Rail.</p>
+<p>Graham said Australian National was expected to be privatised by June next year with the National Rail's sale following before the end of the year.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146845" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: NYMEX to raise Hub natgas futures margins Tues.</title>
+<headline>NYMEX to raise Hub natgas futures margins Tues.</headline>
+<dateline>NEW YORK 1996-10-28</dateline>
+<text>
+<p>The New York Mercantile Exchange said it will increase margins on its Henry Hub natural gas futures contract, effective at the close of business Tuesday.</p>
+<p>The initial margin will be raised to $2,500 from $2,000 for clearing members; to $2,750 from $2,200 for members; and to $3,375 from $2,700 for customers.</p>
+<p>--J Silha, New York Power Desk 212-859-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

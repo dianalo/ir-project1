@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179161" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: National R.V. completes Country Coach buy.</title>
+<headline>National R.V. completes Country Coach buy.</headline>
+<dateline>PERRIS, Calif. 1996-11-11</dateline>
+<text>
+<p>National R.V. Holdings Inc said on Monday it has completed its acquisition of Country Coach Inc., a maker of motor homes based in Junction City, Ore.</p>
+<p>National R.V. issued 543,806 shares of its common stock valued at $9 million and assumed debt of about $10 million to complete the deal.</p>
+<p>Robert Lee, Country Coach's chief executive, has joined National's board of directors. Lee and the rest of Country Coach management are remaining in their current positions. National R.V. expects the transaction to be immediately accretive to earnings per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERRIS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27950" id="root" date="1996-09-02" xml:lang="en">
+<title>SWEDEN: Swedish air passenger volume up five pct in H1.</title>
+<headline>Swedish air passenger volume up five pct in H1.</headline>
+<dateline>STOCKHOLM 1996-09-02</dateline>
+<text>
+<p>Sweden's civil aviation authority Luftfartsverket said on Monday air passenger volumes increased by five percent in the first half of 1996 to 8.6 million passengers.  </p>
+<p>Domestic passenger traffic rose nine percent to 5.5 million people, Luftfartsverket said in a statement.</p>
+<p>&quot;Behind the continued increase in domestic traffic is a higher number of leisure travellers as well as the export industry's success,&quot; the group said.</p>
+<p>Intra-European traffic, which accounted for 93 percent of international traffic, rose eight percent.</p>
+<p>At the same time, state-owned Luftfartsverket, which owns 14 civil airports and operates five other civil and military airports in Sweden, posted a profit of 123 million crowns for the first half of 1996.</p>
+<p>It posted a profit of 153 million crowns in the same 1995 period.</p>
+<p>-- Abigail Schmelz, Stockholm newsroom +46-8-700-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

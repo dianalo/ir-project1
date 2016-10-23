@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76188" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Coastal signs to sell N.J. assets to Valley.</title>
+<headline>Coastal signs to sell N.J. assets to Valley.</headline>
+<dateline>DURHAM, N.C. 1996-09-25</dateline>
+<text>
+<p>Coastal Physician Group Inc said Wednesday it has signed a letter of intent to sell certain assets of HealthNet, its New Jersey-based clinic operations, to the Valley Care Corp for undisclosed terms.</p>
+<p>HealthNet has 32 physicians at nine primary care sites in New York and New Jersey. Valley Care owns Valley Hospital in Ridgewood, N.J.</p>
+<p>The company did not specify which HealthNet assets it would sell to Valley Care, but said the deal would be in cash and the proceeds would be used to reduce bank debt.</p>
+<p>The deal awaits a definitive agreement, Coastal said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DURHAM, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

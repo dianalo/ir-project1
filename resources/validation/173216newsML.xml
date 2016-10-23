@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173216" id="root" date="1996-11-07" xml:lang="en">
+<title>FINLAND: Finalnd's Merita Bank profit surges, sees dividend.</title>
+<headline>Finalnd's Merita Bank profit surges, sees dividend.</headline>
+<dateline>HELSINKI, Finland</dateline>
+<text>
+<p>Finland's largest banking group Merita Oy Thursday reported a 93 percent jump in January-September earnings and said that shareholders would get a dividend for the first time in five years.</p>
+<p>Operating profits after credit losses rose to 930 million Finnish markka ($204 million) from 482 million ($105 million). The result matched analysts' expectations and further confirmed that the Finnish banking sector was recovering from the deep crisis of the early 1990s.</p>
+<p>Merita attributed the earnings growth to a significant decline in non-performing loans and credit losses, steady performance in its core banking business, increased commissions from securities trading and successful cost control.</p>
+<p>The surge in profits meant that shareholders in Merita -- formed by the 1995 merger of banking groups Unitas and Kansallis-Osake-Pankki -- could expect a dividend for the first time in five years.</p>
+<p>&quot;It is our aim that the result for 1996 will permit us to resume payment of dividend,&quot; the bank said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI, Finland"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

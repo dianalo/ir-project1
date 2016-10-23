@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135150" id="root" date="1996-10-22" xml:lang="en">
+<title>AUSTRALIA: RTRS - Pasminco says mine output at 5yr high.</title>
+<headline>RTRS - Pasminco says mine output at 5yr high.</headline>
+<dateline>MELBOURNE 1996-10-22</dateline>
+<text>
+<p>Zinc and lead producer Pasminco Ltd reported on Tuesday its best quarterly mining output in five years, but said zinc metal production was generally flat and lead metal production was lower for the September quarter.  </p>
+<p>Contained zinc in concentrates from Broken Hill, Pasminco's largest mine, rose 17 percent on the previous quarter and 36 percent on the same 1995 quarter, Pasminco said, adding the mine's contained lead output rose nine percent and 25 percent.</p>
+<p>Broken Hill's total ore throughput rose 13 percent on the same 1995 quarter to 690,334 tonnes, and mine head grade improved, it said.</p>
+<p>Contained zinc output from the Elura mine also increased in the group's first fiscal quarter, with contained zinc rising 31 percent and contained lead 21 percent on the previous quarter.</p>
+<p>Contained zinc and lead output fell slightly on a year ago.  </p>
+<p>The EZ zinc smelter in Tasmania rose eight percent on a year ago to 53,416 tonnes and continues to show a steady improvement in operations there, Pasminco said.</p>
+<p>A planned shutdown at the group's Sulphide smelter impacted on zinc and lead output from the plant compared with the same 1995 quarter, but production was higher than the June quarter when a furnace roof failure dragged down output, it said.</p>
+<p>BHAS lead production was lower than a year ago at 44,420 tonnes due to rescheduled plant rebuilds and planned down-time for equipment changes associated with co-treatment.  </p>
+<p>BHAS zinc production dipped 1,000 tonnes from a year ago due to reduced plant availability in the slag fumer, Pasminco said, adding that a rectiformer failure this month was expected to cut production by an additional 2,000 tonnes for the full year.</p>
+<p>Zinc production at Pasminco's Budel refinery in the Netherlands also fell on a year ago to 49,415 tonnes due to the planned shutdown for a major maintenance overhaul in the plant's roasting and sulphuric acid plant around July, Pasminco said.</p>
+<p>The Budel smelter's current licence requires it to halt the production of jarosite, a residue of the zinc production process, by June 1998.  </p>
+<p>To do this, it needs material from RTZ-CRA's Century Zinc mine, the development of which has been postponed by native title negotiations.</p>
+<p>Production figures for the three months to September 30, 1996 compared with year earlier (in tonnes unless stated):  </p>
+<p>						   3 mths	 3 mths</p>
+<p>					     to Sept 96   to Sept 95</p>
+<p>EZ smelter</p>
+<p>		- zinc			   53,416	 49,515</p>
+<p>Sulphide smelter</p>
+<p>		- zinc			   20,428	 23,023</p>
+<p>		- lead bullion		  7,139	  9,670</p>
+<p>BHAS smelter</p>
+<p>		- lead			   44,420	 57,209</p>
+<p>		- zinc			    8,610	  9,685</p>
+<p>		- silver (kg)		  53,000	 54,432</p>
+<p>Australian Refined Alloys (50 percent owned)</p>
+<p>		- lead			    3,288	  3,129</p>
+<p>		- lead bullion		    334	    459</p>
+<p>Budel Zinc  (Netherlands)</p>
+<p>		- zinc			   49,415	 54,294</p>
+<p>Broken Hill, New South Wales (underground mines)</p>
+<p>	    ore treated			690,344     611,999</p>
+<p>	    zinc concentrate		 106,226	78,005</p>
+<p>		  - contained zinc	    52,578	38,691</p>
+<p>	    lead concentrate		  50,897	40,721</p>
+<p>		  - contained lead	    35,126	28,200</p>
+<p>		  - contained silver (kg)   31,151	27,745</p>
+<p>Elura mine, near Cobar in NSW</p>
+<p>	    ore treated			270,045     291,459</p>
+<p>	    zinc concentrate		  35,927	38,120</p>
+<p>		  - contained zinc	    18,134	19,264</p>
+<p>	    lead concentrate		  22,667	22,462</p>
+<p>		  - contained lead	    11,637	11,818</p>
+<p>		  - contained silver (kg)    6,356	 9,330</p>
+<p>Rosebery mine, Tasmania</p>
+<p>	    ore treated			154,051     156,582</p>
+<p>	    zinc concentrate		  30,466	27,750</p>
+<p>		 - contained zinc	     16,832	14,630</p>
+<p>	    lead concentrate		   5,262	 5,015</p>
+<p>		 - contained lead		3,309	 3,275</p>
+<p>		 - contained silver (kg)     6,556	 6,381</p>
+<p>-- Melbourne Bureau 61-3 9286-1435</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

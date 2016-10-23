@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225450" id="root" date="1996-11-29" xml:lang="en">
+<title>USA: Marine Drilling assessing damage to rig.</title>
+<headline>Marine Drilling assessing damage to rig.</headline>
+<dateline>HOUSTON 1996-11-29</dateline>
+<text>
+<p>Marine Drilling Cos Inc on Friday was assessing damage to a jack-up drilling rig that caught fire this week in the Gulf of Mexico, a company spokesman said.</p>
+<p>Five workers were injured, one with second and third degree burns, and 36 workers were evacuated from the rig when it caught fire at about 2100 CST on Wednesday, the spokesman said.</p>
+<p>The fire on the rig Marine 15 was extinguished at about 1500 CST on Thursday, and crews planned to board the rig Friday to inspect the damage, said Larry Adkins, senior vice president for operations.</p>
+<p>&quot;We've got our top drilling guy going out this morning with a fire inspection team,&quot; he said.</p>
+<p>The rig, one of 15 operated by the Sugar Land, Texas company in the Gulf, was drilling in Tiger Pass about 15 miles off the coast of Louisiana for Tana Oil, the U.S. Coast Guard said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

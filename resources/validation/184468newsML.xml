@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184468" id="root" date="1996-11-12" xml:lang="en">
+<title>JAPAN: Dai Nippon Printing - 6mth parent results.</title>
+<headline>Dai Nippon Printing - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-12</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		552.79		vs	  531.41</p>
+<p> Operating	   35.94		vs	   34.54</p>
+<p> Current	     44.08		vs	   42.28</p>
+<p> Net		   23.13		vs	   22.16</p>
+<p> EPS		   30.70 yen	  vs	   29.55 yen</p>
+<p> Shares	    754 million	  vs	 750 million</p>
+<p> Interim div	  8.00 yen	  vs	    7.50 yen</p>
+<p>NOTE - Dai Nippon Printing Co Ltd is a comprehensive printing company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

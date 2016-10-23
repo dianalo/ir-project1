@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102618" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Marine pilot dies in jet crash.</title>
+<headline>Marine pilot dies in jet crash.</headline>
+<dateline>YUMA, Ariz 1996-10-08</dateline>
+<text>
+<p>A Marine pilot on a routine training mission was killed when his fighter jet crashed in the California desert, authorities said Tuesday.</p>
+<p>The pilot, identified as Dale Mulkey, died when his AV-8B Harrier jet went down late Monday in the Chocolate Mountain Aerial Gunnery Range, about 60 miles (100 km) northwest of the Marine Corps Air Station in Yuma, said Sgt. Kevin Tunell, a base spokesman. The range spans parts of California and Arizona.</p>
+<p>It was not known whether the pilot was able to eject from the aircraft. The cause of the crash was under investigaition.</p>
+<p>Mulkey's jet was one of four aircraft taking part in manoeuvres as part of a semi-annual weapons and tactics course for instructors that was being held at the base. Mulkey, a resident of Pueblo, Colo., was stationed at the Marine Corps Air station in Yuma, Ariz.</p>
+<p>It was the second time in six months that a Harrier on a training mission has crashed near the Yuma Marine base. In March, a pilot was slightly injured when he ejected from his jet before it plunged into a field near the base.</p>
+<p>The Yuma base also was involved in a late August crash, when four Marines were killed when their EA-6B Prowler crashed east of the nearby Gila Mountains. They were from a Marine base in Cherry Point, N.C.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YUMA, Ariz"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262014" id="root" date="1996-12-17" xml:lang="en">
+<title>INDIA: India urged to monitor Bhopal survivors.</title>
+<headline>India urged to monitor Bhopal survivors.</headline>
+<dateline>NEW DELHI 1996-12-17</dateline>
+<text>
+<p>An international team of medical experts has urged India to set up a panel to monitor the treatment and care of survivors of the 1984 Bhopal gas disaster which killed 6,500 people.</p>
+<p>The release of deadly gas from a factory owned by American multinational Union Carbide resulted in the partial or total disability of at least 50,000 survivors, the International Medical Commission on Bhopal (IMCB) said in a statement.</p>
+<p>&quot;The IMCB urges the government of India to establish a National Medical Commission-Bhopal to oversee ongoing needs and care of the survivors and to recommend appropriate interventions on behalf of survivors and offspring,&quot; the IMCB, which has offices in Delhi and some other world capitals, said.</p>
+<p>It urged the Indian government to set up community health centres to ease both the illness and economic burden on survivors, many of whom pay large portions of their income on doctors and medicines.</p>
+<p>The doctors urged the government to register, compensate and continuously monitor survivors younger than 30.</p>
+<p>&quot;The IMCB also urges the government of India to review, release and disseminate as quickly as possible all research information on the after effects of exposure to the toxic Carbide gases and effective therapies,&quot; the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

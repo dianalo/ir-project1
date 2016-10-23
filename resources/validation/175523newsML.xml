@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175523" id="root" date="1996-11-08" xml:lang="en">
+<title>UK: LME copper below $2,000 but holds support late.</title>
+<headline>LME copper below $2,000 but holds support late.</headline>
+<dateline>LONDON 1996-11-08</dateline>
+<text>
+<p>London Metal Exchange (LME) 3-months copper prices dropped below $2,000 per tonne in post-kerb inter-office activity on Friday but held support at $1,985 up to the hour of the Comex close at 1900 GMT.</p>
+<p>Copper last traded on the kerb at $2,007 - down $10 from Thursday and compared with a Friday high of $2,028 - after several bouts of profit taking.</p>
+<p>Later, in thin volume and after what technical analysts regarded as a less than constructive kerb close, traders said it was hit by a big sell order. That drew in selling from New York to help take it down through support at $2,000 to the more robust area at $1,985 from where it bounced.</p>
+<p>It was bid at $1,994 by 1900GMT.</p>
+<p>A burst of investment bank buying and shortcovering had pushed copper higher during Thursday.</p>
+<p>Aluminium also firmed during the week on tight supply for January and speculative interest but it eased on Friday under disappointed liquidation after failing to build on earlier gains up to $1,468.</p>
+<p>Freer lending of the spreads helped to dent upside sentiment. It was assessed just above $1,450 by 1900 GMT.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

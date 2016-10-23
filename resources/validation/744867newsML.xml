@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744867" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: IBM forms new group, shuffles executives.</title>
+<headline>IBM forms new group, shuffles executives.</headline>
+<dateline>NEW YORK 1997-07-22</dateline>
+<text>
+<p>International Business Machines Corp said that it is forming a new business group which will include the IBM PC Co, the Consumer Division, the Network Computer division, amid some big management changes.</p>
+<p>IBM promoted Sam Palmisano to senior vice president and group executive, to head  the new group, reporting directly to chairman and chief executive Louis Gerstner. Palmisano was previously general manager, the IBM PC Co.</p>
+<p>IBM also said that Bob Stephenson, currently a senior vice president and group executive heading the personal systems group, will take on signficant additional responsibiltiies.  </p>
+<p>Stephenson will lead the units currently in the server group, which was previously headed up by Nick Donofrio, plus the System/390 mainframes, the AS/400 minicomputer line, the RS/6000 workstation family and the Microelectronics division.</p>
+<p>The Networking Hardware, Storage Systems and Printing Systems divisions will continue to report to Stephenson.</p>
+<p>Donofrio will become senior vice president, technology and manufacturing, a brand new position reporting to Gerstner. Reporting to Donofrio will be IBM's Research division, its corporate manufacturing and procurement staffs. Donofrio will chair IBM's corporate technical committee.  </p>
+<p>Donofrio will also remain a group executive. He will spend considerable time on how IBM nurtures emerging technologies, Gerstner said in an internal memo sent to IBM employees.</p>
+<p>The IBM Research division previously reported to Gerstner.</p>
+<p>IBM also said that Jim Vanderslice, who is general manager of IBM's Storage Systems division, will become a vice president and group executive, adding Networking Hardware and Printing Systems divisions to his current responsibilities, within Stephenson's group.</p>
+<p>Gerstner said the changes will be effective August 1.  </p>
+<p>Gerstner said in his internal memo that he is creating the new &quot;end-user-oriented&quot; group of businesses because the distinctions between the PC, the network computer, and consumer and commercial client products are blurring from a technology point of view, a marketing point of view and a competitive point of view.</p>
+<p>&quot;We need an integrated view across the product lines, and Sam and his team will provide it,&quot; Gerstner said in an internal memo.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

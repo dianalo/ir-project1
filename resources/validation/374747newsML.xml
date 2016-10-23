@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="374747" id="root" date="1997-02-13" xml:lang="en">
+<title>AUSTRALIA: GOLF-AUSTRALIAN MASTERS FIRST ROUND SCORES.</title>
+<headline>GOLF-AUSTRALIAN MASTERS FIRST ROUND SCORES.</headline>
+<dateline>MELBOURNE 1997-02-13</dateline>
+<text>
+<p>Leading first round scores at the Australian Masters golf tournament at the par-73 Huntingdale course on Thursday (Australian unless stated)</p>
+<p>64 Lucas Parsons</p>
+<p>65 Peter O'Malley</p>
+<p>67 Mike Weir (Canada), Rick Gibson (Canada)</p>
+<p>68 Tiger Woods (U.S.), Doug Dunakey (U.S.), Simon Owen (New Zealand), Stuart Bouvier, Larry Mize (U.S.), Shane Tait 69 Shane Robinson, Peter Senior, Grant Moorhead (New Zealand), Peter Lonard, Marcus Wheelhouse (New Zealand)</p>
+<p>70 Stephen Allan, Kenny Druce, Michael Clayton, Richard Backwell, Andrew Bonhomme, Gavin Coles, Brett Partridge, Wayne Grady, Kenny Druce, Steve Conran, Robert Allenby, Richard Green</p>
+<p>Other scores:</p>
+<p>72 Steve Alker (New Zealand), Rodger Davis</p>
+<p>73 Craig Parry, Jay Townsend (U.S.), Tsuneyuka Nakajima (Japan), Ben Jackson (Britain)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

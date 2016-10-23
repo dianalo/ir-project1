@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732216" id="root" date="1997-07-16" xml:lang="en">
+<title>JAPAN: Japanese wives in N Korea cleared to visit homeland.</title>
+<headline>Japanese wives in N Korea cleared to visit homeland.</headline>
+<dateline>TOKYO 1996-07-17</dateline>
+<text>
+<p>North Korea has announced that Japanese wives living in the communist nation will be allowed to visit their homeland, removing a major irritant in relations between the two nations.</p>
+<p>A statement on Wednesday night carried by the official Korean Central News Agency (KCNA), monitored in Tokyo, said arrangements were being worked out for the women, estimated to number about 1,800, to make the visits soon.  </p>
+<p>The Japanese government says the women followed their Korean husbands to North Korea between 1959 and 1982. It says most of their relatives have not heard from them since their departures, adding that until now North Korea has stopped them from visiting Japan.</p>
+<p>The return of the wives is one of the conditions Japan has set for giving aid to North Korea.</p>
+<p>&quot;The Korean Asia-Pacific Peace Committee has decided to take steps for Japanese-Korean women of advanced years to visit their hometowns in Japan...taking into account the women's wishes to meet with their families and relatives and the requests made by Japanese politicians and authorities recently through various channels,&quot; the statement on KCNA said.</p>
+<p>Japan regards North Korea as one of its main security threats and has held back from offering government food aid to the famine-hit nation because of their poor relations.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

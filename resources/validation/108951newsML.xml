@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108951" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Shoe Carnival Sept. same store sales rise.</title>
+<headline>Shoe Carnival Sept. same store sales rise.</headline>
+<dateline>EVANSVILLE, Ind. 1996-10-10</dateline>
+<text>
+<p>Shoe Carnival Inc said Thursday its same store sales for the five weeks ended October 5, 1996 rose one percent from the comparable period last year.</p>
+<p>Total sales for the five-week period were $21.4 million, which were flat when compared with sales of $21.4 million for the five weeks ended September 30, 1995.</p>
+<p>Comparable store sales for the 35 weeks of fiscal 1996 fell 2.2 percent from a year ago. Total sales for the first 35 weeks of fiscal 1996 increased 5.3 percent to $164.1 million from sales of $155.9 million for the same period last year.</p>
+<p>Shoe Carnival operates 92 footwear stores located in the Midwest and Midsouth.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EVANSVILLE, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

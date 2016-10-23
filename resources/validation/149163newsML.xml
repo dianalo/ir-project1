@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149163" id="root" date="1996-10-28" xml:lang="en">
+<title>TURKEY: TURK BRISA 9-MTH PROFITS JUMP 188 PCT.</title>
+<headline>TURK BRISA 9-MTH PROFITS JUMP 188 PCT.</headline>
+<dateline>ISTANBUL 1996-10-28</dateline>
+<text>
+<p>Jan-Sept 1996 provisional</p>
+<p>(billion lira unless stated)</p>
+<p>    Per share profit (lira)	4,316.01  vs   1,501.18</p>
+<p>    Net profit			 4,588.45  vs   1,595.94</p>
+<p>    Net sales			 16,932.48  vs   8,473.60</p>
+<p>    Operating profit		 5,892.05  vs   2,364.17</p>
+<p>    Exceptional income	     1,441.10  vs     253.84</p>
+<p>    Exceptional expense		420.60  vs     238.54</p>
+<p>    Interest paid			 32.15  vs	48.82</p>
+<p>    Total debts			5,406.36  vs   2,854.16</p>
+<p>    Equity			    13,205.52  vs   6,472.18</p>
+<p>    Capital			    1,063.13  vs   1,063.13</p>
+<p>NOTE - Tyre producer Brisa Bridgestone Sabanci Lastik Sanayi ve Ticaret A.S. is owned 36 percent by Japan's Bridgestone Corp and 35.2 percent by Turkey's Sabanci conglomerate.</p>
+<p>Figures above do not take into account Turkey's 79.3 percent year-on-year consumer price inflation in September.</p>
+<p>-- Istanbul newsroom +90-212-2750875</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

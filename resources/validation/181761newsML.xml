@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181761" id="root" date="1996-11-12" xml:lang="en">
+<title>NETHERLANDS: SOCCER-DUTCH FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-DUTCH FIRST DIVISION SUMMARIES.</headline>
+<dateline>AMSTERDAM 1996-11-12</dateline>
+<text>
+<p>Summaries of Dutch first</p>
+<p>division soccer matches played on Tuesday:</p>
+<p>Feyenoord 1 (Van Bronckhorst 53) NAC Breda 0. Halftime 0-0.</p>
+<p>Attendance 24,000.</p>
+<p>Heerenveen 2 (Dahl Tomasson 60, 62) Graafschap Doetinchem 1</p>
+<p>(Vreeman 67). Halftime 0-0. Attendance 13,300.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

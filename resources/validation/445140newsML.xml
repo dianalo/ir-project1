@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="445140" id="root" date="1997-03-15" xml:lang="en">
+<title>THAILAND: Thai PM Chavalit to visit Brunei, Singapore.</title>
+<headline>Thai PM Chavalit to visit Brunei, Singapore.</headline>
+<dateline>BANGKOK 1997-03-15</dateline>
+<text>
+<p>Thai prime minister Chavalit Yongchaiyudh will pay a courtesy visit to Brunei and Singapore next week, Radio Thailand reported on Saturday.</p>
+<p>Chavalit, who took office in December, will hold talks with his counterparts when he visits Brunei on March 19-20 and Singapore on March 20-21, the radio reported.</p>
+<p>Singapore is Thailand's most important trading partner in the Association of Southeast Asian Nations (ASEAN) grouping with two-way trade amounting to 200-300 billion baht ($7.69-$11.54 billion) a year, the radio reported.</p>
+<p>Thailand imports crude oil from Brunei while its main export to the country is rice. Two-way trade is about 7.0 billion baht a year.</p>
+<p>&quot;Prime Minister Chavalit will also ask the leaders to help look after Thai workers in the two countries,&quot; Radio Thailand said. There are currently 32,400 Thai workers in Brunei and 50,000 in Sinpapore, it said. ($1=26 baht)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASEAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="BRUNEI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

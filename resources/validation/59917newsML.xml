@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59917" id="root" date="1996-09-17" xml:lang="en">
+<title>PHILIPPINES: RCBC owners okay capital hike, stock rights.</title>
+<headline>RCBC owners okay capital hike, stock rights.</headline>
+<dateline>MANILA 1996-09-17</dateline>
+<text>
+<p>Stockholders of the Rizal Commercial Banking Corp (RCBC) had approved an increase in the bank's authorised capital stock to 8.0 billion pesos from 800 million pesos, corporate secretary Marcelo Dy said on Tuesday.</p>
+<p>&quot;Everything was approved by the stockholders,&quot; Dy told Reuters.</p>
+<p>The bank presented during a special stockholders' meeting on Monday its plan to issue stock rights and an additional public offering to cover the capital increase.</p>
+<p>It also planned to declare an 800 percent stock dividend and a 10-for-one stock split.</p>
+<p>- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

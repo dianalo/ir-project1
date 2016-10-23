@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309633" id="root" date="1997-01-15" xml:lang="en">
+<title>UK: Abbey National sets 400 mln Danish crown bond.</title>
+<headline>Abbey National sets 400 mln Danish crown bond.</headline>
+<dateline>LONDON 1997-01-15</dateline>
+<text>
+<p>The following bond was announced by lead manager Paribas Luxembourg.</p>
+<p> BORROWER   ABBEY NATIONAL TREASURY SERVICES</p>
+<p>GUARANTOR  ABBEY NATIONAL PLC</p>
+<p> AMT    400 MLN DKR   COUPON     5.50	MATURITY    14.JUN.02</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  102.10    PAY DATE  L-14.MAR.97</p>
+<p> FULL FEES  1.875     LISTING    LUX	 L-LONG FIRST COUPON</p>
+<p> MOODY/S&amp;P  AA2/AA    DENOMS (K) 10-50     YIELD	 5.03 PCT</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> GOV LAW    LUX	 MGT/UND    0.625     SELL CONC   1.25</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

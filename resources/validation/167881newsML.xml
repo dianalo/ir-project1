@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167881" id="root" date="1996-11-05" xml:lang="en">
+<title>NEW ZEALAND: Progress made in NZ coalition talks - Bolger.</title>
+<headline>Progress made in NZ coalition talks - Bolger.</headline>
+<dateline>WELLINGTON 1996-11-05</dateline>
+<text>
+<p>Caretaker Prime Minister Jim Bolger said on Tuesday progress had been made in the fifth round of coalition talks between his National Party and New Zealand First.</p>
+<p>He declined to specify the issues on which progress had been made. He said he would issue a statement later on Tuesday outlining his party's position on the APEC world leaders' summit in late November.  </p>
+<p>There has been debate recently over who should represent New Zealand at the summit, following the inconclusive general election on October 12 which left the country without a clear government.</p>
+<p>A spokesman for New Zealand First leader Winston Peters said his party would also outline its position on APEC later in the day.</p>
+<p>New Zealand First is scheduled to meet the opposition Labour party team at 5 p.m.  </p>
+<p>Nationalist New Zealand First holds the balance of power after the general election and is negotiating with both Labour and the conservative National party over the shape of the new government.</p>
+<p>-- Wellington newsroom 64 4 473 4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16903" id="root" date="1996-08-27" xml:lang="en">
+<title>NETHERLANDS: European feeds remain quietly in afternoon.</title>
+<headline>European feeds remain quietly in afternoon.</headline>
+<dateline>ROTTERDAM 1996-08-27</dateline>
+<text>
+<p>Business on the European meals and feeds market remained quietly this afternoon with only a handful of trades reported on nearby positions, dealers said.</p>
+<p>&quot;There was little faith in the market and only a few hand-to-mouth trades were reported. The absence of many operators visiting a grain bourse in Hamburg and an easier Chicago soymeal futures opening kept a lid on activity today,&quot; one broker said.</p>
+<p>Arrived Argentine soymeal pellets traded at $282 a tonne cif Rotterdam, arrived and Sept Argentine sunmeal pellets changed hands at $159 a tonne cif Rotterdam.--KAREL LUIMES +31 20 504 5832</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROTTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

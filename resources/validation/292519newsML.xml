@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292519" id="root" date="1997-01-07" xml:lang="en">
+<title>CHINA: Shanghai GDP up 13 percent for 1996.</title>
+<headline>Shanghai GDP up 13 percent for 1996.</headline>
+<dateline>SHANGHAI 1997-01-07</dateline>
+<text>
+<p>Shanghai's gross domestic product (GDP) grew by 13 percent to more than 289 billion yuan in 1996, and economic growth would remain steady in 1997, the official Xinhua news agency said on Tuesday.</p>
+<p>The agency quoted an official in China's largest industrial city as saying the rise in the retail sales price index for 1996 was within five percent, eight percentage points lower than the previous year. The national inflation rate was about six percent for 1996.</p>
+<p>Shanghai had implemented specific regulations on price management in 1996 that had helped to control price increases despite the rapid development of the economy, the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

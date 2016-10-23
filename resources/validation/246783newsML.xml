@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246783" id="root" date="1996-12-10" xml:lang="en">
+<title>ITALY: Italy's Interpump share offer oversubscribed.</title>
+<headline>Italy's Interpump share offer oversubscribed.</headline>
+<dateline>MILAN 1996-12-10</dateline>
+<text>
+<p>Italian pump and piston company Interpump said its public offering had closed with requests for 70.6 million ordinary shares, compared with the 25.8 million offered.</p>
+<p>The company, which is expected to debut on the Milan bourse in the week beginning December 16, offered the shares, equal to 32 percent of the company's capital, at 5,800 lire each.</p>
+<p>It said in a statement that the public offering which saw demand for 22.6 million shares had been raised to 10 million from an original eight million.</p>
+<p>An international offering which saw demand for 47.9 million shares had been reduced by two million shares to 15.8 million.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

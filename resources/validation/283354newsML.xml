@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283354" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: Shelter Components expects Q4 gain on sale.</title>
+<headline>Shelter Components expects Q4 gain on sale.</headline>
+<dateline>ELKHART, Ind. 1997-01-02</dateline>
+<text>
+<p>Shelter Components Corp said it expects reporting a 1996 fourth-quarter gain on the sale of its Danube Carpet Mills Inc business to Dixie Yarns Inc.</p>
+<p>The sale, effective December 31, was for about $25 million, consisting of $18.2 million in cash, $4.4 million in accounts receivable retained by Shelter and $2.4 million deferred for certain real estate not yet conveyed to Dixie.  </p>
+<p>Shelter said the revenues of Danube Carpet Mills, based in Fort Oglethorpe, Ga., were about $75 million in 1996 and represent about 15 percent of Shelter's consolidated net sales, which are anticipated to surpass $500 million in calendar year 1996.</p>
+<p>Shelter distributes hardware, fasteners, building products, vinyl windows, floor coverings and electrical products, among others.</p>
+<p>	     ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ELKHART, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

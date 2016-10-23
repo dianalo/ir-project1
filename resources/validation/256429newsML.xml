@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256429" id="root" date="1996-12-13" xml:lang="en">
+<title>HONG KONG: Bank Negara S'pore branch FRCD raised to US$50 mln.</title>
+<headline>Bank Negara S'pore branch FRCD raised to US$50 mln.</headline>
+<dateline>HONG KONG 1996-12-13</dateline>
+<text>
+<p>Bank Negara Indonesia Singapore branch's three-year floating rate certificates of deposit issue has been increased to US$50 million from US$30 million due to oversubscription, arranger Overseas Union Bank Singapore branch said on Friday.</p>
+<p>The certificates were issued at par to float at 40 basis points over the three- or six-month London Interbank Offered Rate.</p>
+<p>With fees, the all-in return for top-tier managers is 52.5 basis points.</p>
+<p>Co-arrangers are JP Morgan Securities Asia and Sanwa International Finance.</p>
+<p>Twelve banks joined the syndication in addition to the arranger and co-arrangers, OUB Singapore said.</p>
+<p>Signing is set for December 18 in Singapore.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6960</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

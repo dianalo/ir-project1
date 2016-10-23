@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333416" id="root" date="1997-01-26" xml:lang="en">
+<title>SUDAN: Sudan says kills rebels near Uganda border.</title>
+<headline>Sudan says kills rebels near Uganda border.</headline>
+<dateline>KHARTOUM 1997-01-26</dateline>
+<text>
+<p>Sudan said on Sunday it had attacked a rebel base near its southern border with Uganda and had killed or wounded many opposition fighters.</p>
+<p>State television on Sunday quoted Information Minister Brigadier Al-Tayeb Ibrahim Mohamed Khair as saying government forces had routed the rebels after fighting in Lokia, an area near the southern Torit town located about 75 km (47 miles) from the Uganda border.</p>
+<p>This is the first clash reported by either rebels or the government near the Uganda border. Both sides have previously reported clashes further north near the Eritrean and Ethiopian borders.</p>
+<p>&quot;Several rebels were killed and wounded and a big number of heavy and light guns was seized,&quot; Khair said. &quot;The rebels were chased away and the armed forces sustained a few wounded.&quot;</p>
+<p>Khair did not give exact numbers and there was no independent confirmation of the attack.</p>
+<p>The rebels, who launched a big offensive earlier this month and prompted the government to call for mass mobilisation, say their aim is to take the key southeastern town of Damazin to put pressure on the government and spark a popular uprising.</p>
+<p>Damazin is near the strategic Roseires Dam which provides Khartoum with most of its electricity.</p>
+<p>Sudan accuses hostile neighbours Eritrea and Ethiopia of aiding the rebels in the country's east.</p>
+<p>It has also said it expects a third front to open on the Uganda border but Sudanese President Omar Hassan al-Bashir said his troops would only attack &quot;if Uganda begins the aggression&quot;.</p>
+<p>The rebels and the three African countries deny the charges of foreign involvement in Sudan's civil war.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="UGANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KHARTOUM"/>
+<dc element="dc.creator.location.country.name" value="SUDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

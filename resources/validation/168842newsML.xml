@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168842" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Columbia/HCA Healthcare Corp Q3 summary.</title>
+<headline>Columbia/HCA Healthcare Corp Q3 summary.</headline>
+<dateline>NASHVILLE, Tenn. 1996-11-06</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.46		    $0.39</p>
+<p> Net			311,000		  267,000</p>
+<p> Revs		   4,887,000		4,371,000</p>
+<p> Avg shrs		 677,417		  674,160</p>
+<p>	  Nine months</p>
+<p> Shr			  $1.61		    $0.90</p>
+<p> Net		    1,091,000		  607,000</p>
+<p> Revs		  14,771,000	     13,112,000</p>
+<p> Avg shrs		 677,814		  672,278</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTES: First Call estimate for 1996 Q3 is $0.46 per share.</p>
+<p>1995 Q3 includes $0.01 per share extraordinary charge on extinguishments of debt. 1995 nine-month includes $0.35 per share costs for HealthTrust merger and facility consolidation and $0.15 per share extraordinary charges for extinguishments of debt.</p>
+<p>Information adjusted for 3-for-2 stock split on October 15, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

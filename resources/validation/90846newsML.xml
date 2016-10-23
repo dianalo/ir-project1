@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90846" id="root" date="1996-10-02" xml:lang="en">
+<title>MEXICO: Nadro to eliminate A series shares.</title>
+<headline>Nadro to eliminate A series shares.</headline>
+<dateline>MEXICO CITY 1996-10-02</dateline>
+<text>
+<p>Pharmaceutical company Nadro will eliminate its A series shares on October 4, and convert them into series B shares, the company said on Wednesday.</p>
+<p>The shares will be exchanged on a one-for-one basis, as agreed at a shareholders' meeting held June 18, Nadro said in a report to the Mexican Stock Exchange.</p>
+<p>A total of 100,120,740 A series shares will thus up the number of B series shares to 147,236,370, Nadro said.</p>
+<p>After the exchange, B series shares will have a price of 24.524412 pesos, calculated from average prices of the two series over the past six months, weighted according to amounts traded.</p>
+<p>-- Karina Balderas, Mexico City newsroom +525 728-9562</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

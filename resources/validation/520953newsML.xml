@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="520953" id="root" date="1997-04-18" xml:lang="en">
+<title>GERMANY: Asiana launches weekly Seoul-Frankfurt flight May.</title>
+<headline>Asiana launches weekly Seoul-Frankfurt flight May.</headline>
+<dateline>FRANKFURT 1997-04-18</dateline>
+<text>
+<p>South Korean carrier Asiana Airlines will start weekly flights between Seoul and Frankfurt from May 29, Flughafen Frankfurt AG (FAG) said.</p>
+<p>But a planned second weekly flight has been delayed until spring 1998, an FAG statement said.</p>
+<p>On March 19 an FAG statement said that Asiana would launch twice-weekly flights to Frankfurt at the end of May.</p>
+<p>The Seoul-Frankfurt flight will be operated with a Boeing 747-400 combi version with a cargo capacity of 36 tonnes.</p>
+<p>Cargo sales in Germany are being handled by Aerotrans Luftfahrtagentur GmbH.</p>
+<p>FAG said 175 slots a week, or 12 more than last summer, would be used this summer by airlines to fly to Far East destinations, a far higher figure than rivals such as Paris Charles de Gaulle or Amsterdam.</p>
+<p>With Asiana there would be 22 airlines serving 25 destinations in 18 Far East countries from Frankfurt, FAG added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

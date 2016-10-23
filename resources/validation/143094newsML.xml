@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143094" id="root" date="1996-10-25" xml:lang="en">
+<title>CANADA: Canadian oilseeds weekly crushing data - Oct 25.</title>
+<headline>Canadian oilseeds weekly crushing data - Oct 25.</headline>
+<dateline>WINNIPEG 1996-10-25</dateline>
+<text>
+<p>The Canadian Oilseed Processors Association weekly summary of member crushing, in tonnes -</p>
+<p>WEEK ENDING	  CANOLA    SOYBEANS</p>
+<p>October 25	   46,953    27,942</p>
+<p>change from prv wk  -16.7 pct - 13.6 pct</p>
+<p>October 16	   56,398    32,349</p>
+<p>October 9	    64,489    25,462</p>
+<p>October 2	    66,071    20,658</p>
+<p>August 1 to date  699,891   246,021</p>
+<p>-- Note: COPA consists of Archer Daniels Midland Co, CanAmera Foods, Canbra Foods Ltd and Northern Lite Canola Inc.</p>
+<p>(Gilbert Le Gras 204 947 3548)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

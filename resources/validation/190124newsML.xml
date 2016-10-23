@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="190124" id="root" date="1996-11-14" xml:lang="en">
+<title>ITALY: Stet/Telecom merger could include TIM - minister.</title>
+<headline>Stet/Telecom merger could include TIM - minister.</headline>
+<dateline>ROME 1996-11-14</dateline>
+<text>
+<p>Italian Posts Minister Antonio Maccanico said he did not rule out that the merger between state telecommunications holding Stet and Telecom Italia could also include mobile phone company TIM.</p>
+<p>&quot;No one has said that TIM will remain outside the merger,&quot; Maccanico said in reply to reporters' questions at a meeting in Rome.</p>
+<p>Maccanico said that the aim of the merger was &quot;to confer the greatest value on the biggest telephone operator which we have in Italy.&quot;  </p>
+<p>The Italian government announced on November 11 that it had ordered Stet to merge with telephone service operator Telecom Italia and that privatisation of the state telecoms giant would be delayed until late 1997, from the planned March date.</p>
+<p>The government had previously made no mention of whether the plans included or excluded state-controlled mobile phone operator Telecom Italia Mobile (TIM) which was spun off from Telecom Italia in July 1995.</p>
+<p>--Milan bureau +392 66129507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="562527" id="root" date="1997-05-06" xml:lang="en">
+<title>SLOVENIA: Slovenia shares firm, pulled up by Petrol.</title>
+<headline>Slovenia shares firm, pulled up by Petrol.</headline>
+<dateline>LJUBLJANA 1997-05-06</dateline>
+<text>
+<p>Slovenian shares firmed 0.24 percent on Tuesday, boosted, traders said, by a 2.28 percent rise of petrol trader Petrol, which made its debut on the Ljubljana bourse on Monday.</p>
+<p>&quot;Petrol is one of the largest Slovenian companies with good business results and solid plans for the future therefore its price is expected to rise to about 18,000 tolars in the next two weeks,&quot; one said.</p>
+<p>* The SBI index rose 3.18 points to 1,310.80.</p>
+<p>* Petrol was most actively traded, closing at 17,530 tolars on volume of 1,467 shares for total turnover of 25.4 million tolars.</p>
+<p>-- Ljubljana newsroom, 386-61-125-8439</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

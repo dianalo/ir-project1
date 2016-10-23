@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411619" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: Assets of U.S. money market funds fell in week.</title>
+<headline>Assets of U.S. money market funds fell in week.</headline>
+<dateline>WASHINGTON 1997-02-27</dateline>
+<text>
+<p>Total assets of U.S. money market mutual funds fell to $959.79 billion this week from a revised $961.58 billion last week, an industry trade group said Thursday.</p>
+<p>The Investment Company Institute said assets of the nation's 664 retail money market mutual funds rose $4.74 billion to $634.87 billion in the week.</p>
+<p>Of the retail funds, assets of the 401 taxable money market funds rose $4.35 billion to $517.10 billion, while assets of the 263 tax-exempt funds rose $390.8 million to $117.78 billion, the group said.</p>
+<p>ICI said assets of the 323 institutional money market funds fell $6.52 billion to $324.92 billion. Of these, assets of the 260 taxable money market funds decreased $6.24 billion to $292.94 billion, while assets of the 63 tax-exempt funds fell $282.7 million to $31.98 billion, it said.</p>
+<p>ICI revised last week's money market mutual fund assets to $961.58 billion from $953.32 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

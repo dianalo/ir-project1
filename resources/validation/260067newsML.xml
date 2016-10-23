@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260067" id="root" date="1996-12-16" xml:lang="en">
+<title>UK: U.S. stocks rise in London after Boeing news.</title>
+<headline>U.S. stocks rise in London after Boeing news.</headline>
+<byline>Debra Sherman</byline>
+<dateline>LONDON 1996-12-16</dateline>
+<text>
+<p>U.S. stocks were broadly higher in London on Monday and brokers were looking for a strong start on Wall Street in the wake of Boeing Co's $13.3 billion offer to acquire McDonnell Douglas Corp.</p>
+<p>News of the merger, which would create a mammoth aerospace and defense firm, was expected to lift investor sentiment in an increasingly jittery market, brokers said.</p>
+<p>&quot;The market likes these mega takeover stories. Wall Street will definitely open better,&quot; said one London broker.</p>
+<p>Shares in McDonnell Douglas were indicated $13 higher at $65, while shares in Boeing Co climbed $5-1/2 to $102-1/4 in London.</p>
+<p>At 1043 GMT, the March S&amp;P 500 futures contract was up 1.70 points to 738.10 on Globex, while the March 30-year Treasury bond futures contract rose 10/32 at 113-18/32.</p>
+<p>&quot;Shares are firmer, bonds are up and we've got this takeover news,&quot; the broker said. &quot;I think we could see the Dow up 15 to 20 points at the start.&quot;</p>
+<p>Dealers said the market could be influenced later today by the November figures on capacity utilization and industrial production, due for release at 1415 GMT.</p>
+<p>Yet few expect the Federal Reserve's Open Market Committee meeting, which starts Tuesday, to result in a change in monetary policy.</p>
+<p>Coca Cola Co shares added $1/4 to 48-1/8 in London after press reports said the soft drink giant's introduction of a new bright green soda in the U.S. next month could be its biggest soft drink launch since diet Coke.</p>
+<p>Coca Cola's new drink will compete directly with Pepsi Co's Mountain Dew. Pepsi shares, one of the few decliners, shed $1/8 to $29.</p>
+<p>Technology shares bounced in London after Friday's broad decline. Shares in International Business Machines firmed $3/8 to $152-3/4.</p>
+<p>Intel Corp shares, which lost $4-1/2 in New York on Friday, rebounded $1/2 to $132-7/8. Shares in Texas Instruments added $1/4 to $65-3/4, while shares in Digital Equipment rose $1/4 to $39-1/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

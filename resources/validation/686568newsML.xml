@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="686568" id="root" date="1997-06-25" xml:lang="en">
+<title>SWITZERLAND: ABB heads China power project.</title>
+<headline>ABB heads China power project.</headline>
+<dateline>ZURICH 1997-06-25</dateline>
+<text>
+<p>Electrical engineering group ABB Asea Brown Boveri AG said it was leading a consortium that won a $650 million order for a 700 megawatt coal-fired power plant in China.</p>
+<p>ABB said its share of the order was $300 million.</p>
+<p>ABB said in a statement it was leading a group of Chinese companies in building Hefei No 2 power plant 400 km west of Shanghai near Hefei, the capital of Anhiou Province.</p>
+<p>ABB's responsibility is to supply two 350-megawatt steam turbines, the electrical generators and electro-mechanical equipment as well as the overall power plant control system,&quot; the company said.</p>
+<p>&quot;ABB will also be responsible for the engineering and turnkey project management,&quot; the statement added.</p>
+<p>In Mannheim, ABB Kraftwerke said it would serve as project manager responsible for engineering and delivery of steam turbines to its Chinese partners.</p>
+<p>The rest of the consortium were Chinese companies, including a local civil construction company and the Harbin Power Engineering Company.</p>
+<p>The order was placed by local power group Anhui Hefei United Power Generation Ltd and the plant will use coal from a neighbouring mine, ABB said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

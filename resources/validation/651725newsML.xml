@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="651725" id="root" date="1997-06-10" xml:lang="en">
+<title>JAPAN: Daido Life to put 80% of new investment into bonds.</title>
+<headline>Daido Life to put 80% of new investment into bonds.</headline>
+<dateline>TOKYO 1997-06-10</dateline>
+<text>
+<p>Daido Life Insurance Co said on Tuesday that it plans to put 80 percent of its new investment in the current financial year to March 31, 1998 into stable instruments such as government and corporate bonds.  </p>
+<p>A company official told a news conference that the firm held 51.52 billion yen worth of bad loans as of the end of March this year against total assets of 5.059 trillion yen.</p>
+<p>He said that unrealised profits on its stock holdings would fall to zero if the Nikkei 225 stock average were to fall to 15,700 points or the TOPIX index to 1,200.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

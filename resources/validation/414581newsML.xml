@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="414581" id="root" date="1997-03-03" xml:lang="en">
+<title>MEXICO: Mexico crude port Pajaritos closed - port.</title>
+<headline>Mexico crude port Pajaritos closed - port.</headline>
+<dateline>MEXICO CITY 1997-03-03</dateline>
+<text>
+<p>Mexican crude port Pajaritos was closed Sunday at 1535 local/2135 GMT as winds from the north blew at 45 km per hour and waves were reported nine feet high, a port official told Reuters Monday.</p>
+<p>He said the port could reopen by Tuesday and that wind speeds were slowing.  </p>
+<p>Dos Bocas port captain Carlos Luna told Reuters petroleum tankers were still not sailing from the port after shipments were suspended Sunday at 1600 local/2200 GMT. The port was reported open to few large ships not requiring tug boats or pilot ships at 0940 local/1540 GMT.</p>
+<p>The smaller ships that guide petroleum tankers could not sail because of waves growing from six to eight feet high, he said.</p>
+<p>&quot;It is possible if the waves keep rising that we will not open until Tuesday,&quot; Luna said.</p>
+<p>Cayo Arcas crude port was reported open with winds 30 to 40 km per hour. Cayo Arcas ships an average 611,000 barrels per day (bpd), Dos Bocas ships 440,000 bpd and Pajaritos ships 399,000 bpd, according to the latest figures from state oil and gas monopoly Petroleos Mexicanos (Pemex).</p>
+<p>((--Timna Tanners, Mexico City newsroom +525 728-7903))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733361" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: CompUSA to develop &quot;Build-to-Order&quot; PCs.</title>
+<headline>CompUSA to develop &quot;Build-to-Order&quot; PCs.</headline>
+<dateline>NEW YORK 1997-07-15</dateline>
+<text>
+<p>CompUSA Inc. said Tuesday it is adopting a &quot;build-to-order&quot; personal computer strategy with the launch of a full line of desktop PCs early this fall, making it one of the first big computer retailers to follow in the footsteps of direct PC marketer Dell Computer Corp.</p>
+<p>Under the new strategy, CompUSA will make computers to fill specific orders, instead of producing them based on market forecasts.</p>
+<p>CompUSA, the largest computer superstore, said its new PCs, called the CompUSA PC, will be assembled by various third-party manufacturers and built according to individual customer specifications. The CompUSA PCs will be shipped directly to customers, and installation will be available.</p>
+<p>CompUSA's build-to-order PCs will range from state-of-the art, high-end models to lower-cost, value-priced PCs. Intel Corp.'s Pentium processors and components, and other brand-name components, will be available.</p>
+<p>&quot;Our goal is to sell computers any way that our customers want to buy them, and we believe the CompUSA PC will help us reach that goal,&quot; said CompUSA President Jim Halpin.</p>
+<p>The retail chain said it also would offer technical service and training in its 130 superstores, which operate in 59 major metropolitan markets in the United States.</p>
+<p>Customers will be able to place individual orders through the CompUSA Web site, direct mail order, CompUSA's corporate sales force and in the superstores.</p>
+<p>&quot;Everybody's doing it,&quot; said Seymour Merrin, president of Merrin Information Services, a market research firm in Palo Alto, Calif. &quot;The key thing here really is inventory turns. The people who know how to turn inventory will be the winners,&quot; he said, referring to how fast a company can go through its inventory of parts and components to make PCs.</p>
+<p>As more powerful processors, larger disk drives and fatter memory chips are introduced at faster rates, using up inventory on hand to build PCs and avoiding obsolete product parts is becoming crucial to survival in the PC business.</p>
+<p>Last week, Compaq Computer Corp. of Houston introduced its first desktop PCs that are designed via a build-to-order manufacturing strategy. International Business Machines Corp. also has an assemble-to-order strategy with its resellers.</p>
+<p>CompUSA said it views its competition as any company that manufactures build-to-order PCS, and its primary competitors will be Dell Computer and Gateway 2000 Inc. On a local basis, it said it will compete with small, independent computer manufacturers and resellers.</p>
+<p>CompUSA said it still plans to continue its relationships with Compaq Computer and IBM, by offering their PCs designed for the consumer-retail market.</p>
+<p>CompUSA's stock rose 44 cents to $25.69 on the New York Stock Exchange.</p>
+<p>CPU.N, CPQ.N, DELL.O, IBM.N, GTW.N</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

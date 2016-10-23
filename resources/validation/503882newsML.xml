@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="503882" id="root" date="1997-04-11" xml:lang="en">
+<title>AUSTRIA: Bank Austria takes seats on CA supervisory board.</title>
+<headline>Bank Austria takes seats on CA supervisory board.</headline>
+<dateline>VIENNA 1997-04-11</dateline>
+<text>
+<p>Bank Austria took final control of Creditanstalt on Friday when the latter's shareholders voted three of Bank Austria's executive board members onto Creditanstalt's supervisory board.</p>
+<p>Bank Austria chief executive Gerhard Randa and board members Karl Samstag and Friedrich Kadrnoska were voted on to the non-executive supervisory board with more than 99 percent of votes.</p>
+<p>Creditanstalt's new 21-member supervisory board was expected to elect its president later on Friday, widely tipped to be Randa.</p>
+<p>Bank Austria bought the Austrian government's 69.45 percent voting stake in Creditanstalt in January for 17.2 billion schillings in cash, closing the book on Europe's longest running privatisation saga. -- Vienna newsroom, +431 53112 254</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

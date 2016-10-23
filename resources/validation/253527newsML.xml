@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253527" id="root" date="1996-12-12" xml:lang="en">
+<title>FRANCE: CANAL PLUS , NETHOLD TO SIGN DEAL SATURDAY.</title>
+<headline>CANAL PLUS , NETHOLD TO SIGN DEAL SATURDAY.</headline>
+<dateline>PARIS 1996-12-12</dateline>
+<text>
+<p>The final accord for the merger between Canal Plus and Nethold will be signed on Saturday, Canal Plus chairman Pierre Lescure said on Thursday.</p>
+<p>&quot;With Nethold, the definitive accord will be signed on Saturday,&quot; Lescure told a news conference.</p>
+<p>Nethold is jointly held by the South African controlled industrial holding firm Richemont SA and MCL-Multi Choice Ltd.</p>
+<p>&quot;The closing of the operation will take place after the authorisations of competent authorities in the countries concerned by the merger,&quot; Lescure told a news conference.</p>
+<p>-- Paris Newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

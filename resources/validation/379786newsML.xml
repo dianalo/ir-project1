@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379786" id="root" date="1997-02-14" xml:lang="en">
+<title>GERMANY: Deutsche appoints private banking chief.</title>
+<headline>Deutsche appoints private banking chief.</headline>
+<dateline>FRANKFURT 1997-02-14</dateline>
+<text>
+<p>Deutsche Bank AG on Friday named former Rothschild Asset Management director Alfred Roelli as global chief investment officer of its private banking division.</p>
+<p>Roelli, 44, will take up the newly created position on April 1 and will co-ordinate Deutsche's strategy for global investment advisory services from Frankfurt.</p>
+<p>In a statement, Deutsche noted that the global private banking division was created during the bank's restructuring of last year.</p>
+<p>The division brings together services provided worldwide for wealthy individuals with a need for complex and internationally-oriented investment packages, Deutsche said.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

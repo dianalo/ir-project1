@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320430" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: Depression is undertreated, experts say.</title>
+<headline>Depression is undertreated, experts say.</headline>
+<dateline>CHICAGO 1997-01-21</dateline>
+<text>
+<p>Too often people suffering from depression are left undiagnosed or undertreated because of the health care system's shortcomings and a lack of awareness of the affliction, a panel of experts reported on Tuesday.</p>
+<p>&quot;In light of the prevalence and perniciousness of depression, the economic cost of the illness, its treatability, and previous public and professional efforts, why are so many people with depression receiving inadequate treatment or getting no treatment at all?&quot; Robert Hirschfeld, a psychiatrist at the University of Texas in Galveston, asked in the Journal of the American Medical Association.</p>
+<p>The panel, which met for two days in January of last year, was made up of doctors, insurers, public health officials and consumers and was organised by the National Depressive and Manic Depressive Association.</p>
+<p>It said roughly 15 percent of American men and 24 percent of women will suffer from depression at some time and the toll is often seen in related health problems, unhappy and unproductive lives and higher rates of suicide.</p>
+<p>Patients and their primary care physicians often fail to recognise the symptoms of depression and the myth that depression is not a &quot;real&quot; illness can deter proper diagnosis and treatment, Hirschfeld wrote in the Journal.</p>
+<p>The panel also blamed inadequate insurance coverage and the barriers placed by managed health care systems for patients not obtaining the best anti-depressant drugs.</p>
+<p>&quot;Too many patients with depression are treated for very brief periods of time and then lost to the health care system,&quot; Hirschfeld wrote.</p>
+<p>The panel recommended various strategies to improve treatment of depression including informing consumers about available treatment, developing performance standards for behavioural health care, removing barriers to proper diagnosis, urging collaboration among health care providers to recognise the affliction and finding new treatments.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

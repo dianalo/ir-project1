@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133058" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: SAD sees 15 pct earnings growth in 1996/97.</title>
+<headline>SAD sees 15 pct earnings growth in 1996/97.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>South African Druggists Ltd (SAD) was expected to achieve a 15 percent growth in earnings in the 1996/97 financial year despite tough industry conditions, Peter Beningfield, the chief executive said on Tuesday.</p>
+<p>He said although the pharmaceutical and healthcare industry was likely to remain in a state of turmoil in the year ahead, SAD was well positioned to benefit from the anticipated changes.</p>
+<p>&quot;The shift to generics...is inevitable given government's firm commitment to reducing the cost of medication,&quot; he said.</p>
+<p>&quot;SAD has long been the local leader in generics...(and we) are well equipped to compete with international manufacturers.&quot;</p>
+<p>He said continuing cost-reduction pressures would lead to the increased use of SAD's multi-disciplinary Medicross clinics, which would boost the healthcare division's profitability.</p>
+<p>Strong results from the group's offshore operations and the fact that all products currently in development would be capable of getting European registration, augured well for the group's international activities.</p>
+<p>&quot;Barring the unforeseen, we therefore expect to achieve our EPS growth target of 15 percent in the coming year,&quot; Beningfield said.</p>
+<p>-- Johannesburg newsroom, 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

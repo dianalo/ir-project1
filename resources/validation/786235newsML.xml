@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786235" id="root" date="1997-08-07" xml:lang="en">
+<title>FINLAND: LATEST FINNISH BOND/FOREX MARKET DATA UPDATE.</title>
+<headline>LATEST FINNISH BOND/FOREX MARKET DATA UPDATE.</headline>
+<text>
+<p>Finnish bonds, money and forex rates:</p>
+<p>			    Latest   Change    Pct change	Open  Pvs close</p>
+<p>			  At 10:22				 At 10:09   At 16:06</p>
+<p>FIM-06 bond	   5.91 pct    1.0 bp	-	  5.91 pct   5.90 pct</p>
+<p>FIM-04 bond	   5.53 pct    0.0 bp	-	  5.53 pct   5.53 pct</p>
+<p>FIM-99 bond	   3.86 pct   -1.0 bp	-	  3.86 pct   3.87 pct</p>
+<p>German Bund	   5.70 pct    0.3 bp	-	  5.69 pct   5.69 pct</p>
+<p>Gap over Germany     21.5 bp    0.7 bp	-	   21.9 bp    20.8 bp</p>
+<p>One-year spot rate  3.62 pct   -4.0 bp	-	  3.62 pct   3.66 pct</p>
+<p>1-yr to longest yld   229 bp    5.0 bp	-	    229 bp     224 bp</p>
+<p> SEP FRA rate	 3.27 pct   -2.0 bp	-	  3.27 pct   3.29 pct</p>
+<p> JUN FRA rate	 4.20 pct   -1.0 bp	-	  4.20 pct   4.21 pct</p>
+<p>DEM/FIM		   2.9775   -0.0005   -0.000 pct    2.9765     2.9780</p>
+<p>USD/FIM		   5.6101    0.0033   +0.001 pct    5.6165     5.6068</p>
+<p>SEK/FIM		     0.69   -0.0007   -0.001 pct	0.69	 0.69</p>
+<p>USD/JPY		   118.60   -0.7500   -0.006 pct  118.4100   119.3500</p>
+<p>USD/DEM		   1.8850    0.0010   +0.001 pct    1.8865     1.8840</p>
+<p>ECUFIM=		   100.66	0.01     +0.0 pct    100.75     100.65</p>
+<p>Prices</p>
+<p>FIM-06 bond	     108.86     -0.07   -0.001 pct    108.86     108.93</p>
+<p>FIM-04 bond	     121.38     -0.01   -0.000 pct    121.38     121.39</p>
+<p>FIM-99 bond	     109.67     -0.00   -0.000 pct    109.67     109.67</p>
+<p>German Bund	     102.19     -0.02   -0.000 pct    102.22     102.21</p>
+<p>			  NOTES:  - Some figures may not match due to rounding</p>
+<p>				    - All comparisons versus pvs close</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

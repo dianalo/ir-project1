@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101776" id="root" date="1996-10-08" xml:lang="en">
+<title>GERMANY: TENNIS-FILDERSTADT WOMEN'S TOURNAMENT RESULTS.</title>
+<headline>TENNIS-FILDERSTADT WOMEN'S TOURNAMENT RESULTS.</headline>
+<dateline>FILDERSTADT, Germany 1996-10-08</dateline>
+<text>
+<p>First round results</p>
+<p>at the $450,000 Filderstadt women's tennis tournament on Tuesday</p>
+<p>(prefix number denotes seeding):</p>
+<p>Asa Carlsson (Sweden) beat Gabriela Sabatini (Argentina) 7-5</p>
+<p>6-4</p>
+<p>6-Jana Novotna (Czech Republic) beat Samatha Smith (England)</p>
+<p>6-1 6-2</p>
+<p>Judith Wiesner (Austria) beat Nathalie Tauziat (France) 7-5 7-5</p>
+<p>Dominique van Roost (Belgium) beat Marianne Werdel-Witmeyer</p>
+<p>(U.S.) 7-5 6-4</p>
+<p>Jennifer Capriati (U.S.) beat Natalia Zvereva (Belarus) 7-6</p>
+<p>(10-8) 6-3</p>
+<p>Natalia Medvedeva (Ukraine) beat Magdalena Maleeva (Bulgaria)</p>
+<p>3-6 7-5 7-5</p>
+<p>Amada Coetzer (South Africa) beat Helena Sukova (Czech</p>
+<p>Republic) 6-1 6-3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FILDERSTADT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

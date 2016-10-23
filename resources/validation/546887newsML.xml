@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="546887" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: New vaccine prevents AIDS infection in chimps.</title>
+<headline>New vaccine prevents AIDS infection in chimps.</headline>
+<byline>Randall Mikkelsen</byline>
+<dateline>PHILADELPHIA 1997-04-29</dateline>
+<text>
+<p>Researchers reported on Tuesday they had successfully vaccinated two chimpanzees against the virus that causes AIDS, pointing the way to possible use of the technique in humans.</p>
+<p>The vaccine's effectiveness is unprecedented in a primate species, which, like humans, is susceptible to infection with the human immunodeficiency virus (HIV), the University of Pennsylvania said. The DNA-based technology used to produce the vaccine could also be used in fighting other diseases, researchers said.</p>
+<p>Results of the study were published in the May issue of the journal Nature Medicine.</p>
+<p>&quot;We were able to protect (against HIV infection), and we were able to protect against a signficant dose,&quot; lead researcher David Weiner, told Reuters by telephone. &quot;While this is encouraging ... how close we are really (to a human AIDS vaccine) is going to require work in the clinic.&quot;</p>
+<p>Referring to the technique in general, he said, &quot;it's likely that DNA vaccines will find a place in human diseases.&quot;</p>
+<p>In addition, preliminary findings in related research have shown that treatment with the vaccine can also reduce the presence of HIV in chimpanzees previously infected, Weiner said. He is an associate professor in pathology and laboratory medicine at the University.</p>
+<p>The scientists reported that two chimpanzees treated with the vaccine were protected against exposure to HIV in quantitities large enough to infect 250 animals. The virus succeeded in infecting a control animal, which received a similar injection that lacked the vaccine.</p>
+<p>The vaccinated chimps were virus-free when checked as long as 48 weeks after exposure, although each of them briefly tested positive for the virus within 6-8 weeks after exposure. This is consistent with the way traditional vaccines work against disease, Weiner said.</p>
+<p>&quot;There was some limited replication (of HIV), but the immune system was ultimately able to effectively control that infection,&quot; he said.</p>
+<p>The vaccine was made through a new DNA-based technique using genes that help make up the virus. The genes, representing about 75 percent of the proteins in the virus from both its outer coat and core, are &quot;weakened&quot; to block their molecular function and injected into the body.</p>
+<p>These genes in turn stimulate the both arms of the human immune system -- the antibody and &quot;killer T cell&quot; responses -- to attack the virus when it invades the body.</p>
+<p>Weiner said the DNA technique enables killer T cells to find and attack viruses inside cells. This is a feature shared with older-style vaccines using live but weakened viruses.</p>
+<p>But unlike live vaccines, the DNA-based vaccines appear to carry no risk of reverting to infectious agents, Weiner said. Vaccines based on dead viruses, while safer to use, are unable to stimulate killer T cell function.</p>
+<p>Studies have suggested that to control HIV infection both components of the immune system would have to attack the virus, which can reproduce inside the cell. Vaccine genes do not become a permanent part of the recipient's genetic makeup.</p>
+<p>Rights to the vaccine technology are held by Malvern, Pennsylvania-based Apollon Inc., a privately held firm, under stipulations of a grant programme funding the research.</p>
+<p>Apollon said separately it was conducting clinical studies in humans with a portion of the vaccine -- that relating to the outer coat of HIV -- at the University of Pennsylvania and the National Institutes of Health. The company said it aimed to begin trials of the viral-core related component soon.</p>
+<p>Apollon president Vincent Zurawski also said the company was testing the use of the technology in vaccines against herpes simplex virus, papilloma and hepatitis B and C.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

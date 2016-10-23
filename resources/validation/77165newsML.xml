@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77165" id="root" date="1996-09-25" xml:lang="en">
+<title>INDONESIA: Wangsa mulling rights or bonus shares.</title>
+<headline>Wangsa mulling rights or bonus shares.</headline>
+<dateline>JAKARTA 1996-09-25</dateline>
+<text>
+<p>Indonesia footwear producer PT Ganda Wangsa is considering issuing rights or bonus shares, company officials said on Wednesday.</p>
+<p>Company spokeswoman Maria Kristiono confirmed rumours sweeping the Jakarta bourse since Tuesday that the company would either issue rights or bonus shares but refused to give details.</p>
+<p>She told Reuters the plan was still under discussion.</p>
+<p>Ganda Wangsa topped the active list at 0410 GMT with almost seven million shares changing hands. It was trading unchanged at 950 rupiah after rising to 1,025 rupiah in early trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

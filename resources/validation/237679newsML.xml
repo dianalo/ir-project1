@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237679" id="root" date="1996-12-05" xml:lang="en">
+<title>INDIA: Assam crude pipeline seen back to normal by Monday.</title>
+<headline>Assam crude pipeline seen back to normal by Monday.</headline>
+<dateline>GOA, India 1996-12-04</dateline>
+<text>
+<p>Oil India Ltd is aiming to bring the 1,500 km Assam crude pipeline back to normal operation by next Monday, company chairman N.N. Gogoi said on Wednesday.</p>
+<p>He said in an interview with Reuters the pipeline stopped pumping for four and a half days after last Thursday's pipeline break and fire.</p>
+<p>But he said the pipeline was partly operational at 400 kilolitres per hour throughput.</p>
+<p>He said the company was gradually increasing pressure and hoped that by Monday the throughput would be back to normal levels around 485 kilolitres per hour.</p>
+<p>&quot;We hope to back to normal on Monday...We do not want to increase pumping pressure abruptly. I want to go casually up,&quot; he said.</p>
+<p>Two refineries, at Bongaigaon in the northeastern state of Assam and Barauni in the neighbouring state of Bihar, were shut down after crude spurting from the burst pipeline caught fire and burned for seven hours last Thursday.</p>
+<p>Bongaigaon refinery restarted full operation on Wednesday.</p>
+<p>The pipeline burst at Hajo, 30 km (19 miles) west of Assam's capital Guwahati, and supplies crude oil to refineries in Guwahati, Bongaigaon and Barauni.</p>
+<p>Supply to the Guwahati refinery, upstream of the break, was not affected. The crude pipeline starts in Dhuliajan in upper Assam and terminates at Barauni in Bihar.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOA, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

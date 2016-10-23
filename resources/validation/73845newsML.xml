@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73845" id="root" date="1996-09-24" xml:lang="en">
+<title>BELGIUM: Publication of Belgian car reg stats to be resumed.</title>
+<headline>Publication of Belgian car reg stats to be resumed.</headline>
+<dateline>BRUSSELS 1996-09-24</dateline>
+<text>
+<p>FEBIAC, the Belgian car manufacturers association, said on Tuesday it reached an agreement with the Belgian state, which would allow it to resume the publication of car registration figures.</p>
+<p>Citing a breach of data protection rules, a Belgian court in August banned the association from publishing data based on official monthly figures.</p>
+<p>Under the agreement the state will now supply FEBIAC with statistics in a way which makes identification of individuals impossible. FEBIAC said the court had approved the agreement.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

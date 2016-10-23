@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="740314" id="root" date="1997-07-18" xml:lang="en">
+<title>NORWAY: Profit-taking sends Norway shares lower.</title>
+<headline>Profit-taking sends Norway shares lower.</headline>
+<dateline>OSLO 1997-07-18</dateline>
+<text>
+<p>Norwegian shares fell with overseas markets amid profit-taking in slow trade on Friday, dealers said.</p>
+<p>Oslo's Total share index dropped nearly one percent to 1,250.09 points in moderate turnover of 702 million crowns.</p>
+<p>&quot;We are down because of the summer lull, profit-taking, the slugging performance in overseas markets and the fact that Norsk Hydro will present results on Monday,&quot; a dealer said.</p>
+<p>&quot;We've had several days of new records and then it is only natural that some investors take their profits now,&quot; he said.</p>
+<p>Hydro, which is Norway's largest listed company, fell 2.9 percent, or nine crowns, to 398 crowns after rising strongly earlier this week.</p>
+<p>A Reuter poll of nine analysts forecast first-half pre-tax profits of 6.09 billion crowns for Hydro, slightly down from 6.14 billion crowns a year ago.</p>
+<p>Anglo-Norwegian industrial group Kvaerner's A share fell 0.9 percent, or four crowns, to 440 crowns in weak turnover of 30 million crowns.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

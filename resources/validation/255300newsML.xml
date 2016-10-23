@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255300" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Report on early humans shapes anthropology debate.</title>
+<headline>Report on early humans shapes anthropology debate.</headline>
+<byline>Deborah Zabarenko</byline>
+<dateline>WASHINGTON 1996-12-13</dateline>
+<text>
+<p>A new report that three human species may have walked the earth at the same time is reshaping the scientific debate about what it means to be human, a leading anthropologist said on Friday.</p>
+<p>&quot;The idea that as late as 27,000 years ago there were one and possibly two other species of humans walking around, that we are just one of a series of experiments in being human ... I think that's a pretty important implication,&quot; said Rick Potts, director of human origins research at the National Museum of Natural History.</p>
+<p>Potts was responding to an article in the journal Science which theorised that Homo erectus, which scientists had once believed to be an ancestor of modern humans that died out 700,000 to 500,000 years ago, actually lived in Asia as late as 27,000 to 53,000 years ago.</p>
+<p>That would mean that Homo erectus existed simultaneously with both Neanderthal man and Homo sapiens -- a departure from prevailing theories that human evolution is successive, not coexisting, Potts said in a telephone interview.</p>
+<p>&quot;For many years, anthropologists have had a view of the human evolutionary tree as a series of stages, a tree with merely a trunk and no branches, with species going from more ape-like at the bottom to humans at the top,&quot; he said.</p>
+<p>In the last 10 years, experts in the field began to accept the theory that human evolution was far more complex, but that it still wound up with only one species at the top of the tree: modern man.</p>
+<p>&quot;But now, over the last five years ... (research has) really solidified the view of a bush all the way up ... there is no tendency of nature to produce, even among the human family tree, just us,&quot; Potts said. &quot;There's no single threshhold of what it means to be human.&quot;</p>
+<p>The new findings could mean that, while human beings are now alone among homonids, that has not always been so and in fact may be the exception rather than the rule.</p>
+<p>The theory that Homo erectus, Neanderthal man and Homo sapiens overlapped is based on new information about a dozen faceless skulls found along the Solo River in Java in the 1930s.</p>
+<p>Since the discovery, Science said, individual skulls were erroneously identified as a tiger, an ape, a Neanderthal and a modern human, but eventually most anthropologists agreed the so-called Solo skulls were Homo erectus.</p>
+<p>Because the skulls themselves could not be sampled to determine their age, scientists got cues from nearby volcanic rock, which was about 250,000 years old, and animal bones, which were about 100,000 years old.</p>
+<p>The latest findings were based on a sophisticated scan of water buffalo teeth found in the same level of the dig where the skulls were found. Using a dating method which measures the electric charges induced in tooth enamel over time by radioactive materials like uranium, researchers said the skulls were probably between 27,000 and 53,000 years old.</p>
+<p>Another method, called uranium series dating, gave the same result, the researchers reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

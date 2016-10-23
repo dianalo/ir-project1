@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592627" id="root" date="1997-05-16" xml:lang="en">
+<title>GERMANY: German Q1 GDP seen up 0.5 pct - Econ Ministry.</title>
+<headline>German Q1 GDP seen up 0.5 pct - Econ Ministry.</headline>
+<dateline>BONN 1997-05-16</dateline>
+<text>
+<p>German economic growth in the first quarter of 1997 may have increased about 0.5 percent on a seasonally and inflation-adjusted basis compared to the fourth quarter of 1996, the Economics Ministry said on Friday.</p>
+<p>The ministry said the rise came even though the number of work days was reduced by bad winter weather at the beginning of the year.  </p>
+<p>Exports were driving growth and helped lift manufacturing capacity utilisation in west Germany to 84.9 percent in March -- its highest level since 1995, the ministry said.</p>
+<p>Improved demand led to first-quarter industrial gains. Compared to the fourth quarter of last year, first-quarter orders rose 1.5 percent while output increased two percent, the ministry said.</p>
+<p>At the same time, the weak labour market remained unchanged, while first-quarter construction output was hurt by bad weather and fell 10.5 percent compared to the previous quarter, the ministry said.</p>
+<p>Germany's price climate was extraordinarily stable as the dollar's strength had kept import prices down.</p>
+<p>The economy was also helped by a favourable balance of trade at the beginning of 1997. For January and February, exports rose 6.4 percent compared to the same two months in 1996, while imports rose 5.5 percent.</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

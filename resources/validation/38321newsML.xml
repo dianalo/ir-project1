@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38321" id="root" date="1996-09-06" xml:lang="en">
+<title>UK: British civil service agency sale moves closer.</title>
+<headline>British civil service agency sale moves closer.</headline>
+<dateline>LONDON 1996-09-06</dateline>
+<text>
+<p>The British government's planned privatisation of its civil service recruitment agency took a step closer to finalisation on Friday with the announcement that the Capita Group Plc was the preferred bidder for the project.</p>
+<p>Capita said in a statement that it would now hold final negotiations with the British government on buying the Recruitment and Assessment Services Agency (RAS), which recruits all grades of civil servants and provides assessment, consultancy and training services.</p>
+<p>Sale of RAS has been fraught with controversy as the incumbent Conservative government has met fierce opposition to its plans to privatise the body.</p>
+<p>The civil service is supposed to provide non-partisan advice and research for government but has claimed increasing pressure recently to take a more political stance.</p>
+<p>RAS employs around 140 staff and has an annual turnover of over 9.0 million pounds ($14.12 million).</p>
+<p>Capita is an outsourcing company and had pretax profits of 4.59 million pounds on turnover of over 50 million pounds in the six months ending June 30, 1996. ($1=.6373 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83951">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

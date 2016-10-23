@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202200" id="root" date="1996-11-20" xml:lang="en">
+<title>SOUTH AFRICA: S.African stock market closing report.</title>
+<headline>S.African stock market closing report.</headline>
+<dateline>JOHANNESBURG 1996-11-20</dateline>
+<text>
+<p>As the bullion price hopped above $379 an ounce, gold shares braved a break from the tight range they held throughout Wednesday's trade and added 1.5 percent to the value of their index, dealers said.</p>
+<p>Having straddled their opening levels for most of the day, the slight strengthening in the gold price gave metal shares the courage to move up and finish 25.3 points higher at 1,712.5.</p>
+<p>&quot;Golds have looked so dull all day that the little firming in the gold price just sent them upwards. So little trade was taking place today that the move could be a tad exaggerated and we'll have to see if they hold there,&quot; one dealer said.</p>
+<p>&quot;Bullion is staging no spectacular recoveries and no-one is getting teribly excited about a tiny hop,&quot; he added.</p>
+<p>Late afternoon lethargy rescued industrial shares from a dismal performance as lack of interest diluted loss potential.</p>
+<p>Volumes traded in the afternoon were small and most players held back, including the institutional investors who were sitting on the sidelines, seeking any direction.</p>
+<p>&quot;It's all very lethargic here today. There have been a couple of big deals and they have contributed but mostly its small trades and not much movement,&quot; one dealer said.</p>
+<p>Trade followed the route laid out by Monday and Tuesday's market, that being futures-driven. Wednesday saw reverse arbitrageurs dominating -- selling stock and buying futures.</p>
+<p>Industrials and all-shares took the brunt of the bashing -- and both indices ended weaker but off the day's earlier lows.</p>
+<p>Industrial stocks lost 9.6 points to 8,077.3 and the all-share index slipped to 6,850.9 -- 15.1 points down.</p>
+<p>Dealers said the market was seeking positive direction and few signposts were available. Wall Street was seen opening lower.</p>
+<p>Food and industrial group Tongaat-Hulett jumped on its better-than-expected interim results, adding 125 cents to settle at 58 rand. AECI rose 75 cents to end at 27 rand.</p>
+<p>Dries put on 100 cents to 59.50 rand, Freegold rose 50 cents to 40.75 rand and Vaal Reefs 700 cents higher at 360 rand.</p>
+<p>After opening firmer, industrial and all-share equity futures contracts failed to impress. Both indices ended weaker with the industrial futures index at 7,745/52 from 7,789 and the all-share futures index at 6,260/78 from 6,334.</p>
+<p>Gold futures were relatively immobile on the day, stuck at 1,213/17 from 1,214.</p>
+<p>-- Melanie Cheary, Johannesburg newsroom +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

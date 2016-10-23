@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604082" id="root" date="1997-05-21" xml:lang="en">
+<title>SWITZERLAND: Union Re 1996 profit rises 11.7 pct.</title>
+<headline>Union Re 1996 profit rises 11.7 pct.</headline>
+<dateline>ZURICH 1997-05-21</dateline>
+<text>
+<p>Calender 1996 vs 1995</p>
+<p>				   (million Sfr unless stated)</p>
+<p> Group net profit	     36.909	    vs 33.036</p>
+<p> Gross premium income	 1,434.9	   vs 1,285.7</p>
+<p> Taxes			    26.9		vs 4.4</p>
+<p> Net premium income	   1,379.1	   vs 1.308.7</p>
+<p> Net technical result	 26.5 loss	 vs 32.9 loss</p>
+<p>Net investment income,</p>
+<p> including value adjust     155.3	     vs 114.5</p>
+<p> Admin expenses, taxes	91.9		vs 48.5</p>
+<p> Total investments	    2,661.9	   vs 2,288.3</p>
+<p> Net technical reserves     2,125.7	   vs 1,834.6</p>
+<p> Total assets		   2,883.3	   vs 2,483.6</p>
+<p>Return on shareholders</p>
+<p> funds after tax, pct	 10.9		vs 12.3</p>
+<p> Number of staff, end-Dec   246		 vs 205</p>
+<p>Note -- Full name Union Reinsurance Co. Company is a unit of</p>
+<p>Swiss Reinsurance Co.</p>
+<p>-- Zurich newsroom 41-1-258 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I8200318">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-05-02" id="root" itemid="556050" xml:lang="en">
+<title>USA: NYSE closing averages.</title>
+<headline>NYSE closing averages.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Prices on the New York Stock Exchange ended sharply higher in active trading Friday.</p>
+<p>The Dow Jones Industrial Average rose 94.72 points to 7071.20. It rose 332.33 for the week, a record.</p>
+<p>The NYSE Composite rose 7.26 to 422.97. It rose 22.59 for the week, a record.</p>
+<p>The average price per share rose $0.73.</p>
+<p>Winners beat losers 2120 to 477.</p>
+<p>Volume was 499,730,640 compared with 459,341,810 on Thursday. Volume for the week was 2,478,660,640.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-05-02" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="NEW YORK" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

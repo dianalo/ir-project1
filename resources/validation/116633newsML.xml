@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116633" id="root" date="1996-10-15" xml:lang="en">
+<title>UKRAINE: Kiev reconsiders closing Chernobyl reactor No.1.</title>
+<headline>Kiev reconsiders closing Chernobyl reactor No.1.</headline>
+<dateline>KIEV 1996-10-15</dateline>
+<text>
+<p>Ukraine, which promised the West it would close one reactor at the stricken Chernobyl nuclear plant this month, now believes it could be too dangerous to go through with its pledge, a Ukrainian official said on Tuesday.</p>
+<p>&quot;If this block stops and Chernobyl ends up in a situation where there is no heat to warm the station, then that could endanger the block and make the station prone to an accident,&quot; Yuri Kostenko told reporters.</p>
+<p>Kostenko was speaking after a Paris meeting between Ukraine and nuclear experts from the Group of Seven leading industrial nations to discuss the plant's closure.</p>
+<p>Ukraine, which has promised to close the station by 2000 in exchange for some $3 billion in grants and funding from the G7, gave assurances to G7 leaders in April that it would close the reactor this month.</p>
+<p>&quot;At this moment the decision is made and the station is preparing to close the first block by the end of October,&quot; Kostenko said. &quot;But on the other hand only one block running at Chernobyl is dangerous.&quot;</p>
+<p>Two working RBMK-type reactors, No. 1 and No. 3, produce five percent of Ukraine's electricity. The fourth block blew up 10 years ago in the world's worst civil nuclear accident. The second block was switched off after a fire in 1991.</p>
+<p>Kostenko said the latest G7 meeting had been productive.</p>
+<p>The European Bank for Reconstruction and Development (EBRD) would soon grant money to construct two reactors at the Kmelnytsky and Rivne stations in western Ukraine, to replace electricity lost by Chernobyl's closure.</p>
+<p>&quot;We can say that we did not get straight political talk this time, but that real steps are being taken for real economic support.&quot;</p>
+<p>Ukraine has repeatedly complained about the West's failure to deliver money for the closure of the plant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

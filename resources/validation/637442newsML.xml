@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="637442" id="root" date="1997-06-04" xml:lang="en">
+<title>INDIA: Three soldiers killed in Kashmir landmine blast.</title>
+<headline>Three soldiers killed in Kashmir landmine blast.</headline>
+<dateline>SRINAGAR, India 1997-06-04</dateline>
+<text>
+<p>Three Indian  soldiers were killed and three wounded on Wednesday in a landmine explosion set off by suspected guerrillas in Kashmir, police said.</p>
+<p>A police spokesman said suspected separatists detonated the mine as an army vehicle passed through Handwara town in the district of Kupwara, 75 km (42 miles) north of Srinagar, the summer capital of Jammu and Kashmir.</p>
+<p>Kupwara lies on the Indian border with Pakistan. India controls two-thirds of Kashmir and Pakistan the rest, but both nations claim the whole of the Himalayan region.</p>
+<p>More than a dozen guerrilla groups have fought a rebellion in Indian-administered Kashmir since 1990. Some demand an independent homeland while others want a merger with Pakistan.</p>
+<p>India accuses Pakistan of training and arming insurgents, but Islamabad says it provides only moral and diplomatic support to the rebels.</p>
+<p>Police and hospitals say more than 20,000 people have died in the revolt.</p>
+<p>No militant group claimed responsibility for Wednesday's blast.</p>
+<p>On Tuesday eight policemen were wounded in a grenade attack by militants on a minister's escort vehicle in Srinagar.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SRINAGAR, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

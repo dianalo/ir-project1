@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="380831" id="root" date="1997-02-15" xml:lang="en">
+<title>USA: Pilots' union declares strike is likely.</title>
+<headline>Pilots' union declares strike is likely.</headline>
+<dateline>WASHINGTON 1997-02-14</dateline>
+<text>
+<p>Allied Pilots' Association President James Sovich said Friday negotiators for the union and American Airlines were still far apart and a strike set for midnight was likely to go ahead.</p>
+<p>&quot;They're nowhere near us on economic or job security ... it's likely we'll be striking,&quot; Sovich told a news conference.  </p>
+<p>Sovich said he had expected more movement as the deadline neared on a walkout that would ground the nation's No. 2 carrier.</p>
+<p>&quot;We think it's ridiculous that we're still this far apart three hours before the deadline,&quot; he told reporters. Asked if the airline was softening its negotiating position, Sovich replied &quot;No&quot; but expressed hope talks would continue even if the strike went ahead.</p>
+<p>Sovich had no word on whether President Clinton might intervene to impose arbitration to avert a strike and he cautioned the carrier against counting on it.</p>
+<p>&quot;It would not be the smartest move to count on the White House to do it. Number one, they may not, and number two, even if they do it is not a settlement,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

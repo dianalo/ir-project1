@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522396" id="root" date="1997-04-18" xml:lang="en">
+<title>PORTUGAL: Escudo retreats before strong mark.</title>
+<headline>Escudo retreats before strong mark.</headline>
+<dateline>LISBON 1997-04-18</dateline>
+<text>
+<p>The escudo fell back against a generally strong mark, opening at 100.58/61 to the German currency, compared with a close at 100.24/29 on Thursday.</p>
+<p>Traders saw 100.60 as providing solid resistance because beyond that the Bank of Portugal could step in to brake the fall.  </p>
+<p>After touching 100.74, the currency was recovering to around 100.56/59, although it was not clear whether the Bank had stepped in.</p>
+<p>Some traders said the rebound was triggered by profit-taking.</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="506376" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: Nasdaq ends higher after late-session rally.</title>
+<headline>Nasdaq ends higher after late-session rally.</headline>
+<dateline>NEW YORK 1997-04-14</dateline>
+<text>
+<p>A late rally in several large capitalization technology shares pushed the Nasdaq higher Monday, ending three consecutive days of losses.</p>
+<p>The Nasdaq composite index gained 9.52 points or 0.79 percent to close unofficially at 1216.42. The Nasdaq had closed lower in five of the previous nine sessions.</p>
+<p>The session was mixed, however, with declining issues beating gaining issues 2343 to 1874 on total volume of 482 million shares.</p>
+<p>&quot;The day was pretty light, so I'm not sure the gain is a good test of renewed optimism. Solid earnings by Intel and some other heavyweights could be the spark tech shares need for a more sustained rally,&quot; one trader said.</p>
+<p>Intel Corp, the most active Nasdaq issue, gained 3-1/4 to 133-3/4 ahead of its first quarter earnings report. After the market closed, Intel said it earned $2.20 a share compared to $1.02 a share last year.</p>
+<p>Less fortunate was Novellus Systems Inc, which plunged 22 points to 53 after the company warned it may face potential financial damage from a patent infringement lawsuit.</p>
+<p>United Waste Systems Inc fell 4-1/4 to 33-3/8 after it agreed to be bought by USA Waste Services Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

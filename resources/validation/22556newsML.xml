@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22556" id="root" date="1996-08-29" xml:lang="en">
+<title>DUBAI: UAE stocks unchanged, but trading volumes improve.</title>
+<headline>UAE stocks unchanged, but trading volumes improve.</headline>
+<dateline>DUBAI 1996-08-29</dateline>
+<text>
+<p>Shares in the United Arab Emirates remained static in the week to Thursday, but trading volumes improved slightly as the gap between bids and offers narrowed, brokers said.</p>
+<p>They said Dubai Investment Co, Etisalat and Dubai Islamic Bank were traded in small volumes at last week's prices.</p>
+<p>The 209 million dirham public offering of shares in the new Al-Khazna Insurance firm remained the centre of attraction for most market players.</p>
+<p>But brokers said share prices were steady despite some sales of recently-acquired stocks by small investors to buy into the new flotation.</p>
+<p>The unofficial National Bank of Abu Dhabi 27-share index ended the week unchanged at 2,333.02 points.</p>
+<p>-- Dubai Newsroom  9714-626990</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179297" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 11-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 11-NOV.</headline>
+<text>
+<p>Sypertyphoon Dale is currently over open water in the western Pacific Ocean near 23n/131.5e, moving north at 11 mph. Dale has top winds of 150 mph and is expected to very gradually weaken. Dale is expected to pass about 150-200 miles east of Okinawa, Japan, late Tuesday or early Wednesday. Dale will be a major threat to shipping. It will also stir up very rough surf and high waves which will batter southeastern Japan, the southern Japanese islands, and as far west as eastern Taiwan and the eastern coast of mainland China. Dale will transition into a powerful extratropical system in the northwest Pacific by 48-72 hours.  </p>
+<p>Tropical storm Ernie is mainly a risk to shipping in the northeast part of the South China Sea. Winds of 50 mph are reported near the center of the system. Slow weakening should occur as the system tracks southward and then southwestward during this period.  </p>
+<p>A storm has formed just off the northwest coast of Spain during the past 24 hours. This storm should weaken slightly as it tracks across France, Benelux, western Germany and southern Scandinavia. A secondary storm formers in southern Spain and moves into the west Mediteranean sea this period. These storms should cause moderate to strong winds and heavy rains. Some flooding is possible. Shipping would likely be impacted in the southern Bay of Biscay, the Strait of Gibralta and the west Mediterranean sea.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

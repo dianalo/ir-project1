@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353595" id="root" date="1997-02-04" xml:lang="en">
+<title>SENEGAL: Malaysians look to invest in Senegal tax-free zone.</title>
+<headline>Malaysians look to invest in Senegal tax-free zone.</headline>
+<dateline>DAKAR 1997-02-04</dateline>
+<text>
+<p>A Malaysian investment company has offered to buy a slice of Senegal's tax free zone for use as an industrial park and tourist complex, the Senegalese administrator of the zone said on Tuesday.</p>
+<p>Kuala Lumpur-based Halaman Perdana said in its investment plan it wanted to use 300 hectares for an industrial park for dozens of firms and 500 hectares as a tourist complex with an international golf course, a country club, bungalows and a wharf.</p>
+<p>&quot;We have not responded yet to the offer of the Malaysians, but we are studying it very seriously,&quot; Amadou Maleine Niang, director of Senegal's industrial tax free zone told Reuters.</p>
+<p>The Malaysians had not yet disclosed how much they are willing to pay, he said. The project could take up to 15 years to complete, he added.</p>
+<p>Amadou Maleine Niang said the company had a similar industrial and tourist project in the Chinese industrial zone of Shenzhen.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="SENEG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAKAR"/>
+<dc element="dc.creator.location.country.name" value="SENEGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

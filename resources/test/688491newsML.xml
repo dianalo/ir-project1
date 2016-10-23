@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-06-26" id="root" itemid="688491" xml:lang="en">
+<title>UK: London LIFFE futures APT closing prices.</title>
+<headline>London LIFFE futures APT closing prices.</headline>
+<dateline>LONDON 1997-06-26</dateline>
+<text>
+<p>London International Financial Futures Exchange automated pit trading (APT) tabular details:</p>
+<p>   CONTRACT (MONTH)	APT CLOSE  SETTLEMENT  PREVIOUS SETTLE</p>
+<p>   LONG GILT (JUN) (1/32)     N/A	 114-07	     114-11</p>
+<p>   SHORT STERLING (SEP)	92.96	 92.96		92.97</p>
+<p>   GERMAN GOVT BOND (SEP)   101.82	101.88	     101.71</p>
+<p>   EUROMARK (JUL)		96.86	 96.86		96.86</p>
+<p>   ITALIAN GOVT BOND (SEP)  134.18	134.30	     134.58</p>
+<p>   EUROLIRA (SEP)		93.44	 93.47		93.54</p>
+<p>   EUROSWISS (SEP)	     98.57	 98.57		98.53</p>
+<p>   FTSE 100 (SEP)	   4,688.00    4,686.00	   4,664.00</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-06-26" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-06-26" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="LONDON" />
+<dc element="dc.creator.location.country.name" value="UK" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

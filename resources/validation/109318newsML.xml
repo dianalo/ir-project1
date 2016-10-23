@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109318" id="root" date="1996-10-10" xml:lang="en">
+<title>NETHERLANDS: Reuters 16th ex-Amsterdam air cargo market report.</title>
+<headline>Reuters 16th ex-Amsterdam air cargo market report.</headline>
+<dateline>AMSTERDAM 1996-10-10</dateline>
+<text>
+<p>This is Reuters' 16th ex-Amsterdan air cargo market report. It will be published regularly until a new version is published at a later date.</p>
+<p>Below are the current average ex-Amsterdam Dutch guilder air cargo rates per kg for a 100 kg shipment with a volume-to-weight ratio of six-to-one.</p>
+<p>				     Oct 8	vs	     Aug 24</p>
+<p>					  UNITED STATES</p>
+<p>AMS-JFK			    1.05			  1.00</p>
+<p>AMS-LAX			    1.90			  1.80</p>
+<p>AMS-CHI			    1.15			  1.15</p>
+<p>					 ASIA-PACIFIC</p>
+<p>AMS-HKG			    2.60			  2.45</p>
+<p>AMS-SIN			    2.25			  2.20</p>
+<p>AMS-NRT			    4.20			  4.15</p>
+<p>AMS-TPE			    2.45			  2.45</p>
+<p>AMS-SEL			    3.65			  3.60</p>
+<p>AMS-KUL			    2.30			  2.30</p>
+<p>					  MIDDLE EAST</p>
+<p>AMS-DXB			    1.65			  1.55</p>
+<p>AMS-BAH			    2.20			  2.10</p>
+<p>AMS-MCT			    2.50			  2.45</p>
+<p>AMS-AUH			    1.90			  1.90</p>
+<p>					 LATIN AMERICA</p>
+<p>AMS-MEX			    3.70			  3.70</p>
+<p>AMS-BOG			    3.55			  3.50</p>
+<p>AMS-SCL(CHILE)		   5.55			  5.50</p>
+<p>AMS-SAO			    5.30			  5.00</p>
+<p>					  AFRICA</p>
+<p>AMS-JNB			    3.70			  3.65</p>
+<p>AMS-NBO			    2.35			  2.35</p>
+<p>*The rates quoted in this report were obtained by Reuters journalists on a confidential basis from a range of airlines, large forwarders and smaller air cargo agents based at Amsterdan Schiphol airport.</p>
+<p>*All prices are quoted in Dutch guilders.</p>
+<p>*The tariffs represent average rates calculated from a range of prices and are indicative of current market activity. --Air Cargo Newsroom Tel+44 171 542 8982 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

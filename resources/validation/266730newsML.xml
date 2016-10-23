@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266730" id="root" date="1996-12-19" xml:lang="en">
+<title>BULGARIA: Bulgaria Nov producer prices rise 10.7 pct mth/mth.</title>
+<headline>Bulgaria Nov producer prices rise 10.7 pct mth/mth.</headline>
+<dateline>SOFIA 1996-12-19</dateline>
+<text>
+<p>Bulgaria's monthly producer price inflation was 10.7 percent in November after 16 percent the month before, National Statistics Institute (NSI) figures show.  </p>
+<p> BULGARIAN PRODUCER PRICES     NOV	OCT	 NOV'95</p>
+<p> monthly pct change	     +10.7    +16.0	 +0.9</p>
+<p> yr/yr pct change		+257.1   +229.1	+37.9</p>
+<p>-- Sofia Newsroom, 359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

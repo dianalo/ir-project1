@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694051" id="root" date="1997-06-27" xml:lang="en">
+<title>JAPAN: Nomura says not pessimistic on long-term earnings.</title>
+<headline>Nomura says not pessimistic on long-term earnings.</headline>
+<dateline>TOKYO 1997-06-27</dateline>
+<text>
+<p>Nomura Securities Co Ltd said on Friday it was not pessimistic about its long-term earnings outlook.</p>
+<p>The comments were in response to a question at its annual shareholders' meeting about how the company would fare in the future in view of the expected penalties it faces over a racketeer payoff scandal and the forthcoming &quot;Big Bang&quot; deregulation.</p>
+<p>The question and answer were broadcast on Nomura's website, where the company is posting a summary of its shareholders' meeting. The question was answered by senior managing director Toshiaki Ito, a Nomura spokesman told reporters monitoring the website at the site of the shareholders' meeting, which is closed to the media.</p>
+<p>The company did not give any details about its projected earnings. It said the Big Bang would lower profitability on some operations that do not require high financial skills but would provide greater scope for creativity in its business.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

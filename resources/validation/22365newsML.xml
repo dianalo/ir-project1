@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22365" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: NAPM-New York business conditions 64.5 pct in Aug.</title>
+<headline>NAPM-New York business conditions 64.5 pct in Aug.</headline>
+<dateline>NEW YORK 1996-08-29</dateline>
+<text>
+<p>The National Association of Purchasing Management (NAPM) index of New York business conditions rose to 64.5 percent in August from 63.9 percent in July.</p>
+<p>The New York-area non-manufacturing conditions index climbed to 64.8 percent in August from 61.9 percent in July. Manufacturing-sector conditions slipped to 62.2 percent from 81.9 percent.</p>
+<p>An index above 50 percent denotes growth, NAPM said.</p>
+<p>&quot;Purchasers in the New York area reported business conditions grew at a slightly faster pace,&quot; NAPM said.  </p>
+<p>Forty percent of survey respondents noted a pickup in expected hiring, it said.</p>
+<p>The prices paid component of the index slipped to 49 percent in August, breaking a three-month upturn, the NAPM report said.</p>
+<p>&quot;Looking forward to the upcoming six months, purchasers' optimisim remained high,&quot; it said.</p>
+<p>--N.A. Treasury Desk, 212-859-1868</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130950" id="root" date="1996-10-21" xml:lang="en">
+<title>FRANCE: Rwandan women's group honoured by UNESCO.</title>
+<headline>Rwandan women's group honoured by UNESCO.</headline>
+<dateline>PARIS 1996-10-21</dateline>
+<text>
+<p>UNESCO said on Monday it was honouring a group of Rwandan women's organisations, awarding it the first annual Madanjeet Singh Prize for the promotion of tolerance and non-violence.</p>
+<p>The U.N. Educational, Scientific and Cultural Organisation said the Pro-femmes Twese Hamwe, an association of 32 Rwanda women's groups, was being honoured for its work &quot;in extremely difficult conditions to promote peace&quot;.</p>
+<p>&quot;Just as their name 'Twese Hamwe' means 'all together', this first UNESCO prize for tolerance is an opportunity for all of us to bring international attention to their brave and visionary work in the service of tolerance,&quot; UNESCO director general Federico Mayor said in a statement.</p>
+<p>The group was chosen by a jury led by Nobel Peace Prize winner Reverend Desmond Tutu of South Africa. The prize is named after Indian diplomat Madanjeet Singh, who donated the $40,000 cash award.</p>
+<p>The women's groups banded together after the April 1994 massacres in Rwanda, supporting rural development programmes, operations to aid widows and orphans, health and other training activities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

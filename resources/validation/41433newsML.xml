@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41433" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: CSCE coffee ends near lows on spec liquidation.</title>
+<headline>CSCE coffee ends near lows on spec liquidation.</headline>
+<dateline>NEW YORK 1996-09-09</dateline>
+<text>
+<p>CSCE coffee prices ended weaker and just above intraday lows Monday, hurt by a late-session bout of speculative liquidation, market sources said.</p>
+<p>In what was mainly an uneventful trading day, arabica prices drifted in negative territory from the opening bell.</p>
+<p>Light selling by day traders held the market a notch below unchanged for most of the session, but disappointment over December's failure to carve out fresh upside territory inspired a swift round of speculative selling ahead of the close.</p>
+<p>Most-active December briefly dipped below chart support at 111.00 cents a lb, touching a low of 110.80, before snapping back by the close. December closed down 1.70 at 111.20, while spot September slumped 2.10 to 122.50.</p>
+<p>Traders said today's weaker settlement could signal a return to December's recent low of 108 cents. But most were reluctant to read much into today's session, noting the day's light volume of 4,034 lots.</p>
+<p>&quot;I think everyone is taking a breather from last week,&quot; said one trader. &quot;A lot of people went home long on Friday, but everyone just bailed out on the opening.&quot;</p>
+<p>Traders said tonight's certified stock data would likely show a modest change on the week, but most doubted the numbers would have a broad impact on prices.</p>
+<p>Dealers also shrugged off talk of delays in Colombian coffe exports due to trucker protests and guerrilla attacks.</p>
+<p>&quot;No one seems to be overly concerned,&quot; the trader said. &quot;I think the reaction by the market says it all.&quot;</p>
+<p>--Wendy Pollack, New York Commodities Desk 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

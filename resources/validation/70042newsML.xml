@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70042" id="root" date="1996-09-23" xml:lang="en">
+<title>SOUTH AFRICA: Majority of Dries miners return to work.</title>
+<headline>Majority of Dries miners return to work.</headline>
+<dateline>JOHANNESBURG 1996-09-23</dateline>
+<text>
+<p>The majority of workers at Driefontein Consolidated Ltd's (Dries) east gold mine, who had stayed away after recent outbreaks of violence at the mine, had now returned to work, mine management said on Monday.</p>
+<p>&quot;Turnout is almost 100 percent and absentees are normal,&quot; mine manager Gavin Hepburn told Reuters.</p>
+<p>He said workers had started returning to work last Friday following a joint peace rally held at the mine on Thursday.</p>
+<p>&quot;On Friday the turnout was 88 percent and we think a lot of the absentees were people who had fled home to their families... We had a peace rally here and the news is getting to them and they are returning to work,&quot; Hepburn said.</p>
+<p>Since July, at least 20 miners have died in feuding at Gold Fields of South Africa's East Driefontein and Kloof Gold Mining Co mines.</p>
+<p>The violence has been attributed to clashes between members of the 350,000-strong National Union of Mineworkers (NUM), which has a largely Xhosa membership on the mine, and the smaller, Zulu-led United Workers' Union of South Africa (Uwusa).</p>
+<p>In a separate announcement, Gold Fields said Dries, Kloof and Northam Platinum Ltd had on Friday made initial submissions to the Commission of Inquiry into mine violence, appointed earlier this month by President Nelson Mandela.</p>
+<p>These submissions provide background information, a factual account of incidents and steps taken to reduce the violence that had recently taken place at these mines.</p>
+<p>-- Johannesburg newsroom 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

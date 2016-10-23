@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="545903" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: Saga Communications Q1 net $0.01 vs $0.02.</title>
+<headline>Saga Communications Q1 net $0.01 vs $0.02.</headline>
+<dateline>GROSSE POINTE FARMS, Mich. 1997-04-29</dateline>
+<text>
+<p>(amounts in 000's except per share data)</p>
+<p>					 Three Months Ended</p>
+<p>						March 31,</p>
+<p>					 1997	    1996</p>
+<p>Operating Results</p>
+<p>Net Revenue		     $ 13,515	$ 10,955</p>
+<p>Station Operating Expense</p>
+<p>(excluding depreciation,</p>
+<p>amortization, corporate</p>
+<p>  general and administrative) 10,007	   7,863</p>
+<p>Broadcast Cash Flow		3,508	   3,092</p>
+<p>Depreciation and Amortization  1,282	   1,269</p>
+<p>Corporate Overhead		   807	     748</p>
+<p>Operating Profit		   1,419	   1,075</p>
+<p>Interest Expense		   1,211	     733</p>
+<p>Loss on the Sale of Assets	   6		 3</p>
+<p>Income Before Income Tax	   202	     339</p>
+<p>Income Tax Provision		  88	     145</p>
+<p>Net Income			   $ 114	   $ 194</p>
+<p>Net Income per share	     $ .01	   $ .02</p>
+<p>Weighted Average Common Shares  </p>
+<p> and Common Equivalents(a)    10,273	  10,191</p>
+<p>After Tax Cash Flow(b)	 $ 1,422	 $ 1,478</p>
+<p>After Tax Cash Flow Per Share  $ .14	 $   .15</p>
+<p>Balance Sheet Data</p>
+<p>Working Capital		  $ 7,055	 $ 1,878</p>
+<p>Net Fixed Assets		  30,708	  26,086</p>
+<p>Net Intangible Assets	   49,771	  34,142</p>
+<p>Total Assets			95,703	  72,737</p>
+<p>Long Term Debt (including</p>
+<p> current portion)		 53,734	  36,054</p>
+<p>Stockholders' Equity	    33,218	  29,178</p>
+<p>(a) Proforma for five-for-four stock split for holders of record on March 17, 1997, payable on April 1, 1997. (b) Defined as net income plus depreciation, amortization (excluding film rights), loss on the sale of assets and deferred taxes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GROSSE POINTE FARMS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

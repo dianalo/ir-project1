@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522498" id="root" date="1997-04-19" xml:lang="en">
+<title>JAPAN: TENNIS-RESULTS OF JAPAN OPEN SEMIFINALS.</title>
+<headline>TENNIS-RESULTS OF JAPAN OPEN SEMIFINALS.</headline>
+<dateline>TOKYO 1997-04-19</dateline>
+<text>
+<p>Results on the sixth day of the week-long $1.22 million Japan Open at Ariake Tennis Forest Park near Tokyo Bay on Saturday:</p>
+<p>Semifinal women's singles</p>
+<p>4-Ai Sugiyama (Japan) beat 2-Kimberley Po (U.S.)  5-7 6-4 6-1</p>
+<p>Semifinal men's singles</p>
+<p>1-Richard Krajicek (Holland) beat 6-Patrick Rafter (Australia)</p>
+<p>7-6 (7-5) 6-3</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="774472" id="root" date="1997-08-03" xml:lang="en">
+<title>UK: BA plane crash-lands on just two wheels, all safe.</title>
+<headline>BA plane crash-lands on just two wheels, all safe.</headline>
+<dateline>LONDON 1997-08-03</dateline>
+<text>
+<p>A British Airways airliner on Sunday made a dramatic crash landing on just two wheels after the left undercarriage failed, but all 70 people on board escaped unharmed, officials said.</p>
+<p>An airport spokesman said the British Aerospace ATP airliner had just taken off from Manchester airport when the captain realised the left undercarriage was not working properly and declared an emergency.</p>
+<p>The plane, headed for Knock in Ireland, ditched fuel before coming into land with just the nose and right wheels working. The pilot managed to keep the plane upright until his speed started dropping.</p>
+<p>&quot;Finally the left-hand wing came down and the plane just came to a halt,&quot; the spokesman told the domestic Press Association news agency. Those on board then escaped using emergency slides.</p>
+<p>&quot;The pilot did an excellent job. There were 63 passengers on board, but there was not a single casualty,&quot; the spokesman said.</p>
+<p>A spokesman for the ambulance service said two of those on board were treated for minor cuts.</p>
+<p>A British Airways spokeswoman contacted by telephone said she could not immediately comment since she was still collecting information on the incident.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

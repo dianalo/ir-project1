@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="633661" id="root" date="1997-06-03" xml:lang="en">
+<title>ECUADOR: Ecuador's Alarcon replaces two cabinet ministers.</title>
+<headline>Ecuador's Alarcon replaces two cabinet ministers.</headline>
+<dateline>QUITO 1997-06-02</dateline>
+<text>
+<p>Ecuadorean President Fabian Alarcon said on Monday he had accepted the resignations of his ministers for health and public works.</p>
+<p>He told reporters that Health Minister Guillermo Wagner would be replaced by Asdrubal de la Torre and Public Works Minister Estuardo Hidalgo by Homero Torres.</p>
+<p>The changes were made to &quot;make the government more dynamic,&quot; Alarcon said.</p>
+<p>The other cabinet members were confirmed in their positions, he said.</p>
+<p>Following local tradition, the entire cabinet resigned last week after a referendum in which Ecuadoreans voted to confirm the presidency of Alarcon.</p>
+<p>Alarcon was appointed interim president until August 1998 by Congress in February, after former President Abdala Bucaram was deposed on grounds of &quot;mental incapacity.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1996-09-04" id="root" itemid="32054" xml:lang="en">
+<title>USA: API stocks analysis for week ended August 30.</title>
+<headline>API stocks analysis for week ended August 30.</headline>
+<text>
+<p>(STOCKS IN THOUSAND/BBLS, CHANGES IN MLN/BBLS)</p>
+<p>REUTER SURVEY ESTIMATES	    STOCKS FOR</p>
+<p>FOR WEEK ENDED 08/30/96	    WEEK ENDED 08/30/96-CHANGE</p>
+<p>-------------------------------------------------------------</p>
+<p>CRUDE.........UP 0.60 million bbls    313,147	   DN 5.68 MLN</p>
+<p>DISTILLATE....UP 1.70 million bbls    108,895	   UP 3.24 MLN</p>
+<p>GASOLINE......DN 1.10 million bbls    192,822	   DN 3.71 MLN</p>
+<p>UTILIZATION...UP 0.00 PCT PTS     94.4 PCT	  UP 0.6  PTS</p>
+<p>NYMEX Oct crude bid $23.21/bbl, ask 23.28 in ACCESS after-hours</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1996-09-04" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

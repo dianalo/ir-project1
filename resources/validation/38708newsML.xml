@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38708" id="root" date="1996-09-06" xml:lang="en">
+<title>CHINA: Shanghai considers 11 subway lines.</title>
+<headline>Shanghai considers 11 subway lines.</headline>
+<dateline>SHANGHAI 1996-09-06</dateline>
+<text>
+<p>Shanghai's Planning Commission is considering expanding its subway system to 11 lines running a total of 430 km throughout the city, the Shanghai Star said on Friday.</p>
+<p>The city's first 16 km line opened in April 1995 and construction of a second line, due to open partially in 1999, began recently.</p>
+<p>The paper said the city government was considering a 30 km circular subway that would link the first two lines, and eight other lines were being discussed.</p>
+<p>In addition, the city has started construction of a light rail line in a southwest suburb of the city and was considering six other lines, it said without elaborating.</p>
+<p>Shanghai has largely financed the first two lines through foreign loans.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

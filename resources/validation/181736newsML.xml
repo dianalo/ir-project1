@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181736" id="root" date="1996-11-12" xml:lang="en">
+<title>UK: SOCCER-LEEDS CONFIRM INTEREST IN VEGA.</title>
+<headline>SOCCER-LEEDS CONFIRM INTEREST IN VEGA.</headline>
+<dateline>LEEDS, England 1996-11-12</dateline>
+<text>
+<p>Leeds United manager George Graham has confirmed that he has entered the race to sign Swiss international Ramon Vega from Italian club Cagliari.</p>
+<p>The 25-year-old centre-half would cost Graham in excess of three million pounds but the former Arsenal boss said: &quot;We are a long way from any deal.</p>
+<p>&quot;I'm interested in any quality players that become available, especially defenders. Vega falls into that category.&quot;</p>
+<p>Graham is stepping up his search for new players by appointing Ian McNeill as Leeds' new chief scout.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEEDS, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

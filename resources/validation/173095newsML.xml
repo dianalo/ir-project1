@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173095" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: NYCE cotton ends firmer, awaits options/USDA data.</title>
+<headline>NYCE cotton ends firmer, awaits options/USDA data.</headline>
+<dateline>NEW YORK 1996-11-07</dateline>
+<text>
+<p>NYCE cotton settled a touch higher in generally dull trading as the market continued to tread water ahead of Friday's options expiry and Tuesday's USDA crop estimate, traders said.</p>
+<p>A floor source noted some light trade buying helping to lift the market.</p>
+<p>December cotton settled 0.17 cent firmer at 71.54 cents per pound, traded 71.85 to 71.20 cents.</p>
+<p>Volume was estimated at 8,200 lots, lower than Wednesday's heavy 13,232 lots.</p>
+<p>Traders said Thursday's USDA export sales figures were slightly lower than expected, but failed to impact the market significantly.</p>
+<p>-- New York Commodities 212-859-1646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

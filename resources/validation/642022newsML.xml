@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="642022" id="root" date="1997-06-05" xml:lang="en">
+<title>NETHERLANDS: NWE oil products - gas oil steady, others gain.</title>
+<headline>NWE oil products - gas oil steady, others gain.</headline>
+<dateline>AMSTERDAM 1997-06-05</dateline>
+<text>
+<p>NWE oil products opened mixed on Thursday, gas oil was steady from opening losses while mogas and fuel oil offers rose, dealers said.</p>
+<p>Gasoline was offered at around $206 fob Rotterdam, following a fob ARA deal at $202.</p>
+<p>Fuel oil talk was around $85/$86, a gain of $1 a tonne, with one trading house looking to pick up material.</p>
+<p>Heating oil, meanwhile, recovered opening losses in line with futures. Offers clung to around IPE June +$1.50 fob Rotterdam, but German buyers, who had covered some shorts on Wednesday, kept away.</p>
+<p>-- Amsterdam Newsroom, +31 20 504 5004</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

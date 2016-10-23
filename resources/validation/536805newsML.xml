@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536805" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Campo names acting CEO, hires advisor.</title>
+<headline>Campo names acting CEO, hires advisor.</headline>
+<dateline>NEW ORLEANS 1997-04-23</dateline>
+<text>
+<p>Campo Electronics Appliances and Computers Inc said Wednesday it board had named Rex Corley, previously the president and chief operating officer, to be acting chairman and chief executive.</p>
+<p>The company said Corley will serve in the positions vacated last month when Anthony Campo resigned while a nationwide search for a successor is conducted.</p>
+<p>Additionally, the company said it has retained Sanford Nacht of York Management Services Inc to advise it the steps needed to improve company performance. It said Nacht is working with Tom Hays, president of Turnaround Management Associates.</p>
+<p>&quot;Both Nacht and Hays have helped several major retail companies achieve successful turnarounds,&quot; the company said in a release. &quot;The board of directors is confident in the expertise of Nacht and Hays to guide the company during this difficult period.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

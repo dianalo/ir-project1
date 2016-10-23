@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-08-14" id="root" itemid="800063" xml:lang="en">
+<title>USA: TABLE - Lexington Q2 shr profit vs loss.</title>
+<headline>TABLE - Lexington Q2 shr profit vs loss.</headline>
+<dateline>NEW YORK 1997-08-14</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr primary profit $0.01	 loss     $0.02</p>
+<p> Shr diluted profit 0.01	  loss     0.02</p>
+<p> Net profit	   50	    loss     55</p>
+<p> Net Sales	    30,413		   28,081</p>
+<p>	  6  MONTHS</p>
+<p> Shr primary loss   $0.06	 profit   $0.06</p>
+<p> Shr diluted loss   0.06	  profit   0.06</p>
+<p> Net loss	     200	   profit   302</p>
+<p> Net Sales	    59,005		   55,979</p>
+<p>(All data above 000s except per share numbers) NOTE: Full company name is Lexington Precision Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-08-14" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-08-14" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="NEW YORK" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-07-21" id="root" itemid="743363" xml:lang="en">
+<title>CANADA: TABLE - Canadian key economic indicators.</title>
+<headline>TABLE - Canadian key economic indicators.</headline>
+<text>
+<p>INDICATOR			 PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>UNEMPLOYMENT	     PCT  June    9.1     9.5     9.6  08/08</p>
+<p>EMPLOYMENT GROWTH	THD  June    +52     +61     +33  08/08</p>
+<p>CPI (MONTHLY, S/ADJ)   PCT  June   +0.1    +0.1    -0.1  08/19</p>
+<p>CPI (MONTHLY, UNADJ)   PCT  June    0.2     0.1     0.0  08/19</p>
+<p>CPI (ALL ITEMS, YR/YR) PCT  June   +1.8    +1.5    +1.7  08/19</p>
+<p>CPI (EX-FOOD/ENER)     PCT  May    +2.0    +1.7    +1.8  08/19</p>
+<p>MERCH TRADE BALANCE    BLN  May  +C$2.02 +C$1.69 +C$2.60 08/20</p>
+<p>MERCH IMPORTS (S/ADJ)  BLN  May  C$22.48 C$22.83 C$21.93 08/20</p>
+<p>MERCH EXPORTS (S/ADJ)  BLN  May  C$24.49 C$24.52 C$24.53 08/20</p>
+<p>CURR ACCT(SA QUARTERLY)BLN  Q1   -C$1.22 -C$0.55 +C$0.55 08/29</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-07-21" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location.country.name" value="CANADA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="280749" id="root" date="1996-12-30" xml:lang="en">
+<title>EGYPT: Egypt sells more Amriyah Cement shares.</title>
+<headline>Egypt sells more Amriyah Cement shares.</headline>
+<dateline>CAIRO 1996-12-30</dateline>
+<text>
+<p>The Egyptian state's Holding Company for Metallurgical Industries sold 1.822 million shares in Amriyah Cement to big investors on Monday at 67.00 pounds, the minimum price in an auction earlier this month.</p>
+<p>The operation at the Egyptian stock exchange was the second stage in the sale of about 3.4 million shares, 17 percent of Amriyah Cement's total equity.</p>
+<p>The holding company sold close to one million of the shares yesterday at between 67.01 and 71.00 pounds. The sale is expected to continue on December 31.</p>
+<p>The holding company originally offered two million shares but later decided to meet all the demand.</p>
+<p>The state had negotiated to sell a large stake in Amriyah to French building materials company Lafarge but Egypt backed out on the grounds that Lafarge was the only competitor.</p>
+<p>In small-scale trading after the big transactions went through, Amriyah shares fell to close on Monday at 66.00 pounds.</p>
+<p>-- Jonathan Wright +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-05-16" id="root" itemid="589083" xml:lang="en">
+<title>USA: Number Nine to offer new accelerator chip.</title>
+<headline>Number Nine to offer new accelerator chip.</headline>
+<dateline>LEXINGTON, Mass. 1997-05-16</dateline>
+<text>
+<p>Number Nine Visual Technology Corp said it was offering working samples of its third generation, 128-bit graphics accelerator chip, "Ticket to Ride."</p>
+<p>"Ticket to Ride" is Number Nine's third generation 128-bit chip.  It integrates 128-bit 3D, 2D and MPEG playback technology into a single chip. The architecture of "Ticket To Ride" is an extension of the core technology used to power two previous generations of Imagine 128 graphics boards as well as specialty board manufacturers. The "Ticket to Ride" chip supports up to 48-megabytes of various types of video memory, including WRAM, SGRAM and EDO VRAM/DRAM.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-05-16" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-05-16" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="LEXINGTON, Mass." />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

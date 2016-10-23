@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40742" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Wyeth-Ayerst/Merck-Medco venture names Eidus CEO.</title>
+<headline>Wyeth-Ayerst/Merck-Medco venture names Eidus CEO.</headline>
+<dateline>MONTVALE, N.J. 1996-09-09</dateline>
+<text>
+<p>The joint venture between Wyeth-Ayerst Laboratories and Merck-Medco Managed Care Inc said Monday that Robert Eidus had been named chief executive officer of the venture.  </p>
+<p>The joint venture, formed in 1995, develops programs for women's health, among others.</p>
+<p>The programs are designed to identify people at risk for specific health problems and enable them to enlist in educational health programs.</p>
+<p>The venture, which is to launch its first program in the fourth quarter of 1996, said Eidus had been president and chief operating officer at Franklin Health in Upper Saddle River, N.J.</p>
+<p>Wyeth-Ayerst is a division of American Home Products Corp, a pharmaceutical company. Merck-Medeco, owned by Merck &amp; Co Inc, manages phamarcy benefit plans for employers, unions and insurance companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTVALE, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

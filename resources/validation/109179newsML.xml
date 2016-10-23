@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109179" id="root" date="1996-10-10" xml:lang="en">
+<title>EGYPT: Egyptian pound overnight, one-week rates fall. [CORRECTED 13:45 GMT]</title>
+<headline>Egyptian pound overnight, one-week rates fall. [CORRECTED 13:45 GMT]</headline>
+<dateline>CAIRO 1996-10-10</dateline>
+<text>
+<p>Overnight interbank rates on the pound fell on Thursday in a liquid end-of-week market, with private sector bankers quoting rates of between 9 and 9 1/2 percent against Wednesday's range of 9 3/4 and 10 1/8. (Corrects Wednesday's range)</p>
+<p>Some bankers said overnight rates were at 9 15/16. One-week rates were also lower at between 9 1/2 and 9 3/4 from Wednesday's 9 3/4 and 10 1/8 percent.</p>
+<p>&quot;They've all broken the 10 percent barrier. It's Thursday and as usual there's a lot of money ahead of the weekend,&quot; one banker said.</p>
+<p>State-owned banks kept their minimum lending rate at 10 1/2 percent.</p>
+<p>-- Cairo newsroom +202 578 3290/91</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

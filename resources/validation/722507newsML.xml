@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="722507" id="root" date="1997-07-11" xml:lang="en">
+<title>USA: Tropical Storm Bill heads toward Bermuda.</title>
+<headline>Tropical Storm Bill heads toward Bermuda.</headline>
+<dateline>MIAMI 1997-07-11</dateline>
+<text>
+<p>Tropical Storm Bill formed in the Atlantic Ocean on Friday and headed toward Bermuda but was expected to pass to the north of the island, hurricane forecasters said.</p>
+<p>At 1 p.m. EDT (1700 GMT), Bill, the second named storm of the 1997 Atlantic season, was located at latitude 33.0 north, longitude 68.0 west, about 200 miles (320 km) west-northwest of Bermuda.</p>
+<p>It was moving to the northeast at 17 mph (27 kph) and was expected to continue on the same track for at least 24 hours, taking the centre of the storm north of Bermuda late Friday, the National Hurricane Centre said.</p>
+<p>A tropical storm warning was in effect for Bermuda, with heavy squalls and high winds expected to affect the British colony on Friday evening.</p>
+<p>Maximum winds were 45 mph (72 kph) and no significant change in strength was expected.</p>
+<p>Tropical depressions become tropical storms and are given names when maximum winds reach 39 mph (62 kph). Hurricanes form when winds top 74 mph (118 kph).</p>
+<p>The first tropical storm of the season, Ana, formed on July 1 off the North Carolina coast but bypassed Bermuda and faded as it moved northeast in the Atlantic without touching land.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BERM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

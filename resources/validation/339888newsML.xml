@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339888" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Hudson Technologies, DuPont in alliance.</title>
+<headline>Hudson Technologies, DuPont in alliance.</headline>
+<dateline>HILLBURN, N.Y. 1997-01-29</dateline>
+<text>
+<p>Hudson Technologies Inc said Wednesday it had formerd a &quot;strategic alliance&quot; with DuPont Co's DuPont Fluoroproducts affiliate in which DuPont would acquire a ten-percent stake in the company.  </p>
+<p>The company, which supplies refrigerant management and reclamation services, did not disclose the financial terms of the deal.</p>
+<p>Under the deal, it will provide recovery, reclamation, separation, packaging and testing services to DuPont for marketing through its authorized distributor network, it said.</p>
+<p>It will also market DuPont refrigerant products together with Hudson reclamation and refrigerant management services, it added.</p>
+<p>DuPont makes refrigerant products.</p>
+<p>Hudson said it had already had a close business relationship with DuPont for several years, providing field service collection and reclamation of used chlorofluorocarbon and hydrochlorofluorocarbon products from DuPont distributors.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I32840">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HILLBURN, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

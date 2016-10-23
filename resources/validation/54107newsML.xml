@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54107" id="root" date="1996-09-14" xml:lang="en">
+<title>MOROCCO: Morocco declines to confirm meeting with Polisario.</title>
+<headline>Morocco declines to confirm meeting with Polisario.</headline>
+<dateline>RABAT 1996-09-14</dateline>
+<text>
+<p>Morocco on Saturday said it could not confirm or deny a recent reported high-level meeting between Polisario and Moroccan officials to break the deadlock over a self-determination referendum on Western Sahara.</p>
+<p>&quot;The information related to the meeting came from abroad... Morocco cannot confirm or deny it because we do not want get into speculation,&quot; Interior Minister Driss Basri told a news conference in Rabat.</p>
+<p>Press reports abroad said Polisario leaders and senior Moroccan officials recently met for the first time in more than three years, in Geneva and Tangier, including a meeting with Crown Prince Sidi Mohammed.</p>
+<p>In Algiers, Essalek Bobih Youssef, ambassador of the self-proclaimed Saharan Arab Democratic Republic, said:</p>
+<p>&quot;We can neither confirm or deny the reports but we reiterate our keenness for dialogue to overcome the present (political) impasse which does not serve the interests of Polisario and Morocco as well as the region.&quot;</p>
+<p>A United Nations referendum was to have been held in January 1992 to decide whether Western Sahara, a former Spanish colony, should be incorporated into Morocco, which controls most of the territory, or become independent, as sought by Polisario.</p>
+<p>A U.N.-monitored ceasefire, which ended the desert war, has been in effect since September 1991. But the referendum has been repeatedly postponed because of differences over who should be allowed to vote.</p>
+<p>The last time the two sides officially met was in July 1993 in the Western Sahara capital of Laayoun.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="SPSAH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

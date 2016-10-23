@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="358161" id="root" date="1997-02-05" xml:lang="en">
+<title>ISRAEL: US navy aircraft missing off Israel.</title>
+<headline>US navy aircraft missing off Israel.</headline>
+<dateline>JERUSALEM 1997-02-05</dateline>
+<text>
+<p>A U.S. navy aircraft with four crew went missing on Tuesday night while on a routine training exercise off Israel, the U.S. embassy in Israel said on Wednesday.</p>
+<p>&quot;The aircraft, with four crew members aboard, was conducting a routine training exercise off the coast of Israel when it disappeared from radar at 19:56 local (1756 GMT),&quot; the United States Information Service said in a press release, quoting the U.S. Sixth Fleet.</p>
+<p>It said rescue crews were searching in the Mediterranean for the S-3B Viking aircraft, which disappeared about 140 kms (90 miles) west of Haifa after it took off from the USS Theodore Roosevelt aircraft carrier.</p>
+<p>The statement said the aircraft is assigned to the Naval Air Station Cecil Field in Jacksonville Florida.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

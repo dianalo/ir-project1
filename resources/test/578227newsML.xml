@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-05-13" id="root" itemid="578227" xml:lang="en">
+<title>USA: Apple cuts prices on OPENSTEP.</title>
+<headline>Apple cuts prices on OPENSTEP.</headline>
+<dateline>SAN JOSE, Calif. 1997-05-13</dateline>
+<text>
+<p>Apple Computer Inc said it was cutting prices on OPENSTEP Enterprise and introducing a new version of the product, OPENSTEP Enterprise 4.2.</p>
+<p>The repricing means that OPENSTEP Enterprise 4.2 will now be available at around U.S. $1,500 per developer version.  The product was previously available for U.S. $5,000 per developer version.  The prices of the other OPENSTEP products remain unchanged.</p>
+<p>OPENSTEP Enterprise 4.2 is an object oriented development environment running on Windows NT that allows developers to assemble, integrate and deploy dynamic business applications across the enterprise on a variety of Operating Systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-05-13" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-05-13" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="SAN JOSE, Calif." />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

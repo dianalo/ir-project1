@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="177163" id="root" date="1996-11-08" xml:lang="en">
+<title>FRANCE: SCI says planning to sell Sucre et Denrees stake.</title>
+<headline>SCI says planning to sell Sucre et Denrees stake.</headline>
+<dateline>PARIS 1996-11-08</dateline>
+<text>
+<p>Societe Centrale d'Investissements (SCI) said on Friday it was negotiating the sale of its 30.4 percent stake in Compagnie Financiere Sucre et Denrees to the management of Sucre et Denrees.</p>
+<p>&quot;Societe Centrale d'Investissements is in negotiation for the sale of its 30.4 percent stake in Compagnie Financiere Sucre et Denrees,&quot; a company official told Reuters.</p>
+<p>He said SCI had received an offer from &quot;certain managers&quot; of the company and was hoping to reach a deal by the end of the year.  </p>
+<p>Compagnie Financiere Sucre et Denrees is the holding company of French sugar trade firm Sucden Kerry.</p>
+<p>-- Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

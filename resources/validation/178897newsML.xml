@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178897" id="root" date="1996-11-11" xml:lang="en">
+<title>ITALY: Italian govt seeks confidence vote on bank decree.</title>
+<headline>Italian govt seeks confidence vote on bank decree.</headline>
+<dateline>ROME 1996-11-11</dateline>
+<text>
+<p>The government said on Monday it was calling a confidence vote in the Senate (upper house) to convert into law a decree on a rescue plan for the Italy's biggest southern bank, Banco di Napoli, and two other decrees.</p>
+<p>The decision, announced in the Senate by Regional Affairs Minister Franco Bassanini, was made to sweep away opposition amendments blocking passage.</p>
+<p>The confidence call was also made for two other decrees though it was not immediately clear whether three separate ballots would be held. Leaders of parliamentary parties were meeting to agree procedure and the timing of the test.</p>
+<p>Prime Minister Romano Prodi's centre-left government has a healthy majority in the Senate, which should make the confidence motion a formality.</p>
+<p>It won similar confidence votes in the lower house last month to gain approval there for the decree on heavily-indebted Banco di Napoli, which the government wants to privatise, and another decree on development projects in Naples and Milan.</p>
+<p>They and a third decree, on socially useful labour, were the subject of Bassanini's announcement. In Italy, laws have to be approved by both houses of parliament.</p>
+<p>Governments have in the past sidestepped filibustering by reissuing decree laws when they expired. A recent Constitutional Court ruling banned this practice, leaving Prodi with a legislative nightmare as some 20 cabinet decrees near expiry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

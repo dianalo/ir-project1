@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15085" id="root" date="1996-08-26" xml:lang="en">
+<title>FRANCE: French capital markets closing report.</title>
+<headline>French capital markets closing report.</headline>
+<dateline>PARIS 1996-08-26</dateline>
+<text>
+<p>Ten-year bond futures settled in negative territory in thin trade with the market weighed down by fears of possible U.S. rate tightening following Friday's strong durable goods orders.</p>
+<p>&quot;People are starting to worry about whether monetary tightening could be in the pipeline in the United States,&quot; said one analyst.</p>
+<p>In the absence of any major domestic or European news, the United States was driving the French market. Analysts said the outlook for the notionnel contract and the three-month PIBOR was bearish with a tendency for investors to sell on the upticks.  </p>
+<p>The market was undermined by the weak performance of the U.S. T-Bond and vulnerable to movements of the franc which continued soft on dollar weakness and concerns about the French budget due next month, analysts said.</p>
+<p>Analysts said that in wake of the German rate cut last week, the market had no more good news to look forward to.</p>
+<p>&quot;There's a feeling that the Bundesbank has given its all and now the focus is shifting to fundamentals,&quot; one said.</p>
+<p>&quot;It's up to the French government to show the market what it can do,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

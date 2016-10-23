@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119145" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Conrail Inc Q3 shr rises.</title>
+<headline>Conrail Inc Q3 shr rises.</headline>
+<dateline>PHILADELPHIA 1996-10-16</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$1.74		    $1.44</p>
+<p> Shr diluted		 1.58		     1.31</p>
+<p> Net			138,000		  116,000</p>
+<p> Revs		     933,000		  923,000</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary		$2.39		    $3.61</p>
+<p> Shr diluted		 2.21		     3.28</p>
+<p> Net			195,000		  294,000</p>
+<p> Revs		   2,771,000		2,735,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE - First Call mean estimate for 1996 Q3 was $1.54 per share.  </p>
+<p>First nine months in 1996 include a one-time charge in Q2 of $135 million for non-union employee voluntary early retirement and related costs, which reduced net income by $83 million.  </p>
+<p>First nine months in 1995 includes a $21 million benefit, primarily for the effect of adjusting deferred income taxes for a decrease in the state income tax rate enacted during the 1995 Q2.</p>
+<p>-- New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

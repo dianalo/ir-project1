@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453510" id="root" date="1997-03-19" xml:lang="en">
+<title>BELGIUM: EU says Danish ban on metal cans may be illegal.</title>
+<headline>EU says Danish ban on metal cans may be illegal.</headline>
+<dateline>BRUSSELS 1997-03-19</dateline>
+<text>
+<p>The European Commission told Denmark on Wednesday the country's ban on the use of metal cans for beer and soft drinks may violate European Union law.</p>
+<p>The EU executive decided to send a so-called letter of formal notice to Denmark stating that the ban may be contrary to the bloc's rules on packaging.</p>
+<p>The EU directive on packaging and packaging waste has the twin aims of reducing the environmental impact of packaging waste as well as of avoiding obstacles to trade and distortion of competition, the Commission said in a statement.</p>
+<p>&quot;Having carefully looked into the Danish reasoning for maintaining its ban on metal cans and on the reasoning of the commercial interests concerned, the Commission was not convinced that the Danish ban was compatible with the directive,&quot; it said.</p>
+<p>Denmark will be able to respond to the Commission's letter and explain further why it believes the strict rules are not violating EU law, it added.</p>
+<p>In Copenhagen, Environment and Energy Minister Svend Auken said Denmark had the world's best system for returnable bottles which was of great benefit to the environment and to consumers.</p>
+<p>But he told the Ritzaus news agency that he was ready to negotiate to find a solution. &quot;I'm sure the environment will not lose out in this case,&quot; he said.</p>
+<p>The issue is awkward for EU Environment Commissioner Ritt Bjerregaard, herself a Dane with a keen eye on her domestic public profile.</p>
+<p>The industry has strongly argued against the ban, saying it constitutes a trade barrier and that it has no scientific or environmental foundation.</p>
+<p>&quot;If allowed to stand, the Danish ban...would set an unfortunate precedent for other member states and indeed acceeding countries to the EU, as regards discriminating against some types of material or packaging systems,&quot; the European Recovery and Recycling Association (ERRA) said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="G156">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="G157">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212594" id="root" date="1996-11-23" xml:lang="en">
+<title>BELGIUM: Lira ERM talks difficult - EU monetary source.</title>
+<headline>Lira ERM talks difficult - EU monetary source.</headline>
+<dateline>BRUSSELS 1996-11-23</dateline>
+<text>
+<p>Talks on the lira's re-entry to the EU's Exchange Rate Mechanism ran into difficulties on Saturday and a meeting of EU finance ministers could be needed to resolve the problems, an EU monetary source said.</p>
+<p>&quot;The positions are still far apart,&quot; the source said. &quot;A meeting of the ECOFIN ministers cannot be excluded at this time.&quot;  </p>
+<p>&quot;The more time passes the more the possibility of an ECOFIN nears,&quot; the source added.</p>
+<p>The ministers would only be brought in if a political decision was needed to break a deadlock between EU finance ministry and central bank officials currently discussing the lira's return.</p>
+<p>Rome hopes that by returning to the EU's currency grid it will qualify for the single European currency in 1999.</p>
+<p>The ERM is designed to allow member currencies to trade within bands against each other -- for the most part fluctuating by no more than 15 percent from a central rate. Eleven of the EU's 15 countries are currently members, with only Italy, Sweden, Britain and Greece remaining outside.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="594368" id="root" date="1997-05-19" xml:lang="en">
+<title>ZIMBABWE: Low grades threaten Mhangura copper mine.</title>
+<headline>Low grades threaten Mhangura copper mine.</headline>
+<dateline>HARARE 1997-05-19</dateline>
+<text>
+<p>Zimbabwe's Mhangura Copper Mine can no longer be mined economically because it has exhausted its higher grade ore, the state-owned Herald newspaper said on Monday.</p>
+<p>&quot;The good-quality grade is exhausted. We are just scratching for the available low-grade ore to keep the mine going,&quot; deputy mines minister Zenzo Nsimbi told the Herald at the weekend.</p>
+<p>The mine currently produces ore with 0.72 percent copper content, down from grades as high as 2.46 percent.</p>
+<p>President Robert Mugabe's cash-strapped government, in an effort to keep Mhangura afloat and save hundreds of jobs, has approved Z$230 million (U.S.$20.4 million) as guarantee for the mine to source credit, conduct explorations and pay off some of its creditors.</p>
+<p>Industry experts, including the Zimbabwe Mining Development Corporation which owns the mine, say it should close down in the face of falling international copper prices.</p>
+<p>Mhangura produced 907 tonnes of copper in the first three months of 1997, down from 1,283 tonnes in the same period last year, chamber of mines figures show.</p>
+<p>($1=Z$11.30)</p>
+<p>-- Harare Newsroom: +263-4 72 52 27/8/9 --</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

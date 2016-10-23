@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-08-06" id="root" itemid="781395" xml:lang="en">
+<title>LATVIA: Latvia T-bills show mixed direction at auction.</title>
+<headline>Latvia T-bills show mixed direction at auction.</headline>
+<dateline>RIGA 1997-08-06</dateline>
+<text>
+<p>Yields on three- and six-month</p>
+<p>government Treasury bills fell at auction on Wednesday while</p>
+<p>28-day yields rose, the finance ministry said.</p>
+<p>All amounts are in millions of lats.</p>
+<p> MATURITY    AV YLD	 LAST  NO OF BANKS    ISSUE  BID SOLD</p>
+<p> One month    3.95	  3.84	 2	    0.5   0.4  0.4</p>
+<p> Three month  4.03	  4.05	 5	    0.7   1.5  0.7</p>
+<p> Six month    4.24	  4.60	 5	    2.0   3.7  2.0</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-08-06" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-08-06" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="RIGA" />
+<dc element="dc.creator.location.country.name" value="LATVIA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

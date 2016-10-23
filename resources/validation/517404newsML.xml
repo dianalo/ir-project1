@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="517404" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: Raychem stock loses 15 percent of its value.</title>
+<headline>Raychem stock loses 15 percent of its value.</headline>
+<dateline>NEW YORK 1997-04-17</dateline>
+<text>
+<p>Plastic products manufacturer Raychem Corp. lost more than 15 percent of its value Thursday, one day after the company warned that currency fluctuations would continue to pressure its results.</p>
+<p>Raychem slumped $12.50 to $68.875 on the New York Stock Exchange.</p>
+<p>Although it made some cautionary comments, the Menlo Park, Calif.-based company Wednesday reported that its profits rose to $68.4 million on sales of $427.8 million in its fiscal third quarter ended on March 31, up from year ago earnings of $41.7 million on sales of $417.8 million.</p>
+<p>On Thursday a spokesman said the company was surprised to see its stock fall so sharply since the comments made in its earnings report were consistent with what it had said previously.</p>
+<p>&quot;As far as we're concerned our prospects haven't changed,&quot; said spokesman Spencer Sias.</p>
+<p>Raychem said in its earnings report that &quot;adverse movements&quot; in currency exchange rates lowered its income by about $5 million, and are expected to &quot;continue exerting downward pressure on near-term results.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

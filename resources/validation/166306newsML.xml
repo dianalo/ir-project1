@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166306" id="root" date="1996-11-05" xml:lang="en">
+<title>ARGENTINA: Argentina's Bridas sees '96 profits up.</title>
+<headline>Argentina's Bridas sees '96 profits up.</headline>
+<dateline>BUENOS AIRES 1996-11-05</dateline>
+<text>
+<p>Argentine oil and natural gas producer Bridas will see higher net profits in 1996, the company's president wrote in a newspaper supplement Tuesday.</p>
+<p>&quot;During 1996, exports of our petroleum production will rise by 20 percent compared to 1995 and will compensate higher financing and tax costs,&quot; Alejandro Bulgheroni wrote in an El Cronista supplement.</p>
+<p>Bulgheroni said Bridas, Argentina's third-largest hydrocarbon producer, plans to invest $130 million in 1997, including spending in boosting the firm's oil and gas exploration.</p>
+<p>But he added &quot;We think that during 1997 difficulties might be caused by eventual increases in the regulation of the gas markets, and we consider that, if the high level of emerging market volatility keeps up, the availability and cost of financing will continue to be a subject demanding permanent attention.&quot;</p>
+<p>--Jason Webb, Buenos Aires Newsroom +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I1300002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

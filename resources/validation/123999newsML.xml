@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123999" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Perkin-Elmer sees over 20 pct '97 EPS growth.</title>
+<headline>Perkin-Elmer sees over 20 pct '97 EPS growth.</headline>
+<dateline>NORWALK, Conn. 1996-10-17</dateline>
+<text>
+<p>Perkin-Elmer Corp said on Thursday it was optimistic about achieving its goal of over 20 percent earnings per share growth in fiscal 1997.</p>
+<p>The company, reporting higher fiscal first quarter results, said the figures showed the year was &quot;off to an excellent start.&quot;</p>
+<p>&quot;Overall, we continue to be optimistic that we'll be able to reach or exceed our goal of more than 20 percent growth in earnings per share for fiscal 1997, excluding special items,&quot; said Tony White, chairman, president and CEO, in a statement.  </p>
+<p>Perkin-Elmer said currency rates had a negative effect on revenues in the first quarter, ended September 30.</p>
+<p>Revenues for the quarter rose 4.3 percent to $276 million. Currency movements decreased consolidated revenues by about $8 million, or three percent, Perkin-Elmer said.</p>
+<p>Geographically, the company reported strong revenue growth in the U.S., but currency rates hurt growth elsewhere. Revenues in the U.S. were up nearly 12 percent, European revenues rose almost five percent, and revenues in the Far East declined four percent.  </p>
+<p>Excluding the impact of currency, revenues in Europe and the Far East would have grown seven percent and six percent, respectively, the company said.</p>
+<p>&quot;If currency rates remain stable, then the negative effect of currency translation should diminish over the balance of the year,&quot; White said.</p>
+<p>The company said customer response to its new analytical instrument products has been extremely positive. It also said its restructuring of its analytical instrument business is already improving its operating profit margins, and the benefits are expected to accelerate throughout the year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWALK, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

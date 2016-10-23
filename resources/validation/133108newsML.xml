@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133108" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: S.African Reserve Bank offering liquidity - dealers.</title>
+<headline>S.African Reserve Bank offering liquidity - dealers.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>The South African Reserve Bank was offering liquidity in the foreign exchange market early on Tuesday to smooth the rand after it fell to a fresh two-month, dealers said.</p>
+<p>&quot;He seems to be providing some liquidity, supplying dollars to the market,&quot; said one dealer as the currency recovered from a low of 4.5765 bid against the dollar to 4.5700.</p>
+<p>However, other dealers said they had not seen a central bank presence in early dealings.</p>
+<p>The rand touched an all-time low of 4.59 against the U.S. dollar on August 19.</p>
+<p>Some dealers said Reserve Bank action would hold the key to the market on Tuesday with a lack of decisive action possibly fuelling a descent to 4.60.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

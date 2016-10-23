@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799866" id="root" date="1997-08-14" xml:lang="en">
+<title>NETHERLANDS: Dutch closing share market report.</title>
+<headline>Dutch closing share market report.</headline>
+<dateline>AMSTERDAM 1997-08-14</dateline>
+<text>
+<p>Dutch shares closed a little lower on Thursday after a volatile session, influenced by Friday's option expiry and continued interest rate uncertainty.</p>
+<p>&quot;There are quite a lot of calls being offered,&quot; said one dealer.</p>
+<p>He added that options had already had a strong impact on the underlying share market in recent days.</p>
+<p>&quot;Shares are likely to remain volatile,&quot; he said.</p>
+<p>The AEX share index ended off 0.17 points at 935.59 after touching a day's high at 945.14 and a low of 928.30 points.</p>
+<p>Chemical firm Akzo Nobel fell further today.  </p>
+<p>Akzo Nobel fell 7.50 guilders today to 323.00 after shedding 15.50 guilders yesterday.</p>
+<p>Food group Nutricia was another stock to continue dropping strongly, and fell 9.40 guilders to 346.60 after slipping 6.50 on Wednesday.</p>
+<p>ASM Lithography strongly outperformed the market after the stock jumped in the United States overnight. It rose 13.40 guilders to 183.90, but touched 188.00 guilders earlier.</p>
+<p>Brewer Heineken rose 5.00 guilders on a recent buy recommendation and dealers said there had been a big buyer in the market today. --Amsterdam Newsroom +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

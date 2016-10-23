@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68739" id="root" date="1996-09-21" xml:lang="en">
+<title>CHINA: Motorola China 95 output worth $1 bln-paper.</title>
+<headline>Motorola China 95 output worth $1 bln-paper.</headline>
+<dateline>BEIJING 1996-09-21</dateline>
+<text>
+<p>Motorola Inc's production in China was worth almost $1 billion in 1995 and exports from the U.S. electronics giant's Chinese operations were booming, the International Business Times said on Saturday.</p>
+<p>The total value of production by Motorola's China subsidiary hit 8.2 billion yuan ($988 million) last year, the newspaper said. It gave no comparative figure.</p>
+<p>Motorola, which has vowed to invest $1.2 billion in China, Taiwan and Hong Kong between 1988 and 2000, was finding success in China's growing communications market, it said.</p>
+<p>The firm's China operations are based in the northeastern port city of Tianjin, where it has a large electronics factory producing pagers for the domestic market and parts for export.</p>
+<p>Motorola executives have said that more than 40 million Chinese will be using pagers by the end of 1996, making the nation the world's biggest pager market.</p>
+<p>Mobile phone sales are also reported to be booming as newly affluent urban residents seek ways to sidestep the congested land-line telephone system.</p>
+<p>Motorola has declined to give details of its market share or even to say how many people in China owned a Motorola phone.  </p>
+<p>Finland's Nokia, one of Motorola's main competitors in China, was planning to strengthen cooperation with Chinese telecommunications partners, Xinhua news agency said in a separate report.</p>
+<p>China already accounted for about 10 percent of Nokia's worldwide mobile phone sales of $3.7 billion, the agency quoted Nokia officials as saying. It gave no details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

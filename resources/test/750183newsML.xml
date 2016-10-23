@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-07-23" id="root" itemid="750183" xml:lang="en">
+<title>USA: TABLE - TSR Inc Q4 May 31 net increases.</title>
+<headline>TABLE - TSR Inc Q4 May 31 net increases.</headline>
+<dateline>HAUPPAUGE, N.Y. 1997-07-23</dateline>
+<text>
+<p>Q4			  Year</p>
+<p>			   1997	 1996	  1997	  1996</p>
+<p> Revenues	$14,958,000$ 8,632,000 $49,704,000 $31,810,000</p>
+<p> Net income	  592,000    326,000   1,796,000     964,000</p>
+<p>Earnings per</p>
+<p>  share		   0.20	 0.11	  0.62	  0.32</p>
+<p>Average shares</p>
+<p>  outstanding    2,914,000  2,930,000   2,914,000   2,996,000</p>
+<p>NOTE:  Earnings per share and average shares outstanding adjusted for two-for-one stock split in November 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-07-23" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-07-23" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="HAUPPAUGE, N.Y." />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

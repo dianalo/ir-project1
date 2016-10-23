@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="469747" id="root" date="1997-03-26" xml:lang="en">
+<title>ITALY: Saipem 96 net profit 175bln lire vs 169bln.</title>
+<headline>Saipem 96 net profit 175bln lire vs 169bln.</headline>
+<dateline>ROME 1997-03-26</dateline>
+<text>
+<p>Year ending December 31.</p>
+<p>(In billion lire unless stated)</p>
+<p>    Cons net profit			175.0 vs   169.0</p>
+<p>    Cons pretax profit		   236.0 vs   232.0</p>
+<p>    Parent net profit		     72.4 vs    64.9</p>
+<p>    Cons turnover			2,802.0 vs 2,283.0</p>
+<p>    Cons cashflow			  320.0 vs   301.0</p>
+<p>    Parent turnover		    1,590.7 vs 1,069.7</p>
+<p>    Ord dividend	  140 lire per share vs 120 lire</p>
+<p>    Savings dividend    170 lire per share vs 150 lire</p>
+<p>Note: Saipem is the oilfiled services division of Eni . The company said in a statement that given expected market evolution and a substantial backlog of orders at the end of 1996, the Saipem group expected 1997 performances at least as good as those achieved in 1996.</p>
+<p>-- Rome newsroom +396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360444" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: NYPA still sees Indian Point nuke restart mid-Feb.</title>
+<headline>NYPA still sees Indian Point nuke restart mid-Feb.</headline>
+<dateline>NEW YORK 1997-02-06</dateline>
+<text>
+<p>New York Power Authority said Thursday it still expects its 965 megawatt (MW) Indian Point nuclear unit 3 to restart in mid-February.</p>
+<p>&quot;We're still looking at about mid-February. We're finishing the repairs on the two PORVs (power-operated relief valves),&quot; said an onsite plant spokesman.</p>
+<p>He added engineers were also resealing the manway to the unit's reactor coolant system.</p>
+<p>Nuclear Regulatory Commission, in its daily plant status report Thursday, gave a restart date of February 25 for Indian Point 3.</p>
+<p>Indian Point 3 was originally shut January 18 to repair its feedwater heaters.</p>
+<p>The nearby 975 MW Indian Point 2 was scheduled to resume service within the next several weeks after being shut January 27 for support work on the non-nuclear side of the plant.</p>
+<p>((--New York Power Desk +1 212 859 1622))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

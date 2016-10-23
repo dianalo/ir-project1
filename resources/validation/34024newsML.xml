@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34024" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: NWE gas oil pushed higher by futures, barges tight.</title>
+<headline>NWE gas oil pushed higher by futures, barges tight.</headline>
+<dateline>LONDON 1996-09-05</dateline>
+<text>
+<p>NWE gas oil strengthened on Thursday, as benchmark IPE futures rallied on short-covering ahead of next week's expiry and the changeover to low sulphur diesel by European Union countries in October.</p>
+<p>The Sept IPE contract ended $5.25 up at $212.75 a tonne.</p>
+<p>The barge market was also pushed higher by tight prompt supply. &quot;Availability looks tight until the end of September. Rotterdams's virtually dry,&quot; one trader said.</p>
+<p>Other traders said material was available but at a price. Prompt premiums were put at Sept IPE +$4/+$5 to +$6 a tonne. Barges traded at Sept +$4 and +$5.</p>
+<p>&quot;Only those who really need to are coming in. Look at the backwardation! You don't buy unless you have to,&quot; a trader said.</p>
+<p>Refinery maintenance in the ARA region, a surge in Belgian demand ahead of an expected increase in excise duty in October and awakening of the German heating oil market from its summer lethargy were all cited as reasons for the tightness.</p>
+<p>On the cargo market, DIN premiums were also firm.</p>
+<p>Low sulphur cargoes were also fairly tight. Premiums were put at Oct IPE +$16/+$18 a tonne, cif NWE. &quot;Despite assurances that everyone was prepared for the spec change there are buyers coming out of the woodwork all the time,&quot; one trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

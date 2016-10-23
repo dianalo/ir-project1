@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25671" id="root" date="1996-08-30" xml:lang="en">
+<title>PORTUGAL: PRESS DIGEST - Portugal -- Aug 30.</title>
+<headline>PRESS DIGEST - Portugal -- Aug 30.</headline>
+<dateline>LISBON 1996-08-30</dateline>
+<text>
+<p>The following are leading domestic stories in Portuguese newspapers.</p>
+<p>DIARIO ECONOMICO</p>
+<p>- Banco Santander de Negocios Portugal and Banco Pinto &amp; Sotto Mayor will lead a five billion escudo five-year Navigator bond for Household Finance Corporation.</p>
+<p>- Banco Mello Comercial, formerly Uniao de Bancos Portugueses, made a 154 million escudo profit in the first half of 1996 after posting a loss of 1.84 billion escudos in the same period of 1995.</p>
+<p>PUBLICO</p>
+<p>- Siemens and the Portuguese government will sign an investment contract today to set up an electronic chip plant in northern Portugal.</p>
+<p>- Caixa Economica Acoriana's former president, Emanuel de Sousa, is to sue the institution for accusing him of defrauding the institution of four billion escudos.</p>
+<p>DIARIO DE NOTICIAS</p>
+<p>- Portugal's trade deficit fell 15.9 percent in the first five months of 1996 to 582.5 billion escudos.</p>
+<p>- The centre-right Social Democratic Party (PSD) is studying in which town councils it might be able to form coalitions with the right-wing Popular Party (PP) ahead of local authority elections.</p>
+<p>--Lisbon bureau 3511-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

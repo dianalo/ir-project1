@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="343648" id="root" date="1997-01-30" xml:lang="en">
+<title>TAJIKISTAN: Tajik government frees seven rebel fighters.</title>
+<headline>Tajik government frees seven rebel fighters.</headline>
+<dateline>DUSHANBE 1997-01-30</dateline>
+<text>
+<p>The Tajik government has released seven members of the armed Islamist opposition captured in the former Soviet republic's civil war, officials said on Thursday.</p>
+<p>&quot;This was a gesture of goodwill,&quot; said Zafar Ikromov, a Tajik government representative on a United Nations-sponsored commission on prisoners. The men were released on Wednesday evening in a region east of the capital Dushanbe.</p>
+<p>&quot;The seven former anti-government fighters have already been brought to the Garm region and handed over to local opposition field commanders,&quot; Ikromov told Reuters.</p>
+<p>Last month, Tajik President Imomali Rakhmonov and opposition leader Sayid Abdullo Nuri agreed a ceasefire at talks aimed at ending the conflict which has killed tens of thousands of people in the last four years.</p>
+<p>The ceasefire appears to be holding and the government has released 13 prisoners since December.</p>
+<p>But the opposition says it has released 111 government servicemen in similar gestures over the same period, and that more than 600 of its fighters are languishing in government prisons.</p>
+<p>For its part, the government says 300 of its servicemen are still held hostage in the country's central Tavildara region alone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TADZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUSHANBE"/>
+<dc element="dc.creator.location.country.name" value="TAJIKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

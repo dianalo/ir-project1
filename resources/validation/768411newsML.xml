@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="768411" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: Bear Stearns establishes bridge loan fund.</title>
+<headline>Bear Stearns establishes bridge loan fund.</headline>
+<dateline>NEW YORK 1997-07-31</dateline>
+<text>
+<p>Bear Stearns Cos Inc said Thursday that it has established a $1.5 billion bridge loan fund, exceeding the firm's initial target of $1 billion.</p>
+<p>Capital commitments for the fund came from investors including a broad base of banks and financial institutions.</p>
+<p>The Mayer Fund, named after one of the firm's founders, Harold Mayer, will provide short-term interim financing to facilitate acquisitions and other financing needs of Bear Stearns' clients.</p>
+<p>The bridge loans will be refinanced via the placement of other long term financing.</p>
+<p>Bear Stearns said it will be the manager of the fund and has committed to 20 percent of the fund.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

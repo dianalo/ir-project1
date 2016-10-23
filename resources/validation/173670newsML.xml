@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173670" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: U.S. jobless claims fell in latest week.</title>
+<headline>U.S. jobless claims fell in latest week.</headline>
+<dateline>WASHINGTON 1996-11-07</dateline>
+<text>
+<p>U.S. Labor Department report of initial state jobless benefit claims, seasonally adjusted.</p>
+<p>Week Ended  Initial Claims  4-Week Avg.  Continued Claims</p>
+<p>     11/02/96	331,000	 333,500	Unavailable</p>
+<p>     10/26/96	342,000	 331,250	2,488,000</p>
+<p>     10/19/96	319,000	 331,000	2,437,000-R</p>
+<p>     10/12/96	342,000	 336,250	2,428,000-R</p>
+<p>R-Revised, Oct 19 Continued Claims from 2,450,000 and Oct 12 from 2,427,000.</p>
+<p>Wall Street economists had forecast jobless claims filings of 344,000 in the November 2 week.  </p>
+<p>The department said 12 states reported increases in initial claims exceeding 1,000 on an unadjusted basis in the week ended October 26, the latest period for which the data are available.</p>
+<p>Among states with the largest increases were Michigan, with 8,049; Ohio, with 6,993; California, with 3,829; Pennsylvania, with 2,751; Illinois, with 2,407; and New York with 2,026.</p>
+<p>Michigan reported layoffs in the automobile industry due to the General Motors strike in Canada. Ohio reported layoffs in various industries. California cited layoffs in the food and agricultural industries.  </p>
+<p>Pennsylvania cited layoffs in the food, rubber, plastics and fabricated metals industries, and in manufacturing. Illinois had layoffs in the trade and service industries, and in manufacturing, while New York linked the increase to layoffs in the transportation equipment industry.</p>
+<p>Labor said Mississippi, with 1,012, had a drop in initial claims exceeding 1,000 in the October 26 week, while Puerto Rico had 1,566 fewer filings. Both gave no comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

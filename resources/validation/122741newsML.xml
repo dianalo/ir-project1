@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122741" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: VIDAMED Inc Q3 loss narrows.</title>
+<headline>VIDAMED Inc Q3 loss narrows.</headline>
+<dateline>MENLO PARK, Calif. 1996-10-17</dateline>
+<text>
+<p>800-PRO-INFO.</p>
+<p>			   FINANCIAL HIGHLIGHTS TO FOLLOW</p>
+<p>			 VidaMed, Inc.</p>
+<p>		  Condensed Consolidated Statements of Operations</p>
+<p>				     (Unaudited)</p>
+<p>			(in thousands except per share amounts)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					September 30,   September 30,</p>
+<p>				   1996	1995     1996	1995</p>
+<p> Net revenue		    $295     $724    $1,385    $2,411</p>
+<p>Operating expenses:</p>
+<p>     Cost of products sold   709    1,058     2,331     2,887</p>
+<p>Research and development</p>
+<p>				   1,249    1,868     3,999     4,957</p>
+<p>Selling, general</p>
+<p>	and administrative   1,891    1,736     5,502     5,209</p>
+<p> Total operating expenses  3,849    4,662    11,832    13,053</p>
+<p> Operating loss	    (3,554)  (3,938)  (10,447)  (10,642)</p>
+<p> Other income (expense)	 10	 20	  19     (301)</p>
+<p> Net loss		   ( 3,544) ( 3,918) ( 10,428) ( 10,943)</p>
+<p> Net loss per share	( 0.33)  ( 0.43)   ( 1.02)   ( 2.38)</p>
+<p>Shares used in computing</p>
+<p>  net loss per share	10,854    9,055    10,208     4,593</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

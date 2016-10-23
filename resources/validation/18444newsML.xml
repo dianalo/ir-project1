@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18444" id="root" date="1996-08-28" xml:lang="en">
+<title>RUSSIA: SOCCER-TWO SENT OFF AS BRAZIL DRAW WITH RUSSIA.</title>
+<headline>SOCCER-TWO SENT OFF AS BRAZIL DRAW WITH RUSSIA.</headline>
+<dateline>MOSCOW 1996-08-28</dateline>
+<text>
+<p>Russian captain Viktor Onopko and Brazil's Cafu were both sent off as the two countries drew 2-2 in a friendly soccer match in Moscow on Wednesday.</p>
+<p>With the scores pegged at 1-1 Cafu was given his marching orders and then, with five minutes remaining, the Russian captain was also shown the red card after insulting the referee.</p>
+<p>The Russians, playing their first game under new coach Boris Ignatiev, had made the early breakthrough when defender Yuri Nikiforov converted a penalty in the 18th minute.</p>
+<p>Trailing 1-0 at the break, the Brazilians came back two minutes into the second half when half-back Donizetti made a run down the right-wing and equalised.</p>
+<p>With Cafu off, the Russians regained the lead 10 minutes from time when substitute striker Vladislav Radimov scored from long range.</p>
+<p>Five minutes later, Ronaldo fired home the second penalty of the night to level the scores.</p>
+<p>Brazil play the second match of their short European tour against the Netherlands on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

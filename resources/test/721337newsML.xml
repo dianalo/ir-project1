@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-07-10" id="root" itemid="721337" xml:lang="en">
+<title>GREECE: INSIGHT - Main Greek stock technical indicators.</title>
+<headline>INSIGHT - Main Greek stock technical indicators.</headline>
+<dateline>ATHENS 1997-07-10</dateline>
+<text>
+<p>The following are some main technical indicators for Greek shares based on the close price of July 9.</p>
+<p>  5-day Moving Average					 1534.10</p>
+<p>  14-day Moving Average					1519.03</p>
+<p>  30-day Moving Average					1576.58</p>
+<p>  200-day Moving Average				     1216.64</p>
+<p>  Exponential Moving Average (smoothing factor=0.2)  1536.97</p>
+<p>  Exponential Moving Average (smoothing factor=0.4)  1550.12</p>
+<p>  RSI (14)							   54.60</p>
+<p>  30-day Momentum						-137.72</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-07-10" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-07-10" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="ATHENS" />
+<dc element="dc.creator.location.country.name" value="GREECE" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34949" id="root" date="1996-09-05" xml:lang="en">
+<title>ISRAEL: Israeli jailed for contact with Iranian agent.</title>
+<headline>Israeli jailed for contact with Iranian agent.</headline>
+<dateline>JERUSALEM 1996-09-05</dateline>
+<text>
+<p>A Jerusalem court jailed an Israeli citizen on Thursday for three years for having made contact with an intelligence agent of arch-enemy Iran, the domestic Itim news agency said.</p>
+<p>Israel Radio said Herzl Rad had insisted he made the contact through the Iranian embassy in Turkey in March last year in a bid ultimately to persuade Israeli intelligence to take him into its ranks.</p>
+<p>&quot;The whole intention was to help the country,&quot; Rad's brother Haim told the radio.</p>
+<p>Itim said he was given a sentence of six years, three of them in jail.</p>
+<p>But the defendant, described by Israeli security officials as a 33-year-old clothing merchant of Iranian descent who lived in Jerusalem, told the radio after the sentencing: &quot;I cannot say I'm satisfied.&quot;</p>
+<p>An indictment had originally accused Herzl Rad of spying. But the judges found him guilty only of illegal contact with a foreign agent.</p>
+<p>It said Iranian officials arranged his transport from Turkey to Iran where he was questioned by Iranian security officials and assigned to enter Israeli army installations and report back to a contact person in return for $10,000.</p>
+<p>The indictment said he was later arrested in Israel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

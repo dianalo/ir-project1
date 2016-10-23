@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="566075" id="root" date="1997-05-07" xml:lang="en">
+<title>AUSTRALIA: Highest/Lowest Australian P-E Ratios - May 8.</title>
+<headline>Highest/Lowest Australian P-E Ratios - May 8.</headline>
+<dateline>SYDNEY 1996-05-08</dateline>
+<text>
+<p>Highest and lowest price earnings ratios for Australian companies included in the 320-company All Ordinaries Index based on closing prices on Wednesday.</p>
+<p>P/E based on rolling 12 months earnings.</p>
+<p>Highest 10</p>
+<p>Rank Name		     P/E    Close</p>
+<p> 1   Aust Wide Ind	 1775.00   0.73</p>
+<p> 2   Mayne Nickless	 358.06   7.90</p>
+<p> 3   Kidston Gold	   225.00   1.08</p>
+<p> 4   Ranger Minerals	189.00   3.95</p>
+<p> 5   Perilya Mines	  174.42   0.75</p>
+<p> 6   Syd Hrbr Casino	150.00   2.19</p>
+<p> 7   Equatorial Min	 133.33   0.24</p>
+<p> 8   Westpac Prop Tr	105.63   1.69</p>
+<p> 9   ST.Barbara Mine	 84.51   0.61</p>
+<p>10   Tap Oil		   82.39   1.49</p>
+<p>Lowest 10</p>
+<p> 1   Climax Mining	    1.67   0.82</p>
+<p> 2   Consol Rutile	    4.46   0.99</p>
+<p> 3   Jardine Fm China	 5.10   0.75</p>
+<p> 4   BTR Plc		    5.75   5.25</p>
+<p> 5   Premier Inv		5.94   1.40</p>
+<p> 6   BT Aust Eq Mgmt	  7.33   4.90</p>
+<p> 7   RGC			  7.34   0.74</p>
+<p> 8   Adel Bton Cement	 7.64   0.75</p>
+<p> 9   FAI Life ltd	     7.65   2.25</p>
+<p>10   OLS Asia Hldgs	   7.69   1.86</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

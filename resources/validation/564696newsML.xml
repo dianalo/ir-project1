@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="564696" id="root" date="1997-05-06" xml:lang="en">
+<title>CHINA: China dam company to list shares in Shanghai.</title>
+<headline>China dam company to list shares in Shanghai.</headline>
+<dateline>SHANGHAI 1997-05-06</dateline>
+<text>
+<p>China's Gezhouba Co Ltd, which operates the Gezhouba Dam on the Yangtze River, will make a public offering of 171 million shares on Thursday to raise 1.1 billion yuan, the China Daily said on Tuesday.</p>
+<p>The newspaper said the shares would be listed on the Shanghai Stock Exchange as soon as possible. Proceeds would be used for construction of the nearby Three Gorges dam, the world's largest water control project scheduled for completion in 2008.</p>
+<p>The company's share prospectus said the issue price of the domestic A shares would be six yuan, giving a price/earnings ratio of 14.2, the newspaper said.</p>
+<p>Funds raised will be used to purchase equipment needed for the Three Gorges dam project, including special cement.</p>
+<p>The China Daily said Gezhouba Co Ltd is responsible for 70 percent of the building and installation work on the Three Gorges project.</p>
+<p>Proponents of the controversial dam project say it will provide 84.7 billion kilowatt hours of electricity each year to China's power-starved central regions and also help to tame the flood-prone Yangtze.</p>
+<p>Officials say the project, involving the construction of a 175-metre (574-ft) high dam at Gezhouba in the central province of Hubei, will cost at least 240 billion yuan by the time it is completed in 2008.</p>
+<p>($1=8.3 yuan)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I5020011">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

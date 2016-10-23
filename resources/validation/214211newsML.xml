@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214211" id="root" date="1996-11-25" xml:lang="en">
+<title>HONG KONG: RJP 15-month net loss HK$77.79 mln.</title>
+<headline>RJP 15-month net loss HK$77.79 mln.</headline>
+<dateline>HONG KONG 1996-11-25</dateline>
+<text>
+<p>Fifteen months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   24.72 loss vs 53.29 loss (adjusted)</p>
+<p>    Dividend (H.K. cents)    nil	  vs nil</p>
+<p>    Exceptional items	  78.63 loss vs 37.57 loss</p>
+<p>    Net			    77.79 loss vs 76.23 loss</p>
+<p>    Turnover		     337.86     vs 255.51</p>
+<p>    Company name		 RJP Electronics Ltd</p>
+<p>    Books close		  December 16-23</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - RJP makes consumer electronic products.</p>
+<p>The company changed its financial year-end to June 30 from March 31. Comparative figures are for 12 months ended March 31, 1995.</p>
+<p>Net is after an exceptional loss on provision for stocks, bad debts and property under development, disposal of fixed assets and redundancy payment.</p>
+<p>Comparative loss per share has been adjusted for the rights issue and consolidation of shares in 1996.</p>
+<p>-- Hong Kong Newsroom (852) 843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

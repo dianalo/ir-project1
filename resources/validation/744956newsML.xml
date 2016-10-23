@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744956" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE - CSX Corp Q2 net slips, shr $1.04.</title>
+<headline>TABLE - CSX Corp Q2 net slips, shr $1.04.</headline>
+<dateline>RICHMOND, Va. 1997-07-22</dateline>
+<text>
+<p>CSX CORP AND SUBSIDIARIES</p>
+<p>		   Consolidated Statement of Earnings</p>
+<p>(Millions of Dollars, Except Per Share Amounts; Unaudited)</p>
+<p>					  Q2		    Six Months</p>
+<p>				  1997	1996	 1997	 1996</p>
+<p> Operating Revenue     $2,678     $2,672    $ 5,245     $5,186</p>
+<p> Operating Expense	2,245	2,264	4,488	4,482</p>
+<p> Operating Income	   433	  408	  757	  704</p>
+<p> Net Earnings		 227	  234	  378	  380</p>
+<p> Earnings Per Share	1.04	 1.11	 1.74	 1.80</p>
+<p>Average Common Shares</p>
+<p>Out standing (Thousands)</p>
+<p>			     217,684    211,678   217,456    211,321</p>
+<p>Common Shares Outstanding</p>
+<p>  (Thousands)	    217,841    211,812   217,841    211,812</p>
+<p>NOTE: 1997 results reflect increased costs, equal to about $0.09 per share, associated with CSX's investment in Conrail and its equity in Conrail's earnings.</p>
+<p>Periods ended June 27 vs June 28.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

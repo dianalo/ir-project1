@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261605" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Nebraska cattle trade stalls in cold wave-feedlots.</title>
+<headline>Nebraska cattle trade stalls in cold wave-feedlots.</headline>
+<dateline>CHICAGO 1996-12-17</dateline>
+<text>
+<p>Nebraska feedlot cattle markets were quiet as of midday, with no reported sales amid bitterly cold temperatures and dangerous wind chills, cash sources there said.</p>
+<p>Packer inquiry was light and bids were scattered from $107.00 to $108.00 per cwt on a dressed basis. Owners were asking $108.00 to $110.00.</p>
+<p>&quot;Basically, the packer is not trying very hard to buy cattle and the feedlot guys are having to put up with five degree temperatures and 30 mile-per-hour winds,&quot; one source said.</p>
+<p>Snow reportedly posed little problem so far at most commercial feedyards. However, a lack of visibility because of blowing snow was blamed for a 18-vehicle pileup in northwest Nebraska.</p>
+<p>	  ((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164414" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: TVA boosts output at 1,065 MW Ala. nuclear unit.</title>
+<headline>TVA boosts output at 1,065 MW Ala. nuclear unit.</headline>
+<dateline>NEW YORK 1996-11-04</dateline>
+<text>
+<p>TVA Nuclear's 1,065 megawatt (MW) Browns Ferry nuclear power unit 2 returned to service over the weekend from a repair outage which began Oct 29, the Nuclear Regulatory Commission (NRC) said.</p>
+<p>The Decatur, Ala. plant was operating at 55 percent of capacity and increasing power as of early Monday morning, the NRC said in its daily plant status report.</p>
+<p>The unit tripped off line after a problem with a generator backup relay.</p>
+<p>The 1,065 megawatt Browns Ferry nuclear unit 3, also at Decatur, was operating at 100 percent of capacity as of early Monday, the NRC said.</p>
+<p>A company spokesman was not immediately available for comment.</p>
+<p>TVA Nuclear is a unit of the federal Tennessee Valley Authority.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733305" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: Kodak off after Q2 falls short of estimates.</title>
+<headline>Kodak off after Q2 falls short of estimates.</headline>
+<dateline>NEW YORK 1997-07-16</dateline>
+<text>
+<p>Shares of Eastman Kodak Co were lower in pre-opening trading after its second quarter earnings fell short of analysts' estimates, traders said.</p>
+<p>Kodak posted second quarter earnings of $1.12 a share, below the Wall Street consensus of $1.39 a share, according to First Call.</p>
+<p>Before the market opened, shares of Kodak dropped to 73, down from Tuesday's close of 76-14/16, traders said.  </p>
+<p>Kodak said its second quarter results were hurt by the strength of the U.S. dollar, higher losses for digital products, continued higher marketing expenses to support the new Advantix system and price pressures.</p>
+<p>Kodak also said it will be difficult to grow 1997 operating earnings per share beyond the 1996 level.</p>
+<p>Over the long term, Kodak said it remains committed to increasings earnings per share an average of at least 10 percent per year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

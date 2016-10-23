@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284588" id="root" date="1997-01-02" xml:lang="en">
+<title>SWEDEN: Volvo Aero lifts stake in AGES.</title>
+<headline>Volvo Aero lifts stake in AGES.</headline>
+<dateline>STOCKHOLM 1997-01-02</dateline>
+<text>
+<p>Volvo Aero on Thursday said it was increasing its stake in U.S. aircraft engine company AGES to 51 percent from 25 percent at a cost of $43 million.</p>
+<p>&quot;The purchase sum for the 26 percent stake which Volvo is now buying is estimated at $43 million,&quot; Volvo Aero said in a statement.</p>
+<p>The Florida-based company, which specialises in aircraft engines and aircraft engine parts but also trades and leases other aircraft materials, is expected to post a turnover of $225 million in 1996 and an operating profit of $28 million.</p>
+<p>&quot;AGES has large significance for operations within the Civilt Motorunderhall (civil maintenance) division which accounted for 28 percent of turnover for Volvo Aero in 1996,&quot; Volvo Aero managing director Arne Wittlov said in the statement.</p>
+<p>Volvo Aero said that 53 percent of AGES sales were in North America, 23 percent in Europe, 10 percent in Asia and eight percent in South America and 14 percent elsewhere.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

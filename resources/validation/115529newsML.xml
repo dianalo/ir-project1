@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115529" id="root" date="1996-10-14" xml:lang="en">
+<title>JAPAN: Tokyo corn futures mostly lower, tracking Chicago.</title>
+<headline>Tokyo corn futures mostly lower, tracking Chicago.</headline>
+<dateline>TOKYO 1996-10-14</dateline>
+<text>
+<p>Tokyo corn futures ended sharply lower on Monday except for the spot November contract, following the weak Chicago market Friday, traders said. They rebounded, though, from early lows on short-covering.</p>
+<p>Prices fell by up to 450 yen per tonne, except for spot November, which was up 60 yen. Benchmark September was down 360 yen at 14,700 yen. Daily volume was 86,346 lots.</p>
+<p>The market opened sharply lower as a bearish USDA corn crop report on Friday spurred active selling from the opening, sending the January, May and June contracts down by their 500 yen per tonne daily limits before midday.  </p>
+<p>Plunges in Japanese soybean futures, in reaction to the fact that the USDA's soybean production figures far exceeded analysts' estimates, battered sentiment in corn futures, the traders said. &quot;Market players are eyeing the Chicago market for further declines. Tokyo's benchmark September could fall by up to around 14,000 yen,&quot; one trader said.</p>
+<p>The spot December contract on the CBOT Project A trading system was being traded at $2.83-3/4 per bushel at 0815 GMT, down 6 1/4 U.S. cents from Friday's close.</p>
+<p>The spot November CBOT soybean futures contract was at $7.00-1/4 at 0820 GMT, down 30.0 cents from Friday's close.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

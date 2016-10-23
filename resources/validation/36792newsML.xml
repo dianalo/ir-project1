@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36792" id="root" date="1996-09-06" xml:lang="en">
+<title>CANADA: Agrium, union settle Saskatchewan strike.</title>
+<headline>Agrium, union settle Saskatchewan strike.</headline>
+<dateline>CALGARY 1996-09-06</dateline>
+<text>
+<p>Agrium Inc said on Friday that a strike that began in May by unionized workers at its Vanscoy, Saskatchewan potash operation was settled.</p>
+<p>Agrium said a three-year contract was ratified on Thursday by members of United Steelworkers' Union local 7552, who walked off the job on May 12.</p>
+<p>The company said the new contract included wage increases, a retirement savings plan and other benefit enhancements.  </p>
+<p>Employees were scheduled to return to work on Saturday and production from the operation was expected to resume as soon as possible after the mine and mill were readied for restart, the company said.</p>
+<p>Agrium said an expansion program at the site was expected to boost production capacity to 1.56 million tonnes of fertilizer in early 1997.</p>
+<p>-- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

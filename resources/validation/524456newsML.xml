@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="524456" id="root" date="1997-04-21" xml:lang="en">
+<title>VENEZUELA: Former coup leader bids for Venezuelan presidency.</title>
+<headline>Former coup leader bids for Venezuelan presidency.</headline>
+<dateline>CARACAS 1997-04-21</dateline>
+<text>
+<p>The leader of a bloody army coup attempt that shook Venezuela's democracy five years ago announced on Monday he would run for the presidency next year.</p>
+<p>Retired Lt. Col. Hugo Chavez, head of the small, left-leaning Boliviariano Revolutionary Movement (MBR-200), said he had &quot;the firm intention of emerging a winner&quot; of the December 1998 election.</p>
+<p>&quot;When a soldier goes to battle he wants to win not to lose, and I intend to be Venezuela's Commander in Chief,&quot; he told a news conference. He said an opinion poll his movement conducted in 15 cities showed 50 percent of the people were ready to vote for him.</p>
+<p>Chavez led a failed rebellon on Feb. 4, 1992, and was jailed for two years until President Rafael Caldera pardoned the rebellious officers shortly after assuming power.</p>
+<p>Chavez became the first political leader to proclaim his presidential candidacy officially. Former beauty queen Irene Saez, Venezuela's most popular politician, has hinted she will also run.</p>
+<p>Political analysts say MBR-200 is no serious political threat but his populist message laced with leftist rhetoric is effective among the poor.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

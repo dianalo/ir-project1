@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="801780" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: TABLE - AW Computer Q2 shr loss narrows.</title>
+<headline>TABLE - AW Computer Q2 shr loss narrows.</headline>
+<dateline>MOUNT LAUREL, N.J. 1997-08-15</dateline>
+<text>
+<p>Three months ended June 30, 1997</p>
+<p>					  1997		1996</p>
+<p> Revenues		   $    241,938     $    130,119</p>
+<p> Net (Loss)		    (791,784)	(1,071,244)</p>
+<p>Net (loss) income</p>
+<p>  per share			 (0.12)	     (0.22)</p>
+<p>Average shares</p>
+<p>  outstanding		  6,649,031	  4,840,869</p>
+<p>			     Six months ended June 30, 1997</p>
+<p>					  1997		1996</p>
+<p> Revenues		   $    430,792     $    475,992</p>
+<p> Net (Loss)		  (1,752,701)	(1,966,762)</p>
+<p>Net (loss) income</p>
+<p>  per share			 (0.26)	     (0.42)</p>
+<p>Average shares</p>
+<p>  outstanding		  6,654,271	  4,666,294</p>
+<p>NOTE - Full company name is AW Computer Systems Inc</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNT LAUREL, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

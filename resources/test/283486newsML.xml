@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-01-02" id="root" itemid="283486" xml:lang="en">
+<title>USA: AMERICAN FOOTBALL-COLLEGE BOWL RESULTS WEDNESDAY.</title>
+<headline>AMERICAN FOOTBALL-COLLEGE BOWL RESULTS WEDNESDAY.</headline>
+<dateline>NEW YORK 1997-01-01</dateline>
+<text>
+<p>Results of American college football bowl games played on Wednesday:</p>
+<p>			  Rose Bowl</p>
+<p> Ohio Sate		     20  Arizona State   17</p>
+<p>			  Cotton Bowl</p>
+<p> Brigham Young University  19  Kansas State   15</p>
+<p>			  Citrus Bowl</p>
+<p> Tennessee		     48  Northwestern   28</p>
+<p>			  Gator Bowl</p>
+<p> North Carolina		20  West Virginia  13</p>
+<p>			  Outback Bowl</p>
+<p> Alabama			 17  Michigan	 14</p>
+<p>			  Fiesta Bowl</p>
+<p> Penn State		    38  Texas	    15</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-01-01" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-01-02" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="NEW YORK" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

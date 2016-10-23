@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="296867" id="root" date="1997-01-09" xml:lang="en">
+<title>INDIA: India's Deve Gowda says government means business.</title>
+<headline>India's Deve Gowda says government means business.</headline>
+<dateline>CALCUTTA 1997-01-09</dateline>
+<text>
+<p>Indian Prime Minister H.D. Deve Gowda said on Thursday that capital markets perked up after he reassured industrialists last month.</p>
+<p>&quot;There was this decline in the capital market for a few days, weeks. After the 31st (December) meeting, you have all witnessed there is some improvement,&quot; Deve Gowda told the Confederation of Indian Industry's annual meeting in Calcutta.</p>
+<p>&quot;This itself is a clear indication that the government means business,&quot; he said.</p>
+<p>Deve Gowda met industrialists on December 31 and listened to their proposals on how to arrest a slowdown in industrial growth. He told them at that time that his government would take steps by mid-January to boost capital markets.</p>
+<p>The government last week announced capital gains tax exemptions to boost investment in infrastructure companies.</p>
+<p>On Thursday, Deve Gowda promised more decisions before he leaving for a world economic summit in Davos, Switzerland, which begins later this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

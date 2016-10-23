@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="232207" id="root" date="1996-12-03" xml:lang="en">
+<title>TUNISIA: Egypt's Mubarak arrives in Tunisia after Libya.</title>
+<headline>Egypt's Mubarak arrives in Tunisia after Libya.</headline>
+<byline>Abdelaziz Barrouhi</byline>
+<dateline>TUNIS 1996-12-03</dateline>
+<text>
+<p>Egyptian President Hosni Mubarak on Tuesday arrived in Tunisia for a meeting with President Zine al-Abidine Ben Ali after talks in Libya on a controversial European intervention force.</p>
+<p>Tunisian officials said Mubarak crossed the Libyan-Tunisian border post of Ras Jedir around noon (1100 GMT) for a one-day visit that is expected to deal with southern European plans for a special force to be used in humanitarian crises.</p>
+<p>During Mubarak's visit to Tripoli the force -- constituted last month by Italy, Spain, France and Portugal -- dominated talks with Libyan leader Muammar Gaddafi, the official Libyan news agency JANA reported.</p>
+<p>&quot;The announcement on the setting up by Italy, France, Spain and Portugal of an European land and navy force was one of the most important issues discussed...,&quot; Libyan Pan-Arab Unity Affairs Minister Jomaa al-Fezzani said.</p>
+<p>Libya has called it &quot;international terrorism&quot; but Egypt has yet to take a public stand on the force, designed to be used for peacekeeping and humanitarian missions in conflicts like the one currently devastating eastern Zaire.</p>
+<p>&quot;This issue will also be the subject of consultations among the Arab North African countries during all the meetings and talks that will be held during the next days,&quot; Fezzani said in the statement carried by JANA after Mubarak left Tripoli.</p>
+<p>The force will be able to call on up to 10,000 troops for use and has its command headquarters in Florence, Italy. Known as Eurofor, it will be made available to the 10-nation Western European Union and can also be put at the disposal of NATO and the United Nations, the countries involved have said.</p>
+<p>&quot;The announcement of the setting up of this force brings back tension in the Middle East and North Africa and hits the bridges of confidence...as well as the idea of security in the Mediterranean between the North African states and the European-Mediterranean states,&quot; Fezzani added.</p>
+<p>A U.N. embargo bans air travel to or from Libya. The travel restrictions are aimed at forcing Libya to hand over two of its citizens wanted for the bombing of a Pan Am airliner over Scotland in 1988.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

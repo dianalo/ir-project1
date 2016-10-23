@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="426512" id="root" date="1997-03-07" xml:lang="en">
+<title>NEW ZEALAND: RBNZ considers adopting official cash rate range.</title>
+<headline>RBNZ considers adopting official cash rate range.</headline>
+<dateline>WELLINGTON 1997-03-07</dateline>
+<text>
+<p>The Reserve Bank of New Zealand said on Friday it was considering adopting an official cash rate range as the key operating lever for monetary policy, replacing the daily target for settlement cash balances.</p>
+<p>The bank released a discussion document arguing that a cash rate scheme similar to Canada's would provide a more reliable lever to shift monetary conditions to, and then keep them within, whatever broad range was desired.</p>
+<p>It would allow for a less cumbersome system of liquidity management and would save the banking industry about $2 million a year, the bank said.  </p>
+<p>The main features of the proposed new system are:</p>
+<p>-- The centrepiece would be an announced cash rate target range, bounded by the settlement cash interest rate and the rate on an on-demand repo facility.</p>
+<p>-- The range would be reviewed each week in the light of fresh indicators.</p>
+<p>-- The bank would still react to the same indicators in formulating and implementing monetary policy, and would continue to announce in broad terms the conditions it was seeking.  </p>
+<p>-- Daily open market operations would continue but, depending on the width of the range, the degress of activism in liquidity management and forecasting might be reduced.</p>
+<p>-- Reserve Bank bills and float tender would be abolished.</p>
+<p>-- The NZ$20 million ceiling above which interest is not paid on settlement account balances would be removed.</p>
+<p>The RBNZ said it preferred an announced range for the cash rate, as opposed to a single rate.  </p>
+<p>&quot;On balance, our preference at this stage is for a relatively narrow band for the cash rate, perhaps around 25-50 points. With a very narrow range, it may be sensible to express the target as a rate, with a spread around that mid-rate,&quot; it said.</p>
+<p>Under the proposal, adjustments to the cash rate range, and any other policy comments outside the bank's regular quarterly statements, would be announced with the release of open market operation details on the morning after the RBNZ's monetary policy committee meets -- i.e. normally about 9.30 a.m. on Wednesdays.  </p>
+<p>&quot;The bank would, of course, reserve the right to act or comment at other times, but would envisage doing so only in clearly exceptional circumstances,&quot; it said.</p>
+<p>The RBNZ currently uses a settlement cash target which is the sum of banks' balances with the central bank at the end of the day. A cut in the target, for example, forces banks to scramble harder for cash in the system to meet their settlement obligations, putting upward pressure on rates.</p>
+<p>The bank acknowledged some shortcomings in its current signalling system, and that one-off statements in additional to its quarterly ones did not always have the desired impact.  </p>
+<p>&quot;From time to time, the bank had to react in opposite directions within short periods to keep conditions around appropriate levels, something which did little to enhance the standing of the system among public and market audiences.&quot;</p>
+<p>The bank said it would review the cash rate range each week but changes would be far less frequent than than. It envisaged only changing the range in multiples of 25 basis points.</p>
+<p>&quot;Reviewing the experience of the last couple of years, we envisage that the cash rate range would have been changed on average perhaps once every six to eight weeks,&quot; it said.</p>
+<p>Efficiency gains would stem from:  </p>
+<p>-- Eliminating the 300 basis point penalty on settlement cash balances and replacing it with a margin of perhaps 10-25 points;</p>
+<p>-- The recovery of the margin under Treasury bill yields at which RB bills are issued (at an average 10 basis points this is equivalent to around $1 million per year);</p>
+<p>-- Eliminating the serverely penal cost of discounting (replaced by a 10-25 basis point margin above the middle of the cash rate range as the cost of entering into an overnight repo).  </p>
+<p>The bank said it sought submissions from interested parties by April 4 and to reach its own final conclusions over the following four to six weeks.</p>
+<p>It wanted to implement any changes before the live-testing period for its new Real Time Gross Settlements system, scheduled for late May. -- Wellington newsroom 64 4 473-4746</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

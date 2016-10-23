@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115952" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Zaring Homes Inc Sept 30 Q3 net rises.</title>
+<headline>Zaring Homes Inc Sept 30 Q3 net rises.</headline>
+<dateline>CINCINNATI, Ohio 1996-10-15</dateline>
+<text>
+<p>1996		     1995</p>
+<p> Shr		 $0.36		    $0.22</p>
+<p> Net		 1,744		    1,071</p>
+<p> Revs		55,516		   33,459</p>
+<p> Avg shrs	  4,778		    4,850</p>
+<p>	   9 MONTHS</p>
+<p> Shr		 $0.76		    $0.41</p>
+<p> Net		 3,645		    1,988</p>
+<p> Revs		126,187		  83,664</p>
+<p> Avg shrs	  4,778		    4,850</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The company said it closed on the sales of 237 homes, up from 163 homes in the same quarter last year, the best performance for closings during any third quarter in its history.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

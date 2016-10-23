@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129512" id="root" date="1996-10-21" xml:lang="en">
+<title>ARGENTINA: SOCCER-FRANCESCOLI SCORES TWICE TO TAKE RIVER PLATE TOP.</title>
+<headline>SOCCER-FRANCESCOLI SCORES TWICE TO TAKE RIVER PLATE TOP.</headline>
+<dateline>BUENOS AIRES 1996-10-21</dateline>
+<text>
+<p>Uruguayan veteran Enzo Francescoli, who will be 35 next month, scored twice to set up a River Plate win that put them top of the Argentine championship at the weekend.</p>
+<p>Francescoli, a 1986 World Cup survivor, grabbed the first two goals in his team's 5-2 away win over Rosario Central.</p>
+<p>The South American champions overtook Cesar Luis Menotti's Independiente who could only manage a 1-1 draw at home to Huracan.</p>
+<p>Boca Juniors, who spent $15 million assembling their side for the tournament, scraped at 2-1 win at home over Newell's Old Boys' far less expensive team despite falling behind early on.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
