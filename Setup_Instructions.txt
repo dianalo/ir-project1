@@ -1,0 +1,6 @@
+1) Download eclipse Scala IDE
+2) install m2eclipse-scala plugin (http://scala-ide.org/docs/tutorials/m2eclipse/)
+3) if .net.alchim31.maven archetype not available: install remote catalog
+	-> http://stackoverflow.com/questions/29114936/how-do-i-find-the-correct-maven-archetype-project-for-developing-with-scala-in-e
+4) Import project from git
+5) make sure Maven uses correct JRE, Maven version >3.2.5 -> JRE 1.7
