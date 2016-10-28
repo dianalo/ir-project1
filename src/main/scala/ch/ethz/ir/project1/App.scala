@@ -1,33 +1,24 @@
 package ch.ethz.ir.project1
 
-import ch.ethz.dal.tinyir.processing.ReutersRCVParse
-import ch.ethz.dal.tinyir.io.ReutersRCVStream
-
-import ch.ethz.dal.tinyir.io.DocStream
-
-import java.io.File;
+import scala.io.Source
 
 /**
  * @author ${user.name}
  */
-object App {
-  
-  def getListOfFiles(dir: String):List[File] = {
-    val d = new File(dir)
-    if (d.exists && d.isDirectory()) {
-      d.listFiles.filter(_.isFile).toList
-    } else {
-      List[File]()
+  object App {
+
+    def main(args: Array[String]) {
+      //parse documents in train set
+      val Helper = new Helper()
+      val Config = new Config()
+      
+      var codeMap = Helper.makeCodeMap
+       
+      //compute term frequency map
+      var fList = Helper.getListOfFiles("resources/trainSmall").map(_.getPath);
+      
     }
-}
-  
-  def main(args : Array[String]) {
-    //parse documents in train set
-    var fList = getListOfFiles("resources/train").map(_.getPath);
-    for(fName <- fList){
-       val parse = new ReutersRCVParse(DocStream.getStream(fName));
-       println(parse.title)
-    }
+    
+
   }
-  
-}
+
