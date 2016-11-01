@@ -2,6 +2,7 @@ package ch.ethz.ir.project1
 
 import java.io.File
 import scala.io.Source
+import scala.collection.mutable._
 
 
 class Helper {
@@ -14,9 +15,9 @@ class Helper {
       }
     }
       
-      def makeCodeMap : collection.mutable.Map[String, List[Any]] = {
+      def makeCodeMap : Map[String, Any] = {
         //create map with all codes
-      var codesMap = collection.mutable.LinkedHashMap[String, List[Any]]()
+      var codesMap = new LinkedHashMap[String, Any]()
       
       //add country codes
       for(line <- Source.fromFile("resources/codes/region_codes.txt").getLines()){
@@ -44,7 +45,6 @@ class Helper {
       
       return codesMap
       }
-      
       
       
 }
