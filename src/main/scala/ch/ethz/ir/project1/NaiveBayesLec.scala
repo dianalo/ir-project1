@@ -17,19 +17,22 @@ class NaiveBayesLec (val config: Config,
       val codes = config.codes
       for(i <- 0 to codes.size-1){
         val cat = codes(i)
-        Pcat(i) = log(stream.filter(_.codes(cat)).length /stream.length.toDouble)
+        val v = log(stream.filter(_.codes(cat)).length /stream.length.toDouble)
+        Pcat(i) = v
         val tks = stream.filter(_.codes(cat)).flatMap(_.tokens)
         val denominator = tks.length.toDouble + vocabSize
         val PwcSparseNumerator = tks.groupBy(identity).mapValues(l=>l.length+1)
         logPwc(i) = PwcSparseNumerator.mapValues { v => log(v/denominator) }+("_df" -> log(1.0/denominator)) //default value
+        println((i.toDouble/codes.size.toDouble)*100 + "% computed")
       }
   }
   
   def classify(dataFolder: String) : List[List[String]] = {
-    var l: List[List[String]] = List()
+    var ls: List[List[String]] = List()
     val stream = new ReutersRCVStream(dataFolder).stream
     val codes = config.codes
     var topicScores: Array[Double] = new Array[Double](codes.size)
+    var j=0
     for (doc <- stream){
       val tks = doc.tokens
       val tfs = tks.groupBy(identity).mapValues(l=>l.length)
@@ -50,8 +53,13 @@ class NaiveBayesLec (val config: Config,
       //filter industry
       val industry = config.invCodeDictionnary(topicScores.slice(config.nRegionCodes+config.nTopicCodes, codes.size-1).zipWithIndex.maxBy(_._1)._2)
       
-      l ++ List(region, topic, industry)
+      val l = List(region, topic, industry)
+      
+      ls = l::ls
+      
+      j+=1
+      println((j.toDouble/stream.length.toDouble)*100 + "% classified")
     }
-    return l
+    return ls
   }
 }
