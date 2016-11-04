@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102921" id="root" date="1996-10-08" xml:lang="en">
+<title>GERMANY: Germany's SPD expels deputy over criminal record.</title>
+<headline>Germany's SPD expels deputy over criminal record.</headline>
+<dateline>BERLIN 1996-10-08</dateline>
+<text>
+<p>Germany's opposition Social Democrats (SPD) expelled one of its deputies from the party because he did not tell them about his criminal record before standing for parliament in 1994, the party said on Tuesday.</p>
+<p>The decision came as a blow to the beleaguered party whose ratings have reached near unprecedented lows in the past 18 months.</p>
+<p>A panel of SPD legal experts decided to strip Kurt Neumann, a 51-year-old lawyer, of his membership. Their ruling came into force on Tuesday, SPD leader in Berlin Rudolf Hartung said.</p>
+<p>Although expelled from the party, Neumann has a right to keep his parliamentary seat, Hartung said.</p>
+<p>But his expulsion reduces the number of SPD members in parliament to 251. Chancellor Helmut Kohl has a thin majority of 10 in the house.</p>
+<p>Neumann failed to inform the party about convictions for tax evasion and late payment of social security contributions, Hartung said.</p>
+<p>These details emerged after he entered the Bundestag lower house of parliament in 1994 and have made frontpage headlines in Germany's mass-circulation press during the last week.</p>
+<p>The Berlin-based lawyer is still under investigation for violating a professional code of ethics and a court hearing for the civil case is due at a later date.</p>
+<p>&quot;By withholding important information Neumann has violated the Social Democratic principle of solidarity and caused serious damage to the party,&quot; the panel's ruling said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

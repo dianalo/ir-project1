@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="422571" id="root" date="1997-03-05" xml:lang="en">
+<title>PORTUGAL: PRESS DIGEST - Portugal -- March 5.</title>
+<headline>PRESS DIGEST - Portugal -- March 5.</headline>
+<dateline>LISBON 1997-03-05</dateline>
+<text>
+<p>The following are some leading domestic stories in Portuguese newspapers.</p>
+<p>PUBLICO</p>
+<p>- Socialist party leader in parliament Jorge Lacao may resign over criticism of his handling of negotiations with the opposition on constitutional reform.</p>
+<p>- Banco Mello exceeded its target, posting around half a billion escudo net consolidated profit last year, chairman Francisco Lacerda said.</p>
+<p>DIARIO DE NOTICIAS</p>
+<p>- President Jorge Sampaio wants quarterly reports from Macau governor Rocha Vieira on state of transition to Chinese rule.</p>
+<p>DIARIO ECONOMICO</p>
+<p>- Tax revenues in first two months were 42 billion escudos more than forecast, according to senior aid to Prime Minister Antonio Guterres.</p>
+<p>- Portugal and France want to promote partnerships between their businessmen interested in developing markets in Africa and Latin America, Guterres says during visit to Paris.</p>
+<p>- Tetra Pak will close production unit in Lisbon by the end of 1997.</p>
+<p>--Lisbon bureau 3511-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

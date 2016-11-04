@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202370" id="root" date="1996-11-20" xml:lang="en">
+<title>ESTONIA: Malaysia's Rimbunan eyes Estonian timber firm.</title>
+<headline>Malaysia's Rimbunan eyes Estonian timber firm.</headline>
+<dateline>TALLINN 1996-11-20</dateline>
+<text>
+<p>Malaysia's largest timber company Rimbunan Hijau is considering the purchase of a majority stake in Estonian wood processor Repo Factories, newspaper Aripaev quoted the company as saying.</p>
+<p>It quoted Repo chairman Rein Kuusik as saying that Rimbunan, owned by Malaysian tycoon Tiong Hiew King, wanted to buy the stake but the Estonian firm was considering a joint venture.</p>
+<p>A price for the share purchase was not given.</p>
+<p>Repo was not available to confirm the report, which said the Estonian company needed 290 million kroons to buy new machines for making wood planks.</p>
+<p>Repo's turnover reached 211.6 million kroons in the first 10 months of the year and it expects it to be 260 million kroons for the full year.</p>
+<p>Timber is the core business of Rimbunan but it also operates in the fields of shipping, insurance, cocoa and travel.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

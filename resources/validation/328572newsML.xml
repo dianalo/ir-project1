@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328572" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Sacramento municipal utility sets open access plan.</title>
+<headline>Sacramento municipal utility sets open access plan.</headline>
+<dateline>LOS ANGELES 1997-01-22</dateline>
+<text>
+<p>The Sacramento Municipal Utility District (SMUD) plans to begin allowing customers within its service territory to choose their own electricity supplier as early as this summer, utility officials said Wednesday.</p>
+<p>If the plan goes forward, SMUD would be the first California utility to allow open access ahead of the state's program to phase in competition from January 1998.</p>
+<p>The state's municipal utilities are not required to comply with California's electricity restructuring law, but most are expected to take part in the industry's shift toward competition.</p>
+<p>&quot;We want to get moving on (open access) to test our systems and see what types of problems we might have as far as transmission, systems, tracking and accounting. Also our customers are asking for it,&quot; said Linda Hensley, SMUD's director of customer accounts.</p>
+<p>Customers choosing to buy power from other suppliers will intially receive a &quot;direct access&quot; credit on their bills, she explained.</p>
+<p>SMUD will also set a charge for recovery of stranded costs.</p>
+<p>Under the proposal, the open access option will be available to customers with aggregate loads of 100 megawatts, Hensley said.</p>
+<p>&quot;We will be allowing and encouraging aggregation of both residential and commercial loads,&quot; she noted.</p>
+<p>The SMUD board will vote on the proposed restructuring on February 6 and final rate schedules are expected in April.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

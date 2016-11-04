@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73983" id="root" date="1996-09-24" xml:lang="en">
+<title>UK: Chelsfield reports higher first-half profit.</title>
+<headline>Chelsfield reports higher first-half profit.</headline>
+<dateline>LONDON 1996-09-24</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>			   (million stg unless stated)</p>
+<p> Shr (pence)		3.0		    vs 2.3</p>
+<p> Dividend (pence)	 1.2		    vs 1.1</p>
+<p> Pretax		     6.0		    vs 4.3</p>
+<p> Net asset value	  403.0		  vs 281.0</p>
+<p> Net asset/shr (pence)  197.0		  vs 174.0</p>
+<p>Profit after tax, minorities</p>
+<p>				4.9		    vs 3.8</p>
+<p>Net income from properties</p>
+<p>				17.2		   vs 16.3</p>
+<p> Gross rents		23.2 credit	  vs 20.2 credit</p>
+<p> Operating profit	 17.2		   vs 14.9</p>
+<p> Net finance costs	12.4		   vs 10.5</p>
+<p> Tax			  0.8		    vs 0.1</p>
+<p> Pay date		   n/a</p>
+<p> Div  registration date n/a</p>
+<p> Ex-div date		n/a</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

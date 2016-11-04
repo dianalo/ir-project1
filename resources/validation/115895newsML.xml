@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115895" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Georgia Bonded Q4 earnings summary.</title>
+<headline>Georgia Bonded Q4 earnings summary.</headline>
+<dateline>BUENA VISTA, Va. 1996-10-15</dateline>
+<text>
+<p>1996			  1995</p>
+<p> Shr profit		 $0.15     loss	 $0.12</p>
+<p> Net profit		   229     loss	   195</p>
+<p> Net sales		 13,229		   14,025</p>
+<p>	  12 MONTHS ENDED JUNE 30</p>
+<p> Shr loss		   $0.38     loss	 $0.93</p>
+<p> Net loss		     602     loss	 1,458</p>
+<p> Net sales		 47,618		   50,998</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Full name of company is Georgia Bonded Fibers Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENA VISTA, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

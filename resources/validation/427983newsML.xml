@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="427983" id="root" date="1997-03-07" xml:lang="en">
+<title>USA: EMI Group unit forms marketing company.</title>
+<headline>EMI Group unit forms marketing company.</headline>
+<dateline>NEW YORK 1997-03-07</dateline>
+<text>
+<p>EMI-Capitol Music Group North America said Friday it established a new company, EMI-Capitol Entertainment Properties, which will develop music-based properties and market the group's catalogue.</p>
+<p>EMI said the strategic marketing company will be based in Los Angeles.</p>
+<p>EMI said the stand-alone company will house its own artists and repertoir (A&amp;R) department, product development, marketing, sales, finance and administrative, business affairs and international departments.  EMI said the company's core business is managing the catalogues of the group's labels.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

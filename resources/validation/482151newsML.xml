@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="482151" id="root" date="1997-04-02" xml:lang="en">
+<title>USA: Disney unveils renovated theater.</title>
+<headline>Disney unveils renovated theater.</headline>
+<dateline>NEW YORK 1997-04-02</dateline>
+<text>
+<p>Times Square, once a seedy part of Manhattan that attracted prostitutes and drug addicts, is now home to an attraction for family entertainment: a renovated New Amsterdam theatre.</p>
+<p>Walt Disney Co., which leases the 94-year-old theatre, outlined the first three shows to appear on its stage since undergoing a $34 million renovation.</p>
+<p>&quot;King David,&quot; billed as &quot;concert event,&quot; is the inaugural show, premiering May 18. From June 15-26, &quot;Hercules,&quot; will appear at the theatre. In the fall, the stage version of the animated film, &quot;Lion King,&quot; is to appear.</p>
+<p>Disney Chairman Michael Eisner said at a news conference that he recently walked down 42nd Street and was struck by how the area had changed since the days when he grew up in New York.</p>
+<p>&quot;I went to movies in this theatre, some of which could not appear on Disney today,&quot; Eisner said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

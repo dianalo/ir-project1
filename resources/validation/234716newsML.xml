@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234716" id="root" date="1996-12-04" xml:lang="en">
+<title>JORDAN: Jordan signs new trade accord with Israel.</title>
+<headline>Jordan signs new trade accord with Israel.</headline>
+<dateline>AMMAN, Jordan</dateline>
+<text>
+<p>Jordan and Israel signed an amended trade accord Wednesday that lifts barriers to Jordanian goods to both the Israeli and West Bank markets, officials said.</p>
+<p>The accord, signed at the end of talks between Jordan's Minister of Industry and Trade Ali Abu Al-Ragheb and his Israeli counterpart Natan Sharansky on Israel's Dead Sea shore, extends customs exemptions for most Jordanian goods entering into the Israeli market.</p>
+<p>It also removes obstacles to its industry's access to the much coveted Palestinian markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN, Jordan"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

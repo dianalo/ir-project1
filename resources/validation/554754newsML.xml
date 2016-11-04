@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="554754" id="root" date="1997-05-01" xml:lang="en">
+<title>UK: INSTANT VIEW - UK April PMI survey.</title>
+<headline>INSTANT VIEW - UK April PMI survey.</headline>
+<dateline>LONDON 1997-05-01</dateline>
+<text>
+<p>Following is a selection of economists' reactions to the UK April purchasing managers' survey.</p>
+<p>The PMI index rose to a seasonally adjusted 53.1 from 52.8 in March, indicating growth in manufacturing for the 11 consecutive month.</p>
+<p>DAVID PHILPOTTS, SCHROEDERS</p>
+<p>&quot;The impact of sterling strength since last summer has become most apparent in falling prices of raw materials.&quot;  </p>
+<p>ANDREW SNOWBALL, COOPERATIVE BANK</p>
+<p>&quot;The numbers... are pretty much in line and the pattern we are seeing of what strength there is in the manufacturing sector coming essentially from domestic demand with a weaker picture from the external sector and subdued manufacturing prices.&quot;</p>
+<p>JEREMY HAWKINS, BANK OF AMERICA</p>
+<p>&quot;The UK purchasing managers' survey shows a good month for manufacturers in April, with most of the real sector components strong and the overall index at a comfortable 53.1. Orders, output and employment all well above the key 50 mark and point to an acceleration in manufacturing sector activity over coming months. Only areas of weakness were again prices and exports. The price index was unchanged at a low 40.5, consistent with more good news on factory gate prices to come.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

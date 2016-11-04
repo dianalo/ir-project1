@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127008" id="root" date="1996-10-18" xml:lang="en">
+<title>VATICAN: Vatican ridicules &quot;gossip&quot; in new book on Pope.</title>
+<headline>Vatican ridicules &quot;gossip&quot; in new book on Pope.</headline>
+<dateline>VATICAN CITY 1996-10-18</dateline>
+<text>
+<p>The Vatican took a dig on Friday at a biography of Pope John Paul co-authored by Watergate investigative reporter Carl Bernstein, delving into history to ridicule what it called its use of &quot;gossip&quot;.</p>
+<p>The semi-official newspaper L'Osservatore Romano took issue with a paragraph in the book, &quot;His Holiness: John Paul II and the Hidden History of our Time&quot;, suggesting that the Vatican had concealed the truth about the Pontiff's health.</p>
+<p>&quot;Vatican propaganda tries to hide the pope's condition. On this score Vatican officials fit the well-known British description of diplomats: 'Men sent abroad to lie for their country'.&quot; the book says.</p>
+<p>&quot;Many people in the Vatican tell the tale of L'Osservatore Romano denying reports that Pope Pius X had a cold -- and a day later he was dead.&quot;</p>
+<p>L'Osservatore's Saturday edition, published late on Friday, carried a re-print of the front page of the August 20, 1914, edition carrying the headline: &quot;The grave infirmity of the Holy Father.&quot; Pius X died on that date.</p>
+<p>&quot;The front page of our newspaper, dated Thursday 20 August 1914 but published as is our tradition on Wednesday 19, proves that history, even when it is 'hidden', isn't made with gossip but with sources,&quot; said a commentary.</p>
+<p>The report was the first response from the Vatican to the book, which was published last month to mixed reviews.</p>
+<p>Written by Bernstein and Italian journalist Marco Politi, it reports what until recently was widespread speculation that Pope John Paul, 76, may have a tumour.</p>
+<p>Such speculation was halted last week when the Pope had an operation to remove his appendix. Doctors who carried out the surgery forcefully ruled out any recurrence of a colon tumour which was removed in 1992.</p>
+<p>The Vatican has not denied other reports that a marked trembling of the Pope's left hand may be a sign that he has Parkinson's Disease or a related neurological disorder.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VATICAN CITY"/>
+<dc element="dc.creator.location.country.name" value="VATICAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

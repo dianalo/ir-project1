@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612151" id="root" date="1997-05-24" xml:lang="en">
+<title>UK: SOCCER-SOUNESS RESIGNS AS SOUTHAMPTON MANAGER.</title>
+<headline>SOCCER-SOUNESS RESIGNS AS SOUTHAMPTON MANAGER.</headline>
+<dateline>LONDON 1997-05-24</dateline>
+<text>
+<p>Graeme Souness resigned as manager of Southampton on Saturday, less than a year after joining the English premier league club.</p>
+<p>The former Scottish international captain is understood to have been lined up to take over at Italian second division club Torino. He is a former Sampdoria player.</p>
+<p>Souness took over as Southampton manager last July after being sacked by Turkish club Galatasaray.</p>
+<p>He succeeded in keeping Southampton in the premier league, though their safety was secured only on the final day of the season two weeks ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

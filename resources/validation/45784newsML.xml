@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45784" id="root" date="1996-09-11" xml:lang="en">
+<title>SRI LANKA: Cricket-Sri Lanka struggle in 1st test v Zimbabwe.</title>
+<headline>Cricket-Sri Lanka struggle in 1st test v Zimbabwe.</headline>
+<dateline>COLOMBO 1996-09-11</dateline>
+<text>
+<p>Zimbabwe leg-spinner Paul Strang and paceman Henry Olonga each took two wickets as Sri Lanka struggled on the opening day of the first test on Wednesday.</p>
+<p>Despite a patient half-century by Asanka Gurusinha, Sri Lanka were 155 for five at tea.</p>
+<p>Zimbabwe made an early breakthrough after Sri Lanka won the toss and decided to bat, dismissing Roshan Mahanama for four, Sanath Jayasuriya for a duck and Aravinda de Silva for 35.</p>
+<p>Gurusinha and Hashan Tillekeratne staged a partial recovery with a fourth wicket partnership of 52 before Tillekeratne became Olonga's second victim, edging a catch to wicketkeeper Andy Flower after scoring 20.</p>
+<p>Gurusinha departed soon afterwards when he miscued a cover drive off Strang and was caught by Olonga at extra cover. Gurusinha's 52 included six boundaries in a stay of 197 minutes.</p>
+<p>At tea captain Arjuna Ranatunga was undefeated on 19 and Romesh Kaluwitharana 16.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

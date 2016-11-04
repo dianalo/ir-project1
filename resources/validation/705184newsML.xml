@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="705184" id="root" date="1997-07-03" xml:lang="en">
+<title>USA: Reynolds Tobacco wins delay in Jacksonville case.</title>
+<headline>Reynolds Tobacco wins delay in Jacksonville case.</headline>
+<dateline>JACKSONVILLE, Fla. 1997-07-03</dateline>
+<text>
+<p>A state judge Thursday agreed to postpone until October a product-liability case brought on behalf of an ailing smoker against RJ Reynolds Tobacco Co. The trial had been scheduled to begin Aug. 4.</p>
+<p>Attorneys for Reynolds, a unit of RJR Nabisco Holdings Corp., sought the delay, telling Circuit Judge Michael Weatherby they needed more time to ready their defence in a case brought by attorney Norwood Wilner on behalf of Joann Karbiwnyk, a smoker with lung cancer.</p>
+<p>Wilner last year secured a landmark $750,000 jury judgment from Brown &amp; Williamson, a tobacco company owned by B.A.T Industries of Britain, on behalf of another smoker with lung cancer.</p>
+<p>But he lost a case against Reynolds last spring.</p>
+<p>After the postponement, Wilner said in an interview that he would seek to combine Karbiwnyk's case with that of John Keegan, another smoker with lung cancer whose trial is scheduled for Oct. 4 in a state court in Jacksonville.</p>
+<p>Wilner, who has hundreds of smokers' lawsuits pending in Florida courts, said the Karbiwnyk and Keegan cases could be easily combined since both share similar injuries and both involve Reynolds, the second largest U.S. cigarette maker.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSONVILLE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

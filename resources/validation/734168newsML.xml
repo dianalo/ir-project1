@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="734168" id="root" date="1997-07-16" xml:lang="en">
+<title>AUSTRALIA: Sipa says too early to dismiss Mt Olympus.</title>
+<headline>Sipa says too early to dismiss Mt Olympus.</headline>
+<dateline>PERTH 1997-07-16</dateline>
+<text>
+<p>Gold explorer Sipa Resources International NL said on Wednesday that it was too early to say that all deposits in the Ashburton region of Western Australia would be refractory, and therefore difficult to mine economically.</p>
+<p>Shares in the company fell sharply last Friday when it said metallurgical work on sulphide mineralisation from the Mount Olympus prospect had shown that there was not an economic refractory ore treatment process available.  </p>
+<p>Contained gold that was refractory was not amenable to recovery by the conventional cyanidation process, it said at the time.</p>
+<p>&quot;The Mount Olympus deposit shows that the Ashburton region is capable of hosting large gold deposits,&quot; the company said in Wednesday's statement, citing concern about the sharp fall inits share price.</p>
+<p>&quot;It should be reiterated that in many gold provinces not all deposits will have the same metallurgical characteristics. On the basis of this empirical evidence, it is too early to conclude that all primary deposits in the Ashburton region</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

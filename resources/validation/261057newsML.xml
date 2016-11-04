@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261057" id="root" date="1996-12-17" xml:lang="en">
+<title>ESTONIA: PRESS DIGEST - Estonia - Dec 17.</title>
+<headline>PRESS DIGEST - Estonia - Dec 17.</headline>
+<dateline>TALLINN 1996-12-17</dateline>
+<text>
+<p>The following are the reports carried by Estonia's newspapers on Tuesday. Reuters has not verified these reports and does not vouch for their accuracy.</p>
+<p>ALL NEWSPAPERS</p>
+<p>- Head of Tallinn municipal services was dismissed for inadequate snow clearing operation after heavy snowfall paralysed traffic in the city over the weekend.</p>
+<p>- The court case of President Lennart Meri over the land plot at his Paslepa official residence was postponed as the other party could not attend for health grounds.</p>
+<p>- A four-member delegation of the Russian State Duma is on a visit to Estonia on December 17-18.</p>
+<p>- The parliament debated the draft law on the protection of personal data, calling for the Interior ministry to form a corresponding department by January 1.</p>
+<p>ARIPAEV</p>
+<p>- Estonian officials expect Estonia to join the World Trade Organisation in 1997.</p>
+<p>-- Riga Newsroom +371 7226693</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

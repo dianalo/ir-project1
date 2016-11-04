@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="474580" id="root" date="1997-03-28" xml:lang="en">
+<title>USA: Two ConAgra managers fined for misgrading soybeans.</title>
+<headline>Two ConAgra managers fined for misgrading soybeans.</headline>
+<dateline>CHICAGO</dateline>
+<text>
+<p>Two ConAgra Inc. managers were fined after pleading guilty to fraudulently misgrading soybeans at elevators in Indiana, Illinois and Kentucky, the United States Attorney's office said.</p>
+<p>Tony Hendricks, 24, and Michael Sprinkle, 53, both of Indiana, were sentenced Thursday, the U.S. Attorney's office said in a news release made available Friday.</p>
+<p>Hendricks was fined $200 and Sprinkle $500 for misgrading soybeans and then not properly compensating farmers for the grain they purchased, the release said. The two also directed other ConAgra employees to fraudulently grade soybeans, the U.S. Attorney's office said.</p>
+<p>Hendricks was the former assistant manager at ConAgra's Terre Haute elevator. Sprinkle was the former manager at ConAgra's Carlisle elevator.</p>
+<p>Two other ConAgra managers, Mike Dimmit and Glenn Bussa, were charged with felonies but have not appeared in court.</p>
+<p>ConAgra March 19 agreed to pay $8.3 million to settle other federal charges against Peavey Co., a ConAgra independent operating company, related to mishandling grain at 12 small and medium-size grain elevators in the southest region over a four-year period ending in 1992.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="414085" id="root" date="1997-03-03" xml:lang="en">
+<title>NEW ZEALAND: CRICKET-NEW ZEALAND WIN TOSS, BAT V ENGLAND.</title>
+<headline>CRICKET-NEW ZEALAND WIN TOSS, BAT V ENGLAND.</headline>
+<dateline>WELLINGTON 1996-03-04</dateline>
+<text>
+<p>New Zealand won the toss and</p>
+<p>chose to bat in the fifth and final one-day cricket</p>
+<p>international against England at the Basin Reserve on Tuesday.</p>
+<p>John Crawley returned to the English side in place of the</p>
+<p>injured Nick Knight, and Jack Russell replaced Ronnie Irani for</p>
+<p>his first match of the one-day series.</p>
+<p>New Zealand omitted Simon Doull in favour of spinner Dipak</p>
+<p>Patel.</p>
+<p>Teams -</p>
+<p>New Zealand: Lee Germon (captain), Bryan Young, Nathan</p>
+<p>Astle, Stephen Fleming, Chris Cairns, Adam Parore, Chris Harris,</p>
+<p>Dipak Patel, Gavin Larsen, Heath Davis, Geoff Allott.</p>
+<p>England: Mike Atherton (captain), Alec Stewart, Graham</p>
+<p>Thorpe, Nasser Hussain, John Crawley, Craig White, Robert Croft,</p>
+<p>Darren Gough, Andrew Caddick, Chris Silverwood, Jack Russell.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

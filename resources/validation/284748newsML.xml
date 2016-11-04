@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284748" id="root" date="1997-01-02" xml:lang="en">
+<title>MALAYSIA: Pacific &amp; Orient gets results extension.</title>
+<headline>Pacific &amp; Orient gets results extension.</headline>
+<dateline>KUALA LUMPUR 1997-01-02</dateline>
+<text>
+<p>Insurer Pacific &amp; Orient Bhd has been granted an extension to January 31, 1997 to submit its financial statements for the year ended September 30, 1996, the Kuala Lumpur Stock Exchange (KLSE) said on Thursday.</p>
+<p>The motor insurer was the only company among listed firms whose financial year ended in September that had not released preliminary financial statements, the exchange said in a statement.</p>
+<p>KLSE rules require publicly listed companies to furnish the exchange with financial statements not later than three months after the end of their financial year.</p>
+<p>-- Kuala Lumpur newsroom (603 230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I8200316">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

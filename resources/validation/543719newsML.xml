@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="543719" id="root" date="1997-04-28" xml:lang="en">
+<title>SINGAPORE: Singapore bunker final report and prices -April 28.</title>
+<headline>Singapore bunker final report and prices -April 28.</headline>
+<text>
+<p>(DELIVERED U.S.$/TONNE)  380 CST   180 CST     MDO     GAS OIL</p>
+<p> SINGAPORE CARGO	    91/92     98/99	UNQ     194/199</p>
+<p> SINGAPORE BUNKER	   98/100   104/106   195/198   210/213</p>
+<p>--------</p>
+<p>COMMENTS - Singapore bunker quotes dropped slightly on Monday in line with weak crude values and traders said fewer enquiries indicated that prices could slide further. Some suppliers lowered their offers but buying interest remained thin, they said.</p>
+<p>-- Singapore newsroom (65-870-3082)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

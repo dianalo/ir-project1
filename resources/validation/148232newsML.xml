@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148232" id="root" date="1996-10-28" xml:lang="en">
+<title>UK: UK's CDC backs shopping areas in S.Africa's Soweto.</title>
+<headline>UK's CDC backs shopping areas in S.Africa's Soweto.</headline>
+<dateline>LONDON 1996-10-28</dateline>
+<text>
+<p>The Commonwealth Development Corporation (CDC), Britain's overseas development finance institution, said it is to invest some 37.9 million rand in three shopping complexes in Soweto, South Africa.</p>
+<p>CDC is working with the UK's Norwich Properties on the programme, which involves construction of three shopping complexes in Meadowlands, Dobsonville and Protea North in a first phase projected for completion in May 1997.</p>
+<p>CDC said in a statement that the complexes would serve local communities who previously had to travel some distance for basic goods and services.</p>
+<p>To date, over 60 percent of space in each of the three complexes has been let. The first phase will be followed with further site development round the country, with an envisaged total investment of around 200 million rand.</p>
+<p>-- Caroline Allen, London newsroom +44 171 542 6414</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I5010027">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="598747" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: GC Q2 shr profit $0.20 vs loss $0.18.</title>
+<headline>GC Q2 shr profit $0.20 vs loss $0.18.</headline>
+<dateline>CHESTNUT HILL, Mass. 1997-05-20</dateline>
+<text>
+<p>GC COMPANIES, INC.</p>
+<p>	     CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>			  (UNAUDITED)</p>
+<p>(In thousands, except for per share amounts)</p>
+<p>			    For the six months For the three months</p>
+<p>				     ended April 30,  ended April 30,</p>
+<p>				    1997	1996     1997     1996</p>
+<p>Revenues</p>
+<p>  Admissions		 $159,013 $151,151  $73,744   $65,147</p>
+<p>  Concessions		  69,112   64,422   32,544    27,837</p>
+<p>  Other			   6,870    6,476    2,473     2,583</p>
+<p>				  234,995  222,049  108,761    95,567</p>
+<p>Costs of theatre</p>
+<p>operations</p>
+<p>  Film rentals		 81,599   77,374   35,155    30,423</p>
+<p>  Concessions		  12,211   11,484    5,654     4,694</p>
+<p>Theatre operations and</p>
+<p>administrative expenses</p>
+<p>				  117,496  110,875   58,794    54,286</p>
+<p>Depreciation and</p>
+<p>   amortization		 9,252    9,769    4,627     4,739</p>
+<p>				  220,558  209,502  104,230    94,142</p>
+<p> Corporate expenses	   3,401    3,135    1,693     1,587</p>
+<p>Operating earnings (loss)</p>
+<p>				   11,036    9,412    2,838     (162)</p>
+<p>Investment income (loss), net</p>
+<p>				    2,151  (1,363)    1,125   (1,602)</p>
+<p> Interest expense	     (251)    (309)    (117)     (149)</p>
+<p>Loss on disposition of</p>
+<p>  theatre assets		(784)    (493)  (1,169)     (447)</p>
+<p>Earnings (loss) before</p>
+<p>  income taxes		 12,152    7,247    2,677   (2,360)</p>
+<p>Income tax</p>
+<p>  benefit (expense)	 (4,982)  (2,971)  (1,098)	 968</p>
+<p> Net earnings (loss)	  7,170    4,276    1,579  ( 1,392)</p>
+<p>Weighted average number</p>
+<p>of common and common</p>
+<p>equivalent shares</p>
+<p>  outstanding		   7,786    7,850    7,746     7,816</p>
+<p>Net earnings (loss) per</p>
+<p>  common share		   0.92     0.54     0.20   ( 0.18)</p>
+<p>SOURCE  GC Companies, Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHESTNUT HILL, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

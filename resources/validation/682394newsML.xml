@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="682394" id="root" date="1997-06-24" xml:lang="en">
+<title>UK: Barclays staff set for strike ballot-union.</title>
+<headline>Barclays staff set for strike ballot-union.</headline>
+<dateline>LONDON 1996-06-25</dateline>
+<text>
+<p>Staff at Barclays Bank look set to vote in favour of holding a strike ballot as unions claim the bank is proposing to freeze pay and pensions of many staff, the UNiFI union said on Tuesday.</p>
+<p>UNiFI said although its ballot does not close until Friday, &quot;feedback from staff indicates a resounding 'yes' for a strike action vote.&quot;</p>
+<p>UNiFI has 46,000 members and represents around two-thirds of Barclays staff while another union BIFU has several thousand members at the bank.</p>
+<p>Barclays said it plans to phase in a new salaries scheme which would introduce pay rises completely based on individual staff performance. It also plans to abolish a 2.5 percent guaranteed Christmas bonus and replace it with a performance related one of between 2.5 and eight percent.</p>
+<p>UNiFI said the effect of the move would be for the vast majority of staff to have their pay frozen for the foreseeable future.</p>
+<p>A Barclays spokeswoman challenged this claim but conceded that staff whose pay was at the top of a particular salary band would not get a pay rise regardless of whether they exceeded their agreed performance plan.</p>
+<p>But the spokeswoman said that over time, the salary bands would move allowing staff headroom to receive a performance-related increase.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

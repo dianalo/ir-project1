@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="646475" id="root" date="1997-06-09" xml:lang="en">
+<title>CONGO: Mediator appeals for truce, buffer force in Congo.</title>
+<headline>Mediator appeals for truce, buffer force in Congo.</headline>
+<dateline>BRAZZAVILLE 1997-06-09</dateline>
+<text>
+<p>The mediator trying to end fighting in the Congo capital Brazzaville called for a ceasefire on Monday and said foreign troops would act to avert chaos.</p>
+<p>In a message read on state radio, Brazzaville mayor Bernard Kolelas called a truce from 7 p.m. (1800 GMT) &quot;to allow the putting in place...(of) conditions favouring a return to peace&quot;, international mediation and a buffer force drawn from the parties implicated in the unrest.  </p>
+<p>Fighting in Brazzaville has raged for five days between soldiers and militia supporting President Pascal Lissouba and a rival militia loyal to ex-president Denis Sassou Nguesso.</p>
+<p>France on Monday bolstered its military force in the former colony and expects to have more than 1,000 troops on the ground by Tuesday to help evacuate French and other foreign nationals.</p>
+<p>&quot;The conditions for an intervention force are now in place above all with the presence in Brazzaville of troops from friendly countries which would not be able to allow Congo to sink into chaos,&quot; Kolelas said.</p>
+<p>Fighting in Brazzaville in 1993 killed more than 2,000 people when militias loyal to Kolelas clashed with the army. This time Kolelas's militia has not been involved in the battle.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CONGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRAZZAVILLE"/>
+<dc element="dc.creator.location.country.name" value="CONGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

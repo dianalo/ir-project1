@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431196" id="root" date="1997-03-10" xml:lang="en">
+<title>LEBANON: Israeli soldier wounded in south Lebanon attack.</title>
+<headline>Israeli soldier wounded in south Lebanon attack.</headline>
+<dateline>MARJAYOUN, Lebanon 1997-03-10</dateline>
+<text>
+<p>An Israeli soldier was wounded on Monday in an explosion in south Lebanon, pro-Israeli militia sources said.</p>
+<p>They said an explosion occurred near an Israeli patrol on the Houla-Marqaba road in the central sector of Israel's south Lebanon occupation zone.</p>
+<p>The cause was not known and no group claimed responsibility for the attack.</p>
+<p>On Sunday, one Israeli soldier was wounded in a Hizbollah rocket attack inside the zone.</p>
+<p>The pro-Iranian Hizbollah (Party of God) is fighting to oust Israeli troops from the 15 km (nine-mile) wide buffer zone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARJAYOUN, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

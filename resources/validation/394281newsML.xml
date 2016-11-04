@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394281" id="root" date="1997-02-21" xml:lang="en">
+<title>USA: Denver jets to avoid eagles nesting area.</title>
+<headline>Denver jets to avoid eagles nesting area.</headline>
+<dateline>DENVER 1997-02-21</dateline>
+<text>
+<p>Planes taking off from Denver International Airport will avoid flying over an area where bald eagles roost, the U.S. Fish and Wildlife Service announced on Friday.</p>
+<p>&quot;By making this minor change in the flight path, it is hoped that the eagles will return to their original roosting site that they have used historically,&quot; the service's Mountain-Prairie Region Director said in a statement.</p>
+<p>The eagles roost at Rocky Mountain Arsenel, a former nerve gas factory that has been turned into a wildlife refuge and is now home to 130 animal species, including white tail deer and prairie dogs.</p>
+<p>Since the airport opened two years ago, noise from the jetliners drove the bald eagles from the roost, in violation of the Endangered Species Act.</p>
+<p>The interim measures were agreed to by the Federal Aviation Administration and the Fish and Wildlife Service. Scientists will monitor the eagles to see if the measures are working.</p>
+<p>Jets will be able to fly over the roost if hazardous weather conditions and public safety require it.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

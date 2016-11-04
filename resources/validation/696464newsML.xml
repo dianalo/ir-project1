@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="696464" id="root" date="1997-06-30" xml:lang="en">
+<title>FRANCE: French stocks end lower with weak Wall St, bonds.</title>
+<headline>French stocks end lower with weak Wall St, bonds.</headline>
+<dateline>PARIS 1997-06-30</dateline>
+<text>
+<p>French shares slid lower to close just over one percent down on Monday, as softer Wall Street and bonds extended the Paris market's consolidation, traders said.</p>
+<p>A higher-than-expected Chicago Purchasing Managers index unsettled markets and the dollar, ahead of Tuesday's meeting of the U.S. Federal Open Market Committee.</p>
+<p>The blue-chip CAC-40 index closed down 32.78 points or 1.13 percent at 2,858.26. The CAC-40 futures contract was down 11.5 at 2,874 from Friday's close.</p>
+<p>Volume was 11.3 billion francs.</p>
+<p>Lyonnaise des Eaux saw a second block of stock trade in the afternoon, with 500,000 shares changing hands at 595 francs per share. A first block of 239,000 shares went through in the morning at 585 francs.</p>
+<p>Traders said the deals were probably linked to the share swap in the Lyonnaise/Suez merger.</p>
+<p>Renault ends 4.37 percent lower at 148.7, giving back much of its gains at the end of last week. Brokers said the Vilvoorde factory closure was discounted in the share price.</p>
+<p>LVMH adds 2.13 percent to 1,580 on expectations chairman Bernard Arnault will settle a row with the heads of Guinness and Grand Met over their merger plan.</p>
+<p>Eurotunnel closed up 4.03 percent at 6.45 francs. French proxy-holder Sophie L'Helias told Reuters an investor holding three percent of Eurotunnel's capital has reversed its position and will support the plan to restructure the company's 70 billion francs of bank debt.</p>
+<p>Eurotunnel confirmed the news, with a separate statement saying U.S. fund manager U.S. Northern Cross Investment had decided to back the plan to restructure the company's 70 billion francs of bank debt.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

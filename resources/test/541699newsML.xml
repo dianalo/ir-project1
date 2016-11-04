@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-04-26" id="root" itemid="541699" xml:lang="en">
+<title>USA: Closing prices of Indonesian stocks overseas.</title>
+<headline>Closing prices of Indonesian stocks overseas.</headline>
+<dateline>NEW YORK 1997-04-25</dateline>
+<text>
+<p>Following are the overnight closing prices of Indonesian stocks listed overseas:</p>
+<p>Stock				   Closing price ($)</p>
+<p>In New York</p>
+<p>   Indosat			27-1/2</p>
+<p>   Tri Polyta		    5-1/4</p>
+<p>   Asia Pacific		  4-5/8</p>
+<p>   Asia Pulp &amp; Paper	  12-1/2</p>
+<p>   Telkom			 29-1/2</p>
+<p>In London:</p>
+<p>   Telkom			 29.75</p>
+<p>   Tambang Timah		14.925</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-04-25" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-04-26" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="NEW YORK" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

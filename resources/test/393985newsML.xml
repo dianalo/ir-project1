@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-02-21" id="root" itemid="393985" xml:lang="en">
+<title>USA: Madison Gas &amp; Electric Co sets payout.</title>
+<headline>Madison Gas &amp; Electric Co sets payout.</headline>
+<dateline>MADISON, Wis. 1997-02-21</dateline>
+<text>
+<p>Quarterly</p>
+<p>		   Latest		    Prior</p>
+<p> Amount		 $ 0.32		     $0.32</p>
+<p> Pay		  March 15</p>
+<p> Record		March 1</p>
+<p>	 ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-02-21" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-02-21" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="MADISON, Wis." />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

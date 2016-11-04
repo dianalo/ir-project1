@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18991" id="root" date="1996-08-28" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa cuts maize estimate, hikes sunflower.</title>
+<headline>S.Africa cuts maize estimate, hikes sunflower.</headline>
+<dateline>JOHANNESBURG 1996-08-28</dateline>
+<text>
+<p>South Africa's National Crop Estimates Comittee said on Wednesday it had cut its sixth estimate of the 1996 maize crop to 9.484 million tonnes from 9.657 million estimated previously and 4.406 million in 1995.</p>
+<p>The sunflower seed estimate was increased to 720,000 tonnes from 690,000, against 450,000 in 1995.  </p>
+<p>The committee revised its white maize crop estimate upwards to 5.44 million tonnes from 5.334 million tonnes.</p>
+<p>Its estimate for yellow maize was 4.044 million tonnes, down from the previous crop estimate of 4.323 million tonnes.</p>
+<p>The committee estimated a sorghum crop of 445,000 tonnes from 465,000 tonnes previously.</p>
+<p>Its estimate for groundnuts was revised downwards to 130,000 tonnes from 135,000 while the soya bean crop estimate remained unchanged at 50,000 tonnes.</p>
+<p>-- Johannesburg newsroom, +27-11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

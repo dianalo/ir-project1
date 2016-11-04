@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254077" id="root" date="1996-12-12" xml:lang="en">
+<title>GERMANY: Siemens shares seesaw after numbers, outlook.</title>
+<headline>Siemens shares seesaw after numbers, outlook.</headline>
+<dateline>FRANKFURT 1996-12-12</dateline>
+<text>
+<p>Shares in German electronics and engineering giant Siemens AG seesawed on Thursday after the company released data and presented a more positive outlook for the coming years.</p>
+<p>Shares traded up 15 pfennigs at 72.80 marks or 0.2 percent by 0818 GMT while the broader DAX index was up 0.57 percent at 2,852.41 points. The session low was 72.21 marks</p>
+<p>Traders had mixed feelings about the information released with one saying, &quot;There was some euphoria and then that was dampened.&quot;</p>
+<p>&quot;The outlook for 1997/98 is very positive, and investors should honour that,&quot; another dealer added.</p>
+<p>Some traders however said they had expected better results.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

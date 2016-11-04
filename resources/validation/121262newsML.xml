@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121262" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Bausch &amp; Lomb Inc Q3 shr lower.</title>
+<headline>Bausch &amp; Lomb Inc Q3 shr lower.</headline>
+<dateline>ROCHESTER, N.Y. 1996-10-16</dateline>
+<text>
+<p>3 Mos ended	  9 Mos ended</p>
+<p>			    9/28/96 9/30/95    9/28/95  9/28/96</p>
+<p>  Healthcare sales   $358,953 $345,404  $1,061,845 $1,014,882</p>
+<p>  Optics sales	  118,236  131,353     430,171    462,935</p>
+<p>    TOTAL SALES	 477,189  476,757   1,492,016  1,477,817</p>
+<p>Cost of products</p>
+<p>   sold		   219,769  205,495     661,454    657,949</p>
+<p>  S G &amp; A		 177,546  173,764     588,820    574,707</p>
+<p>  R &amp; D		    18,758   15,981	55,974     47,634</p>
+<p>  Restruct charges(1)     -	  -	  15,077	    -</p>
+<p> TOTAL COSTS &amp; EXPENSES416,073  395,240   1,321,325  1,280,290</p>
+<p> Operating Earnings    61,116   81,517     170,691    197,527</p>
+<p>  Investment income    (9,512)  (9,310)    (28,490)   (28,839)</p>
+<p>  Interest expense     12,995   11,013	37,818     34,999</p>
+<p>  Forex (Gain)		(63)   2,294	  (586)     4,258</p>
+<p>  Loss-Oral Care sale(2)26,069	-	 26,069	   -</p>
+<p>  Gain-Sports Optics sale(3) -	-	     -     (35,902)</p>
+<p>  Litigation prov(4)    16,100	-	 16,100     16,000</p>
+<p>				45,020   3,997	50,911     (9,484)</p>
+<p>Earnings Before Income Taxes and</p>
+<p>  Minority Interest  16,096   77,520     119,780    207,011</p>
+<p>Minority interest in</p>
+<p>    subsidiaries	5,539    5,324	15,738     15,880</p>
+<p> Net Earnings	  14,434   43,514	67,206    115,387</p>
+<p> Net EPS		   0.25     0.75	  1.18	 1.98</p>
+<p> Avg shrs Shrs (000s)			   56,793     58,247</p>
+<p>NOTE: (1) Restructuring charges reduced full year 1996 net earnings by $10,898 or $0.19 per share.</p>
+<p>(2) The loss on sale of the Oral Care Division reduced full year 1996 net earnings by $6,254 or $0.11 per share.</p>
+<p>(3) The gain on sale of the Sports Optics Division increased full year 1995 net earnings by $20,823 or $0.36 per share.</p>
+<p>(4) Litigation provisions reduced full year net earnings by $9,982 or $0.18 per share in 1996 and $10,560 or $0.18 per share in 1995.  </p>
+<p>First Call put analysts' consensus estimates at $0.55 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCHESTER, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

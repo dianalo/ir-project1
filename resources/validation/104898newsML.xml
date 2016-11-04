@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104898" id="root" date="1996-10-09" xml:lang="en">
+<title>YUGOSLAVIA: Yugoslav July unemployment 819,467 vs 820,733.</title>
+<headline>Yugoslav July unemployment 819,467 vs 820,733.</headline>
+<dateline>BELGRADE 1996-10-09</dateline>
+<text>
+<p>The Federal Statistical Office reported the following economic indicator details.</p>
+<p> YUGOSLAV UNEMPLOYMENT  July 96	  June 96	  July 95</p>
+<p> number seeking work    819,467	  820,733	  761,825</p>
+<p> vacancies		   26,855	   23,852	   21,868</p>
+<p> total employed	 2.074 million	2.075 million	 2.108 million</p>
+<p>NOTES -- Data do not include private sector. Data cover rump Federal Republic of Yugoslavia, comprising Serbia and Montenegro.</p>
+<p>-- Gordana Filipovic, Belgrade newsroom, +381 11 222 4254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

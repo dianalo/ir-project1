@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="373694" id="root" date="1997-02-12" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - France - Le Monde Feb 13.</title>
+<headline>PRESS DIGEST - France - Le Monde Feb 13.</headline>
+<dateline>PARIS 1996-02-13</dateline>
+<text>
+<p>These are leading stories in afternoon daily Le Monde.</p>
+<p>FRONT PAGE</p>
+<p>-- Paris bourse boosted by dollar surge.</p>
+<p>-- Serbia's parliament acknowledges electoral victory of opponent movement.</p>
+<p>BUSINESS PAGES</p>
+<p>-- French 10-year OAT yield reached 5.40 percent this morning, its lowest level in 32 years.</p>
+<p>-- Government redefines goals for EDF and GDF utilities, which undertake committment to cut prices every year, keep public service missions in France and invest abroad to become international electricity and gas operators.</p>
+<p>-- PSA chairman Jacques Calvet fuels suspense over whether he will step down on September 30, 1997 as planned.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

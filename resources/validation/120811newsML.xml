@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120811" id="root" date="1996-10-16" xml:lang="en">
+<title>UNITED NATIONS: Libya sponsors Farrakhan news conference at UN.</title>
+<headline>Libya sponsors Farrakhan news conference at UN.</headline>
+<dateline>UNITED NATIONS 1996-10-16</dateline>
+<text>
+<p>Libya is sponsoring Wednesday's news conference at the United Nations by Louis Farrakhan, the controversial U.S. Black Moslem leader.</p>
+<p>A formal news conference at the United Nations requires the approval of a government or U.N. body and in this case Libya backed Farrakhan, the cleric who leads the Nation of Islam in the United States, a U.N. spokesman said.</p>
+<p>Thousands of Farrakhan's supporters gathered on Wednesday on streets surrounding the United Nations to commemorate the one-year anniversary of the Million Man March on Washington.</p>
+<p>One theme of the rally is a call for nations of the world to atone for injustices, wars and violence.</p>
+<p>Farrakhan recently visited Libya, Cuba, Iraq, Iran, Nigeria and Sudan.  While in Libya, he received a $250,000 human rights award, an apparent violation of U.S. law which prohibits financial dealings with Libya because of its alleged sponsorship of international terrorism.</p>
+<p>The U.S. Treasury Department has denied Farrakhan's application to receive either the $250,000 or an additional $1 billion that Libyan leader Muammar Gaddafi had pledged to the Nation of Islam.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

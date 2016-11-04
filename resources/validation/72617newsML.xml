@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72617" id="root" date="1996-09-24" xml:lang="en">
+<title>PERU: Peru compensates Lufthansa for 1941 expropriation. [CORRECTED 22:21 GMT]</title>
+<headline>Peru compensates Lufthansa for 1941 expropriation. [CORRECTED 22:21 GMT]</headline>
+<dateline>LIMA 1996-09-24</dateline>
+<text>
+<p>The Peruvian government formally approved Tuesday the payment of 1.93 million marks ($1.28 million) to German airline Deutsche Lufthansa AG in compensation for the expropriation of planes and other assets in 1941 during the Second World War.</p>
+<p>(Corrects dollar amount).</p>
+<p>A decree in the government daily El Peruano, signed by President Alberto Fujimori, authorized the payment to Lufthansa agent Band Der Deutschen Luftfahrt.</p>
+<p>Peru will make an initial payment of 16 percent of the compensation, followed by a 19 percent payment in the first year and five more annual quotas of 13 percent, the decree said.</p>
+<p>Peru, which sided with the Allied forces during the Second World War, confiscated German, Japanese and Italian property, as well as sending citizens of those countries to prisoner of war camps in the United States.</p>
+<p>-- Renzo Pipoli, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

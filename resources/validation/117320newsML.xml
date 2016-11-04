@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117320" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Most mutual fund buyers use brokers - study.</title>
+<headline>Most mutual fund buyers use brokers - study.</headline>
+<dateline>BOSTON 1996-10-15</dateline>
+<text>
+<p>Despite the growing sophistication of investors, most people buy mutual funds through financial advisors, according to a study released Tuesday.</p>
+<p>Sixty percent of investors bought mutual funds exclusively through advisors whereas only 27 percent bought funds directly from the fund companies or through a discount broker, according a survey commissioned by the Mutual Fund Forum (MFF).</p>
+<p>Thirteen percent of investors have used both methods to buy mutual funds, the MFF said.</p>
+<p>&quot;Data from the study do not support the perception of widespread migration from one method of purchase to the other or the perception of more direct purchase than in the past,&quot; the MFF said in a release. &quot;Instead the data indicate very little migration and continued prevalence of the advisor-assisted method of mutual fund purchase.&quot;</p>
+<p>The typical mutual fund investor is middle-aged, college educated, earns an average salary of $61,700 and has an estimated $90,000 in investable assets, the survey found.</p>
+<p>The Mutual Fund Forum, which released the study in conjunction with its annual meeting in Boston, is an industry association representing 71 mutual fund companies, securities firms, banks and insurance companies.</p>
+<p>The survey of 564 mutual fund investors by the public opinion and research group Yankelovich Partners was conducted June 12-23 and has a margin of error of plus or minus 4.1 percentage points.</p>
+<p>-- Michael Ellis, Boston bureau (617) 367-4176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

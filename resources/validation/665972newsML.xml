@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="665972" id="root" date="1997-06-17" xml:lang="en">
+<title>UK: European base metals physical prices - June 17.</title>
+<headline>European base metals physical prices - June 17.</headline>
+<text>
+<p>Latest quotes as a premium/discount to LME in $/tonne unless stated:</p>
+<p>Metal	 Location			     Latest	Previous  Last change</p>
+<p>Copper    - Rotterdam - Chilean		+30/40	+25/40     12/5/97</p>
+<p>Copper    - Rotterdam - Grade A		+15/20	+20/35     30/5/97</p>
+<p>Copper    - Rotterdam - Standard	     -10/25	-10/20	6/6/97</p>
+<p>Copper    - U.K.	- Grade A		+40/50	+50/60     30/5/97</p>
+<p>Copper    - Italy     - Grade A		+20/25	+15/20     17/6/97</p>
+<p>Copper    - Hamburg   - Grade A		+10/15	+10/20	4/6/97</p>
+<p>Aluminium - Rotterdam - Russian A7E	  +40/45	+40/50     17/6/97</p>
+<p>Aluminium - Rotterdam - Russian A6	   +30/40	+25/35     25/4/97</p>
+<p>Aluminium - Rotterdam - Russian A5	   +25/35	+25/30     25/4/97</p>
+<p>Aluminium - Rotterdam - Russian A0	    +5/15	+10/20	3/6/97</p>
+<p>Aluminium - Rotterdam - Western duty-unpaid+50/55	+50/60     17/6/97</p>
+<p>Aluminium - Rotterdam - Western duty-paid +130/140    +130/137    25/4/97</p>
+<p>Tin	 - Rotterdam - Chinese		+30/40	+30/50     13/5/97</p>
+<p>Tin	 - Rotterdam - Malaysian	    +10/20	+15/30     29/4/97</p>
+<p>Tin	 - Rotterdam - Indonesian	   +30/50	+35/45	8/4/97</p>
+<p>Zinc	- Rotterdam - SHG duty-paid	+30/40	+25/30     29/5/97</p>
+<p>Zinc	- Rotterdam - CIS		    -5/-10     lvl/+10     16/6/97</p>
+<p>Lead	- Rotterdam - CIS		    +10/20	+15/25	9/6/97</p>
+<p>Lead	- Helsingborg - CIS		   +3/5	  +4/5	25/4/97</p>
+<p>Lead	- Europe    - ex-works producer  +50/60	+65/75     16/6/97</p>
+<p>Nickel    - Rotterdam - Plating - western +290/330    +280/300    11/6/97</p>
+<p>Nickel    - Rotterdam - Russian - uncut    -80/120     -70/110    17/6/97</p>
+<p>--London Newsroom +44 171 542 8080</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

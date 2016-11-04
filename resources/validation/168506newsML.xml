@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168506" id="root" date="1996-11-06" xml:lang="en">
+<title>CANADA: Power Financial Corp Q3 profit rises.</title>
+<headline>Power Financial Corp Q3 profit rises.</headline>
+<dateline>MONTREAL 1996-11-06</dateline>
+<text>
+<p>1996			    1995</p>
+<p> Shr			 C$0.96		   C$0.82</p>
+<p> Net			 86,441		   74,835</p>
+<p> Revs		   1,651,092		1,730,137</p>
+<p>	    9 MONTHS</p>
+<p> Shr			 C$2.87		   C$2.43</p>
+<p> Net			258,339		  221,216</p>
+<p> Revs		   4,809,198		5,236,671</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: On September 30, 1996, Electrafina S.A. and Royale Belge S.A. of Bellgium,</p>
+<p>affiliates of Pargesa Holding S.A., sold their interest in Tractebel S.A. The gain on this transaction has yet to be determined and the board of directors of the companies affected have not approved financial statements reflecting such gain. Power Financial will record its share of the gain during the fourth quarter of 1996.</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

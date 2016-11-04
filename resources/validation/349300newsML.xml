@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349300" id="root" date="1997-02-01" xml:lang="en">
+<title>INDONESIA: Indonesia to deploy 24 jets for Mecca pilgrims.</title>
+<headline>Indonesia to deploy 24 jets for Mecca pilgrims.</headline>
+<dateline>JAKARTA 1997-02-01</dateline>
+<text>
+<p>Indonesia will set aside 24 jets to take 195,615 Moslems making the annual pilgrimage to Mecca, the Jakarta Post newspaper said on Saturday.</p>
+<p>The president of Garuda, Soepandi, was quoted as saying the national carrier would lease 19 jets from foreign airlines in addition to using its own aircraft for the Haj, or pilgrimage, and start flights next month.</p>
+<p>Devout Moslems try to make the Haj to the holy city of Mecca in Saudi Arabia at least once in their lifetime. About 80 percent of Indonesia's 200 million people are Moslems, making it the world's most populous Islamic nation.</p>
+<p>Every year there are logistical problems in moving pilgrims from across the vast archipelago to five gateway airports for the 10-hour flight to Saudi Arabia.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

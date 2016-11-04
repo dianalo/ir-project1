@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287263" id="root" date="1997-01-05" xml:lang="en">
+<title>AUSTRALIA: TENNIS-GOLD COAST CLASSIC FINAL RESULT.</title>
+<headline>TENNIS-GOLD COAST CLASSIC FINAL RESULT.</headline>
+<dateline>GOLD COAST, Australia 1997-01-05</dateline>
+<text>
+<p>Result in the Gold Coast Classic women's tennis tournament on Sunday (prefix denotes seeding).</p>
+<p>Final</p>
+<p>3-Elena Likhovtseva (Russia) beat 6-Ai Sugiyama (Japan) 3-6 7-6 (9-7) 6-3.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOLD COAST, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

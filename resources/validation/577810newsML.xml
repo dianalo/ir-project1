@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="577810" id="root" date="1997-05-12" xml:lang="en">
+<title>JAPAN: Kansai Electric delays nuclear reactor start-up.</title>
+<headline>Kansai Electric delays nuclear reactor start-up.</headline>
+<dateline>TOKYO 1997-05-12</dateline>
+<text>
+<p>Kansai Electric Power Co Inc said on Monday that technical problems had delayed the start-up of one of its nuclear reactors which has been shut for the past three months for maintenance work.</p>
+<p>A spokesman for the electric power utility said it was not yet clear when the 826,000 kilowatt nuclear power reactor on the Sea of Japan coast would resume operations.</p>
+<p>The reactor was initially scheduled to start generating power on Saturday.</p>
+<p>&quot;We can't say when it (the reactor) will be back on line as the cause of the power failure has not been determined,&quot; the spokesman said.</p>
+<p>Preparatory operations to start the No.2 reactor at Kansai Electric's Takahama nuclear power plant in Fukui Prefecture, 390 kilometres (244 miles) west of Tokyo, were halted on Friday after power supplies to the reactor's controlling units were partially cut off, he said.</p>
+<p>The loss in electricity production will be offset by enhanced power production at some of Kansai Electric's thermal power plants, he said.</p>
+<p>The technical problems at the nuclear reactor have not caused any radiation leaks, the spokesman said.</p>
+<p>--Tokyo Energy Desk +81-3-3432-8837</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

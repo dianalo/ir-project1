@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252434" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: ECRI future U.S. inflation gauge 106.3 Nov 29 wk.</title>
+<headline>ECRI future U.S. inflation gauge 106.3 Nov 29 wk.</headline>
+<dateline>NEW YORK 1996-12-12</dateline>
+<text>
+<p>The Economic Cycle Research Institute (ECRI) weekly future inflation gauge (FIG) rose to 106.3 in the week ended November 29 from a revised 106.0 the previous week, ECRI said.</p>
+<p>Faster growth in real estate loans, an increase in the growth rate of industrial materials prices and a narrowing of the yield spread between 10-year and three-month Treasuries helped push the index up, ECRI said.</p>
+<p>&quot;While inflation pressures are slightly higher than they were two months ago, they are not yet pointing to an imminent inflation upturn,&quot; ECRI said.</p>
+<p>-- N.A. Treasury Desk, 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

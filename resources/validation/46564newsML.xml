@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46564" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Unocal completes exchange offer.</title>
+<headline>Unocal completes exchange offer.</headline>
+<dateline>EL SEGUNDO, Calif. 1996-09-11</dateline>
+<text>
+<p>Unocal Corp Wednesday said it completed its offer to exchange new, 6-1/4 percent trust convertible preferred securities of Unocal Capital Trust for shares of the company's $3.50 convertible preferred stock.</p>
+<p>In addition, Unocal said it will redeem the remaining outstanding $3.50 Convertible Preferred Stock that was not tendered in the exchange offer.</p>
+<p>Unocal said that 10,437,873 of the 6-1/4 percent Trust Convertible Preferred Securities, which have an aggregate liquidation value of nearly $522 million, were exchanged for 9,352,962 shares of the $3.50 Convertible Preferred Stock.</p>
+<p>Unocal said it is calling for redemption the remaining 897,038 shares of the $3.50 Convertible Preferred Stock. The shares will be redeemed on October 11, for a cash payment of $52.936 per share unless the holder converts the preferred shares into Unocal common stock prior to the close of business on Oct. 11. Each share of $3.50 Convertible Preferred Stock is convertible into 1.626 shares of Unocal common stock.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL SEGUNDO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="776036" id="root" date="1997-08-04" xml:lang="en">
+<title>GERMANY: POLL-German July unemployment figures.</title>
+<headline>POLL-German July unemployment figures.</headline>
+<dateline>FRANKFURT 1997-08-04</dateline>
+<text>
+<p>Economists polled by Reuters on Monday gave the following forecasts for July German jobless data which will be released on Wednesday.</p>
+<p>The forecasts in the first column give the absolute change expected in the seasonally adjusted figure in July compared with June. The percentage figures show the unemployment rate.</p>
+<p>Economist				     7/97 vs.  7/97   yr97</p>
+<p>						  6/97	pct    pct</p>
+<p>						  (s.a.)    (n.a.)</p>
+<p>Christine Walter, Commerzbank	   + 5,000   11.4  11.2</p>
+<p>Stefan Bergheim, Dresdner KB	    +10,000   11.4  11.4</p>
+<p>Ulrike Kastens, Trinkaus Cap.Mgmt.    + 5,000   11.3  11.3</p>
+<p>Holger Schmieding, Merrill Lynch	+10,000    n/a  11.4</p>
+<p>Jens Kramer, Norddt. Landesbank	 +10,000   11.2  11.3</p>
+<p>Arnd Feuerbaum, BfG Bank, Frankfurt   +10,000   11.4  n/a</p>
+<p>Wolfgang Haeuser, BHF Bank, Frankfurt +-  0     11.3  11.3</p>
+<p>Nikolaus Keis, Bayer. Vereinsbank     -15,000   11.1  11.1</p>
+<p>Thomas Kull, WestLB, Duesseldorf	+ 5,000   11.3  11.2</p>
+<p>Ulrich Beckmann, Deutsche Bank Res.   +-  0     11.4  11.2</p>
+<p>AVERAGE					 + 4,000   11.3  11.3</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

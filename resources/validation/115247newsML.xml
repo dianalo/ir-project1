@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115247" id="root" date="1996-10-14" xml:lang="en">
+<title>LUXEMBOURG: EU raises limit for intervention beef.</title>
+<headline>EU raises limit for intervention beef.</headline>
+<dateline>LUXEMBOURG 1996-10-14</dateline>
+<text>
+<p>The ceiling on European Union beef intervention purchases was raised by 60,000 tonnes to 460,000 tonnes in 1996 on Monday and young male cattle included in the scheme, EU officials said.</p>
+<p>The changes are intended to ensure continued support for the beef market, badly affected by a public health scare over Bovine Spongiform Encephalopathy (BSE), until EU farm ministers agree longer term measures when they meet at the end of the month.</p>
+<p>Italy and Spain voted against the decision, taken at an EU fisheries ministers meeting, because they were concerned that the cost of young cattle they buy for fattening would rise. They wanted all support measures to be agreed in a single package.</p>
+<p>The changes, which are valid until mid-November, were agreed in principle by EU farm ministers at an informal meeting in Killarney, Ireland, last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUXEMBOURG"/>
+<dc element="dc.creator.location.country.name" value="LUXEMBOURG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

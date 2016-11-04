@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61495" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Perot blasts debate decision, pledges lawsuit.</title>
+<headline>Perot blasts debate decision, pledges lawsuit.</headline>
+<dateline>SAN FRANCISCO 1996-09-18</dateline>
+<text>
+<p>Ross Perot Wednesday blasted a commission's recommendation that he be excluded from the presidential debates, saying it was &quot;a major setback&quot; for democracy and voters' rights.</p>
+<p>The Reform Party presidential candidate said his party would file a lawsuit against Tuesday's recommendation by the Commission on Presidential Debates and would seek a restraining order to delay the debates until a decision was made.  </p>
+<p>The commission proposed that Perot be excluded from debates between President Clinton and Republican Bob Dole, saying only Clinton and Dole had a realistic chance to be elected the next president of the United States.</p>
+<p>&quot;I don't think this is democracy as the framers of the Constitution intended, do you?&quot; Perot asked a large audience in a speech at the Commonwealth Club, a current affairs forum, in San Francisco.</p>
+<p>&quot;This is a blatant display of power by the Republicans and the large donors who fund their campaign...,&quot; he said.</p>
+<p>Perot said the Reform Party would file a lawsuit in federal court against the commission recommendation and would ask the court &quot;to issue a restraining order to delay the debates until a decision is made.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

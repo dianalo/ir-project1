@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="222279" id="root" date="1996-11-28" xml:lang="en">
+<title>UK: &quot;Jekyll and Hyde&quot; video wins UK's top art prize.</title>
+<headline>&quot;Jekyll and Hyde&quot; video wins UK's top art prize.</headline>
+<dateline>LONDON 1996-11-28</dateline>
+<text>
+<p>Scottish artist Douglas Gordon won Britain's top arts prize on Thursday with a video of two men arm wrestling and clips from the 1930s horror movie &quot;Dr Jekyll and Mr Hyde.&quot;</p>
+<p>Judges for the 20,000 pound ($33,580) Turner Prize praised Gordon for &quot;his use of a wide range of media with consistent wit, intelligence and creative insight&quot;.</p>
+<p>The 30-year-old from Glasgow beat off three London-based artists for the award which has in the past been mired in controversy.</p>
+<p>Last year, the prize was awarded to &quot;enfant terrible&quot; Damien Hirst who submitted four glass cases containing bits of dead cow suspended in formaldehyde.</p>
+<p>This year's entries were condemned by art critic Brian Sewell as &quot;an exhibition of the dullest, the least challenging, the most drearily familiar idioms of current art, so stale that one longs for the touch of outrage offered by the carcasses of slaughtered animals&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

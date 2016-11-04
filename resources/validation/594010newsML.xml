@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="594010" id="root" date="1997-05-19" xml:lang="en">
+<title>RUSSIA: WEIGHTLIFTING-FIVE BELARUSSIANS FAIL DOPE TESTS.</title>
+<headline>WEIGHTLIFTING-FIVE BELARUSSIANS FAIL DOPE TESTS.</headline>
+<dateline>MOSCOW 1997-05-19</dateline>
+<text>
+<p>Five Belarussian weightlifters have tested positive for banned drugs, throwing into doubt the entire squad's participation in this week's European championships in Croatia, Belarus Weightlifting Federation sources said on Monday.</p>
+<p>The five were named as Andrei Marchenko, Vladimir Khlud, Alexei Krushevich, Ruslan Doroshevich and Fyodor Mager. It was not immediately clear what substances had been found in their samples.</p>
+<p>The sources said samples taken from the five would be subjected to further tests and the weightlifters could then face sanctions or fines.</p>
+<p>Belarus is, with Russia, one of the world's great weightlifting powers, continuing where the Soviet Union left off.</p>
+<p>Alexander Kurlovich, a double Olympic medallist in 1992 who took over as Belarus chief coach only a few months ago, himself suffered two doping suspensions in major world competitions.</p>
+<p>Marchenko represents Belarus in the 76 kg class, Khlud in 91 kg, Mager at 108 kg and Krushevich and Doroshevich both lift in the over 108 kg category.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

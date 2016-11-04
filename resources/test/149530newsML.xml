@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1996-10-29" id="root" itemid="149530" xml:lang="en">
+<title>USA: Kansas City Life Insurance Co sets payout.</title>
+<headline>Kansas City Life Insurance Co sets payout.</headline>
+<dateline>KANSAS CITY, Mo. 1996-10-29</dateline>
+<text>
+<p>Quarterly</p>
+<p>		   Latest		    Prior</p>
+<p> Amount		  $0.42		     $0.42</p>
+<p> Pay		    Nov 25</p>
+<p> Record		 Nov 12</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-10-29" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1996-10-29" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="KANSAS CITY, Mo." />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

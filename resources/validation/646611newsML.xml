@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="646611" id="root" date="1997-06-09" xml:lang="en">
+<title>BULGARIA: Yields fall on Bulgaria 6-, 9-mth floater T-bills.</title>
+<headline>Yields fall on Bulgaria 6-, 9-mth floater T-bills.</headline>
+<dateline>SOFIA 1997-06-09</dateline>
+<text>
+<p>Yields fell at Monday's auctions of Bulgaria's floating interest six- and nine-month T-bills due to a cut in the main interest rate, central bank figures showed.</p>
+<p>The average yields to maturity on the two issues were 24.58 and 39.16 percent, down from 26.91 and 41.56 percent at the respective auctions a week earlier.</p>
+<p>The average accepted prices for the two issues auctioned on Monday were 99.19 and 97.27 percent of par compared to 97.94 and 96.38 percent for the two respective maturities auctioned on June 2.</p>
+<p>Interest on the issues is due at maturity. It is set equal to the central bank main interest rate for each of the issues and is adjusted every time the main rate is changed.</p>
+<p>A cut in the central bank main interest rate to 47.28 percent annually from 48.72 percent became effective on Monday.</p>
+<p>Details of the issues follow. Prices in percent of par:</p>
+<p> Issue number		  BG3037897025	 BG3037997023</p>
+<p> Maturity			six months	   nine months</p>
+<p> Par value		     10,000 million levs    5,000 million levs</p>
+<p> Auction date		  June 9		 June 9</p>
+<p> Issue date		    June 11		June 11</p>
+<p> Maturity date		 December 10	  March 11, 1998</p>
+<p> Bids received		 50,990.3 million levs  12,300 million levs</p>
+<p> Average price of bids     98.67 pct	    96.98 pct</p>
+<p> Bids approved		 10,000 million levs    5,000 million levs</p>
+<p> Average accepted price    99.19 pct	    97.27 pct</p>
+<p> Average yield to maturity 24.58 pct	    39.16 pct</p>
+<p>-- Sofia Newsroom, (++359-2) 91188</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

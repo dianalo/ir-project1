@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="532248" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Russia heads for 3 pct GDP growth in 1997 - IMF.</title>
+<headline>Russia heads for 3 pct GDP growth in 1997 - IMF.</headline>
+<dateline>WASHINGTON 1997-04-23</dateline>
+<text>
+<p>Russian gross domestic product could grow by three percent this year after a decline of 2.8 percent in 1996, the International Monetary Fund said in its World Economic Outlook on Wednesday.</p>
+<p>The IMF said it expected Russian annual inflation to slide to a post-reform low of 14 percent, from 48 percent last year.</p>
+<p>&quot;The government's fiscal position in Russia remains fragile, with revenue collection particularly weak, but recent indicators suggest that the long-awaited recovery of output may materialize in 1997,&quot; the IMF said.</p>
+<p>The Washington-based organisation has already delayed handing over several monthly tranches of a $10 billion three-year loan to Russia because it is worried about low tax collection, and a team is in Moscow this week to look at the latest economic figures.</p>
+<p>IMF Chief Economist Michael Mussa, forecasting growth this year, praised Russia's performance in bringing interest rates down and said tight monetary policies were providing a good basis for sustained long-term growth.  </p>
+<p>&quot;Other countries that have not pursued such sound monetary policies as successfully as Russia have been much less successful in reducing inflation and (Russia is) thereby providing a better basis for sustained growth in the long term,&quot; he told a news conference.</p>
+<p>&quot;Because of the relatively weak fiscal situation, credit to the private sector has recently tightened and that has been a factor that has retarded a move to positive output. We are expecting to see that this year.&quot;</p>
+<p>The Russian economy has contracted stubbornly since the country launched its market-oriented reform programme in 1992, but officials are tentatively forecasting GDP growth of around two percent this year.</p>
+<p>In neighbouring Ukraine, the IMF forecast growth of 2.7 percent, after a 10 percent decline last year. It said inflation would fall to 25 percent, from 80 percent in 1996.</p>
+<p>&quot;Progress has been made with privatizing large- and medium-scale enterprises in the last two years, but the pace has slowed down in early 1997 and regulatory uncertainty continues to impede market activity,&quot; the report said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

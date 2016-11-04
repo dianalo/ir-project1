@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250061" id="root" date="1996-12-11" xml:lang="en">
+<title>UK: Britain's Number 10 gets its own home page.</title>
+<headline>Britain's Number 10 gets its own home page.</headline>
+<dateline>LONDON 1996-12-11</dateline>
+<text>
+<p>Britain's best-known front door -- No.10 Downing Street -- opened Prime Minister John Major's new home page on the Internet on Wednesday.</p>
+<p>The web site shows an image of the door to the Georgian terraced house that serves as both home and office for the prime minister in central London, with the familiar policeman in black helmet outside.</p>
+<p>The new web page offers an historical tour of the building, along with copies of recent speeches by members of the Conservative Party government, press releases, biographies of past prime ministers and a welcome message from Major.</p>
+<p>It is the closest most people will ever get to the house. Because of recent attacks by Irish Republican Army guerrillas, Downing Street is closed off by high gates and road barriers.</p>
+<p>The page itself is appropriately conservative, with no moving images, videos or sound effects. Its URL is http://www.number-10.gov.uk/.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

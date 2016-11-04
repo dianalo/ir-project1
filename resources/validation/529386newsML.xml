@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="529386" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: HS Resources extends note exchange offer.</title>
+<headline>HS Resources extends note exchange offer.</headline>
+<dateline>SAN FRANCISCO 1997-04-22</dateline>
+<text>
+<p>HS Resources Inc said on Tuesday it had extended an exchange offer for its $150 million principal amount of its 9.25 percent senior subordinated notes due 2006, which were registered under the 1993 Securities Act, until 1700 GMT on April 22.</p>
+<p>The offer, under which notes would be exchanged for $150 million of its outstanding 9.25 percent Senior Subordinated Notes due 2006 and issued in November 1996 private placement, had been due to expire at 1700 EDT on April 21, HS said.</p>
+<p>HS Resources is an independent oil and gas explortion and development company.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

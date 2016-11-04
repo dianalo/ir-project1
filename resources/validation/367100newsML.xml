@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367100" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Simpson jury reaches decision on punitive damages.</title>
+<headline>Simpson jury reaches decision on punitive damages.</headline>
+<dateline>SANTA MONICA, Calif 1997-02-10</dateline>
+<text>
+<p>Jurors in O.J. Simpson's civil trial reached a decision on Monday about whether to force him to pay punitive damages for the deaths of his ex-wife and her friend, a court official said.</p>
+<p>Judge Hiroshi Fujisaki, who had promised up to two hours' notice before reading the jury's finding, summoned participants in the case to the courtoom for the final decisive phase of the four-month trial.  </p>
+<p>A court spokeswoman said the jury's decision on punitive damages would be read in open court about 1:30 p.m. PST (4:30 p.m. EST. It took jurors less than two days to reach their finding, which comes six days after they blamed Simpson for the 1994 murders of Nicole Brown Simpson and Ronald Goldman and ordered him to pay $8.5 million in compensatory damages.</p>
+<p>In an impassioned closing argument last Friday, Daniel Petrocelli, the plaintiffs' lead attorney, urged jurors to impose stiff punitive damages and declare to the world that &quot;You cannot kill two people and get away with it.&quot;</p>
+<p>But defence attorney Robert Baker contended that Simpson has already been punished enough and anything more would effectively &quot;destroy&quot; his client.</p>
+<p>Simpson was cleared of murder charges in October 1995 but the victims' families pressed ahead with a wrongful-death lawsuit in civil court.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA MONICA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

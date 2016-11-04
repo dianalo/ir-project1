@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163047" id="root" date="1996-11-04" xml:lang="en">
+<title>AUSTRIA: SOCCER-AUSTRIA DEFENDER FEIERSINGER MISSES LATVIA GAME.</title>
+<headline>SOCCER-AUSTRIA DEFENDER FEIERSINGER MISSES LATVIA GAME.</headline>
+<dateline>VIENNA 1996-11-04</dateline>
+<text>
+<p>Austria will be without injured Wolfgang Feiersinger against European group four rivals Latvia in a World Cup qualifier in Vienna on Saturday.</p>
+<p>The Borussia Dortmund defender has still not fully recovered from a torn muscle received in a recent Bundesliga match.</p>
+<p>He was replaced by Goran Kartalija of Linzer ASK in the squad named by coach Herbert Prohaska on Monday.</p>
+<p>Werder Bremen forward Heimo Pfeifenberger is back after missing the last qualifier against Sweden through injury.</p>
+<p>Squad:</p>
+<p>Goalkeepers - Michael Konsel (Rapid Vienna), Franz Wohlfahrt (VfB Stuttgart).</p>
+<p>Defenders - Goran Kartalija (Linzer ASK), Michael Hatz (Reggiana), Anton Pfeffer (Austria Vienna), Peter Schoettel (Rapid Vienna), Markus Schopp (Hamburger SV)</p>
+<p>Midfielders - Andreas Heraf (Rapid Vienna), Dietmar Kuehbauer (Rapid Vienna), Peter Stoeger (Rapid Vienna), Andreas Herzog (Werder Bremen), Arnold Wetl (FC Porto), Stefan Marasek (SC Freiburg), Adi Huetter (Salzburg)</p>
+<p>Forwards - Heimo Pfeifenberger (Werder Bremen), Toni Polster (FC Cologne), Dieter Ramusch (Casino Graz), Herfried Sabitzer (Casino Graz).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

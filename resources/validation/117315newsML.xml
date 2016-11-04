@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117315" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Police say man holds hostages after killing young boy.</title>
+<headline>Police say man holds hostages after killing young boy.</headline>
+<dateline>ATLANTA 1996-10-15</dateline>
+<text>
+<p>An Atlanta man held his former girlfriend and several children hostage after fatally stabbing the woman's 5-year-old son in front of her, police said on Tuesday.</p>
+<p>Police hostage negotiators spoke with the man by cellular telephone and through the window of his mother's southwest Atlanta home, where he fled after allegedly stabbing the boy in the back and slitting his throat inside a house near Grant Park.</p>
+<p>Two of the children were released separately on Tuesday morning. Police were seen passing a package of diapers into the house through a window.</p>
+<p>A relative told the Atlanta Journal newspaper that the suspect was the woman's estranged boyfriend. Anita Slaton said the 22-year-old man tied up her daughter and sprayed her with Mace before attacking the 5-year-old. He then abducted the woman and the couple's 3-week-old son, she said.</p>
+<p>Slaton said there had been recent problems between the daughter and the suspect.</p>
+<p>&quot;He had beat her several times, and about a week ago, we had to get the police to make him leave the houst,&quot; she told the newspaper.</p>
+<p>&quot;We had a restraining order, and he was not supposed to come near her.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

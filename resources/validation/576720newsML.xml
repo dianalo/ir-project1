@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576720" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: IGG says in vitro results &quot;promising&quot;.</title>
+<headline>IGG says in vitro results &quot;promising&quot;.</headline>
+<dateline>CAMBRIDGE, Mass. 1997-05-12</dateline>
+<text>
+<p>An independent evaluation of IGG International Inc's lead carbohydrate-based anti-fungal compound CAN-296 found the product to be very promising, IGG said Monday.</p>
+<p>It said Jack Sobel, chief of infectious disease at Harper Hospital and professor of medicine at Wayne State University School of Medicine, had described CAN-296 as a compound with enormous potential.  </p>
+<p>&quot;The in vitro activity of CAN-296 is remarkable,&quot; it quoted Sobel as saying in a presentation to the annual general meeting of the American Society for Microbiology. &quot;In these experiments, CAN-296 showed rapid and potent cidal activity against a broad spectrum of fungal species.</p>
+<p>&quot;CAN-296 is different because it is fungicidal, kills the fungus, verses most anti-fungal products that only inhibit the growth of fungus, or fungistatic.&quot;</p>
+<p>Sobel, who led the independent evaluation, added, &quot;Based on these preliminary results, I believe the clinical potential of CAN-296 is enormous.&quot;</p>
+<p>The company, which has a patent pending on the compound, said it plans to develop it for both topical and systemic anti-fungal applications.</p>
+<p>CAN-296 is a natural complex carbohydrate that has been extracted from the cell wall of certain fungi.</p>
+<p>IGG is a biotechnology company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

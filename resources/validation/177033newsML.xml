@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="177033" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Calif. pension fund continues search for top post.</title>
+<headline>Calif. pension fund continues search for top post.</headline>
+<dateline>SACRAMENTO, Calif. 1996-11-07</dateline>
+<text>
+<p>The governing board of the California State Teachers' Retirement System (CalSTRS) voted on Thursday to conduct a new search for its chief investment officer position.</p>
+<p>The fund said it would use an executive search firm to conduct the new process with the final selection expected in April 1997.</p>
+<p>The first search process yielded only one application, from Thomas Flanigan, who is the current chief investment officer (CIO) of CalSTERS, a spokeswoman for the fund said.  </p>
+<p>&quot;This action is prompted by our desire to promote competition for the CIO position. It has nothing to do with the present incumbent in the position,&quot; said Emma Zink, chairperson of the CalSTRS Teachers' Retirement Board.</p>
+<p>CalSTRS Chief Executive Officer James Mosman said there was concern on the governing board that several recent searches had produced a limited number of competitors.</p>
+<p>&quot;As one of the nation's largest pension funds, we believe the system should be attractive to a wider number of possible competitors,&quot; Mosman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I8150214">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

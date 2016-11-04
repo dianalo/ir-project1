@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76522" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Grand Met agrees to sell Pearle Vision.</title>
+<headline>Grand Met agrees to sell Pearle Vision.</headline>
+<dateline>CLEVELAND, Ohio 1996-09-25</dateline>
+<text>
+<p>Cole National Corp. said Wednesday it agreed to pay $165 million for Pearle Inc., the optical services chain owned by Grand Metropolitan Plc's Pillsbury Co. subsidiary.</p>
+<p>Cole, which operates more than 1,000 optical stores under the names &quot;Sears Optical,&quot; &quot;Montgomery Ward Vision Centre,&quot; &quot;BJ's Optical&quot; and &quot;Target Optical,&quot; said the deal includes a minority investment in Pearle's European operations.</p>
+<p>Cole's stock jumped $2.25 to $22 in early trading on the New York Stock Exchange.</p>
+<p>The company said it expects the transaction to bring its annual revenues to more than $900 million and boost its earnings during the next fiscal year.</p>
+<p>Pearle has 692 stores in North America, including 343 company-owned stores and 349 franchised locations in 43 states, Canada, Puerto Rico and the U.S. Virgin Islands. It has 183 stores in The Netherlands and Belgium operated by Pearle B.V.</p>
+<p>Pearle had sales for the financial year ended in September 1995 of 232 million pounds ($362 million) and operating profits of 10 million pounds ($156 million).</p>
+<p>Cole, based in Cleveland, said it plans to keep the Pearle Vision name and the Pearle retail system separate. The deal is expected to be completed during Cole National's fourth quarter.</p>
+<p>In a related transaction, Cole said it agreed to sell Pearle's European business to a company organised by HAL Investments B.V., a Rotterdam-based investment group, with certain members of the Pearle B.V. management team. Cole will retain a minority interest in the European operations.</p>
+<p>The company expects to finance the acquisition through available cash resources and by the private issuance of up to $150 million of subordinated debt by the Company's wholly-owned subsidiary, Cole National Group, Inc.</p>
+<p>Cole also operates more than 780 personalization gift stores in enclosed malls through its Things Remembered, Inc. subsidiary and more than 500 personalization gift centres in host stores through its subsidiary Cole Gift Centres, Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

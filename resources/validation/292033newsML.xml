@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292033" id="root" date="1997-01-07" xml:lang="en">
+<title>AUSTRIA: Hijacker overpowered at Berlin airport.</title>
+<headline>Hijacker overpowered at Berlin airport.</headline>
+<dateline>VIENNA 1997-01-07</dateline>
+<text>
+<p>A hijack of an Austrian Airlines plane ended peacefully on Tuesday after the unidentified hijacker was overpowered at a Berlin airport, an Austrian airlines spokeswoman said.</p>
+<p>The McDonnell Douglas MD87-ER, carrying 28 passengers and five crew, had taken off from Berlin's Tegel airport for Vienna and was forced to turn back shortly afterwards, she said.</p>
+<p>&quot;It has ended peacefully. No one has been harmed,&quot; the spokeswoman told Reuters. &quot;The hijacker was overpowered.&quot;</p>
+<p>Austrian news agency APA said the hijacker had been apprehended two minutes after the plane touched down and had been taken into custody.</p>
+<p>Austrian Airlines gave no further details but said the Austrian flag carrier was preparing a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

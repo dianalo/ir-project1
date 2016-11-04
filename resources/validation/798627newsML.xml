@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798627" id="root" date="1997-08-14" xml:lang="en">
+<title>SOUTH AFRICA: TABLE-SAfrica June manuf output up 1.2 pct y/y.</title>
+<headline>TABLE-SAfrica June manuf output up 1.2 pct y/y.</headline>
+<dateline>PRETORIA 1997-08-14</dateline>
+<text>
+<p>South African manufacturing production rose 1.2 percent on a seasonally-adjusted basis in June compared with the same month a year ago, the Central Statistical Service (CSS) said.</p>
+<p>Month-on-month, seasonally-adjusted manufacturing production was down 1.8 percent.</p>
+<p>Index of the physical volume of manufacturing production</p>
+<p>(base 1990=100):</p>
+<p>				 Jun '97	 May '97	Jun '96</p>
+<p>    Seasonally adjusted  104.6	   106.5	  103.4</p>
+<p>    Actual		   105.2	   107.7	  104.2</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRETORIA"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

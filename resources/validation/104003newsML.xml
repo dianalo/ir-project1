@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104003" id="root" date="1996-10-08" xml:lang="en">
+<title>JAPAN: Japan nuclear reactor plan gains local approval.</title>
+<headline>Japan nuclear reactor plan gains local approval.</headline>
+<dateline>TOKYO 1996-10-08</dateline>
+<text>
+<p>Japan's Chubu Electric Power Co Inc said on Tuesday it aims to start construction of a nuclear reactor in 1999 after local inhabitants dropped their three-year opposition to the plan.</p>
+<p>The 1.36 million kilowatt advanced boiling water reactor (ABWR) will be built on the compound of Chubu Electric's power plant in Hamaoka, in Shizuoka prefecture southwest of Tokyo. The utility aims to start operation of the reactor in 2005.</p>
+<p>Having received local approval, Chubu's plans now need to be approved by a government committee on electricity resources next March, a company spokesman said.</p>
+<p>Chubu Electric initially planned to build the reactor, which will be its fifth, in December 1993.</p>
+<p>Opposition against the reactor mounted in Hamaoka after a devastating earthquake in Kobe, western Japan, in January 1995 triggered doubts about the safety of nuclear reactors, the Chubu Electric spokesman said.</p>
+<p>Resistance was fuelled further by an accident last December at a prototype fast-breeder reactor, in which there was leakage of sodium coolant though not of radiation.</p>
+<p>Public faith in nuclear power was sorely tested when officials in charge of the reactor, located on the Sea of Japan coast in central Japan, acknowledged that they had failed to disclose information on the accident.</p>
+<p>Furthermore, in April, residents of a small town in Niigata, northern Japan, rejected plans to build a nuclear plant there by an overwhelming margin in the country's first-ever referendum.</p>
+<p>The result of the referendum was not legally binding, but the town mayor said he would respect the decision of the inhabitants and the plan to build the plant has been deadlocked ever since.</p>
+<p>Japan relies on nuclear power for nearly 34 percent of its electricity needs and aims to raise that to 42 percent by 2010.</p>
+<p>Throughout the country, there are 49 nuclear reactors currently operating on a commercial basis, with one reactor running on a trial basis and another two under construction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I5020044">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

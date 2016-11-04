@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167647" id="root" date="1996-11-05" xml:lang="en">
+<title>GERMANY: German court orders RAF guerrilla to life in jail. [CORRECTED 13:36 GMT]</title>
+<headline>German court orders RAF guerrilla to life in jail. [CORRECTED 13:36 GMT]</headline>
+<dateline>FRANKFURT 1996-11-05</dateline>
+<text>
+<p>(Corrects to change spelling of &quot;guerrilla&quot; from &quot;guerilla&quot; throughout.)</p>
+<p>A German court on Tuesday sentenced an urban guerrilla charged with killing two U.S. soldiers and attempting to murder Hans Tietmeyer, president of Germany's central bank, to life imprisonment.</p>
+<p>Birgit Hogefeld, a member of the left-wing RAF group which waged a sporadic war of killing and kidnapping against the establishment, received the sentence after last-minute appeals to hear more witnesses were rejected by the five-judge court.  </p>
+<p>Hogefeld said in court on October 29 she believed the court had made up its mind before her trial, which lasted for more than 100 court sessions, began in November 1994.</p>
+<p>Her lawyers on Tuesday sought to delay the verdict after a RAF suspect, Christoph Seidler, said he was ready to surrender. Seidler is wanted for the 1989 assassination of then Deutsche Bank chief executive Alfred Herrhausen. Lawyers said he might have information to clear Hogefeld.</p>
+<p>Hogefeld, 40, was charged with involvement in the 1985 bombing of a United States air base in Frankfurt in which a soldier and a civilian were killed. Another soldier was killed before the bombing so that his identity card could be used.</p>
+<p>She was also accused of taking part in a 1988 attempt to kill Tietmeyer, who was then a finance ministry state secretary and is now president of the Bundesbank.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

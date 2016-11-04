@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802891" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: TABLE-American Architectural Q2 shr $0.04.</title>
+<headline>TABLE-American Architectural Q2 shr $0.04.</headline>
+<dateline>BOARDMAN, Ohio 1997-08-15</dateline>
+<text>
+<p>AMERICAN ARCHITECTURAL PRODUCTS CORPORATION</p>
+<p>	 Consolidated Statement of Income and Retained Earnings</p>
+<p>			For Three Mos Ended	 For Six Mos Ended</p>
+<p>				 Jun 30, 1997		Jun 30, 1997</p>
+<p> Net Sales		    $22,968,393		 $39,609,732</p>
+<p> Cost of Sales		 17,466,135		  30,946,734</p>
+<p>    Gross Profit		5,502,258		   8,662,998</p>
+<p> Selling Expense		1,681,836		   3,184,004</p>
+<p>General and Administrative</p>
+<p>  Expenses			2,082,049		   3,927,066</p>
+<p>    Income from Operations  1,738,373		   1,551,928</p>
+<p> Interest Expense, net	  781,551		   1,396,311</p>
+<p> Other Income		    (53,407)		    (40,820)</p>
+<p>    Income Before Taxes     1,010,229		     196,437</p>
+<p> Provision for Income Taxes   399,622			74,180</p>
+<p>    Net Income		    610,607		     122,257</p>
+<p> Retained Earnings, beginning  102,739		    591,089</p>
+<p>Dividends on preferred</p>
+<p>  stock, Series B		(70,800)		    (70,800)</p>
+<p> Retained earnings, ending    642,546		     642,546</p>
+<p> Net Income Per Share		0.04			  0.00</p>
+<p>Weighted Average Shares</p>
+<p>  Outstanding		  12,661,601		  12,621,054</p>
+<p>SOURCE  American Architectural Products Corporation</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOARDMAN, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

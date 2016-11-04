@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593569" id="root" date="1997-05-18" xml:lang="en">
+<title>MOROCCO: Ousted Zairean leader Mobutu arrives in Morocco.</title>
+<headline>Ousted Zairean leader Mobutu arrives in Morocco.</headline>
+<dateline>RABAT 1997-05-18</dateline>
+<text>
+<p>Ousted Zairean president Mobutu Sese Seko and his family have arrived in the Moroccan capital Rabat aboard three Gabonese aircraft, a senior Moroccan security official said on Sunday.</p>
+<p>&quot;Mobutu and his family arrived aboard three airplanes discreetly in the Rabat military airport. Mobutu and his family will stay at the 50-room Amphitrite hotel,&quot; the official told Reuters.</p>
+<p>The hotel is situated some 20 km (12 miles) south of Rabat on the Atlantic coast close to the royal palace of Skhirat.</p>
+<p>&quot;Three Gabonese aircraft transported Mobutu and his family to the Rabat military airport thanks to the cooperation of Moroccan authorities,&quot; said the official.</p>
+<p>He could not say how long Mobutu would be staying in Morocco.</p>
+<p>Reporters, photographers and television crews had been waiting for Mobutu to arrive at Rabat's civilian airport.</p>
+<p>Earlier, a Reuters correspondent saw an unusual deployment of security forces around the Amphitrite hotel.</p>
+<p>&quot;The hotel was booked for Mobutu and his family... Therefore it is now not open to the public,&quot; said a Moroccan official.</p>
+<p>The hotel is near a clean and beautiful Atlantic beach and is close to the highway linking the Moroccan business centre of Casablanca to the political capital of Rabat, where Morocco's King Hassan II lives.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

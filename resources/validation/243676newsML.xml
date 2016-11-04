@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243676" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: FBI offers $500,000 reward for Olympic bomber.</title>
+<headline>FBI offers $500,000 reward for Olympic bomber.</headline>
+<dateline>ATLANTA 1996-12-09</dateline>
+<text>
+<p>The Federal Bureau of Investigation on Monday made public the tape recording of a telephone warning of the Olympic Park bombing in Atlanta and offered a reward for information leading to the arrest of the bomber or bombers.</p>
+<p>The FBI announced it would pay &quot;up to $500,000&quot; for photographs, videotapes or information that helps catch the person who planted the bomb on July 27 at Centennial Olympic Park.  </p>
+<p>Announcing the reward at a news conference in Atlanta, FBI deputy director Weldon Kennedy called the bombing, which killed two people and injured more than 100, a &quot;vicious crime&quot; and appealed to the public for help.</p>
+<p>&quot;This investigation continues to have our highest priority,&quot; Kennedy said.</p>
+<p>Agents played a tape of a telephone warning called in before the bomb went off. The brief message said there was a bomb in the park and told authorities they had 30 minutes.</p>
+<p>The FBI has said very little about the bombing in the 4-1/2 months since the explosion. Security guard Richard Jewell, who alerted authorities to a knapsack containing the bomb, was initially identified as a suspect but was cleared on Oct. 26.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

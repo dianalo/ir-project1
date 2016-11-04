@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="541659" id="root" date="1997-04-26" xml:lang="en">
+<title>TUNISIA: PRESS DIGEST - Tunisia - April 26.</title>
+<headline>PRESS DIGEST - Tunisia - April 26.</headline>
+<dateline>TUNIS 1997-04-26</dateline>
+<text>
+<p>These are the leading stories in the Tunisian press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LA PRESSE</p>
+<p>- President Ben Ali leads Security Forces and Customs Day.</p>
+<p>- Joint high commission of Tunisia and Ivory Coast starts meetings in Tunis to reinforce cooperation.</p>
+<p>- Consumer price index rose by 0.2 percent in March compared to February.</p>
+<p>LE TEMPS</p>
+<p>- President Ben Ali tells security forces and customs to be firm in implementing law while being friendly with citizens.</p>
+<p>- Rainfall in central and southern Tunisia.</p>
+<p>LE RENOUVEAU</p>
+<p>- Euromoney magazine ranks Tunisia's risk at 55th in world, well below Egypt, Morocco and Jordan.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

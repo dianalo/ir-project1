@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42348" id="root" date="1996-09-09" xml:lang="en">
+<title>JAPAN: IBJ cuts long-term prime to 3.0 pct from 3.3 pct.</title>
+<headline>IBJ cuts long-term prime to 3.0 pct from 3.3 pct.</headline>
+<dateline>TOKYO 1996-09-09</dateline>
+<text>
+<p>The Industrial Bank of Japan Ltd said on Monday it will cut its long-term prime rate to three percent from 3.3 percent, effective September 11.</p>
+<p>The cut in the prime rate reflects a recent fall in the yield of five-year bank debentures. The prime is what banks charge to their best customers for loans of over one year.</p>
+<p>Long-term banks customarily set their long-term prime rate 0.9 percentage point above that of the debenture coupon rate.</p>
+<p>The latest IBJ debentures, which have a 2.4 percent coupon, were issued in August and last traded at 2.120 percent on Friday.  </p>
+<p>The other two long-term banks, the Long-Term Credit Bank of Japan Ltd (LTCB) and Nippon Credit Bank (NCB), are expected to follow suit on Tuesday.</p>
+<p>The cut in the long-term prime is the first since June.</p>
+<p>---- Tokyo Treasury Desk 813-3432-8676</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65318" id="root" date="1996-09-19" xml:lang="en">
+<title>NETHERLANDS: Dutch closing share market report.</title>
+<headline>Dutch closing share market report.</headline>
+<dateline>AMSTERDAM 1996-09-19</dateline>
+<text>
+<p>Dutch shares held their ground on Thursday to close slightly higher despite a slip on Wall Street on renewed interest rate hike fears.</p>
+<p>The AEX index closed up 0.65 points at 563.81, off the day's high of 565.86.</p>
+<p>Dealers said the market was driven largely by options traders trying to keep the AEX below the key 565 point level ahead of tomorrow's options expiry.</p>
+<p>&quot;The market is already playing the game for tomorrow and the options expiry,&quot; one dealer said. &quot;It looks like they want it to expire at this level.&quot;  </p>
+<p>Earlier in the session, the AEX dipped briefly on stronger than expected August German M3 money supply data, but soon gained ground in line with bonds.</p>
+<p>Dealers were split on the prospects for the AEX. Some said the market looked increasingly nervous at these levels -- just nine points or so off its record high.</p>
+<p>&quot;Everybody is holding their positions, afraid to miss the move up,&quot; one dealer said. &quot;But with everyone in, I wonder where the new cash to drive it higher will come from,&quot; he added.</p>
+<p>A number of dealers were bullish on the index in the longer term, looking for it to hit 600 points by the end of the year.  </p>
+<p>A dearth of company news meant little in the way of individual company stock movements.</p>
+<p>Unilever shares climbed to a new year high on what dealers said was strong buying interest from the U.S. and Asia.</p>
+<p>&quot;It could still be the switching from Heineken to Unilever story but volumes in Heineken are pretty low and those at Unilever fairly high,&quot; one dealer said.</p>
+<p>The stock closed up 3.70 guilders at 269.10 after earlier reaching a new year high of 270.80.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

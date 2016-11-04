@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210039" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: New seeds may lead to strain of superbugs.</title>
+<headline>New seeds may lead to strain of superbugs.</headline>
+<byline>Emily Kaiser</byline>
+<dateline>CHICAGO 1996-11-22</dateline>
+<text>
+<p>Agronomists and environmental groups said Friday that extensive use of genetically engineered seeds designed to fight crop-damaging insects could lead to strains of bugs resistant to pesticides.</p>
+<p>The genetically altered seeds contain a naturally occuring insecticide produced by the soil bacterium Bacillus thuringiensis, or Bt.</p>
+<p>&quot;It's our anticipation that problems with resistant pests are likely to occur from Bt crops,&quot; said Larry Bledsoe, entomologist at Purdue University.</p>
+<p>&quot;As long as just a few corn borer moths survive, or bollworms in the case of cotton, you'll create a resistant strain of insects,&quot; Bledsoe said.</p>
+<p>While the engineered seeds reduce infestation, they do not eliminate it, as some U.S. cotton farmers learned last summer. Bollworms damaged cotton from Texas to Georgia, including some planted with Monsanto Co.'s &quot;Bollgard&quot; Bt seed.</p>
+<p>&quot;We've learned that we need to monitor insects even if we have Bt cotton,&quot; said Carl Anderson, agricultural economist at Texas A &amp; M University. &quot;Don't take for granted that it (Bt) is perfect. It's still slightly vulnerable.&quot;</p>
+<p>Seed companies acknowledge that Bt is meant to be resistant, but not impervious, to pests.</p>
+<p>A spokesman for Mycogen Corp., which makes engineered corn called &quot;NatureGard,&quot; said his company recommends farmers plant a portion of their acreage with non-transgenic crops. That way, even if resistant pests do develop, they will breed with susceptible moths.</p>
+<p>&quot;Our guideline is (to plant) 10 to 40 percent to a conventional corn hybrid,&quot; spokesman Michael Sund said. &quot;We're finding that we're (eliminating) 99 percent of first generation (corn borers) and more than 70 percent of the second generation.&quot;</p>
+<p>U.S. farmers planted Bt corn on less than 1 percent of the corn acres this year but Sund said he expected at least 3 percent of next year's corn crop to be genetically engineered.</p>
+<p>Ciba Geigy AG also produces engineered corn sold as &quot;Maximizer.&quot;</p>
+<p>Environmental groups have opposed the genetically altered crops, saying farmers will be forced to use more pesticides if insects develop immunity to Bt.</p>
+<p>&quot;We have a whole arsenal of no longer useful pesticides that testify to the fact that insects, given enough time, can become resistant to pesticides,&quot; said Margaret Mellon, director of agriculture and biotechnology programmes with the Union of Concerned Scientists.</p>
+<p>&quot;There's every reason to think that insects will develop resistance to the toxin that is being put in Bt corn,&quot; she said.</p>
+<p>Many farmers who avoid chemicals and genetically altered seeds have relied on Bt as an organic pesticide and will be forced to find alternatives if Bt becomes obsolete, said Ronnie Cummins, director of the Pure Food Campaign.</p>
+<p>&quot;Bt is probably the most important biopesticide that farmers who are trying to go organic can use,&quot; Cummins said.</p>
+<p>If used properly, Bt will continue to be a viable means of combatting corn borers, said Richard Hellmich, research entomologist with the U.S. Agriculture Department's insect research lab in Ames, Iowa. He recommends farmers plant at least 20 percent of their acreage with conventional corn.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

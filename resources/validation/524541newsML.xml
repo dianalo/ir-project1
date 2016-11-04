@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="524541" id="root" date="1997-04-21" xml:lang="en">
+<title>AUSTRALIA: LAST TRADES - Australian Stocks Overseas.</title>
+<headline>LAST TRADES - Australian Stocks Overseas.</headline>
+<dateline>SYDNEY 1996-04-22</dateline>
+<text>
+<p>Last Trades of Australian stocks listed on overseas markets. Previous close in brackets.</p>
+<p>FTSE-100 Index    .FTSE     4328.7 (  4310.5)</p>
+<p>Dow Jones Average .DJI     6660.21 ( 6703.55)</p>
+<p>NASDAQ Composite  .IXIC    1203.95 ( 1222.57)</p>
+<p>		     NEW YORK ADRS (US$)</p>
+<p>ANZ			31.625 (    31.5)</p>
+<p>BHP			26.375 (   26.75)</p>
+<p>Coles		    38.750 (  38.875)</p>
+<p>FAI			10.250 (  10.375)</p>
+<p>NAB			    65 (  63.875)</p>
+<p>News		     18.625 (  18.750)</p>
+<p>Orbital		   5.500 (   5.625)</p>
+<p>Westpac		  26.125 (  26.250)</p>
+<p>WMC			24.375 (  24.125)</p>
+<p>		     NASDAQ (US$)</p>
+<p>Boral		  23.625 (  23.500)</p>
+<p>Cen Pac	     13.1250 (	13)</p>
+<p>Cortecs		21.750 (  22.500)</p>
+<p>GCM		    6.5000 (  6.2500)</p>
+<p>Memtec		  23.75 ( 24.3750)</p>
+<p>S.Pac		  5.3594 ( 5.40625)</p>
+<p>Santos		   UNTR (  15.000)</p>
+<p>--Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142069" id="root" date="1996-10-24" xml:lang="en">
+<title>JAPAN: Brunei sets Oct Seria Light at $24.80 -- traders.</title>
+<headline>Brunei sets Oct Seria Light at $24.80 -- traders.</headline>
+<dateline>TOKYO 1996-10-24</dateline>
+<text>
+<p>Brunei has set the price of its benchmark Seria Light crude oil for October at $24.80 per barrel, up $2.60 from September, oil traders said on Thursday.  </p>
+<p>The October price for Brunei's Champion crude is $24.60, also up $2.60 from the previous month, they said.</p>
+<p>Brunei has set a provisional price of $26.50 for November Seria Light and $26.30 for November Champion crude.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRUNEI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

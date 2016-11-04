@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81254" id="root" date="1996-09-27" xml:lang="en">
+<title>MEXICO: Mexican stocks end lower in quiet trading.</title>
+<headline>Mexican stocks end lower in quiet trading.</headline>
+<dateline>MEXICO CITY 1996-09-27</dateline>
+<text>
+<p>Mexican stocks closed slightly lower Friday, after the bulk of the day's losses were erased by a recovery in U.S. blue-chips and late buying ahead of the close of the month.</p>
+<p>&quot;The market tended to recover towards the close, due to (portfolio) valuations that need to be made at the close of the month and the quarter,&quot; said one trader.</p>
+<p>&quot;Also, the Dow turned around and that obviously helped.&quot;</p>
+<p>The blue chip IPC index fell 2.74 points to 3,236.79, compared to a session low of 3,203.17. Volume was sluggish at 60.3 million shares.</p>
+<p>&quot;With the low volume we had it could easily have fallen through, but the rebound was at low volume and there are no indications of a change in downtrend,&quot; said a technical analyst.</p>
+<p>Lagging stocks and selective speculative buying stood out in a session otherwise marked by low volume. The percentage gainers list was led by video rentals stock Video nominal series shares, which gained 2.10 pesos (28 cents) to 14.89 pesos ($1.97), and are not frequently traded.</p>
+<p>In second place was financial group Abaco B series, which gained 26 centavos (3 cents) to 2.74 pesos (36 cents), which traders put down to speculation that its banking division would raise capital.</p>
+<p>Other gainers were traded at very low volume.</p>
+<p>On the broad market, of a total of 107 stocks traded, gainers outnumbered losers 44 to 43, with the remaining 20 unchnaged.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

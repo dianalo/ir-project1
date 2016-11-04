@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19469" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Calif. Assembly approves zero-based budgeting bill.</title>
+<headline>Calif. Assembly approves zero-based budgeting bill.</headline>
+<dateline>SACRAMENTO, Calif. 1996-08-28</dateline>
+<text>
+<p>The California Assembly on Wednesday overwhelmingly approved a measure that would overhaul the state's annual budgeting process beginning with the 1998-1999 fiscal year.</p>
+<p>The bill was approved 52-to-0 and was sent to the state Senate for an expected vote on Friday or Saturday.</p>
+<p>The bill would require so-called zero-based budgeting in putting together the annual blueprint for state spending. Zero-based budgeting is a process that requires entities to start with a base of zero dollars, adding funding for programs deemed appropriate.  </p>
+<p>Some lawmakers contend the process would lead to greater fiscal responsibility and would make it easier to review the governor's annual proposals for spending.</p>
+<p>Gov. Pete Wilson's Department of Finance said a similar attempt at zero-based budgeting in 1977 was a failure, time-consuming and costly, and did not affect budget decisions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

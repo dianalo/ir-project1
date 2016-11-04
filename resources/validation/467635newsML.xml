@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="467635" id="root" date="1997-03-25" xml:lang="en">
+<title>AUSTRALIA: RTRS-ANZ says to cut 356 jobs.</title>
+<headline>RTRS-ANZ says to cut 356 jobs.</headline>
+<dateline>SYDNEY 1997-03-25</dateline>
+<text>
+<p>Australia and New Zealand Banking Group Ltd said on Tuesday it would cut a net 356 jobs from May 26 because of plans to streamline lending processes.</p>
+<p>ANZ said the job cuts would lead to unspecified cost savings.  </p>
+<p>The cuts were part of changes to divide the bank's retail customers into small business and consumer banking.</p>
+<p>ANZ chief general manager Australian retail division, Peter Hawkins, said the moves were aimed at creating more efficient and focused service.</p>
+<p>The bank had already begun a campaign to assist small business, and started to expand its National Finance Centre in Melbourne to offer more centralised support, he said.</p>
+<p>Hawkins said the changes would mean 120 new positions in teams which would focus on gaining new business.  </p>
+<p>After taking into account these new jobs, an overall reduction of 356 positions was expected.</p>
+<p>However, ANZ said the changes, due to be implemented in metropolitan areas excluding Tasmania on May 26, would separately create up to 155 new positions in the National Finance Centre.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

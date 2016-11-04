@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763904" id="root" date="1997-07-29" xml:lang="en">
+<title>UK: Dresdner unit sets 1.0 bln FRF 15-yr bond.</title>
+<headline>Dresdner unit sets 1.0 bln FRF 15-yr bond.</headline>
+<dateline>LONDON 1997-07-29</dateline>
+<text>
+<p>The following bond was announced by joint lead managers BNP and Dresdner KB.</p>
+<p> BORROWER   DRESDNER FINANCE BV</p>
+<p>GUARANTOR  DRESDNER BANK AG</p>
+<p> AMT    1.0 BLN FRF   COUPON     5.875     MATURITY    28.AUG.12</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  99.785    PAY DATE    28.AUG.97</p>
+<p> FULL FEES  40 BP     REOFFER    99.785    SPREAD	+21 BP</p>
+<p> MOODY	AA1	 LISTING    PARIS/LUX PAY FREQ    =</p>
+<p> S&amp;P	  AA+    DENOMS (K) 10-100-1(M) SALE LIMITS</p>
+<p>US/UK/FR/NL/DE</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   IPMA (2)</p>
+<p> GOV LAW    GERMAN</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

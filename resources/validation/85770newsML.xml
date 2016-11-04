@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85770" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Merrill says offers clients new fee plan.</title>
+<headline>Merrill says offers clients new fee plan.</headline>
+<dateline>NEW YORK 1996-09-30</dateline>
+<text>
+<p>Merrill Lynch &amp; Co Inc said on Monday it planned to offer its high net-worth clients a new method of fee-based billing designed to replace the current system of commissions and other fees.</p>
+<p>Merrill Lynch said the new fee structure, under which it would simply bill clients a percentage of the assets held in their accounts at the firm, would be available to customers with at least $100,000 in eligible assets at Merrill.  </p>
+<p>The payments, ranging from 1.5 percent of eligible assets down to below one percent for the largest accounts, cover a pre-set number of annual securities trades and provide an increasing range of products and services as eligible assets increase.</p>
+<p>The firm said the four categories of service include: Bronze, for accounts totalling $100,000 to $250,000; Silver, for accounts totalling $250,000 to $500,000; Gold, for accounts totalling $500,000 to $1 million; and Platinum, for accounts totalling in excess of $1 million.  </p>
+<p>Merrill said it would introduce the plan, called the Merill Lynch Financial Advantage Service, on a pilot basis in 14 markets. Nationwide rollout is due in January, it said.</p>
+<p>-- New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

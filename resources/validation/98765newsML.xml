@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98765" id="root" date="1996-10-06" xml:lang="en">
+<title>ICELAND: Icelanders brave storms to meet flood threat.</title>
+<headline>Icelanders brave storms to meet flood threat.</headline>
+<byline>Tanya Pang</byline>
+<dateline>SKAFTAFELL, Iceland 1996-10-06</dateline>
+<text>
+<p>Braving driving rain and gale-force winds, Icelandic engineers on Sunday nervously awaited the first sign of floods breaking out from a subglacial lake filled to the brim by a week-long volcanic eruption.</p>
+<p>&quot;It's like giving birth to a child. You know it's coming, but not when,&quot; said Einer Haflidasson, chief engineer for the Icelandic Public Roads Administration.</p>
+<p>Stormy weather prevented aerial monitoring of the eruption, which burst through the Vatnajokul glacier in the southeast of the island on Wednesday, creating an ice fissure 10 km (6 miles) long.</p>
+<p>The volcano spewed a towering column of ash and steam into the sky, and on Sunday ash began settling in villages in the north and east of the country.</p>
+<p>As the glacial ice rapidly melts in the intense heat of the eruption, radar measurements indicated that water levels in the subglacial Grimsvotn lake had risen a further 10 metres (33 feet) on Sunday to around 1,480 metres (4,850 feet).</p>
+<p>The increasing pressure means the ice cap will eventually lift, releasing the water, parts of the glacier and debris from the eruption in a torrential stream.</p>
+<p>The region is uninhabited but the floods threaten to destroy bridges and the main road that runs around the whole island.</p>
+<p>&quot;The longer we have to wait for the flood, the bigger it will be,&quot; said Pall Jonsson, physicist at the hydrological survey at the National Energy Authority.</p>
+<p>Mechanical diggers and trucks moved tons of boulders and rocks along the black sand banks of the river Skeidara in the southeast of the island.</p>
+<p>Haflidsson told Reuters the plan was to reinforce the dykes against the torrents and to steer flood waters away from the many bridges crossing the rivers and tributaries flowing across the Skeidararsandur plain beneath the mammoth glacier.</p>
+<p>But when the flood does break out, engineers plan to cut a section in dykes and roads to provide the waters with a means of escape and limit damage to the infrastructure.</p>
+<p>Scientists estimate the torrents will reach a maximum speed of between 10 and 25 metres (yards) per second.</p>
+<p>&quot;We are a little anxious that we may have only 12 hours from when the flood starts to when it reaches here (the road), Haflidsson said.</p>
+<p>Engineers estimate the volume of water in the basin has risen by 2,000 billion litres (440 billion gallons) since the eruption began on Monday.</p>
+<p>Usually, the water level in sub-glacial basins rises more slowly, allowing the water to flow away through channels, tunnels and ridges in the earth structure.</p>
+<p>The Vatnajokul glacier stretches over 8,300 square km (3,200 sq miles) and reaches in parts a depth of a thousand metres (3,280 feet).</p>
+<p>The glacier lies 200 km (120 miles) east of Reykjavik and about the same distance south of the Arctic Circle. It is separated from the coast by a fringe of farmland.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ICEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SKAFTAFELL, Iceland"/>
+<dc element="dc.creator.location.country.name" value="ICELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

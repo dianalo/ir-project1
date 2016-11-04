@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="316972" id="root" date="1997-01-18" xml:lang="en">
+<title>USA: Hoover Dam increases flows due to high snowpack.</title>
+<headline>Hoover Dam increases flows due to high snowpack.</headline>
+<dateline>LOS ANGELES 1997-01-17</dateline>
+<text>
+<p>Flows through the Hoover Dam at Boulder City, Nev., will be increased starting Friday to clear reservoir space for spring runoff, the U.S. Bureau of Reclamation (BuRec), operators of the project, said Friday.</p>
+<p>Dam flows are scheduled to increase to 19 thousand cubic feet per second (kcfs), compared with recent rates of 6.8 to 14 kcfs, the dam's chief operator, BuRec said.</p>
+<p>The extra flows, which are expected to be most apparent during off-peak electricity demand hours, will continue through February 28.</p>
+<p>Flows through two downstream dams, Davis Dam near Lake Mohave and Parker Dam, near Havesu City, will also increase.</p>
+<p>&quot;Snowpack in the upper (Colorado River) basin is 180 to 200 percent of normal, and about 125 percent of normal in the lower basin,&quot; said Bob Center, chief of operations at Hoover Dam.</p>
+<p>Power from Hoover Dam, which has a total otuput capacity of 2,078 megawatts, is marketed by the Western Area Power Administration.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

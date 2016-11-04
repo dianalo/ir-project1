@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="728263" id="root" date="1997-07-15" xml:lang="en">
+<title>ROMANIA: RADIO ROMANIA AFTERNOON HEADLINES AT 4 PM.</title>
+<headline>RADIO ROMANIA AFTERNOON HEADLINES AT 4 PM.</headline>
+<dateline>BUCHAREST 1997-07-15</dateline>
+<text>
+<p>Radio Romania news headlines:</p>
+<p>* President Emil Constantinescu met Emperor Akihito during his five-day visit to Japan and held a news conference to call on Japanese investors to put their money into Romania.</p>
+<p>* The extraordinary session of Romania's upper house of parliament, the Senate, closed without a vote on amendments to a 1991 land restitution law. Senators from the ruling coalition failed to show up in sufficient number to ensure passage.</p>
+<p>* The leadership of the ruling National Peasant Party said it will punish senators who were missing from Tuesday's session without a good reason.</p>
+<p>* Ex-president Ion Iliescu criticised amendments to the land restitution law saying it allowed large land properties, and therefore created the social category of &quot;land barons&quot;.</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

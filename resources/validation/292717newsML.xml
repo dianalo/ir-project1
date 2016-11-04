@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292717" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: GelTex calls RenaGel trial results positive.</title>
+<headline>GelTex calls RenaGel trial results positive.</headline>
+<dateline>WALTHAM, Mass. 1997-01-08</dateline>
+<text>
+<p>GelTex Pharmaceuticals Inc said on Wednesday its phase III clinical trial of RenaGel to treat chronic kidney failure patients to control elevated phosphorus levels was positive.</p>
+<p>The study demonstrated that RenaGel significantly decreased serum phosphorus without increasing serum calcium, the company said.</p>
+<p>In parallel with the change in serum phosphorus levels, RenaGel treatment also produced significant decreases in blood levels of parathyroid hormone, a key contributor to renal bone disease, the company said.</p>
+<p>There were no serious drug-related adverse events reported in this study, GelTex said.</p>
+<p>High phosphorus levels in chronic kidney failure patients trigger an increase in parathyroid hormone which leads to bone degradation, increased calcium levels and renal bone disease, GelTex said.</p>
+<p>Established therapies control phosphorus levels at the expense of increased calcium levels, the company said.</p>
+<p>GelTex said it remains on track for a New Drug Application filing with the Food and Drug Administration by the fourth quarter of 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

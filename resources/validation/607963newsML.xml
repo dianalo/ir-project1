@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="607963" id="root" date="1997-05-22" xml:lang="en">
+<title>GERMANY: Munich transport trade fair draws 750 exhibitors.</title>
+<headline>Munich transport trade fair draws 750 exhibitors.</headline>
+<dateline>FRANKFURT 1997-05-21</dateline>
+<text>
+<p>More than 750 transport industry companies and organisations will have stands at or attend the 6th International Trade Fair for Logistics, Freight and Passenger Transport, organiser Messe Muenchen GmbH said.</p>
+<p>Some 18 international airlines and airports will be among exhibitors from 30 countries at the June 10-14 show in Munich, a statement said.</p>
+<p>The previous event, in 1994, drew more 26,000 trade visitors from 66 countries, it added.</p>
+<p>Speakers at an air cargo forum on Friday, June 13, include Joachim Haas, of Lufthansa Cargo, Helge Westerholt, of Siemens KWU and representatives of Schenker International and Frankfurt airport (FAG).</p>
+<p>Other forums cover logistics, rail and road transport, trans-European networks, telematics, sea and inland ports,</p>
+<p>At a two-day China information event, Chinese ministry and authority officials will outline infrastructure and development projects. --Reuters Air Cargo Newsroom. Tel +44 171 542 7706; Fax: 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

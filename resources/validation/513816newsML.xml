@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="513816" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: NYMEX electricity seen up slightly on weather.</title>
+<headline>NYMEX electricity seen up slightly on weather.</headline>
+<dateline>NEW YORK 1997-04-16</dateline>
+<text>
+<p>NYMEX electricity futures were expected to open slightly higher Wednesday based on support from expectations of heating demand in the U.S. West, industry sources said.</p>
+<p>&quot;We're looking at possibly a dime higher on the front months,&quot; one Houston-based futures trader said.</p>
+<p>May Palo Verde (PV) was called to open up 10 cents from Tuesday's settlement at $15.89 per megawatt hour (MWh), while May California Oregon Border (COB) was expected to open flat to 10 cents above Tuesday's settlement at $12.61 per MWh, the sources said.</p>
+<p>May PV was assessed at $15.75-16.15 in early Wednesday over-the-counter discussion.</p>
+<p>The futures contracts settled mostly lower Tuesday on forecasts of warmer temperatures and the return of several generating units from unplanned outages in the western U.S.</p>
+<p>The units returning to service included the 1,073 megawatt (MW) Diablo Canyon nuclear unit 2 in Avila Beach, Calif., the 1,212 MW Helms pumped storage hydroelectric plant near Fresno, Calif., and the 750 MW Navajo coal-fired power plant near Page, Ariz.,</p>
+<p>The futures decrease Tuesday was also partially attributed to lower physical power prices in the West due in part to forecasts of warmer weather.</p>
+<p>But sources said weather forecasts could mean some additional power demand due to air conditioner use, especially in the U.S. Southwest.</p>
+<p>Weather in the Pacific Northwest was forecast to be dry and mild through the weekend, averaging three to eight degrees above normal. Some possible precipitation was seen by Sunday.</p>
+<p>Longer-term forecasts called for above-normal temperatures in the Pacific Northwest from April 20 to 24, with near normal temperatures in the northwest portion of the area during the same period.</p>
+<p>In the Southwest, temperatures were expected to be three to 15 degrees above normal with dry conditions through the weekend. Temperatures were seen returning to near-normal levels early next week.</p>
+<p>((--New York Power Desk +1 212 859 1627))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

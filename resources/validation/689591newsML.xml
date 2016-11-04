@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="689591" id="root" date="1997-06-26" xml:lang="en">
+<title>USA: CME lumber down near limit on weak cash,technicals.</title>
+<headline>CME lumber down near limit on weak cash,technicals.</headline>
+<dateline>CHICAGO 1997-06-26</dateline>
+<text>
+<p>Continued pressure from weaker cash lumber prices pushed CME lumber futures down to technical selling and prices fell for near limit losses on sell stops, traders said.</p>
+<p>July fell $9.60 per thousand board feet to $375.00 and September tumbled $9.70 to $365.80 before finding support. Futures are currently $9.00 to $1.50 lower with July off $8.60 at $376.00.</p>
+<p>Reports of slow cash lumber business and increased product offerings have weighed on the markets since midweek, sources said.</p>
+<p>Traders said the U.S. House appropriations committee's passage of a spending bill Thursday that included a timber harvest of 3.8 billion board feet from federal forests had no effect as the amount had been expected.</p>
+<p>((Jerry Bieszk 312-408-8725))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

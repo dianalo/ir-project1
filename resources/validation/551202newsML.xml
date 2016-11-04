@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551202" id="root" date="1997-04-30" xml:lang="en">
+<title>SRI LANKA: Sri Lanka raises tea export tax to 2.50 rupees/kg.</title>
+<headline>Sri Lanka raises tea export tax to 2.50 rupees/kg.</headline>
+<dateline>COLOMBO 1997-04-30</dateline>
+<text>
+<p>Sri Lanka's Tea Board has raised a tax levied on tea exports to 2.50 rupees ($0.04) per kg from two rupees per kg, a Plantation Industries Ministry official said on Wednesday.</p>
+<p>&quot;We increased the cess because it had not been increased in the last five years,&quot; the official said. &quot;In the meantime the cost of the development work funded through the cess had gone up.&quot; The increase is effective from April.</p>
+<p>Tea brokers said the tax was last changed in July 1991 when it was lowered to two rupees per kg from 3.50 rupees per kg.</p>
+<p>Money collected through the tax is used to fund the work of the Tea Research Institute, the Tea Smallholders Authority and export promotion by the Tea Board.</p>
+<p>The ministry official said bouyant tea prices also helped the government to increase the tax.</p>
+<p>Tea prices shot to record highs late last year, mainly because of strong winter buying by the Commonwealth of Independent States, the world's biggest importer of tea. ($1=59.22 rupees)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I0100142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

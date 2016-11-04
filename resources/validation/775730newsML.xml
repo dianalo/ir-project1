@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="775730" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: CME Lean Hogs Index, Pork Belly Weighted Average.</title>
+<headline>CME Lean Hogs Index, Pork Belly Weighted Average.</headline>
+<text>
+<p>The Chicago Mercantile Exchange Lean Hog Index for the</p>
+<p>two-day period ending Friday, Aug 1 -</p>
+<p>    Index			   79.62 dn  0.19</p>
+<p>    Live Hog equivalent -     58.92</p>
+<p>--</p>
+<p>The Chicago Mercantile Exchange fresh pork belly weighted</p>
+<p>average settlement price for Monday, Aug 4 -</p>
+<p>    Price			   88.47 up  0.65</p>
+<p>(Source: Chicago Mercantile Exchange))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

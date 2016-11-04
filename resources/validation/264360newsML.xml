@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264360" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Jesse Jackson calls for end to Texaco boycott.</title>
+<headline>Jesse Jackson calls for end to Texaco boycott.</headline>
+<dateline>WASHINGTON 1996-12-18</dateline>
+<text>
+<p>The Rev. Jesse Jackson Wednesday called for an end to a consumer boycott of Texaco Inc., saying the oil company had a workable plan to boost employment of minorities and purchasing from minority firms.</p>
+<p>&quot;We now have a sufficiently comprehensive and workable plan to call an end to the consumer boycott,&quot; Jackson said at a news conference.  </p>
+<p>&quot;Texaco is on a journey from tragedy to triumph. The journey is incomplete but they have changed their course,&quot; Jackson said.</p>
+<p>Texaco's plan to improve treatment of minority employees and contractors comes after the company agreed last month to settle a racial discrimation suit by paying $176.1 million and establishing an &quot;equality and tolerance&quot; task force.</p>
+<p>Plaintiffs' lawyers in the lawsuit had received secret tapes of senior executives discussing destruction of damaging documents. The executives allegedly also made racist remarks.</p>
+<p>While Jackson called off the boycott, the civil rights leader said his Rainbow Coalition plans to continue to monitor progress at Texaco, one of the nation's largest oil companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="198513" id="root" date="1996-11-18" xml:lang="en">
+<title>JAPAN: Itoham -6mth parent results.</title>
+<headline>Itoham -6mth parent results.</headline>
+<dateline>TOKYO 1996-11-18</dateline>
+<text>
+<p>Six months to September 30, 1996  (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		209.89		vs	  214.93</p>
+<p> Operating	    1.24		vs	    3.37</p>
+<p> Current		1.84		vs	    4.12</p>
+<p> Net		  905    million	  vs	    2.23</p>
+<p> EPS		    3.96 yen	  vs	    9.78 yen</p>
+<p> Shares	    228 million	  vs	 228 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Itoham Foods Inc is a major manufacturer of ham and sausages.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

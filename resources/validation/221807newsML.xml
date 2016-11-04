@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221807" id="root" date="1996-11-27" xml:lang="en">
+<title>MALAYSIA: KL tin up 24 cents to four-month high.</title>
+<headline>KL tin up 24 cents to four-month high.</headline>
+<dateline>KUALA LUMPUR 1996-11-27</dateline>
+<text>
+<p>Malaysia's tin price ended 24 cents up to a four-month high of 15.26 ringgit ($6.04) a kg in tandem with an overnight surge on the London Metal Exchange (LME), traders said.</p>
+<p>&quot;There was good buying from European, Japanese and local interests after the strong LME in the last few days,&quot; said a trader.</p>
+<p>There were bids for 242 tonnes against offers of 111, leading to a turnover of 185 tonnes against 113 tonnes on Tuesday. The local price fetched a premium of $35 against the LME, compared to a discount of $10 previously.</p>
+<p>-- Barani Krishnaan (603-2307509) ($1= 2.5260 ringgit).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

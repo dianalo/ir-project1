@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144729" id="root" date="1996-10-25" xml:lang="en">
+<title>DENMARK: Svensk Exportkredit issues 700 mln Dkk bond.</title>
+<headline>Svensk Exportkredit issues 700 mln Dkk bond.</headline>
+<dateline>COPENHAGEN 1996-10-25</dateline>
+<text>
+<p>The following issue was announced by lead manager Den Danske Bank on Friday.</p>
+<p>BORROWER -AB Svensk Exportkredit (50 percent owned by the Kingdom of Sweden)</p>
+<p>LEAD MGR -Den Danske Bank</p>
+<p>AMOUNT-700 MLN DKK</p>
+<p>GUARANTOR -Den Danske Bank</p>
+<p>COUPON-4 pct</p>
+<p>MATURITY-15 December 2002  </p>
+<p>ISS PRICE- to be advised. ISS DATE- 15 November 1996  LAST MOODY's - AAA     LAST S&amp;P AA+</p>
+<p>--Steve Weizman, Copenhagen newsroom +45 33969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I8150110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

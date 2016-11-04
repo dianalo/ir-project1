@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="332917" id="root" date="1997-01-25" xml:lang="en">
+<title>FRANCE: FIGURE SKATING-SLUTSKAYA WINS WOMEN'S GOLD MEDAL.</title>
+<headline>FIGURE SKATING-SLUTSKAYA WINS WOMEN'S GOLD MEDAL.</headline>
+<dateline>PARIS 1997-01-25</dateline>
+<text>
+<p>Irina Slutskaya of Russia won the gold medal in the women's event at the European figure skating championships on Saturday.</p>
+<p>Krisztina Czako of Hungary took the silver medal and Yulia Lavrenchuk of Ukraine won the bronze.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116765" id="root" date="1996-10-15" xml:lang="en">
+<title>CZECH REPUBLIC: Skoda a.s. cons H1 profit CZK 450 mln.</title>
+<headline>Skoda a.s. cons H1 profit CZK 450 mln.</headline>
+<dateline>PRAGUE 1996-10-15</dateline>
+<text>
+<p>Engineering group Skoda a.s. said it has made a consolidated profit of 450 million crowns ($16.6 million) in the first six months of this year.</p>
+<p>It gave the figure in a statement but gave no comparison. It did not say whether the figure was gross or net, and a company spokesman refused to comment. Earlier this year the Plzen-based company reported a 500 million crown unconsolidated gross profit for the period.</p>
+<p>Skoda said this was the first time the group had produced consolidated results.</p>
+<p>&quot;The economic results were negatively influenced by including the results of several subsidiaries,&quot; it said, adding that losses at truck maker Skoda Liaz a.s. had been more than 100 million crowns.</p>
+<p>It gave no further data but said it had released the profit figure to the Prague Stock Exchange to comply with PSE rules. PSE officials said they had received no data from Skoda.</p>
+<p>&quot;Clear, transparent and reliable accounting is for Skoda one of the main arguments against speculation which sometimes appears in the Western media ...,&quot; the statement said.</p>
+<p>-- David Stamp, Prague newsroom (42 2) 24 23 0003 ($ = 27.11 Czech Crowns)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

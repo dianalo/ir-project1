@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="553822" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: Morton completes chemical spinoff.</title>
+<headline>Morton completes chemical spinoff.</headline>
+<dateline>CHICAGO 1997-05-01</dateline>
+<text>
+<p>Morton International Inc said Thursday it completed the spinoff to its shareholders of its specialty chemicals and salt businesses.</p>
+<p>The spinoff coincides with the combination of Morton's automotive safety products business with Autoliv AB to create a new company, Autoliv Inc.</p>
+<p>In the spinoff, approved by shareholders of Morton on April 24, 1997, Morton will receive $750 million cash funded by debt retained by the former Morton automotive safety products business.  </p>
+<p>&quot;For Morton, the change allows us the opportunity to build on our strength and success in the specialty chemicals and salt businesses,&quot; said S. Jay Stewart, chief executive officer and chairman of the board of Morton, in a statement.</p>
+<p>Morton shareholders of record, as of the close of business on April 30, 1997, will become shareholders of both the new Morton International and the new Autoliv Inc.  They will receive, for each share of Morton common stock, one share of common stock and related preferred share purchase right of new Morton International and will also receive 0.341 of a share of Autoliv Inc common stock, and cash in lieu of fractional shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

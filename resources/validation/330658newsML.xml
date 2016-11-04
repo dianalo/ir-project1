@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="330658" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Twin Disc Inc Q2 Dec 31 net rises.</title>
+<headline>Twin Disc Inc Q2 Dec 31 net rises.</headline>
+<dateline>RACINE, Wis. 1997-01-24</dateline>
+<text>
+<p>Three Months Ended   Six Months Ended</p>
+<p>				    December 31,	  December 31,</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net sales		     $45,496  $41,763  $86,437  $78,538</p>
+<p> Cost of goods sold	   34,516   32,468   66,770   62,150</p>
+<p> Gross profit		   10,980    9,295   19,667   16,388</p>
+<p>Marketing, engineering</p>
+<p>and</p>
+<p>administrative</p>
+<p>   expenses			7,674    6,992   14,734   13,262</p>
+<p> Interest expense		  495	370	975	700</p>
+<p> Other income, net	     (104)    (188)  (1,084)    (123)</p>
+<p> Earnings before income tax  2,915    2,121    5,042    2,549</p>
+<p> Income taxes		    1,173	858    2,168    1,065</p>
+<p> Net earnings		    1,742    1,263    2,874    1,484</p>
+<p>Earnings per share</p>
+<p>data:</p>
+<p>   Earnings per share	    .63	.45     1.04	.53</p>
+<p>Averages shares</p>
+<p>outstanding</p>
+<p>   (thousands)		   2,779    2,777    2,778    2,776</p>
+<p>In thousands of dollars except per share statistics and average shares outstanding.  Per share figures are based on average shares outstanding.</p>
+<p>((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RACINE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

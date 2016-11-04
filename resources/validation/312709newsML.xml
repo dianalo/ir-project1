@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312709" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Bank of Boston Corp Q4 net, shr rise.</title>
+<headline>Bank of Boston Corp Q4 net, shr rise.</headline>
+<dateline>BOSTON 1997-01-16</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$1.26		    $1.09</p>
+<p> Shr diluted		 1.24		     1.08</p>
+<p> Net			201,500		  180,300</p>
+<p> Avg shrs diluted     155,157		  157,959</p>
+<p>	  12 MONTHS</p>
+<p> Shr primary		$3.99		    $4.17</p>
+<p> Shr diluted		 3.93		     4.09</p>
+<p> Net			650,200		  678,300</p>
+<p> Avg shrs diluted     156,112		  156,768</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Results reflect acquisition of BayBanks on July 29, 1996.  </p>
+<p>Q4 1996 includes gain of $47 million for sale of 20 branches to US Trust Corp, $25 million charge from transfer of about $400 million of commercial real estate loans into a held-for-sale account, and credit losses of about $15 million.</p>
+<p>Q4 1996 also includes valuation-related charge of $11 million associated with certain investments, and $6 million charge for vesting of stock price performance.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

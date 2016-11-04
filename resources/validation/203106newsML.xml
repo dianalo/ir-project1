@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203106" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Republican moderates seek new plant, wildlife bill.</title>
+<headline>Republican moderates seek new plant, wildlife bill.</headline>
+<byline>Sonali Paul</byline>
+<dateline>WASHINGTON 1996-11-20</dateline>
+<text>
+<p>Moderate House Republicans this week began canvassing lawmakers, green groups and developers for ideas to revise endangered species protection in a bid to avoid clashes that blocked legislation last year.</p>
+<p>&quot;We're going about trying to explore ways to find common ground, a coalition in the middle of the ideological spectrum, which could come together and pass a bill,&quot; Representative Jim Saxton, a Republican from New Jersey, said.</p>
+<p>He and Republican Wayne Gilchrest of Maryland organised an all-day Endangered Species Act forum on Tuesday attended by about 30 lawmakers and officials from green groups and industry, from the Sierra Club to Georgia-Pacific Corp.</p>
+<p>Saxton said it would take strong public pressure to get lawmakers to craft a bill that could pass muster with both conservatives, who want to ease land development restrictions, and environmentalists, who want tighter controls.</p>
+<p>&quot;The way Congress is made up today, in the absence of a welling of pressure from outside of Congress, I doubt this Congress will pass an Endangered Species Act in this term,&quot; he told Reuters after the meeting.</p>
+<p>House Speaker Newt Gingrich, who led Republican calls for deep regulatory changes two years ago, sounded a conciliatory note with House Republicans on Wednesday.</p>
+<p>&quot;We are for endangered species being saved, and we are for American liberties being saved,&quot; he said. &quot;We're for the right technologies for the environment and the right opportunities for the economy ... and we're going to solve both.&quot;</p>
+<p>Endangered species bills stalled this year in a battle between environmentalists and House Resources Committee Chairman  Don Young, an Alaskan Republican, who proposed moves they said would have put plants and wildlife in greater peril.</p>
+<p>Young has not committed to backing bills by Saxton or Gilchrest, although he was willing to work with them, said Liz Megginson, chief counsel to the committee.</p>
+<p>Democrats and environmentalists who participated in the forum said it was too early to predict how the debate would evolve. &quot;It's not clear to me whether the agenda is to involve the Democrats in the development of a bill or whether it is to develop a bill that is moderate enough that Democrats would eventually go along,&quot; said a Democratic aide to the committee. &quot;Those are very different things.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

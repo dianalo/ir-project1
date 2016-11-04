@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110210" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Richmond Savings Bank conversion approved.</title>
+<headline>Richmond Savings Bank conversion approved.</headline>
+<dateline>ROCKINGHAM, N.C. 1996-10-11</dateline>
+<text>
+<p>Richmond Savings Bank, of Rockingham, N.C., said Friday it received approval from the Administrator of the North Carolina Savings Institutions Division to proceed with its plan to convert from a North Carolina-chartered mutual savings bank to a North Carolina-chartered stock savings bank.</p>
+<p>Under the plan of conversion, Carolina Fincorp, Inc., Richmond Savings Bank's proposed holding company is offering up to 1,610,000 shares of common stock at $10.00 per share.</p>
+<p>Under certain circumstances the number of shares sold could be increased to 1,851,500.  Certain of Richmond Savings Bank's depositors and borrowers will be able to purchase stock through a subscription offering that closes on Nov. 5.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKINGHAM, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

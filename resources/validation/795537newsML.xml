@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="795537" id="root" date="1997-08-13" xml:lang="en">
+<title>USA: TABLE - UStel Inc Q2 results.</title>
+<headline>TABLE - UStel Inc Q2 results.</headline>
+<dateline>CULVER CITY, Calif. 1997-08-13</dateline>
+<text>
+<p>UStel Inc.</p>
+<p>				 Financial Highlights</p>
+<p>			Three Months Ended	Six Months Ended</p>
+<p>			     June 30,		   June 30,</p>
+<p>			    1997	1996	  1997	  1996</p>
+<p>Revenues (net)$ 5,680,702$ 5,623,236 $11,568,447 $10,526,503</p>
+<p>Operating expenses</p>
+<p>		     6,220,026  5,458,181  12,092,059  10,268,526</p>
+<p>Income (loss) from</p>
+<p>  operations     (539,324)    165,055   (523,613)     257,978</p>
+<p>Interest expense</p>
+<p>  (net)	    (106,515)   (94,488)   (280,365)   (186,013)</p>
+<p>Net income (loss)</p>
+<p>		     (645,839)     70,567   (803,978)	71,965</p>
+<p>Per share amounts:</p>
+<p>Net income (loss)   Primary	   (12 cts)	4 cts    (18 cts)	 4 cts</p>
+<p>  Fully diluted	   --	2 cts	    --	 2 cts</p>
+<p>Weighted average</p>
+<p>common shares</p>
+<p>outstanding</p>
+<p>  Primary	  5,188,097  1,788,333   4,383,724   1,763,056</p>
+<p>  Fully diluted	   --  3,199,652	    --   3,118,039</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CULVER CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

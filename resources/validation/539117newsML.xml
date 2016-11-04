@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="539117" id="root" date="1997-04-25" xml:lang="en">
+<title>THAILAND: Bank of Thailand bill auction results.</title>
+<headline>Bank of Thailand bill auction results.</headline>
+<dateline>BANGKOK 1997-04-25</dateline>
+<text>
+<p>The Bank of Thailand announced the following results for its bills issue on Friday:</p>
+<p>    MATURITY  TENDER AMT   ALLOTED AMT    AVG YIELD  RANGE</p>
+<p>		  (MLNS BAHT)  (MLNS BAHT)</p>
+<p>    28 days   40,930	 30,000	   8.98     8.75-9.15</p>
+<p>Results for bond issued by Financial Institutions Development Fund (coupon rate 9.50 percent per annum)</p>
+<p>    3 years    6,025	  2,000	   9.51     9.00-10.10</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

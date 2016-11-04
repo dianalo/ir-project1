@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67999" id="root" date="1996-09-20" xml:lang="en">
+<title>GREECE: Greek shares trade tight to close firm ahead of polls.</title>
+<headline>Greek shares trade tight to close firm ahead of polls.</headline>
+<dateline>ATHENS 1996-09-20</dateline>
+<text>
+<p>Greek equities traded in a narrow range to close with mild gains while trading volume jumped to 16 billion drachmas. Brokers said trading was cautious mixed with speculative plays ahead of the national vote on Sunday.</p>
+<p>&quot;Overall the market traded cautiously in a tight range and really went nowhere as everyone is tuned to the election outcome on Sunday. There was speculative play on certain shares like Intracom,&quot; said a floor tarder.</p>
+<p>He said the market would stage a strong rally if the socialists win Sunday's national polls and could take the index up to 1050 points next week. A more limited upside reaction was likely in the event of a win by the conservatives.</p>
+<p>&quot;There will be less of a runup if New Democracy prevails, we're likely to see a hiatus until the dust settles and the market gets used to new faces and policies. But it could turn out a much better performance further out. It remains to be seen,&quot; the trader said.</p>
+<p>The Athens general share index closed 0.25 percent, or 2.45 points higher at 963.94 from Thursday's 961.49 close after opening at 961.69 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

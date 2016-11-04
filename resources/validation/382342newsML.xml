@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="382342" id="root" date="1997-02-17" xml:lang="en">
+<title>PORTUGAL: Portugese car plant cuts output due Spain strike.</title>
+<headline>Portugese car plant cuts output due Spain strike.</headline>
+<dateline>LISBON 1997-02-17</dateline>
+<text>
+<p>The Ford-Volkswagen AutoEuropa car manufacturing plant in Portugal has cut production in response to a strike by Spanish truck drivers, a spokeswoman said on Monday.</p>
+<p>Carmo Jardim said production of passengers vans had been cut to between 415 and 420 on Monday at the plant, 50 km (30 miles) south of Lisbon, from 480 normally.</p>
+<p>Production had been cut to 305 vehicles on Friday, she said. The plant does not operate during weekends.</p>
+<p>&quot;Tomorrow we will review the situation and take a decision depending on events in Spain,&quot; Jardim told Reuters.</p>
+<p>AutoEuropa had ordered special train deliveries of parts such as radiators and door panels to the plant and assigned extra drivers to trucks, Jardim said. Normally supplies were delivered by road.</p>
+<p>The 12-day-old stoppage waned on Monday with commerce and traffic returning to normal as security forces guaranteed free movement on the roads.</p>
+<p>In Portugal, almost 500 trucks held up at Vilar Formoso on the border set off to Spain, escorted by Spanish security forces, police said.</p>
+<p>&quot;If the trucks leave at this rate, Vilar Formoso will be empty of trucks later today,&quot; a Portuguese police officer told Channel One state television.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

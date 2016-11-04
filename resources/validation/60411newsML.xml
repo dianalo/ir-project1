@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60411" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: US late Midco prods jump, but gasoline diffs ease.</title>
+<headline>US late Midco prods jump, but gasoline diffs ease.</headline>
+<dateline>NEW YORK 1996-09-18</dateline>
+<text>
+<p>U.S. spot products prices rose sharply on Midcontinent markets by late Wednesday tracking NYMEX futures, players said, although gasoline differentials eased with waning demand.</p>
+<p>Inventory reports, showing disappointing distillate inventory builds, were cited as the fuel for the rally. Most distillate grades firmed by about two cents a gallon, while gasolines rose by about 0.75 cent.</p>
+<p>The API report showed a 766,000 barrel build in low sulphur diesel supplies in the midwest last week. It showed gasoline stocks falling by 791,000 barrels.  </p>
+<p>But gasoline diffs slipped with shrinking demand, with Chicago prompt unleaded easing 0.75 cent since Tuesday to a half cent under the print, players said.</p>
+<p>&quot;As soon as the weather turn colder, gasoline demand goes way down,&quot; explained one trader, noting that temperatures have been dipping in certain areas in the midwest this week.</p>
+<p>Group Three unleaded gasoline was pegged at 0.60 cent under the October print for prompt barrels.</p>
+<p>Prompt low sulphur diesel was bid 2.50 cents over the print in Group Three and 1.25 cents over in Chicago, with high sulphur steady in both markets.</p>
+<p>-- New York Energy Desk 212 859 1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

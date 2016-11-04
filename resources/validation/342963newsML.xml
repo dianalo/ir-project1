@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="342963" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: Phamis Q4 shr $0.04 with charges.</title>
+<headline>Phamis Q4 shr $0.04 with charges.</headline>
+<dateline>SEATTLE 1997-01-30</dateline>
+<text>
+<p>PHAMIS Inc.</p>
+<p>			 Consolidated Statements of Operations</p>
+<p>		 (in thousands except earnings-per-share amounts)</p>
+<p>					Three Months Ended  Year Ended</p>
+<p>				  Dec. 31, Dec. 31, Dec. 31, Dec. 31,</p>
+<p>					  1996     1995    1996    1995</p>
+<p> Net revenues		     $12,211$ 12,303$ 49,300$ 47,165</p>
+<p> Cost of revenues		   7,041   7,326  28,718  28,000</p>
+<p>     Gross margin		   5,170   4,977  20,582  19,165</p>
+<p>Operating expenses:</p>
+<p>   Sales and marketing	    2,088   1,446   7,510   5,579</p>
+<p>   Research and development     1,347   1,226   5,793   3,896</p>
+<p>   General and administrative   1,002   1,079   3,885   4,954</p>
+<p>   Merger and acquisition costs     0	 0  292(c)	 0</p>
+<p>Corporate headquarters</p>
+<p>    relocation			    0	 0  304(b)	 0</p>
+<p>International market</p>
+<p>    entry costs		    500(a)	 0  810(a)	 0</p>
+<p>	Total operating expenses  4,937   3,751  18,594  14,429</p>
+<p>	Operating income		233   1,226   1,988   4,736</p>
+<p>Other income (expense):</p>
+<p>   Interest income		    186     266     780   1,095</p>
+<p>   Interest expense		   (4)    (15)    (30)    (64)</p>
+<p>   Other, net			  (20)    (10)    (33)	29</p>
+<p>Other income (expense),</p>
+<p>	 net				162     241     717   1,060</p>
+<p>	Income before income taxes  395   1,467   2,705   5,796</p>
+<p> Provision for income taxes	 111     496     927   1,488</p>
+<p>	Net income			284     971   1,778   4,308</p>
+<p>Net income per share -</p>
+<p>  fully diluted			0.04    0.15    0.28    0.68</p>
+<p>Weighted average number</p>
+<p>of common shares</p>
+<p>outstanding - fully</p>
+<p>  diluted			     6,351   6,399   6,361   6,353</p>
+<p>NOTES (a) Represents costs related to the company's entry into international markets during Q3 and Q4 1996. The earnings per share effect, after income taxes, was about $0.03 and $0.06 a share, respectively.</p>
+<p>(b) Represents one-time costs related to the company's June 1996 relocation to its new corporate headquarters in Seattle.  The earnings per share effect, after income taxes, was about $0.04 a share.</p>
+<p>(c) Represents non-recurring merger costs related to the acquisition of DataBreeze in March 1996. These charges are not deductible for income tax purposes. The earnings per share effect was $0.04 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

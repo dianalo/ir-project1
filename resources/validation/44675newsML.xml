@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44675" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Bristol-Myers to buy rights to beraprost.</title>
+<headline>Bristol-Myers to buy rights to beraprost.</headline>
+<dateline>PRINCETON, N.J. 1996-09-10</dateline>
+<text>
+<p>Bristol-Myers Squibb Co. said on Tuesday it had entered into separate agreements with Hoeschst Marion Roussel and Japan's Toray Industries Inc. to acquire development and marketing rights in the United States and Canada for beraprost.</p>
+<p>Beraprost is a treatment for claudication, or leg pain caused by vascular disease.</p>
+<p>Under terms of the agreement, Bristol-Myers said in a statement it would obtain rights in the United States and Canada to continue clinical development and to market beraprost.  </p>
+<p>Financial terms of the deal were not disclosed but a Bristol-Myers spokeswoman estimated there were 1.2 million people in the United States who suffered from intermittent claudication.</p>
+<p>Trental, a product similar to berapost marketed by Hoechst Marion Roussel, had sales of $200 million in the United States in 1995, the Bristol-Myers spokeswoman said. A similar product marketed by Toray had sales in Japan of $206 million for the 12 months ended March 1996, she said.</p>
+<p>Beraprost was discovered by Toray Industries and launched in Japan in 1992.  </p>
+<p>The treatment was in Phase III in Europe and Phase II trials in the United States, Bristol said.</p>
+<p>Data from Phase III trials in Europe indicated beraprost, an oral prostacylin analog, was safe and effective in reducing symptoms of intermittent claudication, the company added.</p>
+<p>Iintermittent claudication is a condition of pain, cramping, numbness and weakness in the legs caused by inadequate blood supplies to muscles stressed by activities such as walking or climbing stairs, the company said.</p>
+<p>-- New York newsdesk 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

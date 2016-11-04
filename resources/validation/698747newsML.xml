@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="698747" id="root" date="1997-07-01" xml:lang="en">
+<title>PERU: Disney sees $20 mln from Peru sales in 1998 -paper.</title>
+<headline>Disney sees $20 mln from Peru sales in 1998 -paper.</headline>
+<dateline>LIMA 1997-07-01</dateline>
+<text>
+<p>Entertainment company Walt Disney Co expects $20 million in 1998 from product sales in Peru, with an average 30 percent annual growth for the next five years, local newspaper El Comercio said Tuesday.</p>
+<p>The paper quoted Erik Holmquist, representative of Disney in Peru, saying those projections were part of an expansion program throughout the region.</p>
+<p>&quot;In Latin America, Disney had a reputation for a product not very accessible to the majority,&quot; he said. &quot;But the idea is that people will see our products as something that can be bought in any store at a convenient price.&quot;</p>
+<p>Walt Disney Co Peru formally started its operations here in April 1996.</p>
+<p>((-- Lima newsroom, 511 221-2134))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

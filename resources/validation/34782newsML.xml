@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34782" id="root" date="1996-09-05" xml:lang="en">
+<title>PHILIPPINES: National Power Corp to defer rebidding of Manila power project.</title>
+<headline>National Power Corp to defer rebidding of Manila power project.</headline>
+<dateline>MANILA 1996-09-05</dateline>
+<text>
+<p>The Philippines' National Power Corp (Napocor) said on Thursday it was postponing the September 10 rebidding date for its 1,200 Megawatt, gas-fired power plant in Ilijan to give bidders more time.</p>
+<p>Napocor officials told Reuters the firm had set October 7 as the new date for the submission of bids to build the plant in southern Batangas province.</p>
+<p>Napocor president Guido Delgado said 10 bidders had asked for more time to prepare bids based on the revised terms of reference issued by the power firm. He did not name the bidders.</p>
+<p>When tenders to build the $2 billion plant were called last year, the low bidder was a consortium of Hong Kong's Hopewell Holdings Ltd, Japan's Mitsubishi and AES Corp.</p>
+<p>But Napocor rejected the bid, saying the consortium planned to use technology developed by Mitsubishi and Westinghouse. The government had banned Westinghouse over a conflict on another project.</p>
+<p>The ban on Westinghouse was later lifted, but Napocor still rejected the Hopewell-led consortium's demand that they be awarded the contract and ordered a rebid.</p>
+<p>-- Manila newsroom 63 2 8418937, Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

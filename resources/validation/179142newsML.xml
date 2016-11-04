@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179142" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Class period extension requested in Cephalon suit.</title>
+<headline>Class period extension requested in Cephalon suit.</headline>
+<dateline>PHILADELPHIA 1996-11-11</dateline>
+<text>
+<p>Lawyers representing plaintiffs in a class action suit against Cephalon Inc said Monday they're asking that the period be extended.</p>
+<p>Berger &amp; Montague, P.C., Wolf Popper Ross Wolf and Jones, L.L.P., and Greenfield &amp; Rifkin, LLP issued a statement saying they filed an amended complaint.</p>
+<p>The action was commenced in January 1996 in the United States District Court for the Eastern District of Pennsylvania.</p>
+<p>Plaintiffs are those who purchased Cephalon common stock or traded options to purchase or sell Cephalon common stock during the period from June 12, 1995 through Jan. 18, 1996. The amended complaint extends the proposed class period from June 12, 1995 to and including June 7, 1996.</p>
+<p>The claims are based on alleged misrepresentations and omissions of facts concerning Cephalon's North American and European clinical trials of Cephalon's drug, Myotrophin, in the treatment of amyotrophic lateral sclerosis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

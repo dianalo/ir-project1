@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13528" id="root" date="1996-08-26" xml:lang="en">
+<title>VIETNAM: Hanoi to get tough with import-export tax dodgers.</title>
+<headline>Hanoi to get tough with import-export tax dodgers.</headline>
+<dateline>HANOI 1996-08-26</dateline>
+<text>
+<p>Vietnam said on Monday it would confiscate the assets of import-export companies that dodge taxes as part of a tightening of the communist country's chaotic revenue collection system.</p>
+<p>A prime ministerial directive, carried in the official Nhan Dan newspaper, said goods and assets belonging to companies that failed to pay taxes would be seized and auctioned.</p>
+<p>It said import licences would also be halted for firms that fail to meet their tax obligations.</p>
+<p>Vietnam, one of the world's poorest countries, has been seeking to improve a loose tax collection system which in 1995 reached 91.3 percent of government targets.</p>
+<p>Officials say problems with the collection of import taxes were a major factor in last year's budget deficit, which according to International Monetary Fund figures reached the equivalent of 1.7 percent of Gross Domestic Product.</p>
+<p>New laws are expected to be announced following a national assembly session due later this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

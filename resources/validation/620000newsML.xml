@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="620000" id="root" date="1997-05-28" xml:lang="en">
+<title>VENEZUELA: Venezuela chamber calls for Las Cristinas decision.</title>
+<headline>Venezuela chamber calls for Las Cristinas decision.</headline>
+<dateline>CARACAS 1997-05-28</dateline>
+<text>
+<p>Venezuela's Mining Chamber CAMIVEN called for a decision on the legal dispute between Placer Dome Inc and Crystallex International Corp over the Las Cristinas gold concession in Venezuela.</p>
+<p>The legal battle &quot;has become another cause of the flight of foreign and domestic investment which could be made in the mining sector in the short term,&quot; CAMIVEN President Pedro Tinoco was quoted as saying in a release.</p>
+<p>Placer Dome was due to start the $576 million project at Las Cristinas in May as part of a joint venture with state holding Corporacion Venezolana de Guayana (CVG).</p>
+<p>Placer's claim to the concession in southeastern Venezuela has been ratified verbally by government officials.</p>
+<p>But Crystallex insists it acquired blocks four and six of Las Cristinas by buying local company Inversora Mael CA.</p>
+<p>The Venezuelan Supreme Court has published Crystallex' claim but has not made a decision on the dispute.</p>
+<p>Tinoco said the uncertainty surrounding Las Cristinas -- the most important gold mining development to take place in Venezuela for decades -- was typical of the legal problems which had driven away potential investors from the sector.</p>
+<p>((-- Caracas newsroom, 582 505 2600))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

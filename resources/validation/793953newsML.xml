@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="793953" id="root" date="1997-08-12" xml:lang="en">
+<title>CYPRUS: Ill baby forces BA plane to land in Cyprus.</title>
+<headline>Ill baby forces BA plane to land in Cyprus.</headline>
+<dateline>NICOSIA 1997-08-12</dateline>
+<text>
+<p>A British Airways Boeing 777 bound for London from Saudi Arabia made an emergency landing in Cyprus on Tuesday when a baby was taken ill, an airline spokesman said.</p>
+<p>Zahira Almirtaha, aged eight months, was travelling with her Iraqi parents when she developed a fever and started vomiting.</p>
+<p>One of the airline's Arabic-speaking stewards accompanied the baby and her parents from Larnaca Airport to the general hospital where doctors had been alerted.</p>
+<p>The BA plane, which landed in Cyprus at 4.00 a.m. (0100 GMT), later left for London.</p>
+<p>&quot;She is fine now. It was probably from the trip or a virus,&quot; a doctor at the government hospital in the coastal town of Larnaca told Reuters.</p>
+<p>-- Nicosia newsroom 003 572 469625</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

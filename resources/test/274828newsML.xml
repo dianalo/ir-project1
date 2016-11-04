@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1996-12-24" id="root" itemid="274828" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surprise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surprise data.</headline>
+<text>
+<p>Earnings surprise for December 24, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks.</p>
+<p>COMPANY		 ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>OFFSHORE ENERGY	-0.31    -0.12	61.29%</p>
+<p>TRO LEARNING	    1.04     0.34     -67.31%</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1996-12-24" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

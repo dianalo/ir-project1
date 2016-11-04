@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="636678" id="root" date="1997-06-04" xml:lang="en">
+<title>MEXICO: Tropical Storm Andres churns toward southern Mexico.</title>
+<headline>Tropical Storm Andres churns toward southern Mexico.</headline>
+<dateline>MEXICO CITY 1997-06-04</dateline>
+<text>
+<p>Tropical Storm Andres, the first of the season's storm systems, churned slowly toward Mexico's southern Pacific coast early on Wednesday and was expected to make landfall later in the day.</p>
+<p>The storm was heading north toward the southern states of Oaxaca and Chiapas on Tuesday, but suddenly swerved east, heading directly toward southernmost Chiapas near the border with Guatemala, the National Weather Service said.</p>
+<p>The storm packed sustained winds of 50 miles per hour (80 kph) and gusts of up to 62 mph (100 kph), the center said in a statement. It added it did not expect the storm to gain more strength.</p>
+<p>&quot;We expect Tropical Storm Andres to move east-northeast toward the coasts of Chiapas,&quot; the center said.</p>
+<p>Late on Tuesday, the storm was located 109 miles (175 km) southeast of the coastal city of Tonala, Chiapas.</p>
+<p>The center said that by 0700 (1200 GMT), the storm's center would be located 30 miles (50 km) west-southwest from Acapetuahua, Chiapas, itself just 50 miles (80 km) north of the Guatemalan border.</p>
+<p>Resort towns Huatulco, Puerto Escondido, Acapulco and Puerto Angel shut their ports to smaller fishing and tourism craft amid heavy rains on Tuesday. Mexico's crude port that ships to the Far East, Salina Cruz, was also closed to smaller ships.</p>
+<p>The Communication and Transportation Ministry warned ships of high waves and winds along the costs of Guerrero, Oaxaca and Chiapas states because of Andres' pending approach.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

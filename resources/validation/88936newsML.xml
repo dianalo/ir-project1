@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88936" id="root" date="1996-10-01" xml:lang="en">
+<title>DENMARK: Tamil refugees stage hunger strikes in Denmark.</title>
+<headline>Tamil refugees stage hunger strikes in Denmark.</headline>
+<dateline>COPENHAGEN 1996-10-01</dateline>
+<text>
+<p>Ethnic Tamil refugees from Sri Lanka staging an open-ended hunger strike in protest at Denmark's expulsion of five of their compatriots threatened on Tuesday to refuse water.</p>
+<p>They said they would stop drinking unless they received a satisfactory response from the authorities to their demand that no more of the approximately 400 Tamils in Denmark should be sent home.</p>
+<p>&quot;We will all stop taking water if we do not get an answer within the next two to three days,&quot; a Tamil hunger striker told Reuters by phone.</p>
+<p>The Tamil hunger striker was one of more than over 100 asylum-seeking refugees in four camps in west Denmark staging the protest hunger strike.</p>
+<p>He said one of the Tamils sent home by Denmark had been arrested in Sri Lanka and that they all feared the consequences of being repatriated.</p>
+<p>The Sri Lankan government and Tamil separatists in the north of the island are locked in a bitter military confrontation in which thousands have died.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

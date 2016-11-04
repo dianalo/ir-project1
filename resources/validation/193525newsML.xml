@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193525" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Hollinger Intl Q3 below its expectations.</title>
+<headline>Hollinger Intl Q3 below its expectations.</headline>
+<dateline>CHICAGO 1996-11-15</dateline>
+<text>
+<p>Hollinger International Inc, which reported third-quarter earnings of $0.04 per share, up from $0.02 a year ago, said results were somewhat below the company's expectations.</p>
+<p>It cited the performance of its international newspaper group, with improved circulation revenues of $1.5 million as a result of a cover price increase in November 1995 and gains in advertising revenues of $5.9 million partly offset by increased newsprint and promotional costs.</p>
+<p>Hollinger's stock was trading at 11-1/4, off 1/4.  </p>
+<p>Although worldwide newsprint prices are coming down, European price changes often lag behind U.S. price changes. Hollinger said its London-based Daily Telegraph enters into medium-term supply contracts with vendors, resulting in delays in changes in newsprint costs.</p>
+<p>At the same time, the Telegraph is delivering editions with increased pages to a higher circulation base.</p>
+<p>The company's U.S. Newspaper Group posted revenues of $149.5 million, up 10 percent over the same 1995 quarter, though its Chicago Group operating revenues of $81.8 million were level with the prior year.</p>
+<p>Operating income for the U.S. Newspaper Group rose by $9.7 million in the quarter, to which acquisitions contributed $4.7 million. The International Newspaper Group's quarterly operating income decreased by $1.7 million.</p>
+<p>Hollinger International publishes newspapers in the United States, United Kingdom, Australia, Canada and Israel.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

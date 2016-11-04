@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809285" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: Summit Tech completes unit sale.</title>
+<headline>Summit Tech completes unit sale.</headline>
+<dateline>WALTHAM, Mass 1997-08-19</dateline>
+<text>
+<p>Summit Technology Inc said Tuesday it had completed the sale of a subsidiary in a stock deal with LCA-Vision Inc.</p>
+<p>Summit said in a statement it had sold its Vision Center subsidiary for about 17 million shares of LCA-Vision's common stock.</p>
+<p>It said LCA-Vision had 36 million outstanding common shares, the price of which closed on the Nasdaq at 3-4/16 on Monday, near its year low of 2-1/4.</p>
+<p>Summit said it planned to distribute about nine million of the shares to its shareholders after the shares had been registered with the Securities and Exchange Commission.</p>
+<p>It said its former subsidiary owned and operated 19 vision centers across the country, each equipped with excimer lasers.</p>
+<p>LCA-Vision offers laser vision correction.</p>
+<p>((-- New York Newsdesk 212 859 1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

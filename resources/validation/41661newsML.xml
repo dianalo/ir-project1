@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41661" id="root" date="1996-09-09" xml:lang="en">
+<title>PAKISTAN: Afghan rebel militia claims capture of district.</title>
+<headline>Afghan rebel militia claims capture of district.</headline>
+<dateline>ISLAMABAD 1996-09-09</dateline>
+<text>
+<p>Afghanistan's rebel Taleban Islamic militia said on Monday it had captured the Hisarak district in the eastern province of Nangarhar.</p>
+<p>A Taleban spokesman in the northwestern Pakistani town of Peshawar told Reuters by telephone that Taleban forces took the district on Sunday night and were now fighting for the nearby Tehzin area. There was no immediate independent confirmation of the report.  </p>
+<p>The report of Hisarak's capture came only three days after the Islamic militia seized the strategic government-held district of Azra in the adjoining Logar province.</p>
+<p>At least 15 defenders of Hisarak town were killed, Taleban official Qari Jalaluddin said.</p>
+<p>He said only one Taleban fighter was killed and two were wounded.</p>
+<p>Nangarhar has been ruled by a council which has remained neutral in four years of factional fighting in Afghanistan after the mujahideen guerrillas took power from a collapsed communist government.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

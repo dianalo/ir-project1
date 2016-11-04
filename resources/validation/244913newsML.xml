@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244913" id="root" date="1996-12-09" xml:lang="en">
+<title>JAPAN: March JGB futures end up on short-covering.</title>
+<headline>March JGB futures end up on short-covering.</headline>
+<dateline>TOKYO 1996-12-09</dateline>
+<text>
+<p>The March Japanese government bond (JGB) futures contract ended Monday's Tokyo session higher on dealers' short-covering.</p>
+<p>The March closed up 0.44 at 125.82, after rising as high as 125.94 shortly before the close.</p>
+<p>Short-covering gained momentum in the afternoon as Tokyo stocks extended gains, traders said.</p>
+<p>&quot;Those players who had anticipated the market to test lower today decided to cover short positions in the afternoon. However, investors' activities were not detected in the cash market,&quot; a brokerage house trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

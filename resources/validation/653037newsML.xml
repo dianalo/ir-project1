@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653037" id="root" date="1997-06-11" xml:lang="en">
+<title>NEW ZEALAND: NZ wholesale electricity prices rise in May - EMCO.</title>
+<headline>NZ wholesale electricity prices rise in May - EMCO.</headline>
+<dateline>WELLINGTON 1996-06-12</dateline>
+<text>
+<p>Average wholesale New Zealand electricity prices in May rose in the North and South Islands compared with April prices, electricity market operator EMCO said late on Wednesday.</p>
+<p>The average wholesale electricity price in the North Island (at the Haywards reference point) in May was 4.92 cents per kilowatt hour compared with 4.64 cents in April and 4.99 cents in March.  </p>
+<p>The average wholesale electricity price for the South Island (at the Benmore reference point) in May was 4.655 cents per kilowatt hour compared with 4.37 cents in April and 4.73 cents in March.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283585" id="root" date="1997-01-02" xml:lang="en">
+<title>CANADA: WCE canola ends up on fund, commission buying, CBT.</title>
+<headline>WCE canola ends up on fund, commission buying, CBT.</headline>
+<dateline>WINNIPEG 1997-01-02</dateline>
+<text>
+<p>WCE canola futures ended up on fund and commission house buying as Cargill sold, as well as spillover support from substantial gains in CBOT soy complex futures, traders said.</p>
+<p>&quot;RRC-DS bought. Funds bought early and Cargill sold 200 March and 400 May, there was some hedge selling,&quot; a trader said. Mar-May spread at $0.50. January futures crush profit margin rose to -35.60 from -35.88 on Tuesday. Volume was 4,255 lots, or 85,100 tonnes, with 360 hedge lots.</p>
+<p>January canola rose $4 to $400, March up $2.50 to $400.50. March flax rose $2 to $350 on commercial demand. Jan-Mar spread at $3.50.</p>
+<p>Oats did not trade.</p>
+<p>February western barley rose $0.10 to close at $134.60 on commission demand met by market-on-close hedges, May rose $0.40 to $134.10. PCTS sold the Feb-May spread at $0.50 to RBC-DS, traders said. Volume was 500 lots.</p>
+<p>March feed wheat rose $2.50 to $168 as LFG bought late, May up $1.30 to $165.80. Volume was 115 lots.</p>
+<p>The Wheat Pools sold 25 October feed peas up US$2.60 to US$186.40 to commercials, a trader said.</p>
+<p>(All values in Canadian dollars/tonne except peas, oats)</p>
+<p>((Gilbert Le Gras 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

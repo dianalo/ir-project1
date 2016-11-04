@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126844" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: MGE spring wheat ends lower on commercial selling.</title>
+<headline>MGE spring wheat ends lower on commercial selling.</headline>
+<dateline>MINNEAPOLIS 1996-10-18</dateline>
+<text>
+<p>MGE spring wheat futures closed lower as scale up commercial selling erased earlier gains, traders said.</p>
+<p>Cargill Investor Services reportedly sold 600,000 bushels March and 700,000 bushels December on the day while Wilson Trading sold 2 million March and 1.5 million Dec, traders said. LFG was said to have bought and sold 2 million Dec.</p>
+<p>Barley futures were 12 to 18 cents per cwt lower in very thin volume. Traders noted barley had not traded in several days and suggested the sharply lower move was tied to price realignment.</p>
+<p>Wheat closed 1/2 to 2-3/4 cents a bushel lower with December down 2-3/4 at $4.10-1/2.</p>
+<p>Barley closed 12 to 18 cents per cwt lower with December down 12 at $6.58.  </p>
+<p>Spring wheat volume was estimated at 18,299 contracts and barley volume was pegged at two contracts, according to the Minneapolis Grain Exchange.</p>
+<p>--Emily Kaiser 312-408-8749</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

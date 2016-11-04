@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="785855" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: TABLE - SPHERE DRAKE Q2 NET, SHARE LOSS.</title>
+<headline>TABLE - SPHERE DRAKE Q2 NET, SHARE LOSS.</headline>
+<dateline>NEW YORK 1997-08-07</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr    loss		$0.42   profit	 $0.62</p>
+<p> Net    loss		7,646   profit	11,442</p>
+<p> Revs			85,759		   92,920</p>
+<p> Avg shrs		  18,404		   18,404</p>
+<p>	  6  MONTHS</p>
+<p> Shr    loss		$0.33   profit	 $1.08</p>
+<p> Net    loss		6,057   profit	19,963</p>
+<p> Revs		     164,947		  190,922</p>
+<p> Avg shrs		  18,404		   18,404</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTES: The Q2 loss from continuing operations, excluding realized investment gains/loss, net of tax, was $8.0 million, or $0.43 per share, compared with operating income of $12.6 million, or $0.69 per share, for the 1996 Q2.</p>
+<p>Full co name is Sphere Drake Holdings Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

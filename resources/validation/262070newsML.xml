@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262070" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Avondale wins amphibious ship contract.</title>
+<headline>Avondale wins amphibious ship contract.</headline>
+<dateline>WASHINGTON 1996-12-17</dateline>
+<text>
+<p>The Navy selected Avondale Industries Inc., Tuesday to build the first of a new class of amphibious landing ship that would put marines ashore on helicopters and landing boats in combat.</p>
+<p>It announced the New Orleans shipyard has been awarded a $641 million contract to build the ship, with options to build two more which would raise the contract to $1.5 billion.</p>
+<p>Navy Secretary John Dalton named the ship the USS San Antonio and said it will combine all the functions of four different kinds of amphibious landing ships, which are the size of small aircraft carriers, into one.</p>
+<p>He said the new type ship will also save money because some of its equipment will be bought &quot;off the shelf&quot; from commercial companies, rather than be specially made by defence contractors.</p>
+<p>The Navy said the new ship will not only carry marine amphibious assault forces but land them on helicopters and landing boats and support them while they are fighting ashore, operations that had required separate ships before.</p>
+<p>It said General Dynamics' Bath Iron Works, Hughes Aircraft and Intergraph Corp. are teamed with Avondale for the work.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

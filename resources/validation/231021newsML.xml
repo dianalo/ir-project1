@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231021" id="root" date="1996-12-03" xml:lang="en">
+<title>PANAMA: Panama to clamp down on tuna fish violators.</title>
+<headline>Panama to clamp down on tuna fish violators.</headline>
+<dateline>PANAMA CITY 1996-12-02</dateline>
+<text>
+<p>Panama plans to clamp down harder on Panamanian-flagged ships caught violating tuna conservation efforts in order to avoid an international embargo, a top government official said Monday.</p>
+<p>&quot;Panama has done some work but we are going to establish more norms ... so that ships found not in compliance will be sanctioned with fines from $10,000 to $100,000 or have their registry taken away,&quot; Arnulfo Franco of Panama's National Maritime Commission told reporters.  </p>
+<p>Franco told reporters that Panamanian maritime officials told the International Commission for the Conservation of Atlantic Tunas (ICCAT) last week in Spain that &quot;we still don't have any evidence&quot; that Panamanian-flagged ships are violating international tuna conservation efforts.</p>
+<p>In a meeting in San Sebastian, Spain, the commission cleared the way for its members to ban imports of bluefin tuna from Belize, Honduras and Panama, which are not members.</p>
+<p>The commission warned the three countries last year that fishing of the giant tuna on their ships was undermining efforts to save the fish.</p>
+<p>ICCAT gave Panama, which has the world's largest registry of nearly 13,700 ships, up to Jan. 1, 1998, to show its measures are working before a ban would begin. Some eight percent of Panamanian-flagged ships are dedicated to fishing.</p>
+<p>Most of the exports from the three countries go to Japan, which consumes up to 70 percent of the world's catch.</p>
+<p>Japan imported a total of 674 metric tons of bluefin tuna from Belize, Panama and Honduras in 1994.</p>
+<p>-- Laurens Grant, Panama City newsroom, 507 2237739</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

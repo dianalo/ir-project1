@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="174894" id="root" date="1996-11-07" xml:lang="en">
+<title>CYPRUS: PRESS DIGEST - Cyprus - Nov 7.</title>
+<headline>PRESS DIGEST - Cyprus - Nov 7.</headline>
+<dateline>NICOSIA 1996-11-07</dateline>
+<text>
+<p>These are some of the leading stories in the Greek Cypriot press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>ALITHIA</p>
+<p>- Turkish Cypriot leader Rauf Denktash retaliates to protests to discourage tourist visits, closing the checkpoint to enclaved Greek Cypriots due to return home.</p>
+<p>- Bill Clinton's re-election is an opportunity for Cyprus, says the government.</p>
+<p>- The cooperation between Disy and Diko parties in municipal elections runs up against problems because of the Paphos candidate.</p>
+<p>CYPRUS MAIL</p>
+<p>- Israelis get four years in jail for escaping to the north.</p>
+<p>HARAVGHI</p>
+<p>- Cyprus's electricity authority faces a barrage of charges it bent rules in a consultancy tender to a company belonging to a member of its board.</p>
+<p>PHILELEPHTHEROS</p>
+<p>- The government adopts a wait-and-see approach to Bill Clinton's re-election.</p>
+<p>SIMERINI</p>
+<p>- The government is to attempt a cost-cutting drive at Cyprus Airways which announced losses of 2.9 million pounds ($6.25 million) in the first half of the year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

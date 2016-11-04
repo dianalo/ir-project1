@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="363443" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: AMR Corp taps credit line, lines up new one.</title>
+<headline>AMR Corp taps credit line, lines up new one.</headline>
+<dateline>WASHINGTON 1997-02-07</dateline>
+<text>
+<p>AMR Corp's American Airlines said it is borrowing $1 billion from an existing credit line and has arranged to borrow another $1 billion under a new credit agreement.</p>
+<p>In a filing with the U.S. Securities and Exchange Commission, American gave notice that it was drawing $1 billion under an existing $1 billion credit agreement which expires in 2001. It said it had not yet borrowed from the new line of credit. It did not say how it would use the funds.</p>
+<p>The Fort Worth, Texas-based carrier is in the midst of contract negotiations with its pilots.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

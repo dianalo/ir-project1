@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160303" id="root" date="1996-11-01" xml:lang="en">
+<title>INDIA: Indian exports rose 9.2 percent in Sept.</title>
+<headline>Indian exports rose 9.2 percent in Sept.</headline>
+<dateline>NEW DELHI 1996-11-01</dateline>
+<text>
+<p>Indian merchandise exports increased to $2.60 billion in September, up 9.17 percent from $2.38 billion in the same month in 1995, the government said.</p>
+<p>    MERCHANDISE TRADE   Sep 96    Sep 95</p>
+<p>    Exports		  2.60	2.38</p>
+<p>    Imports		  2.87	2.71</p>
+<p>    Trade balance	 -0.28     -0.34</p>
+<p>Note - Figures, in billions of dollars, may not add up due to rounding.  </p>
+<p>Indian merchandise exports grew 9.9 percent in April-September 1996 compared to the same period in 1995 to $16.14 billion, the statement said.</p>
+<p>    MERCHANDISE TRADE     Apr-Sep 96	Apr-Sept 95</p>
+<p>    Exports		     16.14		14.68</p>
+<p>    Imports		     17.95		17.07</p>
+<p>    Trade balance	     -1.81		-2.38</p>
+<p>Note - Figures, in billions of dollars, may not add up due to rounding.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

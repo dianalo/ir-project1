@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100441" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Trigen sees gain from early debt payment.</title>
+<headline>Trigen sees gain from early debt payment.</headline>
+<dateline>WHITE PLAINS, N.Y. 1996-10-07</dateline>
+<text>
+<p>Trigen Energy Corp said Monday it prepaid $7 million in subordinated debt, which will boost after-tax earnings per share by $0.02 over the next year.</p>
+<p>Trigen prepaid the debt by issuing 200,000 shares of Trigen to the lender and selling 240,000 shares to Trigen's parent company, Elyo.</p>
+<p>In repaying this debt, Trigen said, it incurred about $3.0 million in costs, about $1.8 million net of income taxes, which will be accounted for as an extraordinary loss.</p>
+<p>This loss will be offset by a gain from a recent condemnation award, it said.</p>
+<p>Trigen owns and operates community energy systems and co-generation facilities.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHITE PLAINS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

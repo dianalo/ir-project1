@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763209" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: VLSI sees 20% revenue growth.</title>
+<headline>VLSI sees 20% revenue growth.</headline>
+<dateline>SAN FRANCISCO 1997-07-29</dateline>
+<text>
+<p>VLSI Technology Inc expects its revenue to increase 20 percent, as the custom computer chip maker increases its focus on the communication markets, the company's finance chief said Tuesday.</p>
+<p>&quot;We are fundamentally replacing our personal computer business with communications,&quot; Bala Iyer, VLSI CFO, told investors at the Robertson Stephens Semiconductor Conference in San Francisco.</p>
+<p>The company also expects to generate 20 percent operating profit on its revenue, Iyer said.</p>
+<p>VLSI makes custom computer chips for communication gear companies, consumer electronics manufacturers and supercomputer makers. In the past year, the company has shifted its focus from making chips for personal computers, where it was falling behind against its competitors, to communication chips.</p>
+<p>Revenue from its communication business is increasing more than 50 percent quarter over quarter, Iyer said.</p>
+<p>The company also has closed an inefficient chipmaking factory in San Jose, which will lead to improving gross margins, Iyer said.</p>
+<p>The company will have gross margins between 46 to 48 percent in coming quarters, he said.</p>
+<p>&quot;We're seeing strong revenue growth accelerating in the second half of the year lead by our communication&quot; business, Iyer said. &quot;As well, we expect to continue improving gross margin through the year.&quot;</p>
+<p>((REUTER))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281620" id="root" date="1996-12-31" xml:lang="en">
+<title>USA: Cali Realty files $1 bln shelf in equities.</title>
+<headline>Cali Realty files $1 bln shelf in equities.</headline>
+<dateline>WASHINGTON 1996-12-31</dateline>
+<text>
+<p>Cali Realty Corp said Tuesday it filed a shelf registration with the Securities and Exchange Commission to sell up to $1 billion in preferred and common stock and warrants.  </p>
+<p>Net proceeds will be invested in the operating partnership in exchange for additional units, the company said. It also intends to used the proceeds for general corporate purposes and the repayment of indebtedness.</p>
+<p>Cali Realty, of Cranford, N.J., is a fully integrated real estate investment trust that owns and operates a portfolio comprised predominately of Class A office and office/flex buildings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

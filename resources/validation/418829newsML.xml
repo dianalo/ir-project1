@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418829" id="root" date="1997-03-04" xml:lang="en">
+<title>TUNISIA: Tunisia, Algeria sign 23-year gas supply contract.</title>
+<headline>Tunisia, Algeria sign 23-year gas supply contract.</headline>
+<dateline>TUNIS 1997-03-04</dateline>
+<text>
+<p>Algeria will supply Tunisia with 400 million cubic metres of natural gas per year during the next 23 years under a contract signed on Monday, industry officials said on Tuesday.</p>
+<p>The contract was signed by Jemal Mourad, gas marketing director at Algeria's state-owned hydrocarbon's company Sonatrach and Moncef Boussen, chairman of Tunisia's state-run Entreprise Tunisienne d'Activites Petrolieres (ETAP).</p>
+<p>Tunisian Industry Ministre Slaheddine Bouguerra, who chaired the signing ceremony, said the contract was part of Tunisia's efforts to secure Tunisia's supply in energy products.</p>
+<p>--Tunis newsroom, 2161-787538</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

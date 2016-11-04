@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="364599" id="root" date="1997-02-07" xml:lang="en">
+<title>UK: Morgan Stanley sets warrants on Novartis.</title>
+<headline>Morgan Stanley sets warrants on Novartis.</headline>
+<dateline>LONDON 1997-02-07</dateline>
+<text>
+<p>Bank Morgan Stanley said it has issued one million American-style call warrants on registered shares of Novartis AG.</p>
+<p>One share is controlled by 10 warrants.</p>
+<p> STRIKE PRICE    1,700 CHF		 PREMIUM	10.45 PCT</p>
+<p> ISSUE PRICE     15.23 CHF		 GEARING	11.01 TIMES</p>
+<p> MATURITY DATE   06.AUG.98		 PAYDATE	06.MAR.97</p>
+<p> LISTING	   SWISS		     MIN EXER LOT 1,000</p>
+<p> SPOT REFERENCE  1,677 CHF</p>
+<p>-- Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

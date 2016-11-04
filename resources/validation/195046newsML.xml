@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195046" id="root" date="1996-11-17" xml:lang="en">
+<title>PORTUGAL: SOCCER-MARITIMO COACH QUITS.</title>
+<headline>SOCCER-MARITIMO COACH QUITS.</headline>
+<dateline>LISBON 1996-11-17</dateline>
+<text>
+<p>Portuguese first division Maritimo on Sunday accepted the resignation of their Brazilian coach Marinho Peres following the club's poor results this season, Maritimo president Rui Fontes said.</p>
+<p>&quot;Neither the coach nor the management were satisfied with the performance of the team, so his resignation was accepted,&quot; Fontes told reporters after the Madeira team lost 1-0 at home against Leca.</p>
+<p>Maritimo, often a candidate for a place in the UEFA Cup, are 12th in the Portuguese first division, 14 points behind championship leader Porto.</p>
+<p>Peres is the third managerial casualty of the season in the Portuguese first division. A replacement at Maritimo has yet to be named.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391004" id="root" date="1997-02-20" xml:lang="en">
+<title>VENEZUELA: Ecuador heating oil imports rise in Feb - trader.</title>
+<headline>Ecuador heating oil imports rise in Feb - trader.</headline>
+<dateline>CARACAS 1997-02-20</dateline>
+<text>
+<p>Ecuador's imports of heating oil rose in February due to low hydroelectric electricity production, an Ecuadorean oil trader said on Thursday.</p>
+<p>He said Ecuador would import 600,000 barrels of number 2 heating oil in February, falling to 200,000 barrels in March.</p>
+<p>&quot;Due to the long summer, levels of water are low in the hydroelectric plants so we have had to use our thermoelectric stations to supply electricity,&quot; the source said.  </p>
+<p>He said Ecuador had bought some cargoes from Venezuela's state oil company, Petroleos de Venezuela (PDVSA) in February, but had a variety of sources of products, including Mexico, the Caribbean and the United States.</p>
+<p>There were no operational problems at the Libertad and Esmeralda refineries, he added.  Libertad has a capacity of 50,000 barrels per day (bpd) while Esmeralda's capacity is rated at 90,000 bpd.</p>
+<p>((-- Tom Ashby, Caracas newsroom, 582 505 2600))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

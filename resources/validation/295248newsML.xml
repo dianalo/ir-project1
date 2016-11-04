@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="295248" id="root" date="1997-01-08" xml:lang="en">
+<title>ISRAEL: Three Israeli soldiers wounded by Lebanon mine.</title>
+<headline>Three Israeli soldiers wounded by Lebanon mine.</headline>
+<dateline>KIRYAT SHMONA, Israel 1997-01-08</dateline>
+<text>
+<p>Three Israeli soldiers were wounded by a mine explosion on Wednesday in the south Lebanon border zone occupied by the Jewish state, security sources said.</p>
+<p>One soldier was in fair condition and the other two were lightly wounded after the blast in the eastern sector in the south Lebanon zone, the sources said.</p>
+<p>On Tuesday, Moslem guerrillas attacked Israeli and allied militia posts and some shells slammed into two villages in the zone, pro-Israeli militia sources said.</p>
+<p>The Iranian-backed Hizbollah -- Party of God -- claimed responsibility for Tuesday's attacks. It said its gunners targetted two military barracks in Aishiyeh and Rihane villages.</p>
+<p>Hizbollah is leading a guerrilla war against Israeli troops and the 3,000-strong South Lebanon Army militia holding the 15-km (nine-miles) south Lebanon zone set up in 1985 to protect northern Israel from cross-frontier raids.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIRYAT SHMONA, Israel"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

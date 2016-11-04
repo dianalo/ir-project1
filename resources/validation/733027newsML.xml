@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733027" id="root" date="1997-07-16" xml:lang="en">
+<title>PAKISTAN: Pakistan's freed fishermen arrive from India.</title>
+<headline>Pakistan's freed fishermen arrive from India.</headline>
+<dateline>KARACHI 1997-07-16</dateline>
+<text>
+<p>A special plane brought 194 Pakistani fishermen to Karachi from Bombay on Wednesday after they were released by India in an exchange with 193 Indian fishermen after three to four years' detention.</p>
+<p>Some of the freed fishermen burst into tears as they set foot on home soil at Karachi airport and some knelt and kissed the ground, witnesses said.</p>
+<p>The detained fishermen, arrested by the two countries for alleged illegal fishing in each other's territorial waters, were swapped on Tuesday under an accord reached in June. The deal was part of a process to normalise relations between the rival countries.</p>
+<p>On Tuesday, 193 Indian fishermen left Karachi by a special flight to Bombay.</p>
+<p>Pakistani and Indian officials say there are more detained fishermen in prisons on both sides of the border who would be released after completion of formalities.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

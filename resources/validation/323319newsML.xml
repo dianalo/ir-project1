@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323319" id="root" date="1997-01-21" xml:lang="en">
+<title>SINGAPORE: France's Publicis to buy 60 pct of Eureka.</title>
+<headline>France's Publicis to buy 60 pct of Eureka.</headline>
+<dateline>SINGAPORE 1997-01-21</dateline>
+<text>
+<p>French advertising group Publicis has bought a controlling 60 percent stake in Singapore-based agency Eureka Advertising, a spokesman for Eureka said on Tuesday.</p>
+<p>Details of the merger would be announced later on Tuesday, the spokesman told Reuters in response to telephone enquiries.</p>
+<p>The International Herald Tribune newspaper said on Tuesday the deal was Publicis's first foray into the Asian market since it launched a global expansion strategy after splitting with its former partner, True North Communications Inc, nearly a year ago.  </p>
+<p>The spokesman said Eureka expected a turnover of some Singapore $30 billion in its 1997 financial year. He declined to give further details.</p>
+<p>-- Singapore newsroom (65 8703199)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

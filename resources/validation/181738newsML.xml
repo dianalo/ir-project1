@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181738" id="root" date="1996-11-12" xml:lang="en">
+<title>SLOVAKIA: SOCCER - SLOVAK DUBOVSKY OUT FOR QUALIFIER AGAINST SPAIN.</title>
+<headline>SOCCER - SLOVAK DUBOVSKY OUT FOR QUALIFIER AGAINST SPAIN.</headline>
+<dateline>BRATISLAVA 1996-11-12</dateline>
+<text>
+<p>Injury depleted Slovakia has lost the services of Real Oviedo striker Peter Dubovsky for its World Cup Group Six qualifier against Spain on Wednesday.</p>
+<p>The official Slovak news agency TASR reported on Tuesday that Dubovsky will miss the game due to a leg injury suffered in Oviedo's 3-1 defeat of Spanish first division team Espanyol at the weekend.</p>
+<p>Slovakia is already without skipper and Bastia midfielder Lubor Moravcik who suffered a serious ankle injury in a French league match a few weeks ago and is out of action until the beginning of next year.</p>
+<p>The Slovak team will be comprised almost entirely from players in the local first division, with goalkeeper Alexander Vencel of Racing Strasburg and Casino Salzburg striker Tibor Jancula as its only internationals.</p>
+<p>The Slovaks have nine points so far in the group after two easy victories over the Faroe Islands, and a solid drubbing of Malta.</p>
+<p>A win against Spain, currently on four points after two matches would allow the upstart Slovaks to keep pace with leaders Yugoslavia (4-0), and put them in a strong position to qualify for its first-ever World Cup.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

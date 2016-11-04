@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263929" id="root" date="1996-12-18" xml:lang="en">
+<title>MEXICO: Mexico's Zedillo says no more cabinet changes.</title>
+<headline>Mexico's Zedillo says no more cabinet changes.</headline>
+<dateline>GUADALAJARA, Mexico 1996-12-18</dateline>
+<text>
+<p>Mexican President Ernesto Zedillo said on Wednesday that he was planning no further changes to his cabinet.</p>
+<p>&quot;I can tell you quite certainly there will be no changes,&quot; Zedillo said to local journalists after a ceremony to present 11,100 land titles in Mexico's second city of Guadalajara.</p>
+<p>Local press reports have recently been speculating on an imminent cabinet reshuffle, in the wake of Attorney General Antonio Lozano being deposed on December 2, and a changeover in the ruling Institutional Revolutionary Party (PRI) chairmanship on December 15.  </p>
+<p>Zedillo also broached the topic of investigations into the assassinations of PRI presidential candidate Luis Donaldo Colosio in 1994, and Cardenal Juan Jesus Posadas in 1993. Lack of headway in these investigations was cited as one of the reasons for Lozano's dismissal.</p>
+<p>&quot;From the very first, I have given every opinion and all information with regard to this case,&quot; Zedillo said concerning his willingness to make a statement on the case.  </p>
+<p>Zedillo was Colosio's campaign manager at the time of the assassination, and then replaced him as the PRI's candidate in the 1994 presidential race.</p>
+<p>Zedillo also expressed optimism regarding peace talks between the government and guerrillas in the south-east Mexican state of Chiapas.</p>
+<p>&quot;There is a deadline which I proposed to them (the guerrillas), which is Monday, by when the government will have its comments on the COCOPA document,&quot; Zedillo said, referring to a proposed constitutional changes Indian rights drafted by the Congressional Concord and Peace-making Commission.</p>
+<p>((-- Debora Montesinos, Mexico City +525 728-7901))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

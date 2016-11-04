@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435584" id="root" date="1997-03-12" xml:lang="en">
+<title>POLAND: POLISH PIPE MAKER HUTA FERRUM IPO OVERSUBSCRIBED.</title>
+<headline>POLISH PIPE MAKER HUTA FERRUM IPO OVERSUBSCRIBED.</headline>
+<dateline>WARSAW 1997-03-12</dateline>
+<text>
+<p>Issuer:			   metal pipe maker Huta Ferrum SA</p>
+<p>Type of Issue:		  shares</p>
+<p>Total No of Shares Offered:    3,000,000</p>
+<p>Total No of Shares Subscribed: 5,608,260</p>
+<p>Price (PLN):			 11</p>
+<p>TRANCHES	 NO OF SHARES   NO OF SHARES     ORDERS</p>
+<p>		   SUBSCRIBED     ALLOTED	    REDUCTION (PCT)</p>
+<p>Institutional  2,856,050*    2,254,050	   --</p>
+<p>Retail	   3,354,210	 745,950	   77.8</p>
+<p>NOTE: * 602,000 shares of subscribed in the institutional</p>
+<p>tranche were not paid on time and therefore not listed under</p>
+<p>total number of shares subscribed.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

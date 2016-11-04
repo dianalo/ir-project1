@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106602" id="root" date="1996-10-09" xml:lang="en">
+<title>AUSTRALIA: RTRS-Softer Australian bonds waiting on jobs data.</title>
+<headline>RTRS-Softer Australian bonds waiting on jobs data.</headline>
+<dateline>SYDNEY 1996-10-09</dateline>
+<text>
+<p>----------(Snapshot at 4.30 P.M./0630 GMT)------------------</p>
+<p>FUTURES					  CASH YIELD</p>
+<p>90-DAY BILLS  (DEC) 93.46  (unch)	 6.76   (unch)X)</p>
+<p>3-YR T-BONDS  (DEC) 93.05  (- 0.01)     6.88   (+ 0.01)</p>
+<p>10-YR T-BONDS (DEC) 92.355 (-0.025)     7.64   (+ 0.03)</p>
+<p>AUD/USD  0.7894 (PREV 0.7874) US 30-YR  6.80   (6.81 NY)</p>
+<p>---------------------(Oct 9)--------------------------------</p>
+<p>*Australian bonds finish a quiet day in line with their softer openings, with futures held to three point ranges</p>
+<p>*Focus on Thursday's local employment data.</p>
+<p>*RBA to tender A$250 million of 2020 indexed bonds Thursday.  </p>
+<p>Australian bonds ended slightly lower after opening weaker in line with the U.S. market, having been held to narrow ranges on the day -- both the three and 10-year futures contracts were held to three point ranges.</p>
+<p>Traders said the softness this week after the rally of the past few weeks was consolidatory for the market, and the underlying tone remained positive. The next event for the market is Thursday's release of September labour force data.</p>
+<p>&quot;It's really on hold,&quot; one trader said, &quot;the data tomorrow will be important.&quot;  </p>
+<p>Economists surveyed by Reuters expect employment to have fallen by 7,500 in September, and the unemployment rate to come in at 8.6 percent.</p>
+<p>While this is down on August's 8.8 percent, traders said a result in line with expectations would be well-received by a market expecting a November interest rate cut.</p>
+<p>The Reserve Bank announced that it would be tendering A$250 million of August 2020 Treasury indexed bonds on Thursday. The first tender in the new series, the RBA will also take up A$20 million of the stock for its own portfolio.  </p>
+<p>The Treasury Corporation of Victoria (TCV) launched its new benchmark August 2008 stock with a A$200 million tender this morning. The bonds went at a weighted average of 7.860, 18.5 points above the Commonwealth August 2008 stock.</p>
+<p>------------------------(SPREADS)------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 80 (- 03)   111 (unch) * FUTURES   69.5 (+1.5)</p>
+<p> CAD	185 (- 04)    83 (- 02) * CASH	76   (+ 02)</p>
+<p> NZD     -101 (- 01)   -38 (+ 01) *</p>
+<p>---------------------------------------------------------</p>
+<p>Spreads improve on the day, but have still widened over the week. Weak employment data, and associated rate speculation, could prompt further spread narrowing, traders said. Cash and futures curves finish at their steepest since October 1.</p>
+<p>----------------------(TECHNICALS)---------------------------</p>
+<p>FUTURES	*DAY'S RANGE *SUP/RES 2ND *RSI    *MA-10 *MA-20</p>
+<p>10-YEAR (DEC)*92.34-92.37 *92.35-92.39 *66 PCT *92.30 *92.16</p>
+<p>3-YEAR  (DEC)*93.03-93.06 *93.03-93.07 *68 PCT *93.00 *92.87</p>
+<p>90-DAY  (DEC)*93.43-93.46 *93.43-93.46 *63 PCT *93.43 *93.36</p>
+<p>-------------------------------------------------------------</p>
+<p>-- John Mair 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

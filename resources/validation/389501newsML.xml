@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389501" id="root" date="1997-02-19" xml:lang="en">
+<title>CHINA: Shanghai soybeans end mixed in slow trading.</title>
+<headline>Shanghai soybeans end mixed in slow trading.</headline>
+<dateline>SHANGHAI 1997-02-19</dateline>
+<text>
+<p>Shanghai soybean futures ended mixed in slow trading on Wednesday with most investors continuing to stay on the sidelines, traders said.</p>
+<p>The most active September contract fell six to 3,344 yuan ($403) per tonne. It opened at 3,350, hitting an intra-day high of 3,356 and a low of 3,340.</p>
+<p>March rose 10 to 3,110, May fell seven to 3,160, July rose 49 to 3,320, November down two to 3,350 and the January 1998 contract up two to 3,350.</p>
+<p>Combined volume fell to 17,600 tonnes from 18,500.  </p>
+<p>Traders said most contracts moved in a narrow range for most of the session with retail investors dominating today's trade.</p>
+<p>&quot;The lack of institutional funds resulted in a lack of vitality on the soybeans market,&quot; one trader said.</p>
+<p>Traders expect soybeans to move around current levels in the next few days.</p>
+<p>($1=8.2945 yuan)</p>
+<p>-- Shanghai newsroom (86-21) 6279-7004</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

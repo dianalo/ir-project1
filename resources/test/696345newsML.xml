@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-06-30" id="root" itemid="696345" xml:lang="en">
+<title>USA: CME average feeder steer price.</title>
+<headline>CME average feeder steer price.</headline>
+<dateline>CHICAGO 1997-06-30</dateline>
+<text>
+<p>The Chicago Mercantile Exchange reported the average feeder steer price for the seven calendar days ending Friday, June 27 used for cash settlement of CME Feeder Cattle contracts. (in dollars per cwt) --</p>
+<p>12-STATES - FOR 7 DAYS ENDING -</p>
+<p>Friday	   June 27 $80.30   up 1.22</p>
+<p>Thursday	 June 26 $79.08   up 0.64</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-06-30" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-06-30" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="CHICAGO" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

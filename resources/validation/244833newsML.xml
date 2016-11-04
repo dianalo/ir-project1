@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244833" id="root" date="1996-12-09" xml:lang="en">
+<title>TAIWAN: Taiwan dollar ends lower on importers' demand.</title>
+<headline>Taiwan dollar ends lower on importers' demand.</headline>
+<dateline>TAIPEI 1996-12-09</dateline>
+<text>
+<p>The Taiwan dollar ended lower against the greenback on Monday as routine U.S. dollar demand emerged from importers, dealers said.</p>
+<p>The local unit finished at T$27.495 against Saturday's close of T$27.490. Turnover was a moderate US$136 million.</p>
+<p>&quot;Importers' commercial demand for the U.S. dollar usually emerges on Monday. Besides that I did not notice any market-moving factors,&quot; said one dealer.</p>
+<p>Dealers said the Taiwan dollar is likely to move in a narrow range of T$27.485-495 on Tuesday.</p>
+<p>-- Alice Hung (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

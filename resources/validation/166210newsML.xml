@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166210" id="root" date="1996-11-05" xml:lang="en">
+<title>BOSNIA: PRESS DIGEST - Bosnia - Nov 5.</title>
+<headline>PRESS DIGEST - Bosnia - Nov 5.</headline>
+<dateline>SARAJEVO 1996-11-05</dateline>
+<text>
+<p>These are the leading stories in the Sarajevo press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>OSLOBODJENJE</p>
+<p>- The British Agency for Overseas Development (ODA) and its chairman Baroness Linda Chalker and were decorated by &quot;Golden Bosnian coat of arms&quot; medal in Sarajevo on Monday for helping Bosnia and its citizens during the war.</p>
+<p>- Ericsson digital telephone switchboard with 20,000 new numbers starts operating in Sarajevo on Tuesday as a result of two-year-long cooperation between the Swedish telecommunications company and Bosnia's PTT services.</p>
+<p>- $30 million project for rehabilitation of health care in Bosnia will help the reconstruction of 60 health institutions treating war trauma.</p>
+<p>DNEVNI AVAZ</p>
+<p>- Draft plan to revive Bosnia's economy was presented on Monday during a meeting between senior World Bank officials and Bosnian representatives in Sarajevo.</p>
+<p>- European Community Humanitarian Office (ECHO) donated 367,000 German marks for reconstruction of an elementary school, emergency room and water utilities in Praca, east Bosnia.</p>
+<p>--Sarajevo newsroom, +387-71-663-864</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

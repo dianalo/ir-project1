@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284300" id="root" date="1997-01-02" xml:lang="en">
+<title>FINLAND: OKOBANK EXCUSES FIM 190 MLN TO ITS REALUM.</title>
+<headline>OKOBANK EXCUSES FIM 190 MLN TO ITS REALUM.</headline>
+<dateline>HELSINKI 1997-01-02</dateline>
+<text>
+<p>Finnish cooperative banking group OKOBANK has excused 190 million markka of capital injections granted to its Osuuspankki Realum bank in 1993-1995, Realum said in a statement on Thursday.</p>
+<p>The capital support had been granted to Realum by the cooperative banks' internal guarantee fund Osuuspankkien Vakuusrahasto, Realum said.</p>
+<p>The 190 million markka now excused is part of a total of 3.5 billion markka of capital injected by the fund, a Realum official told Reuters by phone.</p>
+<p>The move to excuse the funds owed was a &quot;technical measure&quot; related to earlier support decisions, Realum said.</p>
+<p>Asked whether the fund would collect the rest of the outstanding capital support, Osuuspankki Realum officer Jouko Aho said: &quot;Time will tell. Apparently most of it won't be collected.&quot;</p>
+<p>Realum is what remains of the now defunct Suur-Helsingin Osuuspankki, he said.</p>
+<p>--Helsinki Newsroom +358-9-680 50 235</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23139" id="root" date="1996-08-29" xml:lang="en">
+<title>SINGAPORE: Singapore bunkers up on cargo levels, demand thin.</title>
+<headline>Singapore bunkers up on cargo levels, demand thin.</headline>
+<dateline>SINGAPORE 1996-08-29</dateline>
+<text>
+<p>Singapore bunker prices edged up on strong cargo prices but demand remained thin, traders said.</p>
+<p>High cargo prices forced most sellers to push bunker prices up but buyers are unwilling to pay such high prices, traders said. One seller said such high prices have dampened demand.</p>
+<p>Majors were quoting $113 for 180-cst, and $108 for 380-cst, a dollar higher from Wednesday's quotes. Independents were lower with up to two traders quoting at $108-$108.50 ex-wharf for 180-cst. Gas oil and MDO were steady at $203-$205 and $190-$193 respectively. --Singapore Newsroom (+658703086).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

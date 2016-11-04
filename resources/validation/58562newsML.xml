@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58562" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Calif. Treasurer says state saves $6 mln on deals.</title>
+<headline>Calif. Treasurer says state saves $6 mln on deals.</headline>
+<dateline>SACRAMENTO, Calif. 1996-09-17</dateline>
+<text>
+<p>California state Treasurer Matt Fong said on Tuesday the state would achieve present value savings of more than $6 million from Monday's public works board refunding revenue bond sales.</p>
+<p>The sale of $116.6 million in Department of Corrections 1996 series B lease revenue refunding bonds garnered a true interest cost of 5.94 percent, and will generate a present value savings of $4.2 million, Fong said.</p>
+<p>The second issue, the sale of $56.4 million in California Community Colleges 1996 Series B lease revenue refunding bonds, was sold at a true interest cost of 6.005874 percent.  </p>
+<p>Fong said the present value savings from the second issue would be nearly $2 million.</p>
+<p>&quot;We ... took advantage of a one-day window of opportunity in the bond market to complete the sale,&quot; Fong said.</p>
+<p>Originally scheduled for September 4, the refundings were put off due to market conditions.</p>
+<p>But Fong said a rally on September 13 made savings from the refundings feasible.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210170" id="root" date="1996-11-22" xml:lang="en">
+<title>NORWAY: Norwegian whalers to kill 580 whales in 1997.</title>
+<headline>Norwegian whalers to kill 580 whales in 1997.</headline>
+<dateline>OSLO 1996-11-22</dateline>
+<text>
+<p>Norwegian whalers will be allowed to harpoon 580 minke whales next year, 155 more than under the 1996 quota, the national news agency NTB said on Friday.</p>
+<p>It said the 1997 quota -- set despite international protests against Norway's annual whale kill -- was announced by a Fisheries Ministry official at the annual meeting of the Norwegian Whaling Association in Svolvaer in north Norway.</p>
+<p>Whaling association leader Steinar Bastesen said he was pleased that the quota had gone up but believed the increase could have been higher still.</p>
+<p>&quot;This cautious increase is obviously strategic and takes into consideration the international resistance against whaling, but I think it is time to throw such caution overboard,&quot; said Bastesen, known as a strong opponent of anti-whaling activists.</p>
+<p>Environmentalists have protested against the whaling, especially after this year's catch fell short of the government quota by 44 whales. Only 381 were harpooned because the hunt was hampered by bad weather and rough seas.</p>
+<p>The annual hunt takes place between May and July and requires calm waters for whalers to detect minke whales, which surface to breathe for only around four seconds before diving.</p>
+<p>Norway walked out of a meeting in Aberdeen, Scotland, of the International Whaling Commission in June in protest at the IWC ordering Oslo to stop commercial whaling and impose controls to halt smuggling of whale meat to Japan, another whaling nation.</p>
+<p>Norway resumed commercial catches of minke whales in 1993 in defiance of a global moratorium by the IWC.</p>
+<p>Oslo argues that the northeast Atlantic minke whale stock is growing. Unlike threatened species such as the giant blue whale, minke whales can safely be hunted without any risk of extinction, Norway says.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

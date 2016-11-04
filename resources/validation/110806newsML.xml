@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110806" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Whitney to acquire First National Bankshares.</title>
+<headline>Whitney to acquire First National Bankshares.</headline>
+<dateline>NEW ORLEANS</dateline>
+<text>
+<p>Whitney Holding Corp. said Friday that it would acquire First National Bankshares Inc. in a $41 million stock deal.</p>
+<p>Under the deal, shareholders of First National Bankshares will receive about $20.32 per share in stock of New Orleans-based Whitney, the parent of Whitney National Bank and Whitney Bank of Alabama.</p>
+<p>First National Bankshares is the parent company of First National Bank of Houma, La., and has four banking facilities in Houma and one banking facility in Chauvin, La.</p>
+<p>Whitney National Bank has 61 branches throughout southern Louisiana. Whitney Bank of Alabama has 10 branches in that state's Mobile, Montgomery and Baldwin Counties.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-08-18" id="root" itemid="804843" xml:lang="en">
+<title>USA: BASEBALL-SUNDAY'S MAJOR LEAGUE RESULTS.</title>
+<headline>BASEBALL-SUNDAY'S MAJOR LEAGUE RESULTS.</headline>
+<dateline>NEW YORK 1997-08-17</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games on Sunday (home team in CAPS):</p>
+<p>	     American League</p>
+<p> BOSTON	    10  Minnesota	  5</p>
+<p> Seattle	    5  CHI WHITE SOX    3 (1st game)</p>
+<p> CHI WHITE SOX    4  Seattle	    2 (2nd game)</p>
+<p> Toronto	   10  CLEVELAND	  5</p>
+<p> DETROIT	    8  Kansas City	4</p>
+<p> BALTIMORE	  5  Anaheim	    4 (in 10)</p>
+<p> NY YANKEES	 8  Texas		0</p>
+<p> MILWAUKEE	  5  Oakland	    2</p>
+<p>	     National League</p>
+<p> HOUSTON	   11  Philadelphia     6</p>
+<p> COLORADO	   6  NY Mets	    4</p>
+<p> Chicago Cubs     6  SAN DIEGO	  5</p>
+<p> SAN FRANCISCO    8  Montreal	   6</p>
+<p> FLORIDA	   10  Pittsburgh	 2</p>
+<p> Cincinnati	 5  LOS ANGELES	0</p>
+<p> ST LOUIS	   3  Atlanta	    1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-08-17" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-08-18" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="NEW YORK" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

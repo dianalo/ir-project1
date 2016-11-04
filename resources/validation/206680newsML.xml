@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206680" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Philadelphia pension fund to sell Texaco stock.</title>
+<headline>Philadelphia pension fund to sell Texaco stock.</headline>
+<dateline>PHILADELPHIA</dateline>
+<text>
+<p>The board of Philadelphia's pension funds voted to divest $5.5 million worth of Texaco Inc. stock, citing tapes of alleged racial slurs by executives at the nation's third-largest oil company.</p>
+<p>&quot;People are very offended as to what was revealed on the Texaco tapes and we don't want to be part of that corporate culture,&quot; pension board Chairman Ben Hayllar said at the board's meeting.</p>
+<p>The move comes a week after the Philadelphia City Council voted in a non-binding resolution to boycott Texaco and divest itself of all holdings in the oil company.</p>
+<p>Pension board member Charles Johnson said the sale of the stock should send a message to other companies. &quot;People are not to be taken for granted, especially minorities,&quot; he said.</p>
+<p>The board is to review the move after a year to see if the oil company has made progress in minority hiring and promotions. It would then consider purchasing Texaco stock again.</p>
+<p>Texaco last week reached a $176 million settlement of a 1994 lawsuit brought by a group of black employees accusing the company of systematically discriminating against blacks and denying them promotions. It was the biggest settlement of a discrimination case in the United States.</p>
+<p>A former Texaco executive was charged on Tuesday with obstructing justice by destroying documents sought in the racial discrimination case.</p>
+<p>White Plains, N.Y.-based Texaco, meanwhile, faces an ongoing consumer boycott due to the allegations of discrimination.</p>
+<p>Texaco's stock lost 37.5 cents to $99.50 in afternoon trading on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

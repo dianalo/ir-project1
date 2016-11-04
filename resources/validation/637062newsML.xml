@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="637062" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: New Hampshire sues tobacco companies.</title>
+<headline>New Hampshire sues tobacco companies.</headline>
+<dateline>CONCORD, N.H. 1997-06-04</dateline>
+<text>
+<p>New Hampshire Attorney General Philip T. McLaughlin filed suit against the tobacco industry Wednesday charging that the companies misrepresented the dangers of smoking.</p>
+<p>New Hampshire becomes the 33rd state to sue the industry. Named in the action, filed in Merrimack County Superior Court, are: R.J. Reynolds Tobacco, Philip Morris, Inc, Brown and Williamson Tobacco Corp and its British parent company, B.A.T Industries, The American Tobacco Co, Liggett Tobacco Co and United States Tobacco Company.</p>
+<p>Like the other states, New Hampshire is seeing to recover millions of dollars it spent in Medicaid funding to aid indigent smokers.</p>
+<p>&quot;We have undertaken litigation against a group of corporate defendants who had specific, enormous consequential information detrimental to the public health. And they did not disseminate that information,&quot; McLaughlin said.</p>
+<p>New Hampshire also named in its suit two trade organizations -- The Council For Tobacco Research and The Tobacco Institute Inc. ((--Boston bureau, 617-367-4106))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CONCORD, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

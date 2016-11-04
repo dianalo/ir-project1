@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134765" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Burlington revenues off on corn export drop.</title>
+<headline>Burlington revenues off on corn export drop.</headline>
+<dateline>FORT WORTH, Texas 1996-10-22</dateline>
+<text>
+<p>Burlington Northern Santa Fe Corp Tuesday reported a four percent increase in third quarter net income to $247 million, or $1.58 per share, on a two percent decline in revenues to $2.05 billion.</p>
+<p>Agricultural commodities revenues declined $100 million or 30 percent due to a significant decline in corn exports, compared with record corn and wheat exports a year ago, the railroad said. Among other major sectors, coal revenues increased five percent to $520 million, chemicals revenues increased eight percent to $190 million and intermodal revenues increased two percent to $529 million.  </p>
+<p>&quot;Our 1996 third quarter performance beat last year's record quarterly results, even with a $100 million shortfall in agricultural commodities revenues,&quot; said chief executive Robert D. Krebs. &quot;This demonstrates the value of our commodity balance and tight expense controls.&quot;</p>
+<p>Third quarter 1996 operating expenses were $1.57 billion, $54 million below 1995.  Compensation and benefits expense declined $23 million to $633 million, due to a lower number of salaried employees as a result of the September 1995 merger of the Burlington Northern and Santa Fe railroads.</p>
+<p>The expense reductions were partially offset by increases in fuel, equipment rents and depreciation and amortization expenses, Burlington said.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

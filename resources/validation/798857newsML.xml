@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798857" id="root" date="1997-08-14" xml:lang="en">
+<title>VENEZUELA: Caracas Exchange lists first futures contract.</title>
+<headline>Caracas Exchange lists first futures contract.</headline>
+<dateline>CARACAS 1997-08-14</dateline>
+<text>
+<p>The Caracas Stock Exchange said Wednesday it had approved the listing of the first futures contract as a step toward the operation of a futures market on the exchange.</p>
+<p>The futures contact will operate against the exchange's official stock price index, the exchange said in a release.</p>
+<p>The exchange did not say when the futures market would begin to operate.</p>
+<p>The futures market is to be operated by the recently-created Options and Futures Chamber (CACOFV).</p>
+<p>CACOFV was given the go ahead to start a futures and options market by the Venezuelan Securities Commission (CNV) in March.</p>
+<p>It counts some of the country's largest banks among its shareholders including Banco Provincial, Mercantil and Union.</p>
+<p>((-- Caracas newsroom, 582 505 2600))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

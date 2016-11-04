@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353480" id="root" date="1997-02-04" xml:lang="en">
+<title>UK: Britain welcomes Milosevic's election climbdown.</title>
+<headline>Britain welcomes Milosevic's election climbdown.</headline>
+<dateline>LONDON 1997-02-04</dateline>
+<text>
+<p>British Foreign Secretary Malcolm Rifkind praised Serbian President Slobodan Milosevic's decision on Tuesday to recognise opposition election victories and praised demonstrators for standing up for their rights.</p>
+<p>&quot;This is long overdue and must now be implemented without delay,&quot; Rifkind said in a statement.</p>
+<p>&quot;In the meantime I pay tribute to the way in which demonstrators have stood up for their democratic rights. We and other members of the international community have also maintained constant pressure on the Serbian authorities. I hope our combined efforts will prove successful.&quot;</p>
+<p>Milosevic's climbdown followed 11 weeks of huge demonstrations.</p>
+<p>More than 100 peaceful protesters were injured on Sunday when security police used truncheons and water cannon against 20,000 demonstrators who were demanding restoration of the disputed victories in elections in 14 large Serbian municipalities, including the capital Belgrade.</p>
+<p>Britain was among other members of the European Union which had warned Milosevic that his continued intolerance of the opposition could harm relations with the European Union.</p>
+<p>Serbian opposition leaders had a cautious response to Milosevic's change of heart and said they planned to continue their rallies until other democratic reforms are put in place.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

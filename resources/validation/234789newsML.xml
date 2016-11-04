@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234789" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Viacom exercises option for UPN stake.</title>
+<headline>Viacom exercises option for UPN stake.</headline>
+<dateline>NEW YORK 1996-12-04</dateline>
+<text>
+<p>Viacom Inc said Wednesday it had exercised its option to purchase a 50 percent stake in United Paramount Network (UPN) from BHC Communications Inc, a subsidiary of Chris-Craft Industries Inc.</p>
+<p>Viacom said it would jointly own and operate the network with BHC, effective January 15.  </p>
+<p>The exercise required an investment by Viacom of about $160 million, or about half of the capital invested in UPN to date by BHC, Viacom said.</p>
+<p>UPN, a national broadcast network, was created in January 1995 by BHC and Paramount Television Group, which is part of the Viacom Entertainment Group.</p>
+<p>Viacom said it had the right to exercise its UPN partnership option by giving notice to BHC by December 15.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

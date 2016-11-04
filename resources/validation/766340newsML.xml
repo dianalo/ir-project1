@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766340" id="root" date="1997-07-30" xml:lang="en">
+<title>PHILIPPINES: Manila c. bank confirms cut in long dlr position.</title>
+<headline>Manila c. bank confirms cut in long dlr position.</headline>
+<dateline>MANILA 1997-07-30</dateline>
+<text>
+<p>The Philippine central bank said on Wednesday its Monetary Board had approved a cut in the maximum long dollar positions of banks to five percent from 10 percent of capital.  </p>
+<p>The board also set the long dollar position to $10 million with the effective limit being that which is lower.</p>
+<p>Also at its meeting on Wednesday, the board slashed the limit on the over-the-counter dollar sales per individual to $25,000 from $100,000.</p>
+<p>The central bank said these new rulings will take effect when the circular is released to banks.</p>
+<p>These measures are intended to plug loopholes against peso speculation. The peso was effectively devalued on July 11 after the central bank unloaded billions of dollars and raised its overnight borrowing rate to a 2 1/2-year high of 32 percent.</p>
+<p>It has now cut the rate to 20 percent. It has also raised further the liquidity reserves of banks to four percent from three percent to curtail the amount of pesos that would have been used for speculation.</p>
+<p>-- Manila newsroom (63 2) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

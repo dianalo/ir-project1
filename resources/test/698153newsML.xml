@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-07-01" id="root" itemid="698153" xml:lang="en">
+<title>USA: American Airlines June load factor up.</title>
+<headline>American Airlines June load factor up.</headline>
+<dateline>FORT WORTH, Texas 1997-07-01</dateline>
+<text>
+<p>June  1997		  1996</p>
+<p> Load factor - percent		  73.3		72.6</p>
+<p> Revenue passenger miles	     9,411	     9,325</p>
+<p> Available seat miles		 12,842	    12,851</p>
+<p> Total cargo ton miles		   170		 174</p>
+<p>					    Year-to-date</p>
+<p> Load factor - percent		  69.0		67.5</p>
+<p> Revenue passenger miles	    52,577	    51,177</p>
+<p> Available seat miles		 76,188	    75,828</p>
+<p> Total cargo ton miles		   999	     1,014</p>
+<p>(Revenue passenger and available seat miles in 000,000s)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-07-01" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-07-01" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="FORT WORTH, Texas" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

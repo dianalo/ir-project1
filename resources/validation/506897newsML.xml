@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="506897" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: U.S. crop progress highlights - USDA.</title>
+<headline>U.S. crop progress highlights - USDA.</headline>
+<dateline>WASHINGTON 1997-04-14</dateline>
+<text>
+<p>The U.S. Agriculture Department Monday said one percent of the U.S. winter wheat crop was in very poor condition, eight percent in poor, 28 percent fair, 53 percent good and 10 percent excellent.</p>
+<p>In its report on April 13 conditions, USDA said five percent of the winter wheat crop had headed, mainly in the Southeast and southern plains, compared to three percent one year ago and the five-year average of four percent.</p>
+<p>Two percent of the spring wheat crop was planted compared with two percent the same period a year ago, and the five-year average of seven percent, USDA said.</p>
+<p>USDA said four percent of the corn crop was planted versus four percent the same period a year ago, and four percent average.</p>
+<p>The department also reported nine percent of the cotton crop was planted, compared with eight percent in the same period in 1996 and the five-year average of nine percent.</p>
+<p>Thirteen percent of the sorghum crop was planted, compared to 15 percent one year ago and the five-year average of 17 percent.</p>
+<p>-- Washington Commodities Desk (202) 898-8394</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

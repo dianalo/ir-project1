@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="661821" id="root" date="1997-06-14" xml:lang="en">
+<title>EGYPT: GulfAir flight removes drunken Arab in Cairo.</title>
+<headline>GulfAir flight removes drunken Arab in Cairo.</headline>
+<dateline>CAIRO 1997-06-14</dateline>
+<text>
+<p>The pilot of a GulfAir flight on Saturday took advantage of a stop at Cairo airport to let off a drunk Arab man who was frightening the other passengers, airport sources said.</p>
+<p>They said Egyptian authorities took the unnamed 52-year-old into custody after he was taken off the Casablanca-Doha flight.</p>
+<p>The authorities took the man to a doctor and then to a police station, the sources added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

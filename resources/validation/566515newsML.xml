@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="566515" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: American restructures $6 billion Boeing order.</title>
+<headline>American restructures $6 billion Boeing order.</headline>
+<dateline>FORT WORTH, Texas 1997-05-07</dateline>
+<text>
+<p>American Airlines on Wednesday restructured its more than $6 billion order for Boeing Co. planes that had been put in jeopardy while the airline negotiated a new contract with its pilots.</p>
+<p>The contract, made in November, was slightly altered from the original order because American, a unit of Fort Worth, Texas-based AMR Corp., delayed putting in firm purchase orders on at least 14 aircraft due to uncertainties caused by the labour dispute.</p>
+<p>Pilots at American ratified a new five-year contract on Monday.</p>
+<p>The deal for 103 aircraft was the largest ever in Boeing's history when it was announced. Since then, Boeing has received an even larger order for 106 aircraft worth $6.7 billion from Delta Air Lines Inc.</p>
+<p>&quot;We're very happy,&quot; said Boeing spokeswoman Liz Verdier. &quot;We have known all along that American wanted Boeing airplanes ... but we were waiting on the details because they needed to get through their contractual negotiations with their union.&quot;</p>
+<p>Under the exclusive contract,  Boeing will supply American with aircraft through the year 2018.</p>
+<p>&quot;With the pilot contract now ratified, we can begin to move American Airlines forward again, and an important part of that is to finalise our exclusive arrangement with Boeing,&quot; said AMR Chairman Robert Crandall.</p>
+<p>American confirmed orders for 75 Boeing 737s, 12 Boeing 757s and four extended-range Boeing 767-300s. It also will order a number of Boeing 777 aircraft.</p>
+<p>The exact number of 777s is still being considered because American is studying two variants of the plane that Boeing has developed since the original order was made.</p>
+<p>As in the original deal, American has taken options to buy another 527 aircraft. The main difference between the new deal and November's is the delivery schedule.</p>
+<p>In the restructured deal, deliveries of the extended-range 767-300s will be made in the spring of 1998, while the 757s will be delivered at the rate of one each month, beginning June 1998.  The first delivery of the 737s is scheduled in January 1999, continuing through March 2004.</p>
+<p>American said that to maintain the capacity lost because of the delay in deliveries of 737s, it will increase to 75 the number of 727s that will be modified with &quot;hushkits.&quot; The modification will reduce engine noise and enable the aircraft to meet federal noise standards that take full effect on Jan. 1, 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

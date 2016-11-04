@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466493" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: Clinton postpones Latin America trip.</title>
+<headline>Clinton postpones Latin America trip.</headline>
+<dateline>WASHINGTON 1997-03-25</dateline>
+<text>
+<p>President Bill Clinton said on Tuesday he had decided to postpone a trip to Latin America scheduled for May until later in the year because of his injured knee.</p>
+<p>Speaking at a White House event on health care, Clinton said he would visit Mexico, Barbados and Costa Rica in May. He had been due to visit Mexico April 11-12, but the Mexican foreign ministry said Tuesday this had been moved to May 6-7.  </p>
+<p>Clinton's visits to Barbados and Costa Rica, originally scheduled for the extended Latin America trip in May, would be combined with the Mexico trip and take place May 6-10, the White House said in a statement released after Clinton spoke.</p>
+<p>Clinton, who tore a tendon in his right knee on March 14, will visit Brazil, Argentina and Venezuela Oct. 12-17, the statement added. The Latin America trip had been scheduled for May 6-13.</p>
+<p>&quot;Later in the year, we're going to go to South America and do that trip when I'm somewhat more mobile,&quot; added Clinton, who is on crutches as he recovers from knee surgery.</p>
+<p>&quot;Among other things we're going to Argentina and Brazil, they're big countries, there's going to be a lot of moving around and I need a little more physical mobility,&quot; he said. &quot;Besides, I'm hoping to ride horses and do some other things and I'm not quite ready for that as you can see.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BARB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

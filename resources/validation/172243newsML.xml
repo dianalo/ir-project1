@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172243" id="root" date="1996-11-07" xml:lang="en">
+<title>CANADA: Canada bans overnight junk-mail faxes.</title>
+<headline>Canada bans overnight junk-mail faxes.</headline>
+<dateline>OTTAWA 1996-11-07</dateline>
+<text>
+<p>The Canadian Radio-television and Telecommunications Commission (CRTC) on Thursday banned overnight junk faxes for the majority of Canadians.</p>
+<p>&quot;With the growing presence of fax machines in Canadian homes, there have been many consumer complaints about the misuse of fax advertising,&quot; CRTC Chairwoman Francoise Bertrand said in announcing the decision.</p>
+<p>Unsolicited faxes will be permitted only from 9 a.m. to 9:30 p.m. Monday to Friday and 10 a.m. to 6 p.m. on weekends.</p>
+<p>It applies to the areas served by British Columbia Telecom Inc and BCE Inc's Bell Canada -- essentially British Columbia, Ontario and Quebec. The two companies had proposed the ban to the CRTC, which granted its approval.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

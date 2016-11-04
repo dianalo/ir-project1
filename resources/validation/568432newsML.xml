@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568432" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Coin Bill Validator Q2 net profit vs loss.</title>
+<headline>Coin Bill Validator Q2 net profit vs loss.</headline>
+<dateline>VALLEY STREAM, N.Y. 1997-05-08</dateline>
+<text>
+<p>THREE MONTHS ENDED	    SIX MONTHS ENDED</p>
+<p>				MARCH 31,		     MARCH 31,</p>
+<p>			1997	 1996	     1997	  1996</p>
+<p>NET SALES	 $5,319     $4,394	  $10,000	$7,540</p>
+<p>GROSS PROFIT     1,912	  381	    3,588	 1,643</p>
+<p>NET INCOME (LOSS)</p>
+<p>			 227	 (542)	     416	  (323)</p>
+<p>NET INCOME (LOSS)</p>
+<p>  PER SHARE	$0.08     ($0.20)	   $0.15	($0.12)</p>
+<p>WEIGHTED AVERAGE</p>
+<p>COMMON SHARES</p>
+<p>OUTSTANDING</p>
+<p>		 2,862,796  2,750,000	 2,858,830    2,750,000</p>
+<p>			   (IN 000s EXCEPT PER SHARE DATA)</p>
+<p>NOTE:  Coin Bill Validator Inc said its second-quarter period ended March 31.</p>
+<p>Net income for the second quarter and first six months of 1996 includes $1.1 million pre-tax write-down of inventory.</p>
+<p>Average shares outstanding and net income per share for the second quarter and the first six months of 1997 include the impact of 112,796 and 108,830, respectfully, of common share equivalents based on stock options outstanding, using the treasury stock method.</p>
+<p>The company said that for the second quarter and first six months of 1996, the common stock equivalents were anti-dilutive and were not included in the net income per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLEY STREAM, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

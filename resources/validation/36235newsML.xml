@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36235" id="root" date="1996-09-05" xml:lang="en">
+<title>BAHRAIN: PRESS DIGEST - Bahrain - Sept 5.</title>
+<headline>PRESS DIGEST - Bahrain - Sept 5.</headline>
+<dateline>MANAMA 1996-09-05</dateline>
+<text>
+<p>These are some of the leading stories in the Bahraini press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-AYAM</p>
+<p>- Bahrain Petroleum Company to shut down two crude oil production units later this month for maintenance.</p>
+<p>- President of the British Board of Trade visits Bahrain for talks to boost trade links.</p>
+<p>- Foreign Minister Sheikh Mohammed bin Mubarak al-Khalifa gets message from his Egyptian counterpart on the Middle East peace process.</p>
+<p>AKHBAR AL-KHALEEJ</p>
+<p>- Emir, U.S. ambassador to Bahrain review latest regional developments. U.S. forces fired missiles against targets in Iraq on Tuesday and Wednesday.</p>
+<p>- U.S. Defence Secretary Perry telephones Bahrain's Crown prince to discuss Gulf situation.</p>
+<p>- Jordanian Prime Minister Kabariti affirms his country's desire to boost relations with Bahrain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

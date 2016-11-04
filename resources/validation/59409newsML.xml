@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59409" id="root" date="1996-09-17" xml:lang="en">
+<title>GERMANY: Arthuis sees French 97 deficit within three pct.</title>
+<headline>Arthuis sees French 97 deficit within three pct.</headline>
+<dateline>KEMPTEN, Germany 1996-09-17</dateline>
+<text>
+<p>French Finance Minister Jean Arthuis said on Tuesday that France's 1997 total public deficit would be contained within the Maastrict Treaty limit of three percent of gross domestic product.</p>
+<p>He declined to comment on whether the government, which presents the budget for 1997 on Wednesday, would announce that it planned to reduce the deficit to below three percent.</p>
+<p>&quot;The sum of public borrowing requirements will be contained within the limit of three percent,&quot; he told reporters after a meeting here of French and German finance ministers and central bankers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KEMPTEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

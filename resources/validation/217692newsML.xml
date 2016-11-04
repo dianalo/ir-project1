@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217692" id="root" date="1996-11-26" xml:lang="en">
+<title>FRANCE: Eurotunnel traffic to resume in few days.</title>
+<headline>Eurotunnel traffic to resume in few days.</headline>
+<dateline>COQUELLES, France 1996-11-26</dateline>
+<text>
+<p>Eurotunnel said on Tuesday that passenger shuttle services and Eurostar traffic could resume &quot;between now and several days on part of five-sixths of the tunnel&quot;.</p>
+<p>But managing director Alain Bertrand said it would take &quot;three to five months&quot; to complete repairs on the stretch of tunnel damaged by fire last week.</p>
+<p>&quot;I think that, for Eurostar and the tourist shuttles, we can have a resumption soon, in several days and long before the end of the work,&quot; he said. &quot;A period of three to five months seems realistic for the work given the current state of our analyses.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COQUELLES, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

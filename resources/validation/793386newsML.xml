@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="793386" id="root" date="1997-08-12" xml:lang="en">
+<title>CANADA: QUALITY-LUFTHANSA CANADA JULY CARGO REPORT.</title>
+<headline>QUALITY-LUFTHANSA CANADA JULY CARGO REPORT.</headline>
+<dateline>TORONTO 1997-08-12</dateline>
+<text>
+<p>Lufthansa Cargo AG, latest monthly report on service standards at its Canadian gateways, Montreal Toronto and Vancouver in percent compared to June 1997 shows.</p>
+<p>    Customer commitment   Achievement</p>
+<p>    July 1997		   June 1997</p>
+<p>Flown as booked</p>
+<p>(Confirmed bookings within six hour time frame)</p>
+<p>    93.60 pct		     93.20 pct</p>
+<p>Telephone accessibility</p>
+<p>(Incoming calls answered within 25 seconds, or four rings)</p>
+<p>    91 pct			  91 pct</p>
+<p>Documents availability</p>
+<p>(General cargo, passenger flights, within four hours of arrival)</p>
+<p>    100 pct			100 pct</p>
+<p>(General cargo, freighter flights, within five hours of arrival)</p>
+<p>    100 pct			100 pct</p>
+<p>(Express cargo, available within 1.5 hours of arrival)</p>
+<p>    100 pct			100 pct</p>
+<p>Truck waiting time</p>
+<p>(maximum 30 minutes between arrival and unloading)</p>
+<p>    100 pct			100 pct</p>
+<p>Booking confirmation</p>
+<p>(Reply within two hours)</p>
+<p>    96.1 pct		    98.8 pct</p>
+<p>Claims handling</p>
+<p>(preliminary response within seven days)</p>
+<p>    66.67 pct		    100 pct</p>
+<p>(Final settlement within four weeks)</p>
+<p>    65 pct			 100 pct</p>
+<p>- Reuters Air Cargo Service Tel+ 44 171 542 7706 Fax +5017 - www.racs.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

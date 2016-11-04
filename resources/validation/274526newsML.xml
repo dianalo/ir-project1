@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="274526" id="root" date="1996-12-24" xml:lang="en">
+<title>UK: LSE Turnover/Indices - DEC 24.</title>
+<headline>LSE Turnover/Indices - DEC 24.</headline>
+<text>
+<p>FTSE INDICES			     VOLUME</p>
+<p>FTSE 100	4092.4 (4077.6)   Total Trades (DEC 20) 25,074</p>
+<p>Eurotrack 100 1886.07(1882.05)</p>
+<p>Eurotrack 200 1949.77(1937.76)</p>
+<p>FTSE 250	4460.60(4448.4)	  Other Indices</p>
+<p>FT Act-350    2030.7 (2023.7)   FT Govt Secs  94.76  (94.42)</p>
+<p>					  FT Gold MN   1831.15 (1834.07)</p>
+<p>FT-ACTUARIES INDICES</p>
+<p>FT 30    2796.60  (2790.40)   All share    2000.54 (1998.06)</p>
+<p>ISEQ Index 2672.60(2670.14)   500 Share    2080.69 (2077.47)</p>
+<p>					Oils	   4039.72 (4035.87)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

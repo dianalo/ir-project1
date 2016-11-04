@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303122" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Export agent details Pakistani wheat purchase.</title>
+<headline>Export agent details Pakistani wheat purchase.</headline>
+<dateline>CHICAGO 1997-01-13</dateline>
+<text>
+<p>Pakistan on Monday bought 135,000 tonnes of U.S. soft white wheat and 180,000 tonnes of Australian white wheat for February 1-28 arrival, its U.S. export agent said.</p>
+<p>The deal included 10,000 tonnes of U.S. wheat at $150.90 a tonne, 10,000 tonnes at $150.97 and 10,000 tonnes at $151.77, all from Continental Grain.</p>
+<p>It bought 10,000 tonnes of U.S. wheat at $150.90 and another 10,000 tonnes at $151.09 from United Grain.</p>
+<p>The purchase also had 20,000 tonnes of U.S. wheat at $150.96, 20,000 tonnes at $151.36 and 20,000 tonnes at $152.44 all from Cargill Inc.</p>
+<p>From Columbia Grain, Pakistan bought 10,000 tonnes at $151.85 and 15,000 tonnes of U.S. wheat at $152.22.</p>
+<p>From Australia, it bought 45,000 tonnes from Nichimen Corp at US$155.30 a tonne, 90,000 tonnes from Cargill at US$156.285 and from Citic Australia Food, 45,000 tonnes of wheat at US$156.285.</p>
+<p>((Doris Frankel 312-983-7305))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

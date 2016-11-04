@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418836" id="root" date="1997-03-04" xml:lang="en">
+<title>TUNISIA: Rate falls at Tunisian treasury auction.</title>
+<headline>Rate falls at Tunisian treasury auction.</headline>
+<dateline>TUNIS 1997-03-04</dateline>
+<text>
+<p>The Tunisian Treasury raised 20 million dinars ($18.5 million) at its weekly auction of treasury bills dated March 4 and repaid 22.7 million dinars of maturing paper.</p>
+<p>The issue was at a 6.9375-percent coupon rate for 52-week bills, down from 7.0625 percent last week.</p>
+<p>Banks bid for 373.5 million dinars for 13-, 26- and 52-week paper at between 6.8750 and 7.0625 percent. The Treasury issued only 52-week paper.</p>
+<p>--Tunis newsroom, 2161-787538 ($ = 1.082 Tunisian Dinars)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

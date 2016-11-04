@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="553419" id="root" date="1997-05-01" xml:lang="en">
+<title>CUBA: Cuba says it ratified chemical arms treaty.</title>
+<headline>Cuba says it ratified chemical arms treaty.</headline>
+<dateline>HAVANA 1997-04-30</dateline>
+<text>
+<p>Cuba said on Wednesday it had ratified a treaty banning chemical weapons worldwide.</p>
+<p>A statement by the Foreign Ministry in Havana announced the Cuban government's ratification of the treaty, one day after the convention went into effect.</p>
+<p>The United Nations treaty prohibits the use, development, production and stockpiling of all chemical weapons and provides for their total elimination over the next decade.</p>
+<p>Cuba said, however, that it could not be held responsible if chemical weapons existed at the Guantanamo Bay naval base in eastern Cuba, which is occupied by the United States armed forces.</p>
+<p>&quot;That responsibility corresponds to the United States of America as the power which is illegally occupying that part of national territory where the base is sited,&quot; the Cuban Foreign Ministry statement said.</p>
+<p>It also added that the economic embargo which the U.S. government continued to impose against Cuba was contrary to the spirit and purpose of the U.N. chemical arms pact.</p>
+<p>A total of 165 states have signed the U.N. treaty and, with the Cuban move, 88 of these have ratified it, including the United States.</p>
+<p>Russia, which along with the U.S. is the world's largest possessor of chemical weapons, has still not ratified the pact.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

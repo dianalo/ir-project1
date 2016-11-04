@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="550819" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: U.S. urges Zaire rebels to allow access to refugees.</title>
+<headline>U.S. urges Zaire rebels to allow access to refugees.</headline>
+<dateline>WASHINGTON 1997-04-30</dateline>
+<text>
+<p>The U.S. State Department on Wednesday urged Zaire's Rebel Alliance to let U.N. teams have access to thousands of Rwandan refugees near the city of Kisangani.</p>
+<p>&quot;... We have urged the Rebel Alliance to allow the United Nations relief teams access to those refugees and to allow those refugees to be transported to safety in Rwanda,&quot; State Department spokesman Nicholas Burns told reporters.</p>
+<p>Burns said Washington's United Nations ambassador, Bill Richardson, had privately spoken to rebel leader Laurent Kabila about the refugees in talks in Zaire.</p>
+<p>In addition, Burns said, &quot;we have very grave concerns about the persistent allegations of mass atrocities...in and near Kisangani, the credible and persistent reports from the refugees that those atrocities have taken place.&quot;</p>
+<p>Burns noted that a U.N. special team charged with investigating the atrocity reports had been blocked from entering Zaire.</p>
+<p>&quot;We believe that the United Nations should be able to investigate these reports, and we believe that justice must be done,&quot; Burns said. &quot;Therefore, the UN should be allowed on the scene to interview the refugees who have reports or who themselves suffered from retribution by soldiers.&quot;</p>
+<p>Kabila has issued a deadline to aid agencies, giving them 60 days to repatriate the Rwandan Hutus, but Burns said Kabila had indicated some flexibility on this.</p>
+<p>&quot;Mr. Kabila said that he'd be prepared to extend the time frame if a good faith repatriation effort is under way,&quot; Burns said.</p>
+<p>Aid agencies said on Tuesday they had increasingly shocking reports of killings of Hutu refugees both around Kisangani and elsewhere. The Hutu refugees fled Rwanda in 1994 and are collectively accused by minority Tutsis of genocide in Rwanda that year.</p>
+<p>Richardson said in Kinshasa that Kabila and Zairean President Mobutu Sese Seko agreed to hold their first face-to-face meeting on Friday on a South African naval ship in the Atlantic.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

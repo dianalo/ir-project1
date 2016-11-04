@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172539" id="root" date="1996-11-07" xml:lang="en">
+<title>VENEZUELA: British tourists held in Venezuelan cocaine bust.</title>
+<headline>British tourists held in Venezuelan cocaine bust.</headline>
+<dateline>CARACAS 1996-11-07</dateline>
+<text>
+<p>Two British tourists were detained on Thursday by Venezuela's Anti-Drug Enforcement Authority after customs officials said they found 10 kilos (22 pounds) of cocaine strapped around their chests at Caracas international airport.</p>
+<p>James Milles and Paul Clark were bound for London on a VIASA flight after a 10-day stay in Venezuela when they were stopped at customs. Each allegedly had about five kilos (11 pounds) of cocaine packed into special jackets they were wearing under their shirts.</p>
+<p>The two men, who said they were innocent, were being held in custody but there was no indication when they might be charged.</p>
+<p>&quot;We're innocent, we haven't done anything,&quot; Milles told Reuters from his detention room. &quot;A man put a pistol against our heads, he was going to shoot us and told us to go through the airport, through customs ... He watched us do it all.&quot;</p>
+<p>No further details were immediately available about the two travelers, who said they were in Venezuela for a vacation The British Embassy had no details of their home towns.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

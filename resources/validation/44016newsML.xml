@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44016" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Ex-U.S. Senator Barry Goldwater has minor stroke.</title>
+<headline>Ex-U.S. Senator Barry Goldwater has minor stroke.</headline>
+<dateline>PHOENIX, Ariz 1996-09-10</dateline>
+<text>
+<p>Former Sen. Barry Goldwater, the dean of conservative Republicans, has suffered a stroke and was in the hospital for neurological tests, his office said on Tuesday.</p>
+<p>Spokeswoman Doris Berry said that Goldwater's stroke on Monday was &quot;minor.&quot; &quot;The Lord blessed us,&quot; she said.</p>
+<p>Goldwater was admitted to the Barrows Neurological Institute of St. Joseph's Hospital and Medical Centre in Phoenix, where he was undergoing tests, Berry said.</p>
+<p>She quoted the former Arizona senator's wife Susan as saying he was &quot;resting comfortably.&quot; A hospital spokeswoman said Goldwater was in good condition and seemed to be in good spirits.</p>
+<p>Goldwater failed in his bid for the White House against Lyndon Johnson in 1964, but he is credited with drawing Ronald Reagan into national politics and reviving the right-wing of the Republican party.</p>
+<p>His most memorable -- and perhaps controversial -- quote came in his 1964 presidential nomination acceptance speech when he thundered: &quot;Extremism in the defence of liberty is no vice! Moderation in the pursuit of justice is no virtue!&quot;</p>
+<p>President Johnson and his aides seized on that and other seemingly bellicose Goldwater words to portray him as a wild-eyed zealot who might plunge the world into nuclear war.</p>
+<p>Although Goldwater was thrashed in the general election by Johnson, his campaign launched Reagan's political career and laid the foundation for conservatives to seize the party, and the White House, under Reagan in 1980.</p>
+<p>The senator, by then established in public affections as a witty bellwether of right-wing principle, was at the peak of his power on Capitol Hill and on hand to help Reagan launch his &quot;conservative revolution&quot; of tax-cuts and reordered priorities including a vast military buildup.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX, Ariz"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

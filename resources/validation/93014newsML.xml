@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93014" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: United Waste makes acquisitions.</title>
+<headline>United Waste makes acquisitions.</headline>
+<dateline>GREENWICH, Conn. 1996-10-03</dateline>
+<text>
+<p>United Waste Systems Inc said on Thursday it has completed the acquisition of 16 companies consisting of two landfills, four stand-alone collection companies, 12 tuck-in collection companies and three transfer stations.</p>
+<p>The combined annualized revenues of the acquired companies are approximately $25 million, United Waste said.</p>
+<p>The acquisitions will boost United Waste's presence in the Northeast, Illinois and Kentucky and the Rocky Mountain region, the company said.</p>
+<p>United Waste Systems currently owns or operates 32 landfills, 44 collection companies and 55 transfer stations. The price of the acquisitions was not immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENWICH, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

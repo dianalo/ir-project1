@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="557994" id="root" date="1997-05-03" xml:lang="en">
+<title>BARBADOS: CRICKET-WEST INDIES WIN TOSS, PUT INDIA IN TO BAT.</title>
+<headline>CRICKET-WEST INDIES WIN TOSS, PUT INDIA IN TO BAT.</headline>
+<dateline>BRIDGETOWN, Barbados 1997-05-03</dateline>
+<text>
+<p>West Indies won the toss and put India in to bat in the fourth and final one-day international at the Kensington Oval on Saturday.</p>
+<p>Both teams were unchanged from the third game in Kingstown, St Vincent, won by West Indies by 18 runs to give them a 2-1 series lead.</p>
+<p>Teams:</p>
+<p>West Indies - Shivnarine Chanderpaul, Stuart Williams, Brian Lara, Carl Hooper, Jimmy Adams, Roland Holder, Courtney Browne, Ottis Gibson, Curtly Ambrose, Franklyn Rose, Courtney Walsh (captain).</p>
+<p>India - Sachin Tendulkar (captain), Saurav Ganguly, Rahul Dravid, Mohammad Azharuddin, Ajay Jadeja, Robin Singh, Noel David, Syed Karim, Anil Kumble, Abey Kuruvilla, Venkatesh Prasad.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BARB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-03"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRIDGETOWN, Barbados"/>
+<dc element="dc.creator.location.country.name" value="BARBADOS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

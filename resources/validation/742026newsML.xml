@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="742026" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: TABLE - Sugen Inc Q2 results.</title>
+<headline>TABLE - Sugen Inc Q2 results.</headline>
+<dateline>REDWOOD CITY, Calif.,</dateline>
+<text>
+<p>SUGEN, Inc.</p>
+<p>			For the Periods Ended June 30, 1997</p>
+<p>				 STATEMENTS OF OPERATIONS</p>
+<p>		    (In thousands, except per share amounts)</p>
+<p>					  (unaudited)</p>
+<p>				Three Months Ended   Six Months Ended</p>
+<p>					June 30,		June 30,</p>
+<p>				    1997     1996	 1997     1996</p>
+<p> Contract revenue	 $  1,484 $  4,429    $ 2,971   $7,908</p>
+<p>Costs and expenses:</p>
+<p>Research and</p>
+<p>   development		 8,570    7,717     16,576   14,332</p>
+<p>General and</p>
+<p>   administrative	    1,512    1,587	2,990    2,967</p>
+<p>Total costs and</p>
+<p>    expenses		  10,082    9,304     19,566   17,299</p>
+<p> Operating loss	    (8,598)  (4,875)   (16,595)  (9,391)</p>
+<p>Other income and expenses:</p>
+<p>Interest income</p>
+<p>   (expense), net		436	424	  959	934</p>
+<p> Net loss		    (8,162)  (4,451)   (15,636)  (8,457)</p>
+<p> Net loss per share	 (0.62)   (0.42)     (1.20)   (0.81)</p>
+<p>Shares used in computing</p>
+<p>  net loss per share	13,079   10,500     13,050   10,486</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif., )"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

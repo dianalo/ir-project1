@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="776661" id="root" date="1997-08-04" xml:lang="en">
+<title>BELGIUM: TABLE - LIQUIDITY STEADY AT BELGIAN MONEY TENDER.</title>
+<headline>TABLE - LIQUIDITY STEADY AT BELGIAN MONEY TENDER.</headline>
+<dateline>BRUSSELS 1997-08-04</dateline>
+<text>
+<p>The Belgian central bank gave the following details on its fixed-rate tender for</p>
+<p>seven-day advances -</p>
+<p>    Value date 06/08	  expiry on 13/08</p>
+<p>    Amount allotted	   7.025 bln bfr    (7.000 bln *)</p>
+<p>    Interest rate	     3.00 pct	    (3.00 pct **)</p>
+<p>    Total amount of bids    150.625 bln bfr</p>
+<p>Percentage of bids accepted  4.51</p>
+<p>* amount draining from the money market on 06/08</p>
+<p>** interest rate at previous tender on 28/07</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="772401" id="root" date="1997-08-01" xml:lang="en">
+<title>SINGAPORE: Nicholas-Applegate starts Singapore operations.</title>
+<headline>Nicholas-Applegate starts Singapore operations.</headline>
+<dateline>SINGAPORE 1997-08-01</dateline>
+<text>
+<p>Nicholas-Applegate Capital Management  Asia said on Friday it has started its Singapore operations under  its brand name.</p>
+<p>A company statement said the name change reflected its recent acquisition  of Credit Lyonnais International Asset Management-Asia (CLIAM-Asia),  the Asian asset management division of French bank Credit Lyonnais  SA.</p>
+<p>CLIAM's five funds will now be renamed using the Nicholas-Applegate  brand.</p>
+<p>The U.S.-based fund company manages over US$30 billion in assets for  individual and institutional investors.</p>
+<p>--Singapore Newsroom (+65 870 3093)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

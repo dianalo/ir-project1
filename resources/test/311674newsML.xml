@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-01-16" id="root" itemid="311674" xml:lang="en">
+<title>ARGENTINA: Argentine Central Bank reserves detailed.</title>
+<headline>Argentine Central Bank reserves detailed.</headline>
+<dateline>BUENOS AIRES 1997-01-16</dateline>
+<text>
+<p>The Argentine Central Bank Thursday released the following international reserve and currency liability data, in millions:</p>
+<p>*A = International reserves (gold, currency, securities,  including repos and reverse repos).</p>
+<p> B = Liquidity requirements.</p>
+<p> C = International reserves in the financial system.</p>
+<p>*D = Monetary base.</p>
+<p> E = Currency liabilities.</p>
+<p> F = Net repurchase tender agreements.</p>
+<p> G = Bank liquidity paper.</p>
+<p> H = Financial liabilities.</p>
+<p>Date	*A*   *B*    *C*    *D*    *E*   *F*  *G*   *H*</p>
+<p>Jan 02  21,640 3,653 25,293 14,085 14,095 5,040  0  20,499</p>
+<p>Jan 03  21,953 3,771 25,724 14,040 14,045 5,068  0  20,833</p>
+<p>Jan 06  21,644 3,910 25,554 14,056 14,098 5,383  0  20,529</p>
+<p>Jan 07  21,292 3,983 25,275 14,025 14,079 5,205  0  20,074</p>
+<p>Jan 08  21,179 4,094 25,273 13,985 14,078 5,157  0  20,092</p>
+<p>Jan 09  21,199 4,280 25,479 13,942 14,014 5,396  0  20,125</p>
+<p>Jan 10  21,211 4,451 25,662 13,920 13,970 5,490  0  20,028</p>
+<p>Jan 13  21,066 4,449 25,515 13,901 13,966 5,426  0  19,865</p>
+<p>Jan 14  20,980 4,377 25,357 13,757 13,812 5,537  0  19,776</p>
+<p>*A  Of the $20.98 billion in international reserves, $2.39 billion (11.41 percent) are in securities.</p>
+<p>*D  There are currently no peso-denominated current accounts at the Central Bank.</p>
+<p>((-- Buenos Aires Newsroom +54 1 318-0651))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-01-16" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-01-16" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="BUENOS AIRES" />
+<dc element="dc.creator.location.country.name" value="ARGENTINA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

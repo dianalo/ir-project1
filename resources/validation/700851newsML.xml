@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700851" id="root" date="1997-07-01" xml:lang="en">
+<title>SPAIN: Spain's CNMV says trade to resume in two shares.</title>
+<headline>Spain's CNMV says trade to resume in two shares.</headline>
+<dateline>MADRID 1997-07-01</dateline>
+<text>
+<p>Spain's Stock Market Commission CNMV cancelled trading suspensions as of today for shares of Financiera y Minera and Cementos Molins.</p>
+<p>Both groups were suspended on June 27, when Financiera y Minera said it would propose a study be conducted on a possible merger between it and Cementos Molins.</p>
+<p>But in a mandatory disclosure, Cementos Molins said it rejected a merger study.</p>
+<p>Financiera y Minera owns 25.34 percent of Cementos Molins.</p>
+<p>Financiera y Minera, in a separate disclosure to the CNMV, said there were no agreements on a possible merger other than with Ciments Francais, its major shareholder, since the project was just a proposal for a study.</p>
+<p>--Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

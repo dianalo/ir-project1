@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="461855" id="root" date="1997-03-23" xml:lang="en">
+<title>NETHERLANDS: ONE KILLED IN AJAX-FEYENOORD SOCCER VIOLENCE.</title>
+<headline>ONE KILLED IN AJAX-FEYENOORD SOCCER VIOLENCE.</headline>
+<dateline>BEVERWIJK, Neerlands 1997-03-23</dateline>
+<text>
+<p>One man died and dozens were injured during violent clashes between supporters of rival first-division clubs Ajax Amsterdam and Feyenoord Rotterdam on wasteground along the A9 motorway near Amsterdam, the Dutch news agency ANP said on Sunday.</p>
+<p>Hundreds of fans armed with baseball bats and clubs streamed to the pre-arranged venue for a showdown ahead of Feyenoord's match against FC Alkmaar later today, it said.</p>
+<p>Police, who had been prepared for a clash between the rival supporters at a different venue, were taken unawares, ANP said.</p>
+<p>It said several fans wounded in the clash had been taken to hospital in Beverwijk to be treated for stab wounds.</p>
+<p>Several cars had been set alight, it added.</p>
+<p>A police spokesman told Reuters the situation was still too confused to give details.</p>
+<p>&quot;It is still very confused and chaotic,&quot; he said.  REUTER</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEVERWIJK, Neerlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

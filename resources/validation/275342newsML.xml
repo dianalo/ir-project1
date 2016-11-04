@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275342" id="root" date="1996-12-24" xml:lang="en">
+<title>SPAIN: Peseta debt/interbank closing report.</title>
+<headline>Peseta debt/interbank closing report.</headline>
+<dateline>MADRID 1996-12-24</dateline>
+<text>
+<p>Spanish government bonds ended slightly lower amid little interest on Tuesday, closing four hours early for the Christmas holiday.</p>
+<p>&quot;It's been a bit of a bogus session, hardly any volume with just over 6,000 contracts traded. With no references from other markets such as Germany and a lack of participants it's given us exactly the kind of market you'd expect&quot; said one trader.</p>
+<p>The local forex market was closed today.</p>
+<p>The bond market resumes trade on Thursday.</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

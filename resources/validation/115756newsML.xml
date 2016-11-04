@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115756" id="root" date="1996-10-14" xml:lang="en">
+<title>GERMANY: German economic growth accelerated in Q3 - ministry.</title>
+<headline>German economic growth accelerated in Q3 - ministry.</headline>
+<dateline>BONN 1996-10-14</dateline>
+<text>
+<p>German economic growth accelerated significantly in the third quarter of this year after showing a 1.2 percent year-on-year gain in the second quarter, the economics ministry said on Monday in its monthly report.</p>
+<p>But, the report added, the export-led recovery after a winter economic slowdown was still not rapid or broad enough to alleviate high German unemployment.  </p>
+<p>&quot;The pace and breadth of economic growth clearly are not yet enough to achieve lasting improvement in the jobs market,&quot; the report said.</p>
+<p>Although the economy is recovering, many forecasters say Germany may enter another phase of &quot;jobless growth&quot; in which an economy with too many obstacles to investment fails to create new jobs in place of those lost in the last slowdown.</p>
+<p>The ministry said domestic investment was slack, failing to show the drive of previous recoveries. But supply-side measures under the government's Programme for More Jobs and Growth austerity plan should lay better ground for growth, it said.</p>
+<p>Monthly data showed that manufacturing output recovered further in the third quarter, with confidence brightening in both western Germany and the former communist east. But the building industry remains depressed and the jobless trend remains upward. Unemployment in September, at 3.85 million, was over 300,000 up against a year earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

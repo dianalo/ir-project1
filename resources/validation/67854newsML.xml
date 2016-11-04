@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67854" id="root" date="1996-09-20" xml:lang="en">
+<title>GERMANY: Dresdner ends Gardena bookbuilding early.</title>
+<headline>Dresdner ends Gardena bookbuilding early.</headline>
+<dateline>FRANKFURT 1996-09-20</dateline>
+<text>
+<p>Germany's Dresdner Bank AG said on Friday that it has ended the bookbuilding process for shares in German garden equipment maker Gardena Holding AG early due to strong demand.</p>
+<p>Dresdner said the demand was apparent during the first two days of the offering and was more than 15 times above the number of shares to be offered to the public.</p>
+<p>The final price for the shares will be announced on Monday and the shares are expected to begin trading on Sept 27.</p>
+<p>The price for the bookbuilding period was set at 34 to 38 marks per five-mark nominal share, said Dresdner, the lead manager for the offering.</p>
+<p>Gardena, based in Munich, is offering 1.14 million preferred shares following a capital increase of seven million marks which brought its equity capital up to 57 million marks.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

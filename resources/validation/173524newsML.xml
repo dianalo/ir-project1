@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173524" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Diametrics completes Biomedical purchase.</title>
+<headline>Diametrics completes Biomedical purchase.</headline>
+<dateline>ST. PAUL, Minn. 1996-11-07</dateline>
+<text>
+<p>Diametrics Medical Inc said Thursday it had completed the purchase of Biomedical Sensors Ltd, an operating unit of Pfizer Inc, for $1.5 million cash and a $7.3 million six-year promissory note.</p>
+<p>Biomedical is based in High Wycombe, England, and markets a line of indwelling monitoring systems for continuous blood and tissue assessment in critically ill patients.  </p>
+<p>&quot;We expect this unique combination of products to double Diametrics Medical sales and significantly enhance our earnings potential,&quot; David Giddings, Diametrics chairman, said in a statement.</p>
+<p>He called the acquisition a major step toward Diametrics becoming a leader in critical care blood analysis systems.</p>
+<p>Biomedical will operate as a subsidiary of Diametrics. Roy Johnson, Biomedical president, will continue to lead the business as its president and managing director. He also will be a member of the Diametrics board.</p>
+<p>The projected market for point of care testing, excluding near patient laboratories, is estimated at $700 million worldwide and is projected to rise to over $1 billion by the year 2000.</p>
+<p>&quot;With the breadth of our product line in bedside testing and patient-attached blood analysis and monitoring, Diametrics should be able to capture a significant share of this rapidly growing market, both domestically and internationally,&quot; Giddings said.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

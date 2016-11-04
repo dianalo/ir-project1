@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="707556" id="root" date="1997-07-04" xml:lang="en">
+<title>CHINA: Record rain sweeps away Hong Kong festival mood.</title>
+<headline>Record rain sweeps away Hong Kong festival mood.</headline>
+<byline>Justin Jin</byline>
+<dateline>HONG KONG 1997-07-04</dateline>
+<text>
+<p>The heaviest rains on record in Hong Kong pelted the region on Friday, washing away residues of a festive handover mood, and forecasters warned of more storms to come.</p>
+<p>Rain caused floods and landslides that injured eight people in the former British colony's first working days after transfer to Beijing's control on Tuesday. An elderly woman was missing, believed trapped, in her home under a mud fall.</p>
+<p>The coastal territory received over 321 mm (12.5 in) mm of rain in the first three days of July, the highest fall since records began in 1884, B. Y. Lee, the observatory's senior scientific officer, told Reuters.</p>
+<p>In some places more than 500 mm (19.5in) of rain have fallen in less than five days.</p>
+<p>&quot;I expect rains to break another record today,&quot; Lee said. The observatory recorded nearly 20 mm (7.8in) rain by the morning's end.</p>
+<p>&quot;Usually weather at the beginning of July is quite good.&quot; he said but &quot;stagnant low pressure&quot; had brought the deluge.</p>
+<p>Rescue teams combated 122 landslides since early Wednesday and 129 floods since midnight on Monday, the government said.</p>
+<p>Insurance firms were also flooded--with damage claims, agents said. They added, however, that it was too early to tot up the costs, a large part of which will come from car damage.</p>
+<p>Landslips severed roads including part of the vital Tuen Mun Highway linking residential new towns in the New Territories region with urban areas in Kowloon and Hong Kong island, where much of the population work and do business.</p>
+<p>The closure forced thousands of people, seeking alternative routes to work, to queue up at ferry piers.</p>
+<p>Local newspapers said many unregistered boat operators took advantage of the road blockages and charged double the official rates to ferry desperate commuters to their jobs.</p>
+<p>Festivities marking the sovereignty transfer were dampened by the foul weather, which forced the cancellation on Wednesday of the territory's biggest ever carnival parade.</p>
+<p>Sub-tropical Hong Kong's rainy season starts around June and runs through September, often bringing typhoons that can suspend ferry services and force companies to send staff home.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74296" id="root" date="1996-09-24" xml:lang="en">
+<title>SWEDEN: FOCUS-Swedish Riksbank sees more repo rate cuts.</title>
+<headline>FOCUS-Swedish Riksbank sees more repo rate cuts.</headline>
+<dateline>STOCKHOLM 1996-09-24</dateline>
+<text>
+<p>Sweden's central bank, the Riksbank, on Tuesday continued its aggressive monetary policy, cutting its key repo rate for the 20th time this year and forecasting further cuts.</p>
+<p>The Riksbank lowered the repo by another 10 basis points to 5.05 percent at its weekly tender operation as widely expected by the financial markets.</p>
+<p>The repo, the central rate of the central bank's three-tiered interest rate corridor, has been lowered almost every two weeks since the start of the year when it stood at 8.91 percent.</p>
+<p>In its September inflation report published on Tuesday, the bank said prospects of meeting its two percent annual inflation target over the next two years were good, with the inflation scene helped by falling interest rates and higher-than-expected import prices.</p>
+<p>It foreshadowed further cuts to the repo, its key tool for controlling money market liquidity.</p>
+<p>&quot;The available information suggests that some room may remain for lowering the repo rate,&quot; the Riksbank said in a statement.</p>
+<p>In the Riksbank's latest one week reverse repurchase operation, the repo rate was cut to 5.05 percent in a move widely expected by the market.</p>
+<p>Alongside the repo cuts, the bank has lowered its interest rate corridor, trimming the deposit and lending rates which mark the floor and ceiling of the corridor.</p>
+<p>The bank last lowered its interest rate corridor on August 15 when it trimmed 50 basis points off both rates. They now stand at 4.75 percent and 6.25 percent respectively.</p>
+<p>Despite the bank's strong inflation report, it did warn that cost pressure from wages was a source of concern for future inflation.</p>
+<p>&quot;However this should be possible to counter in that inflation expectations have continued to fall and are now well in line with the inflation target, accompanied by a further expansion of production capacity,&quot; the bank said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

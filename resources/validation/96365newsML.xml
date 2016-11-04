@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96365" id="root" date="1996-10-04" xml:lang="en">
+<title>MEXICO: Sidek investments hinge on debt plan.</title>
+<headline>Sidek investments hinge on debt plan.</headline>
+<dateline>GUADALAJARA, Mexico 1996-10-04</dateline>
+<text>
+<p>The head of steel and tourism firm Grupo Sidek said on Friday any new investments by the group hinged on approval of a debt restructuring due to be presented to creditors by November.</p>
+<p>Asked about news reports that Sidek subsidiary Simec would invest $20 million next year, Sidek director general Luis Rebollar Corona told Reuters, &quot;The figure depends on the restructuring accord.&quot;</p>
+<p>&quot;I would wait to have the restructuring approved.  If everything is approved, we'll do it; if they don't approve it, we won't do anything.&quot;</p>
+<p>Simec makes steel and aluminum products and it has 65 percent of the Mexican three-inch girders market.</p>
+<p>Sidek, which suspended debt payments in February, has been working on a debt restructuring plan since. Rebollar says its completion has been delayed by the need to satisfy the interests of both Mexican and foreign creditors.</p>
+<p>-- Monica Ballesca, Guadalajara bureau +52723 817-0397</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

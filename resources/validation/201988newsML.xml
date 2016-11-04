@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201988" id="root" date="1996-11-20" xml:lang="en">
+<title>CZECH REPUBLIC: DIRECT EQUITY TRADES ON THE CZECH PSE - NOV 20.</title>
+<headline>DIRECT EQUITY TRADES ON THE CZECH PSE - NOV 20.</headline>
+<dateline>PRAGUE 1996-11-20</dateline>
+<text>
+<p>The following is a list of direct</p>
+<p>equity trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		  Min. Price  Max.Price  Volume   Turnover</p>
+<p>				  pct	  pct   (shares)(CZK 000's)</p>
+<p> AGB, PODILOVY FOND	558.00    558.00	2500    1395.000</p>
+<p> AGROZET C.BUDEJ.	  340.00    340.00	2042     694.280</p>
+<p> BIOCEL PASKOV	     680.00    680.00	1143     777.240</p>
+<p> CEVA PRACHOVICE	   540.25    540.25	9905    5351.231</p>
+<p> C. RADIOKOMUNIKACE     3806.38   3806.38	 140     532.894</p>
+<p> CESKA SPORITELNA	  296.88    314.00	4740    1424.361</p>
+<p> CEZ			   937.23    955.70     89670   84913.731</p>
+<p> CEZ 2			 722.45    722.45     22140   15995.043</p>
+<p> COKOLADOVNY		3360.00   3400.17	1160    3904.027</p>
+<p> CS. NAMORNI PLAVBA	424.00    424.00    145834   61833.616</p>
+<p> DEZA			 2429.07   2464.20	7500   18370.703</p>
+<p> ELEKTRARNY OPATOV.     4122.00   4212.60	 860    3550.356</p>
+<p> CHEMOPETROL GROUP	1059.17   1122.50     10100   11190.314</p>
+<p> IPB			   289.87    289.87	2600     753.664</p>
+<p> IPS PRAHA		   273.00    273.00     27180    7420.140</p>
+<p> JIHOMOR. ENERGET.	2341.00   2341.00	 120     280.920</p>
+<p> JIHOMOR. PLYNAREN.     2600.00   2600.00	 703    1827.800</p>
+<p> KAUCUK GROUP	     1052.15   1052.50	5280    5557.102</p>
+<p> KOMERCNI BANKA	   1965.00   2069.34     62030  126053.607</p>
+<p> KOMERCNI BANKA IF	 505.50    569.00     19376   10729.568</p>
+<p> MOSTECKA UH.SPOL.	 233.35    233.35	5450    1271.757</p>
+<p> MRAZIRNY DASICE	    85.00     85.00     40000    3400.000</p>
+<p> NOVA HUT		    353.05    380.00	3620    1358.895</p>
+<p> OKD			   107.50    108.00     20000    2157.400</p>
+<p> P.I.F.			238.43    238.43	7303    1741.254</p>
+<p> PLZEN. TEPLARENSKA	690.00    690.00     14090    9722.100</p>
+<p> PRAZSKA ENERGETIKA     2774.30   2774.30	  96     266.333</p>
+<p> PRINGTON VAR/00	   100.90    100.90	1200   13143.672</p>
+<p> RIF			   747.00    749.00	4000    2990.000</p>
+<p> SEMOR. ENERGETIKA	2685.03   2685.03	 120     322.204</p>
+<p> SEVEROC. DOLY	     641.92    641.92	 420     269.606</p>
+<p> SEVEROC. ENERGET.	2242.70   2320.00	1777    4113.365</p>
+<p> SOKOLOVSKA UHELNA	 600.00    601.00	5814    3491.307</p>
+<p> SPIF CESKY		  351.00    358.00     72500   25675.500</p>
+<p> SPIF VYNOSOVY	     141.02    141.02	1650     232.683</p>
+<p> SPT TELECOM		2763.26   3190.00     61010  175090.582</p>
+<p> SYNTHESIA		   273.00    273.00	5000    1365.000</p>
+<p> SKODA PLZEN		 867.53    920.00     68573   62897.381</p>
+<p> TABAK			6361.45   6412.18	3720   23729.312</p>
+<p> TMP-TEL. MONTAZE	 2430.85   2448.00	 600    1463.655</p>
+<p> VYCHC. PLYNARENSKA     2500.00   2500.00	1738    4345.000</p>
+<p> ZAPC. ENERGETIKA	 2200.00   2200.00	5906   12993.200</p>
+<p> ZIVNOSTENSKA BANKA     2627.86   2627.86	  80     210.229</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

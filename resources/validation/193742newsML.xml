@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193742" id="root" date="1996-11-15" xml:lang="en">
+<title>FRANCE: France regrets Chinese court's ruling on Wang.</title>
+<headline>France regrets Chinese court's ruling on Wang.</headline>
+<dateline>PARIS 1996-11-15</dateline>
+<text>
+<p>France said on Friday it regretted the rapid decision by a Chinese court to reject an appeal by dissident Wang Dan against an 11-year sentence for subversion.</p>
+<p>&quot;This conviction is a cause for concern,&quot; Foreign Ministry spokesman Jacques Rummelhardt told a regular ministry news briefing. &quot;We had thought the appeal would allow a longer view of the case. We are sorry that the opportunity for this has now been lost.&quot;</p>
+<p>Beijing Higher People's Court took 10 minutes to reject Wang's appeal, his mother said in Beijing.</p>
+<p>Wang, 27, a former student leader, was convicted in October of plotting to subvert the government by publishing articles in foreign publications and receiving funds from hostile overseas organisations.</p>
+<p>His jailing was the latest in a series of blows to China's struggling democracy movement. He had already served four years in prison for his role in student demonstrations for democracy that were crushed by the army in 1989.</p>
+<p>Chinese ties with the West, including Paris and Washington, have been strained over the last year by issues ranging from human rights to Taiwan and trade.</p>
+<p>Beijing has slammed Western criticism of its human rights record as interference in its internal affairs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

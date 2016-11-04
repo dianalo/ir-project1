@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-06-17" id="root" itemid="666949" xml:lang="en">
+<title>USA: NY Gold prices - jun 17/97.</title>
+<headline>NY Gold prices - jun 17/97.</headline>
+<text>
+<p>Prices in USD per troy oz</p>
+<p>Commodity	     Source	    Close		Prev</p>
+<p>Gold bullion	  Engelhard	 343.38	   342.71</p>
+<p>Gold fabricated     Engelhard	 360.55	   359.87</p>
+<p>Gold base price     Handy&amp;Harman    342.15	   341.50</p>
+<p>Gold fabricated     Handy&amp;Harman    359.26	   358.58</p>
+<p>Krugerrand			343.60/345.60   342.70/344.70</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-06-17" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location.country.name" value="USA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

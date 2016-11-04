@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249633" id="root" date="1996-12-11" xml:lang="en">
+<title>FRANCE: Marchais, French ex-Communist leader, in hospital.</title>
+<headline>Marchais, French ex-Communist leader, in hospital.</headline>
+<dateline>PARIS 1996-12-11</dateline>
+<text>
+<p>Georges Marchais, veteran former leader of the French Communist Party, was taken to hospital on Wednesday suffering from a recurring heart ailment, a party spokesman said.</p>
+<p>It was not immediately clear whether his condition was serious. Marchais, 76, has suffered several heart attacks.</p>
+<p>A Stalinist hardliner, he ran the Communist Party for more than two decades from 1972.</p>
+<p>Under him the once-powerful French party was one of Moscow's staunchest allies in Western Europe. In 1979 he shocked the nation by giving full public backing to the Soviet intervention in Afghanistan.</p>
+<p>In 1993, dogged by ill-health, and shaken by the collapse of Soviet rule, he handed over the party reins to the more liberal Robert Hue.</p>
+<p>Even after turning over the leadership, however, Marchais remained in the policy-making politburo and was widely seen as heading an old guard of hardliners resisting Hue's efforts to modernise and liberalise the movement.</p>
+<p>Last week Marchais announced that he would not seek re-election to parliament at the next general election in 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="419985" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: CSI Computer Specialists 1996 net drops.</title>
+<headline>CSI Computer Specialists 1996 net drops.</headline>
+<dateline>ROCKVILLE, Md. 1997-03-05</dateline>
+<text>
+<p>Year ended     Year ended</p>
+<p>					   Dec. 31, 1996  Dec. 31, 1995</p>
+<p> Sales (in thousands)			 $10,834	  $6,844</p>
+<p> Earnings before taxes (in thousands)	 151	     582</p>
+<p> Net income (in thousands)			 90	     358</p>
+<p> Earnings per share				 .02	     .10</p>
+<p>NOTE: Full name is CSI Computer Specialists Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKVILLE, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

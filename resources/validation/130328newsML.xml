@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130328" id="root" date="1996-10-21" xml:lang="en">
+<title>ARGENTINA: Argentina presents major new compensation bill.</title>
+<headline>Argentina presents major new compensation bill.</headline>
+<dateline>BUENOS AIRES 1996-10-21</dateline>
+<text>
+<p>Argentina's government Monday sent a bill to Congress to alter the system of compensation for dismissals of employees and cut the cost of firing workers.</p>
+<p>Under the new rules appearing in the text of the bill, employers would have to pay either one or two months' wages in compensation for dismissal, depending on whether an employee has worked for five years in his or her job.</p>
+<p>Currently, Argentine employers have to pay one month's pay for each year worked in compensation to a sacked employee.</p>
+<p>But under the new bill, employees would have to pay an amount equivalent to four percent of their wages into a &quot;antiquity fund&quot; to be made available to workers when they are fired, resign or retire.</p>
+<p>The fund would be handled by private pension funds.</p>
+<p>The bill would also create a system of small welfare payments to be made to workers who are fired but whose antiquity fund had not accumulated a minimum amount of money.</p>
+<p>Only workers contracted after the law is put into place would be covered by the new rules.</p>
+<p>Former Economy Minister Roberto Aleman, present at a meeting with top government officials to present the bill, hailed it &quot;as an important step forward to boosting employment in the country.&quot;</p>
+<p>Argentina's unemployment rate is running at 17.1 percent.</p>
+<p>-- Patrick Adam, Buenos Aires Newsroom +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

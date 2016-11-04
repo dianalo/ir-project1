@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186953" id="root" date="1996-11-13" xml:lang="en">
+<title>MOROCCO: Morocco milk output up 2.5 pct in 1995/96 season.</title>
+<headline>Morocco milk output up 2.5 pct in 1995/96 season.</headline>
+<dateline>RABAT 1996-11-13</dateline>
+<text>
+<p>Morocco's milk output reached 900 million litres in 1995/96, up 2.5 percent over the previous season, an agriculture ministry official said on Wednesday.</p>
+<p>&quot;The good results of 1995/96 agricultural season had a positive impact on Morocco's milk production. It rose 2.5 percent to 900 million litres in the period compared with the 1994/95 season,&quot; the official said.</p>
+<p>Moroccco, which expects an estimated 11 percent economic growth in 1996 due largely to the agriculture sector, suffered from severe drought in 1995.</p>
+<p>Several shops in Rabat have reported shortages of milk in recent weeks. The ministry said milk production meets an average 85 percent of domestic demand.</p>
+<p>The difference is mainly met by imports of 13,000 tonnes of milk powder, mostly from Europe.</p>
+<p>--Rabat newsroom +212-7 726518</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

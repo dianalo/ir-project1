@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116756" id="root" date="1996-10-15" xml:lang="en">
+<title>CROATIA: Croatia to close DM200 mln syndicated loan Oct 17.</title>
+<headline>Croatia to close DM200 mln syndicated loan Oct 17.</headline>
+<dateline>ZAGREB 1996-10-15</dateline>
+<text>
+<p>Croatia's finance ministry said on Tuesday it would sign an agreement for a debut 200 million German marks foreign syndicated loan on October 17.</p>
+<p>The syndication was led by Dresdner Bank of Luxembourg with 28 foreign commercial banks taking part.</p>
+<p>Croatia also plans to tap the international capital market for some $150 million later this year through a Eurobond issue. -- Kolumbina Bencevic, Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

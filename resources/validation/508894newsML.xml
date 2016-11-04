@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="508894" id="root" date="1997-04-15" xml:lang="en">
+<title>RUSSIA: Russia, Bulgaria sign gas transit deal.</title>
+<headline>Russia, Bulgaria sign gas transit deal.</headline>
+<dateline>MOSCOW 1997-04-15</dateline>
+<text>
+<p>Moscow and Sofia on Tuesday signed a long-delayed gas transit deal, turning Bulgaria into a centre for distribution of Russian natural gas in the Balkans.</p>
+<p>Russian news agencies said Prime Minister Viktor Chernomyrdin and Bulgarian Prime Minister Stefan Sofiansky signed the deal after an hour and a half of talks in Moscow. The agencies gave no details.</p>
+<p>Bulgarian officials said last week Sofia would get up to 115 billion cubic metres of natural gas from Russia in the next 15 years at lower prices under the deal, which involves the transit of Russian gas to the Balkans and construction of new pipelines.</p>
+<p>Bulgaria has a 2,200-km pipeline network, including 625 km of transit pipelines, but Russia wants to expand the network to meet growing Balkan demand.</p>
+<p>Bulgarian officials have said a Bulgarian-Russian joint stock company Topenergy, half-owned by Russia's RAO Gazprom, would enlarge the transit pipeline with credits from Gazprom.</p>
+<p>In return Topenergy would get 40 percent of fees for transiting the gas to Turkey, Greece, Macedonia and Serbia, they said.</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

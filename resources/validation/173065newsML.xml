@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173065" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Conrail says court date delayed until Nov. 18.</title>
+<headline>Conrail says court date delayed until Nov. 18.</headline>
+<dateline>PHILADELPHIA 1996-11-07</dateline>
+<text>
+<p>Conrail Inc. said a court hearing in Norfolk Southern Corp.'s suit that seeks to block the $8.5 billion merger of Conrail and CSX Corp., has been postponed to Nov. 18 from Nov. 12.</p>
+<p>Norfolk Southern, which has launched an unsolicited $9.1 billion bid for Conrail, has said it filed the suit to inform shareholders of competing offers for Conrail.</p>
+<p>Conrail said the postponement was made at the request of Norfolk Southern.</p>
+<p>Norfolk Southern did not have any immediate comment on the new court date but said the delay will give the company more preparation time for the case.</p>
+<p>The postponement comes on the heels of CSX's extension of its tender offer for Conrail shares. The tender offer, set to expire Nov. 15, is now slated to expire on Nov. 20.</p>
+<p>On Wednesday, CSX and Conrail revised their proposed cash-and-stock transaction to give shareholders a larger cash portion. The transaction values Conrail at about $93 a share.</p>
+<p>Norfolk Southern, which has said it is reviewing its options, is widely expected to raise its $100 cash per share bid.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

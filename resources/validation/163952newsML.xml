@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163952" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Texas power prices ease slightly following natgas.</title>
+<headline>Texas power prices ease slightly following natgas.</headline>
+<dateline>NEW YORK 1996-11-04</dateline>
+<text>
+<p>Wholesale power prices in the Electric Reliability Council of Texas (ERCOT) eased slightly Monday following behind lower natural gas prices, brokers and marketers said.</p>
+<p>&quot;We're following natural gas pretty closely again today,&quot; said one ERCOT trader.</p>
+<p>Swing natural gas in the Permian Basin was quoted at $2.56-2.62 per million British thermal units, down from near $2.68 on Friday.</p>
+<p>Peak, firm power for Tuesday delivery was talked lower at $27.00-29.00 from Friday discussion at $29.00-31.50 per megawatt hour (MWh) for Monday delivery, the brokers and marketers said.</p>
+<p>Off-peak ERCOT power for Tuesday delivery was pegged at $13.00-15.00 from a range of $14.00-17.00 late last week, the sources said.</p>
+<p>December peak power was talked steady at $24.25-24.75, while January/February ERCOT power was talked at $25.25-25.50, the sources said.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="341396" id="root" date="1997-01-29" xml:lang="en">
+<title>INDIA: India overnight rates touch a low of 0.25-0.75 pct.</title>
+<headline>India overnight rates touch a low of 0.25-0.75 pct.</headline>
+<dateline>BOMBAY 1997-01-29</dateline>
+<text>
+<p>Call money was traded at low of 0.25-0.75 percent on Wednesday as banks continued to be flush with funds ahead of the reporting Friday, dealers said.</p>
+<p>&quot;Bonds have mopped up about 20 billion rupees - the collections are coming in,&quot; said a bank treasury manager.</p>
+<p>He said the bond subscription may not have been factored in when the Reserve Bank of India (RBI) announced repos auction. On Tuesday, the RBI announced a repos schedule for February.</p>
+<p>The Industrial Development Bank alone is believed to have raised close to 15 billion rupees through a retail bond issue which closed subscription last week.</p>
+<p>The new fortnight should see call rates in the band of 4.5-5.0 percent, dealers said.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

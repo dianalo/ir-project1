@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551517" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: V-ONE Corp Q1 net loss narrows.</title>
+<headline>V-ONE Corp Q1 net loss narrows.</headline>
+<dateline>ROCKVILLE, Md. 1997-04-29</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>							   March 31,</p>
+<p>							1997	    1996</p>
+<p> Revenues				    $2,414,015    $1,021,811</p>
+<p> Net (loss)				   (871,219)     (994,660)</p>
+<p> Net (loss) per share			  (0.07)	  (0.10)</p>
+<p>Shares used to compute net</p>
+<p>  (loss) per share			 12,663,731     9,856,043</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKVILLE, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

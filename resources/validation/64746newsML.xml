@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64746" id="root" date="1996-09-19" xml:lang="en">
+<title>PORTUGAL: Portuguese money supply rises 8.0 yr/yr in July.</title>
+<headline>Portuguese money supply rises 8.0 yr/yr in July.</headline>
+<dateline>LISBON 1996-09-19</dateline>
+<text>
+<p>Portuguese money supply, as measured by &quot;aggregate 'L&quot;, roughly equivalent to M3, rose 8.0 percent year-on-year in July, compared with a 7.5 percent rise the previous month, the Bank of Portugal said.</p>
+<p> Percentage change	 July 96	    June 96</p>
+<p> Aggregate 'L'		+8.0		 +7.5</p>
+<p> Domestic bank lending    +5.0		 +6.2</p>
+<p>Note - Plus sign denotes growth, a minus sign denotes a fall.</p>
+<p>-- Lisbon newsroom +351-1-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

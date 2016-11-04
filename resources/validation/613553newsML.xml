@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="613553" id="root" date="1997-05-26" xml:lang="en">
+<title>RUSSIA: Russia's Transaero Jan-April passenger volume up.</title>
+<headline>Russia's Transaero Jan-April passenger volume up.</headline>
+<dateline>MOSCOW 1997-05-26</dateline>
+<text>
+<p>Private Russian airline AO Transaero carried 353,438 passengers between January and April, up from 291,729 in the same period last year, a company spokswoman said on Monday.</p>
+<p>She could not give the airline's cargo turnover for the period.</p>
+<p>Transaero plans to start passenger flights to Taiwan, Hong Kong and Manchester, England later this year, she added.</p>
+<p>Chief executive Alexander Pleshakov said recently the company would fly from Moscow to Taiwan once a week and to Hong Kong and Manchester twice weekly.</p>
+<p>Transaero operates 14 aircraft, including five Boeing 737s, five Boeing 757s, three DC-10-30s and one Ilyushin Il-86 jet.</p>
+<p>It plans to lease an additional Boeing 767 jet for long-range flights as well as several Boeing 737-400s for medium-range domestic and international flights.</p>
+<p>Russia's Aeroflot International Airlines owns five per cent of Transaero.</p>
+<p>--Viktor Anoshkin, Moscow Newsroom, 7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

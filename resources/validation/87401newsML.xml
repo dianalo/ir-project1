@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87401" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: DT Industries completes Hansford purchase.</title>
+<headline>DT Industries completes Hansford purchase.</headline>
+<dateline>SPRINGFIELD, Mo. 1996-10-01</dateline>
+<text>
+<p>DT Industries Inc said Tuesday it completed the acquisition of Hansford Manufacturing Corp of Rochester, N.Y., for $17.4 million.</p>
+<p>DTI also agreed to make additional cash payments totaling up to $20 million, payable over a two-year period beginning in approximately three years. The amount would be determined by a formula based on the earnings of the acquired business.</p>
+<p>Hansford is a privately-held designer and manufacturer of assembly automation systems.</p>
+<p>For the first eight months of calendar 1996, Hansford recorded net sales of $33 million and an operating profit of $2.3 million. The backlog at September 30 was approximately $18 million.</p>
+<p>DT Industries also announced that its credit facility increased to $210 million from $200 million.</p>
+<p>&quot;The acquisition of Hansford's advanced engineering and technological expertise adds a valued new dimension to our DT Automation group,&quot; Stephen Gore, president and chief executive officer, said in a statement.</p>
+<p>DT makes and integrates automated production equipment to manufacture or package industrial and consumer products.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRINGFIELD, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

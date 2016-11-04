@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272580" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Calif. home sales rise, values remain soft - report.</title>
+<headline>Calif. home sales rise, values remain soft - report.</headline>
+<dateline>ANAHEIM, Calif. 1996-12-23</dateline>
+<text>
+<p>Home sales in California rose about 20 percent in the first 10 months of 1996 from the comparable 1995 period, the real estate information company Experian reported on Monday.</p>
+<p>Despite the increase in home sales, home values remain soft in most parts of the state, Experian said in the report.</p>
+<p>Home values have declined most in the Sacramento area, the central valley and in San Bernardino County. By contrast, home values nudged up in the order of one to three percent in the northern counties of Santa Clara, San Francisco and San Mateo, the report said.</p>
+<p>&quot;Based on indications that the rate of decline in home values has slowed during 1996, we anticipate continuing improvements throughout 1997,&quot; said Nima Nattagh, Experian's market analyst. &quot;But homeowners should not expect values to appreciate in the near future.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

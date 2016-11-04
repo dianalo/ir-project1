@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303394" id="root" date="1997-01-13" xml:lang="en">
+<title>INDIA: Indian Shipping -- Tuticorin cargoes - Jan 13.</title>
+<headline>Indian Shipping -- Tuticorin cargoes - Jan 13.</headline>
+<dateline>BOMBAY 1997-01-13</dateline>
+<text>
+<p>Following is the berthing schedule of major vessels loading and unloading at India's Tuticorin port on January 13:</p>
+<p> Commodity	    Tons/TEUS		 Ship	  Berthing</p>
+<p>		   (LDD/ULD) (Balance)</p>
+<p>---------------------------------------------------------------</p>
+<p>General	    178/--- (LDD) 3,022/---  Vila Dhoadhi    10/01</p>
+<p>Sugar	    8,723/--- (LDD) 2,814/---  Hyoksin	   03/01</p>
+<p>General	    ---/375 (LDD)   ---/---  E.Schulte	 09/01</p>
+<p>Urea	    13,041/--- (ULD)10,460/---  Jag Vasanthy    06/01</p>
+<p>Raw Cashew     1,338/--- (ULD) 1,294/---  Romanati	  10/01</p>
+<p>Urea	    14,045/--- (ULD) 4,019/---  Vita Grain	26/12</p>
+<p>Coal	    24,078/--- (ULD) 1,323/---  Gem of Tuticorin08/01</p>
+<p>Coal	    13,883/--- (ULD)12,058/---  Tamil Periyar   10/01</p>
+<p>---------------------------------------------------------------</p>
+<p>	    Note:</p>
+<p>	    LDD - Loading</p>
+<p>	    ULD - Unloading</p>
+<p>(Source: J.M.Baxi &amp; Co, Tuticorin)</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

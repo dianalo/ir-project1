@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131270" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Timken Co Q3 net income, sales rise.</title>
+<headline>Timken Co Q3 net income, sales rise.</headline>
+<dateline>CANTON, Ohio 1996-10-21</dateline>
+<text>
+<p>Q3 Ended 9/30    Q2 Ended	9 Mos Ended 9/30</p>
+<p>		   1996     1995   6-30-1996	 1996	 1995</p>
+<p> Net sales   $581,417 $519,463  $601,553 $1,778,924 $1,674,159</p>
+<p> Gross profit 137,650  115,551   142,389    419,254    387,519</p>
+<p> Net income    31,785   19,028    34,524     99,907     84,547</p>
+<p> Net EPS	   1.01     0.61	1.10	 3.18	 2.71</p>
+<p> shrs   31,424,410 31,244,711 31,480,612 31,420,553 31,159,689</p>
+<p>		  (Thousands of dollars, except share data)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANTON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

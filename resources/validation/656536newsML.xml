@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="656536" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: Sioux City feeder cattle not well tested - USDA.</title>
+<headline>Sioux City feeder cattle not well tested - USDA.</headline>
+<dateline>SIOUX CITY 1997-06-12</dateline>
+<text>
+<p>Trade was moderate and compared to the previous week not enough feeder steers and heifers on offer to establish trend, USDA said.</p>
+<p>Feeder Steers Medium and Large 1</p>
+<p>Head    Weight     Avg Wt	  Price	  Avg Price</p>
+<p> 7   420 -  433    426     86.00 -   93.00     89.05</p>
+<p>10   584 -  584    584     88.00 -   88.00     88.00</p>
+<p> 7   634 -  634    634     83.00 -   83.00     83.00</p>
+<p>10   732 -  732    732     77.50 -   77.50     77.50</p>
+<p>Feeder Heifers Medium and Large 1</p>
+<p>Head    Weight     Avg Wt	  Price	  Avg Price</p>
+<p> 8   478 -  478    478     83.00 -   83.00     83.00</p>
+<p> 8   569 -  569    569     78.00 -   78.00     78.00</p>
+<p>11   662 -  685    673     73.75 -   75.50     74.73</p>
+<p>Feeder Bulls Medium and Large 1</p>
+<p>Head    Weight     Avg Wt	  Price	  Avg Price</p>
+<p> 6   608 -  649    615     74.00 -   75.50     75.24</p>
+<p>Supply: 200</p>
+<p>((Chicago newsdesk 312-408 8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SIOUX CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

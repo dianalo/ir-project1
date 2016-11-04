@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622207" id="root" date="1997-05-28" xml:lang="en">
+<title>TAIWAN: Taiwan Formosa plans aromatics plant -paper.</title>
+<headline>Taiwan Formosa plans aromatics plant -paper.</headline>
+<dateline>TAIPEI 1997-05-28</dateline>
+<text>
+<p>Formosa Chemicals and Fiber Corp will invest T$20 billion to build an aromatics plant in central Taiwan as part of parent Formosa Plastics Group's huge petrochemical project, local media said on Wednesday.</p>
+<p>Taiwan's Commercial Times reported that the aromatics plant would have annual capacity of 1.02 million tonnes and would be completed by late 1999.</p>
+<p>Formosa officials were unavailable for immediate comment.</p>
+<p>Formosa group, empowered by liberalisation to challenge oil monopoly Chinese Petroleum Corp, began building Taiwan's first private naphtha cracker in 1993.</p>
+<p>The cracker is the core of a massive US$9 billion cracker and oil refinery complex due for completion by 1999.</p>
+<p>The newspaper report was the first disclosure that Formosa planned to include an aromatics plant in the complex and it was not clear whether the plant's T$20 billion budget was part of a T$23 billion earmarked for related chemical plants.</p>
+<p>-- Taipei Newsroom (2-508-0815)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I26000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

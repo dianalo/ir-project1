@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-01-14" id="root" itemid="306623" xml:lang="en">
+<title>UK: Goldman Sachs sets call warrants on aluminium.</title>
+<headline>Goldman Sachs sets call warrants on aluminium.</headline>
+<dateline>LONDON 1997-01-14</dateline>
+<text>
+<p>Goldman Sachs International says it has issued two million American-style call warrants, in two equal tranches, on aluminium.</p>
+<p>One warrant controls one tenth of one metric tonne of aluminium.</p>
+<p> WARRANTS    STRIKE	ISS PRICE    PREMIUM	GEARING</p>
+<p> CALL A	$1,650.00   $13.70	  9.97 PCT    11.86 TIMES</p>
+<p> CALL B	$1,800.00   $ 8.00	 15.69 PCT    20.31 TIMES</p>
+<p> EXERCISE PERIOD 29.JAN.97-28.JAN.98   PAYDATE	29.JAN.97</p>
+<p> LISTING	   NONE			MIN EXER LOT 100</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-01-14" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-01-14" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="LONDON" />
+<dc element="dc.creator.location.country.name" value="UK" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

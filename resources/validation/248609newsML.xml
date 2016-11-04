@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248609" id="root" date="1996-12-11" xml:lang="en">
+<title>UK: NWE oil products resolutely follow crude downwards.</title>
+<headline>NWE oil products resolutely follow crude downwards.</headline>
+<dateline>LONDON 1996-12-11</dateline>
+<text>
+<p>NWE oil products were weaker on Wednesday.</p>
+<p>Naphtha fell around $56 in line with tumbling crude. End-users were relaxed amid plentiful supplies.</p>
+<p>Gasoline also lost ground sheding over $10 a tonne. Severe losses in the U.S. of up to $30 a tonne were marginalising the arbitrage opportunities.</p>
+<p>Gas oil slid $10.25 on lower futures and cargo and barge premiums were under presure from flat demand.</p>
+<p>Fuel oil was lower. Barges losing up to $4, cargoes down $1 or so. Continued weakness was limiting trading activity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262414" id="root" date="1996-12-17" xml:lang="en">
+<title>YEMEN: Yemen sees more oil production in 1997.</title>
+<headline>Yemen sees more oil production in 1997.</headline>
+<dateline>SANAA 1996-12-17</dateline>
+<text>
+<p>Yemen's share of crude produced in the country will reach 72,348,944 barrels (198,216 barrels per day) in 1997, 15,818 bpd higher than this year, Yemen central bank statistics released on Tuesday showed.</p>
+<p>Total production in non-OPEC Yemen is currently running at some 365,000 bpd with the remainder of crude produced going to foreign joint venture operators U.S. Hunt Oil and Canadian Occidental Petroleum Ltd (CanOxy).</p>
+<p>The report did not give a figure on total projected output for the country in 1997.</p>
+<p>Higher production in Yemen next year is expected to come from Hunt's Jannah fields and the East Shawba development being carried out by Total SA.</p>
+<p>The total value of Yemen's crude oil exports in the first 11 months of this year rose to $797.2 million compared with $777.5 million in the whole of 1995.</p>
+<p>Hunt in partnership with Exxon Corp operates the 170,000 bpd Marib field and CanOxy is responsible for some 180,000 bpd of Masila production.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

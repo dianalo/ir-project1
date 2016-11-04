@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="523476" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: U.S. High Court denies ABC appeal over libel award.</title>
+<headline>U.S. High Court denies ABC appeal over libel award.</headline>
+<dateline>WASHINGTON 1997-04-21</dateline>
+<text>
+<p>The U.S. Supreme Court on Monday rejected an appeal by ABC Inc. involving a libel award exceeding $1 million over a 1992 news broadcast stating that a company's garbage recycling machine &quot;does not work.&quot;</p>
+<p>News organization ABC, a unit of The Walt Disney Company broadcast a story on its &quot;World News Tonight with Peter Jennings&quot; on July 2, 1992 dealing with the problems facing Berrien County, Georgia after it had purchased the machine from Lundell Manufacturing Co.</p>
+<p>The story was part of a series of reports on &quot;Anger in America&quot; designed to explore why people were frustrated or angry at the government.</p>
+<p>Reporter Rebecca Chase said the county issued millions of dollars in revenue bonds to buy the machine, which was supposed to make a profit. The plant proved to be far more expensive to operate than expected and eventually was shut down.</p>
+<p>The segment concluded by noting that taxpayers had to have their garbage hauled to another county for disposal.</p>
+<p>Lundell sued ABC in federal court in Iowa, alleging that the statement that the recycling machine &quot;does not work&quot; falsely implied it was not mechanically operable.</p>
+<p>ABC acknowledged the machine was mechanically sound, but said the county no longer used it because it could not sell the by-products -- fuel pellets and compost -- at a price sufficient to cover the machine's operating expenses.</p>
+<p>After an eight-day trial, a jury awarded Lundell $900,000 in damages for injury to its reputation and $158,000 for lost profits. A federal judge set aside the judgment as a matter of law, but a U.S. appeals court last year reinstated the award.</p>
+<p>ABC in its high court appeal said Lundell should have been considered a &quot;limited purpose public figure&quot; because it was involved in a continuing public controversy. Libel judgments are much harder to win in cases involving public figures.</p>
+<p>ABC said it was important &quot;to provide the press with the breathing space&quot; under the public figure standard when a plaintiff has invited public attention and assumed the risk of media scrutiny.</p>
+<p>But the Supreme Court turned down ABC's appeal without comment of dissent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

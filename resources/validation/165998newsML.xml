@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165998" id="root" date="1996-11-05" xml:lang="en">
+<title>MALAWI: Malawi banks cut lending rates as inflation falls.</title>
+<headline>Malawi banks cut lending rates as inflation falls.</headline>
+<byline>Anderson Fumulani</byline>
+<dateline>BLANTYRE 1996-11-05</dateline>
+<text>
+<p>Malawi commercial banks have cut their lending rates by an average eight percentage points to 29 percent from 37 percent as a result of lower inflation which is expected to fall to single digits by year-end.</p>
+<p>The banks also lowered their deposit rates by 10 percentage points to 13 percent.</p>
+<p>Reserve Bank Governor Matthews Chikaonda said on Tuesday banks had dropped their lending rates ahead of an anticipated fall in inflation to eight percent in December.</p>
+<p>&quot;For the first nine months of the year, the inflation rate has been almost zero. Inflation is coming down (and) as inflation comes down, so do interest rates,&quot; Chikaonda told Reuters in an interview.</p>
+<p>Monthly inflation was running at 21.5 percent year-on-year in September -- the latest data available -- compared with August's 30.5 per cent.</p>
+<p>He said that the country's economy had been turned around, the Kwacha currency had stabilised at 15 kwacha to the dollar and the inflation continued to slump.</p>
+<p>&quot;Interest rates in Malawi are liberalised. The commercial banks have to make a business decision,&quot; Chikaonda added.</p>
+<p>Fred Kanjo, head of economic services at Commercial Bank of Malawi, said the banks had cut their deposit rates in order not to attract too many depositors.</p>
+<p>&quot;If we keep our deposit rates high, people will come to us. We don't want to be flooded with too many depositors,&quot; Kanjo said.</p>
+<p>The cuts in interest rates are effective November 1.</p>
+<p>The Reserve Bank cut its lending rates by 10 percentage points to 35 percent in September following a five percentage point cut in June.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLANTYRE"/>
+<dc element="dc.creator.location.country.name" value="MALAWI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="670340" id="root" date="1997-06-18" xml:lang="en">
+<title>USA: PRESALE - Upper Moreland Twp Sch Dist, Pa.</title>
+<headline>PRESALE - Upper Moreland Twp Sch Dist, Pa.</headline>
+<text>
+<p>AMT: 4,995,000	DATE: 06/24/97	NYC Time: 1130  CUSIP: 916218</p>
+<p>ISSUER: Upper Moreland Twp Sch Dist			   ST: PA</p>
+<p>ISSUE: General obligation, Series of 1997		   TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA						    BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None						  QUAL: Y</p>
+<p>DTD: 07/15/97							 SURE BID: N</p>
+<p>DUE: 8/15/99-12					     SR MGR:</p>
+<p>1ST CPN: 02/15/98</p>
+<p>CALL: 2/15/02 @ par					 NIC</p>
+<p>DELIVERY: 7/30/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: To be named by the school district</p>
+<p>L.O.: Kegel Chesters &amp; Miller, Doylestown</p>
+<p>F.A.: Public Financial Management, Inc., Harrisburg</p>
+<p>LAST SALE: $4,955,000 (FGIC) 6/25/96 @ 5.678% TIC; 12 yrs 4 mos avg; BBI -6.06%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1999			5,000</p>
+<p>2000			5,000</p>
+<p>2001			5,000</p>
+<p>2002			5,000</p>
+<p>2003			5,000</p>
+<p>2004			5,000</p>
+<p>2005			5,000</p>
+<p>2006			5,000</p>
+<p>2007			5,000</p>
+<p>2008		    785,000</p>
+<p>2009		    820,000</p>
+<p>2010		    865,000</p>
+<p>2011		  1,405,000</p>
+<p>2012		  1,075,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

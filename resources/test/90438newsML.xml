@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1996-10-02" id="root" itemid="90438" xml:lang="en">
+<title>FRANCE: SOCCER-FRENCH LEAGUE RESULTS.</title>
+<headline>SOCCER-FRENCH LEAGUE RESULTS.</headline>
+<dateline>PARIS 1996-10-02</dateline>
+<text>
+<p>Results of French first division</p>
+<p>matches on Wednesday:</p>
+<p> Auxerre		2   Monaco		    0</p>
+<p> Bastia		 0   Nantes		    0</p>
+<p> Bordeaux	     1   Strasbourg		2</p>
+<p> Metz		   0   Cannes		    0</p>
+<p> Marseille	    2   Guingamp		  1</p>
+<p> Lille		  1   Caen			0</p>
+<p> Lyon		   1   Paris Saint-Germain   1</p>
+<p> Rennes		 2   Montpellier	     0</p>
+<p> Nice		   1   Nancy		     0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-10-02" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1996-10-02" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="PARIS" />
+<dc element="dc.creator.location.country.name" value="FRANCE" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

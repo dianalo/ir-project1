@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="509518" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: Harris Savings Bank Q1 shr $0.42 vs $0.15.</title>
+<headline>Harris Savings Bank Q1 shr $0.42 vs $0.15.</headline>
+<dateline>HARRISBURG, Pa. 1997-04-15</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr		 $0.42		    $0.15</p>
+<p> Net		 4,709		    1,711</p>
+<p> Avg shrs	  N/A			N/A</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Assets $1.943 billion vs $1.249 billion.</p>
+<p>Loans $850 million vs $673 million.</p>
+<p>Deposits $1.175 billion vs $1.062 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARRISBURG, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

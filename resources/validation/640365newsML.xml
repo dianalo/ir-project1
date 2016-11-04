@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="640365" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: ADR REPORT - Telefonos de Mexico up.</title>
+<headline>ADR REPORT - Telefonos de Mexico up.</headline>
+<dateline>NEW YORK 1997-06-05</dateline>
+<text>
+<p>Telefonos de Mexico rose Wednesday to highlight trade in American depositary receipts (ADRs).</p>
+<p>Dealers said Telefonos de Mexico, or Telmex, was trading actively because investors had been cheered by a new economic program in Mexico.</p>
+<p>&quot;I think we're going to see a little bit of euphoria about Mexico,&quot; a trader said.  </p>
+<p>Telmex, a bellwether stock for Mexico, was up 1/8 at 47, just off a 12-month closing high of 47-3/8. Volume was 820,700 shares in late morning, putting Telmex among the most-active ADRs on New York exchanges.</p>
+<p>Among other ADRs, Canada's Barrick Gold Corp was up 5/8 to 24-1/4 and Canada's BioChem Pharma Inc rose 1/2 to 24-1/4.</p>
+<p>Among European shares, Swedish telecommunications equipment company Telefon AB L.M. Ericsson was up 1-1/16 to 36-7/16.</p>
+<p>((--Ian Simpson, Wall Street Desk (212) 859-1879))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

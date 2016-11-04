@@ -13,10 +13,10 @@ object NaiveBayesLecScript extends App {
      
      var nB = new NaiveBayesLec(config, 0.75, Pcat, logPwc)
      println("computing probabilities...")
-     nB.computeProbabilities("resources/train/zips")
+     nB.computeProbabilities("resources/train/train_zip")
      println("done.")
      println("classifying...")
-     val l = nB.classify("resources/validation/zips")
+     val l = nB.classify("resources/validation/validation_zip")
      println("done")
      
      println("REGION\tTOPIC\tINDUSTRY")
@@ -28,5 +28,7 @@ object NaiveBayesLecScript extends App {
        println(t.mkString("\t"))
        pw.println(t.mkString("\t"))
      }
+     pw.flush();
+     pw.close();
    }
 }

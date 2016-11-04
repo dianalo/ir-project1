@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115848" id="root" date="1996-10-15" xml:lang="en">
+<title>CANADA: Telepanel says wins U.S. order.</title>
+<headline>Telepanel says wins U.S. order.</headline>
+<dateline>TORONTO 1996-10-15</dateline>
+<text>
+<p>Telepanel Systems Inc said on Tuesday it won an order for the installation of up to 70 additional stores with Edwards Super Food Stores and other Ahold USA companies.</p>
+<p>Edwards, a division of Ahold USA, has Telepanel shelf pricing systems installed in 33 of its Connecticut stores. This new deal will allow Edwards to expand its use of the Telepanel systems outside Connecticut.</p>
+<p>Telepanel said the deal represents a &quot;major milestone&quot; and has a potential value of up to US$10 million.  </p>
+<p>These Edwards stores will be operating within the Giant unit of Ahold, starting January 1, 1997. The new Giant/Edwards organization will operate 135 stores in New Jersey, New York, Pennsylvania, Maryland, Virginia, and West Virginia.</p>
+<p>Telepanel said the deal provides for up to 70 systems with more than one million display modules to be installed. The first eight are in progress. If the first eight systems work out as anticipated, the installation program will expand to cover a minimum of 30 systems over the next 36 months.</p>
+<p>The deal allows for up to 40 additional installations during this period.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

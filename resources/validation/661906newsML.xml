@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="661906" id="root" date="1997-06-14" xml:lang="en">
+<title>GERMANY: German teenager detained in church arson case.</title>
+<headline>German teenager detained in church arson case.</headline>
+<dateline>LUEBECK, Germany 1997-06-14</dateline>
+<text>
+<p>A 19-year old man has been detained after confessing to an arson attack which left a Catholic church in the northern German town of Luebeck in ruins three weeks ago, prosecutors said on Saturday.</p>
+<p>Senior public prosecutor Klaus Dieter Schultz said the teenager, an apprentice gardener, had been out with four companions aged between 13 and 17 on the night of May 25 when the attack on the St Vicelin church took place.</p>
+<p>Police had temporarily held all five suspects but only one remained in custody.</p>
+<p>The motive for the attack remained unclear.</p>
+<p>Two of the youths scrawled swastikas on the church's facade but contrary to initial suspicions, none of those involved belonged to a neo-Nazi organisation, prosecutors said.</p>
+<p>The 19-year-old told police he broke into a shed in the church grounds with the intention of setting alight to something, but possibly not the whole building.</p>
+<p>Flames spread and engulfed the church after the teenager fired on gas containers with a starter pistol.</p>
+<p>The burning of the church, which followed two fires in a Luebeck synagogue in 1994 and 1995, triggered sharp condemnation from German anti-racist groups.</p>
+<p>Firefighters found five Nazi swastika symbols sprayed in white paint on the building alongside the name of a local priest who was campaigning to stop Algerian asylum-seekers from being deported.</p>
+<p>On June 4, an evangelical church in Hamburg was set on fire after being daubed with right-wing and Satanic symbols but the building was only slightly damaged.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUEBECK, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

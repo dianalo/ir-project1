@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="746667" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE-Caraustar Q2 net falls 16 pct.</title>
+<headline>TABLE-Caraustar Q2 net falls 16 pct.</headline>
+<dateline>ATLANTA 1997-07-22</dateline>
+<text>
+<p>3 Months</p>
+<p>				1997			1996</p>
+<p> Shr		  $0.51		    $0.61</p>
+<p> Net		  $12,819		  $15,327</p>
+<p> Revs		 $167,769		 $146,217</p>
+<p>  Avg shrs	  24,988		   25,237</p>
+<p>	   6 Months</p>
+<p> Shr		 $0.98		    $1.14</p>
+<p> Net		 $24,560		  $28,878</p>
+<p> Revs		$332,304		 $297,836</p>
+<p> Avg shrs	  25,075		   25,437</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Q2 net includes one time pre-tax gain of $2.4 million from the sale of a 50 percent interest in the net assets of the company's gypsum wallboard subsidiary, Standard Gypsum Corp.  Without that one time pre-tax gain, net income decreases by $1.1 million, or 7.9 percent, compared to the same time last year.  Excluding the pre-tax gain, earnings per share for Q2 decreased by $0.04, or 7.3 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

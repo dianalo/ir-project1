@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48389" id="root" date="1996-09-12" xml:lang="en">
+<title>CANADA: Ulster acquires Alberta oil interest.</title>
+<headline>Ulster acquires Alberta oil interest.</headline>
+<dateline>CALGARY 1996-09-12</dateline>
+<text>
+<p>Ulster Petroleums Ltd said on Thursday it would acquire a 44-percent stake in an Alberta oil field for C$30 million.</p>
+<p>Ulster said the interest was in the Wimborne D-3 Unit, which together with its own 75-percent interest in the Clive D-3 unit, would give it ownership and control of two of the five largest Nisku/Leduc fields in Alberta.</p>
+<p>&quot;These fields represent some of the most prolific and highest quality light gravity oil production in the province of Alberta,&quot; Ulster vice-presdient Fred Woods said in a statement.</p>
+<p>The company said its purchase represents 5.8 million net barrels of oil equaivalent of proven and probable reserves and over 1,300 barrels per day of production.</p>
+<p>The deal would be financed from lines of credit and proceeds from the sale of some of its mature properties, the company said.</p>
+<p>-- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

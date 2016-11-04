@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="656721" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: Jury finds former U.S. fugitive guilty of rape.</title>
+<headline>Jury finds former U.S. fugitive guilty of rape.</headline>
+<dateline>STAMFORD, Conn. 1997-06-12</dateline>
+<text>
+<p>A jury on Thursday found former fugitive Alex Kelly guilty of raping a 16-year-old girl after a party 11 years ago, an official in the Stamford Superior Court's clerk's office said.</p>
+<p>The six-member jury reached its verdict just a day after beginning deliberations in a retrial that began on May 15. Kelly's first trial ended in a hung jury last November.</p>
+<p>Kelly, 30, fled the United States in 1987 on the eve of his original scheduled trial and lived as a fugitive for eight years before surrendering in Switzerland in 1995.</p>
+<p>He faced a single count of sexual assault, which carries a maximum sentence of 20 years in jail. He had claimed that the sex was consensual.</p>
+<p>There was no immediate information on sentencing.</p>
+<p>Kelly was also accused of raping a 17-year-old girl in February 1986 in a separate incident, but the two cases are being tried separately. No date has been set for the second trial.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

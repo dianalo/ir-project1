@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107604" id="root" date="1996-10-10" xml:lang="en">
+<title>UK: Resilient UK stocks pare losses as Dow rebounds.</title>
+<headline>Resilient UK stocks pare losses as Dow rebounds.</headline>
+<dateline>LONDON 1996-10-10</dateline>
+<text>
+<p>The London stock market ended on a resilient note on Thursday, clawing back most of the losses triggered mid-afternoon by a smaller-than-expected rise in U.S. jobless claims which hit U.S. equities and debt prices.</p>
+<p>The FTSE 100 share index had dropped as low as 3,981.2 points in the afternoon as U.S. shares sagged in early trade.</p>
+<p>But bid speculation, gains among insurers and Wall Street's subsequent rebound dragged the FTSE back up to end at 3,994.7, down 14.6 points on the day.</p>
+<p>&quot;There was a desperate struggle to get back over 4,000 but momentum just faded,&quot; one dealer said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

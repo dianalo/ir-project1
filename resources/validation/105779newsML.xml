@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105779" id="root" date="1996-10-09" xml:lang="en">
+<title>DENMARK: Novo signs U.S. diabetes research pact.</title>
+<headline>Novo signs U.S. diabetes research pact.</headline>
+<dateline>COPENHAGEN, Denmark</dateline>
+<text>
+<p>Danish biotechnology group Novo Nordisk A/S said Wednesday it signed an $18 million diabetes research agreement with Carlsbad, Calif.-based Ontogen Corp.</p>
+<p>Novo said the deal concerned the joint development by the two companies of new compounds to be used in the treatment and diagnosis of diseases within Novo's core diabetes, women's health care and growth businesses.</p>
+<p>It said collaboration would focus on special inhibitors, which could lead to the development of novel, orally active drugs to supplement insulin in the treatment of diabetes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN, Denmark"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

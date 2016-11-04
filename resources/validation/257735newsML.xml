@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257735" id="root" date="1996-12-15" xml:lang="en">
+<title>INDIA: Indian yr/yr inflation rises to 6.8 pct in week.</title>
+<headline>Indian yr/yr inflation rises to 6.8 pct in week.</headline>
+<dateline>NEW DELHI 1996-12-15</dateline>
+<text>
+<p>India's year-on-year inflation rate, as measured by the wholesale price index, rose to 6.8 percent in the week ending Nov 30 from 6.69 percent in the previous week, the Industry Ministry said on Sunday.</p>
+<p>    WHOLESALE PRICES   Nov 30, 1996  Nov 23, 1996  Dec 2, 1995</p>
+<p>    Year-on-year change    +6.8	    +6.69	   +7.10</p>
+<p>    Index (base=1981/82)  318.8	   319.0	   298.5</p>
+<p>NOTE - Figures are preliminary except for those for week ended Dec 2, 1995.</p>
+<p>-- New Delhi newsroom +91-11 301 2024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

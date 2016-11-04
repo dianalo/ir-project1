@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125924" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Indiana Gas to appeal insurance judgments.</title>
+<headline>Indiana Gas to appeal insurance judgments.</headline>
+<dateline>INDIANAPOLIS 1996-10-18</dateline>
+<text>
+<p>Indiana Gas Co, the primary subsidiary of Indiana Energy Inc, said on Friday that it plans to appeal judgments by a U.S. District Court that essentially eliminate insurance coverage of some environmental costs.</p>
+<p>The judgments will have no immediate impact on earnings since the company previously recorded all costs it expects to incur in connection with the environmental activities, Indiana Gas said.  </p>
+<p>&quot;It is possible that future events may require additional remediation activities which are not presently foreseen,&quot; the company said in a statement.</p>
+<p>Indiana Gas indentified 26 sites used for the manufacture and storage of gas during the first half of this century and earlier. The sites have not been active since the 1940s.</p>
+<p>Various byproducts were produced while manufacturing the gas, some of which may still be present at the sites.</p>
+<p>Indiana Gas said it and the Indiana Utility Regulatory Commission believe these operations were conducted in accordance with the then-applicable industry standards.  </p>
+<p>Under current environmental laws and regulations, however, Indiana Gas may be required to take remedial action if certain byproducts at these sites are found above a certain level.</p>
+<p>In April 1995, Indiana Gas filed suit against its insurance carriers for payment of claims for investigation and clean-up costs at the sites. It asked they pay costs already incurred and that the carriers are obligated to pay these costs in the future.</p>
+<p>Indiana Gas said that on October 2 the U.S. District Court for the Northern District of Indiana granted several motions filed by defendant insurance carriers for summary judgment with respect to the insurers' obligations to Indiana Gas under insurance policies issued by these carriers. The Court held that the disposal of byproducts at the sites was intentional and not a &quot;fortuitous accident,&quot; and was therefore not an &quot;occurrence&quot; covered under the policies.</p>
+<p>Indiana Gas said it believes a number of these orders are contrary to Indiana law and intends to appeal to the U.S. Court of Appeals for the Seventh Circuit.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

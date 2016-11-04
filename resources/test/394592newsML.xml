@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-02-21" id="root" itemid="394592" xml:lang="en">
+<title>CANADA: Bank of Canada weekly assets and liabilities.</title>
+<headline>Bank of Canada weekly assets and liabilities.</headline>
+<text>
+<p>DATE	ASSETS			  C$(million)	 CHANGE(C$million)</p>
+<p>02/19    Total T-bills		   16,337	    -139</p>
+<p>	   3-years and under		2,880</p>
+<p>	   Over three years		 5,933</p>
+<p>	   Amount held under</p>
+<p>	   purchase/resale agreements</p>
+<p>	   Advances			     417		50</p>
+<p>		     TOTAL:		  27,732		 1</p>
+<p>	    LIABILITIES</p>
+<p>	   Notes in circulation	  26,536	    -167</p>
+<p>	   C$ deposits:</p>
+<p>	   Government of Canada		 8		-5</p>
+<p>	   Chartered banks		    287	    -152</p>
+<p>	   Other CPA members		  103	     103</p>
+<p>		     TOTAL:		  27,732		 1</p>
+<p>Net completed securities transactions with the market: 0. Securities to be purchased under sale/repurchase agreements: 0.</p>
+<p>((Reuters Toronto bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-02-21" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location.country.name" value="CANADA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="358232" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: Mass. AG to block Middlesex 'attachments' - report.</title>
+<headline>Mass. AG to block Middlesex 'attachments' - report.</headline>
+<dateline>BOSTON 1997-02-05</dateline>
+<text>
+<p>Massachusetts Attorney General Scott Harshbarger intervened to block creditors of financially strapped Middlesex County from &quot;attaching&quot; county properties, Boston Globe reported.</p>
+<p>At a court hearing on Friday, attorneys for some of the county's creditors want to &quot;attach&quot; Middlesex property, meaning that the properties can not be sold without satisfying creditor debts, the Globe reported.</p>
+<p>Harshbarger said he does not want courthouses and other public property in Middlesex County, the largest county in Massachusetts which encompasses Cambridge and other Boston suburbs, to be sold to pay off debt.</p>
+<p>&quot;My goal is simple: to prevent the crisis that would result from the sale of county assets upon which the state relies for the health, safety, and welfare of its citizens,&quot; Harshbarger said in the Globe.</p>
+<p>The request for attachment was filed by Horizon/CMS Healthcare Corp on behalf of other creditors, according to the newspaper.</p>
+<p>Horizon is owed $3 million; Fleet Financial Group Inc $1.5 million;  Dreyfus Corp $3 million; Middlesex County Retirement Board $2.3 million, and Marriott Management Services Corp $550,000, according to the Globe.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

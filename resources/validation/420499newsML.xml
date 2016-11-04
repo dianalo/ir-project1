@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420499" id="root" date="1997-03-05" xml:lang="en">
+<title>UK: German inland gas oil steadies, but no extra buyin.</title>
+<headline>German inland gas oil steadies, but no extra buyin.</headline>
+<text>
+<p>(DLR/DM=1.7122)   DM/100 LTRS     DLRS/100 LTRS   LAST DM</p>
+<p> HAMBURG	     32.70/33.10     19.10/19.33   32.70/33.10</p>
+<p> BREMEN		32.70/33.10     19.10/19.33   32.70/33.10</p>
+<p> DUISBURG	    32.90/33.30     19.22/19.45   32.90/33.30</p>
+<p> FRANKFURT	   33.40/33.90     19.51/19.80   33.40/33.90</p>
+<p> KARLSRUHE	   33.30/33.80     19.45/19.74   33.30/33.80</p>
+<p> INGOLSTADT	  34.10/34.50     19.92/20.15   34.10/34.50</p>
+<p>German inland gas oil was broadly unchanged on Wednesday after morning gains in IPE gas oil futures were erased in the afternoon. Traders said there has not been a significant rise in buying interest. -- London Newsroom +44 171 542 8980</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

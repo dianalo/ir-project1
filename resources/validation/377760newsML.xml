@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="377760" id="root" date="1997-02-14" xml:lang="en">
+<title>HUNGARY: HUNGARY APV CONSIDERS BOURSE LISTINGS - MINISTER.</title>
+<headline>HUNGARY APV CONSIDERS BOURSE LISTINGS - MINISTER.</headline>
+<dateline>BUDAPEST 1997-02-13</dateline>
+<text>
+<p>Hungary's privatisation agency APV is considering listing seven state-owned companies on the Budapest Stock Exchange (BSE), Privatisation Minister Judit Csiha said on Friday.</p>
+<p>Csiha told journalists that the seven include the truck maker Raba Rt, the agricultural producer Babolna Rt, the real estate development and trading company Budapesti Ingatlanfejleszto es Forgalmazo Rt and the national pawnshop chain BAV.</p>
+<p>APV decided on Wednesday to float BAV on the BSE.</p>
+<p>APV general manager Pal Szabo told a news conference earlier this week that APV planned to list three or four companies on the BSE in 1997.</p>
+<p>-- Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

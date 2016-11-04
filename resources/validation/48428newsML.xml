@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48428" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: International Standards gets Centam deal.</title>
+<headline>International Standards gets Centam deal.</headline>
+<dateline>BOCA RATON, Fla 1996-09-12</dateline>
+<text>
+<p>International Standards Group Inc said Thursday it had signed an agreement with a Central American bank to provide it with an international debit card platform.</p>
+<p>The company said its wholly-owned telecommunications subsidiary Total World Telecom had signed a multi-year agency agreement with the bank.</p>
+<p>A company official said it would not identify the bank until the &quot;the implementation of the project was finalized&quot;.</p>
+<p>Under its terms, the bank is to order debit cards on a monthly basis and remit payment to Total World Telecom before the cards are activated for usage, it said.</p>
+<p>The agreement, which comes into effect November 1, is worth more than $6 million a year in revenues, it said.</p>
+<p>&quot;Stockholders can look forward to growth in revenues,&quot; it said. &quot;By fiscal year end, shareholders can also expect the continuation of our plan to separate (International Standards') real estate and mortgage subsidiaries allowing the company to further commit itself to the business of telecommunications.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOCA RATON, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

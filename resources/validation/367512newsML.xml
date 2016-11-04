@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367512" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Mafia said shifting focus to white collar crime.</title>
+<headline>Mafia said shifting focus to white collar crime.</headline>
+<dateline>NEW YORK 1997-02-10</dateline>
+<text>
+<p>Mafia families in the Northeast United States are shifting increasingly to white collar crime, The New York Times quoting law enforcement officials reported Monday.</p>
+<p>It said the new Mafia focus was mainly in the areas of health insurance, prepaid telephone cards, an industry that grosses about $1 billion a year, and small Wall Street brokerage houses.</p>
+<p>&quot;They are analagous to companies in Chapter 11 bankruptcy,&quot; Lewis Schiliro, chief of the FBI's criminal division in New York, told the paper. &quot;They are still in business but many of their old moneymaking bases have dried up and they are moving into new industries to fill the void.&quot;</p>
+<p>The paper said federal and local law officials were investigating efforts by the Genovese, Gambino and Colombo crime families to coordinate frauds through initial public offerings in the over-the-counter market handled by small brokerage firms.</p>
+<p>A Long Island businessman who asked not to be identified told the paper that mobsters offer loans to brokers, forcing them in exchange to sell low-priced shares of a company before its stock is offered to the public.</p>
+<p>The report also said 12 men accused of being members of the Genovese family were arrested in August after setting up a New Jersey company that investigators said was used to extract excessive payments from health plan administrators.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

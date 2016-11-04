@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185381" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 13-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 13-NOV.</headline>
+<text>
+<p>Typhoon Dale will mainly impact shipping during this period. It currently has winds of 105 mph and is located well southeast of Japan, moving east northeast at 38 mph. Dale will weaken to near 70 mph during the next 60 hours. By then, it should be near 59n/151e.  </p>
+<p>Tropical Storm Ernie is moving west southwestward across the eastern South China Sea, and has top winds near 40 mph. It is a moderate threat to shipping, but this threat will decrease as the storm weakens to a depression.  </p>
+<p>There are no further statements at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="738950" id="root" date="1997-07-18" xml:lang="en">
+<title>VENEZUELA: Electric cut downs Venezuela methanol, MTBE plants.</title>
+<headline>Electric cut downs Venezuela methanol, MTBE plants.</headline>
+<dateline>CARACAS 1997-07-18</dateline>
+<text>
+<p>A sudden electric failure in eastern Venezuela downed at least three petrochemical plants Friday, officials said, although the plants were being restarted.</p>
+<p>&quot;All of the plants went down because they couldn't withstand such a powerful failure,&quot; a spokeswoman for state petrochemicals unit Pequiven said.</p>
+<p>No refineries were affceted by the outage although it was not immediately known whether neighboring liquid natural gas and Orimulsion plants had been downed.</p>
+<p>Pequiven's 500,000 metric tonnes per year (mt/year) Superoctanos MTBE plant, the 690,000 mt/year Supermetanol methanol plant and the 750,000 mt/year Metor methanol plant were downed by the outage.</p>
+<p>&quot;They are all being restarted and should be back to full operations by the afternoon,&quot; the spokeswoman said.</p>
+<p>All three plants are in the Jose complex near Puerto La Cruz on Venezuela's eastern Caribbean coast.</p>
+<p>A nearby liquid natural gas plant operated by Petroleos de Venezuela (PDVSA) unit Corpoven and an Orimulsion storage and embarkation plant operated by PDVSA unit Bitor may have been affected by the outage, she added.</p>
+<p>Corpoven officials at the Cryogenic plant could not be reached for comment.</p>
+<p>But a Corpoven operations manager at the nearby Puerto La Cruz refinery said it had not been affected by the outage due to the plants own power generators.</p>
+<p>((-- Caracas newsroom, 582 505 2600))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

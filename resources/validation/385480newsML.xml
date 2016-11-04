@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="385480" id="root" date="1997-02-18" xml:lang="en">
+<title>UK: BFI up two, fresh fixing slow.</title>
+<headline>BFI up two, fresh fixing slow.</headline>
+<dateline>LONDON 1997-02-18</dateline>
+<text>
+<p>The Baltic Freight Index (BFI) rose two points on Tuesday to 1,467 points while the twice weekly Handy-index rose 23 points to 1,039.</p>
+<p>Brokers reported EMC's recent 54,000 heavy grain USGulf to Japan Mar 7/21 was fixed at $25.85 no combination (amended from $25.75).</p>
+<p>Elsewhere Jewel I 65,402 dwt was taken by Panocean delivery Santos March for 3/5 months at $12,350 daily plus $250,000 bonus.</p>
+<p>ADM fixed 23,500 meals USGulf to Ireland Feb 15/23 at $15.75 while Elikon 28,234 dwt was recently taken by Canadian Forest delivery UK/Cont Feb 15/20 for 6/8 months $6,250 daily upto mid April thereafter $7,250 daily, brokers said.</p>
+<p>At 1300 GMT BIFFEX was 10 to 20 points lower and turnover totalled 20 lots.</p>
+<p>London Newsroom, +44 171 542 7771</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

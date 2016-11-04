@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327145" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Nasdaq slips from record streak in heavy trading.</title>
+<headline>Nasdaq slips from record streak in heavy trading.</headline>
+<dateline>NEW YORK 1997-01-23</dateline>
+<text>
+<p>Weak results at a Treasury auction and late sell programs hammered Nasdaq shares down from a record high in late trading, traders said.</p>
+<p>The Nasdaq Composite Index lost 9.71 point to close unofficially at 1378.35 on heavy volume of 811 million shares -- the second highest volume ever.</p>
+<p>Nasdaq index hit a record high of 1400.53 around 1345 EST/1845 GMT. Shares started to slid at about 1445 EST/1945 GMT, gaining speed near the close.</p>
+<p>Traders said stocks started to slip after an auction in the Treasury market failed to meet expectations.</p>
+<p>Late in the day, sell programs also hammered the Dow Industrials down 94 points to close unofficially at about 6756. The long bond dropped 8/32 to yield 6.86 percent.</p>
+<p>The continued decline in International Business Machines Corp also pushed some blue chip technology stocks lower.</p>
+<p>Microsoft Corp lost 2-5/8 to 94-3/4. Intel Corp fell 3/8 to 151-3/4 and Oracle Corp slipped 1-7/8 to 40-1/2. Dell Computer Corp and other personal computer makers, however, gained on an upbeat outlook for 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

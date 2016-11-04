@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753070" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: US House passes FY98 ag fund bill with EEP cap.</title>
+<headline>US House passes FY98 ag fund bill with EEP cap.</headline>
+<dateline>WASHINGTON 1997-07-24</dateline>
+<text>
+<p>The U.S. House, after rejecting attempts to trim sugar and peanut supports, passed a $49.5 billion agriculture appropriations bill for fisal 1998 that included a $205 million cap on the major ag export subsidy program.</p>
+<p>The administration requested $500 million for the Export Enhancement Program. The House settled on $205 million, partly to cover the cost of crop insurance sales commissions. The Senate passed its version of the FY98 funding bill earlier in the day with a $150 million limit on EEP.  </p>
+<p>Representatives passed the bill, 392-32. The Senate passed its version of the bill earlier today. The next step would be a &quot;conference&quot; by House and Senate negotiators to resolve differences over crop insurance sales commissions, $91 million in drug user fees for the Food and Drug Administration, EEP funding levels, and other points of disagreement.</p>
+<p>The House bill included $5.7 billion for ag export credit guarantees, $90 million for the Market Access Program and $879 million for the PL-480 Food for Peace sales and humanitarian donation program.</p>
+<p>During the final day of work, representatives rejected 216-209 a proposal to ban federally subsidized crop insurance for tobacco; defeated 253-175 a change in the sugar program intended to lower prices, turned down 222-185 a proposal to reduce the peanut support price by $60 per ton, and refused 277-150 to eliminate funding for the $90 million a year Market Access Program.</p>
+<p>Lawmakers also refused to transfer $14 million in crop insurance funding to antismoking programs or to move $23.7 million from crop insurance to boost funding for the Women, Infants and Children feeding program.</p>
+<p>-- Washington newsroom, ((202-898-8300))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

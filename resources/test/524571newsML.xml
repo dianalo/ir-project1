@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-04-21" id="root" itemid="524571" xml:lang="en">
+<title>PHILIPPINES: PH-ADR Philippine stocks traded abroad.</title>
+<headline>PH-ADR Philippine stocks traded abroad.</headline>
+<dateline>MANILA 1996-04-22</dateline>
+<text>
+<p>Closing prices of Philippine stocks traded on Wall Street on Monday:</p>
+<p> Company   Close	 Net Change  High     Low	 Volume</p>
+<p> PLDT	US$57 5/8   -0 5/8	58 1/8   57 1/2     60400</p>
+<p> Benguet   US$0 12/32  +0 1/32     0 12/32  0 11/32     6900</p>
+<p> 1st Phil  US$14 7/8   +0 1/8	14 7/8   14 3/4	2700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1996-04-22" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-04-21" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="MANILA" />
+<dc element="dc.creator.location.country.name" value="PHILIPPINES" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

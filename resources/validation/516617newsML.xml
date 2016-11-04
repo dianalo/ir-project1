@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="516617" id="root" date="1997-04-17" xml:lang="en">
+<title>LATVIA: LATVIA-INVESTMENT BANK SAYS PLANS LAT BONDS.</title>
+<headline>LATVIA-INVESTMENT BANK SAYS PLANS LAT BONDS.</headline>
+<dateline>RIGA 1997-04-17</dateline>
+<text>
+<p>The Latvian Investment Bank said on Thursday it is working on an open issue of lat bonds, to become the first Latvian bank to issue bonds locally.</p>
+<p>&quot;We are at the moment working on an open lat bond issue,&quot; an Investment Bank official told Reuters.</p>
+<p>He refused to give any details until a press release is issued later today.</p>
+<p>Securities commission deputy chairman Talis Linkaitis said the Investment Bank has already registered the issue prospectus.</p>
+<p>Salaspils municipality bond and Finnish Merita Bank are the other two issuers of lat bonds.</p>
+<p>Investment Bank is an institution of the Latvian government and the European Bank for Reconstruction and Development (EBRD) which channels loans to medium and small size businesses.</p>
+<p>-- Martinsh Gravitis, Riga Newsroom, +371 7231 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

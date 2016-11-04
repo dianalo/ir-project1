@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404961" id="root" date="1997-02-26" xml:lang="en">
+<title>INDIA: Indian Shipping -- Visakhapatnam Cargoes - Feb 25.</title>
+<headline>Indian Shipping -- Visakhapatnam Cargoes - Feb 25.</headline>
+<dateline>BOMBAY 1997-02-26</dateline>
+<text>
+<p>Following is the berthing schedule of major vessels loading and unloading at India's Visakhapatnam port on February 25:</p>
+<p> Commodity		Tons		  Ship	     Berthing</p>
+<p>		   (LDD/ULD) (Balance)</p>
+<p>---------------------------------------------------------------</p>
+<p> Wheat	    23,935 (ULD) 11,439     I.Mahendra	  14/02</p>
+<p> Containers	   12 (ULD)    298     Jala Tapi	   24/02</p>
+<p> Iron Ore	 34,111 (ULD)    ---     Jag Raksha	  19/02</p>
+<p> Coking Coal    17,822 (ULD) 25,615     Diamond Haldi     23/02</p>
+<p> Urea	     16,646 (ULD)  7,913     Jay Laxmi	   15/02</p>
+<p> Timber Logs     4,416 (ULD)    ---     Amiral Venture    24/01</p>
+<p> Steel Slabs     3,929 (LDD) 12,271     Pacific Trader    23/02</p>
+<p> Wire Rod Coils    735 (LDD) 19,265     Sea Master	  24/02</p>
+<p> Soya Meal Bean  7,669 (LDD)  4,131     Asean Premier     22/02</p>
+<p> Pig Iron	  5,630 (LDD) 27,047     Maria		 23/02</p>
+<p> Thermal Coal    2,619 (LDD) 26,881     Pearl Luck	  24/02</p>
+<p> Thermal Coal   19,059 (LDD) 17,141     Prabhu Mihika     22/02</p>
+<p> Thermal Coal   30,501 (LDD)  2,499     Jag Rashmi	  21/02</p>
+<p> Alumina Powder 26,242 (LDD)    ---     Prtishta	    21/02</p>
+<p> Iron Ore	114,250 (LDD) 23,600     Kohkisan	    23/02</p>
+<p>---------------------------------------------------------------</p>
+<p>	    Note:</p>
+<p>	    LDD - Loading</p>
+<p>	    ULD - Unloading</p>
+<p>(Source: J.M.Baxi &amp; Co, Visakhapatnam)</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="372187" id="root" date="1997-02-12" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar closes firm at 472.75/474/dlr.</title>
+<headline>Venezuela bolivar closes firm at 472.75/474/dlr.</headline>
+<dateline>CARACAS 1997-02-12</dateline>
+<text>
+<p>The Venezuelan bolivar closed firmer against the dollar at 472.75/474.00 as businesses bought bolivars to fund local operations, traders said.</p>
+<p>The unit closed Friday at 474.00/475.00 per dollar.</p>
+<p>&quot;Clients were buying bolivars because they needed them, not to speculate,&quot; said one broker.</p>
+<p>&quot;It was that, rather than any Central Bank dollar sales, that brought the dollar down today,&quot; he said, adding however that he saw 474/475 &quot;as a more realistic rate&quot;.</p>
+<p>The market was closed earlier this week for Carnival celebrations.</p>
+<p>((-- Ana Isabel Martinez, Caracas newsroom, 582 505 2600))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

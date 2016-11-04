@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="543835" id="root" date="1997-04-28" xml:lang="en">
+<title>HONG KONG: Sinocan 1996 profit up 18.2 percent.</title>
+<headline>Sinocan 1996 profit up 18.2 percent.</headline>
+<dateline>HONG KONG 1997-04-28</dateline>
+<text>
+<p>Year ended December 31</p>
+<p>(in million HK$ unless otherwise stated)</p>
+<p>    Shr (H.K. cents)	   26.7   vs 22.6</p>
+<p>    Dividend (H.K. cents)    7.0    vs 7.0</p>
+<p>    Exceptional items	  nil    vs nil</p>
+<p>    Net			    213.91 vs 180.98</p>
+<p>    Turnover		     551.88 vs 453.57</p>
+<p>    Company name		 Sinocan Holdings Ltd</p>
+<p>    Books close		  June 16-20</p>
+<p>    Dividend payable	   July 11</p>
+<p>NOTE - Sinocan Holdings makes cans for the food and beverage industry in China.</p>
+<p>Total dividend for year is nine H.K. cents (including interim dividend of two cents) vs same.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

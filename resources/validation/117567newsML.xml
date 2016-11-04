@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117567" id="root" date="1996-10-15" xml:lang="en">
+<title>SPAIN: Spanish firms to pay 75 bln pta to update accounts.</title>
+<headline>Spanish firms to pay 75 bln pta to update accounts.</headline>
+<dateline>MADRID 1996-10-15</dateline>
+<text>
+<p>Spain's Secretary of State for the Exchequer Juan Costa on Tuesday said the government expected to earn 75 billion pesetas from the updating of company balance sheets during the first year the measure was applied.</p>
+<p>Costa estimated revenue of 150 billion pesetas from the three percent tax linked to the updating of balance sheets. This would be counteracted by a drop in revenue of 75 billion due to an increase in amortisations.</p>
+<p>The end result would be 75 billion peseta increase in revenues in the first year, he concluded. This was a cautious estimate, Costa told parliament's Economy Commission.</p>
+<p>--Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

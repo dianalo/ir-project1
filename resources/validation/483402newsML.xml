@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="483402" id="root" date="1997-04-02" xml:lang="en">
+<title>PHILIPPINES: Cosmos says Q1 net up 146 pct.</title>
+<headline>Cosmos says Q1 net up 146 pct.</headline>
+<dateline>MANILA 1997-04-02</dateline>
+<text>
+<p>Cosmos Bottling Corp, the softdrinks arm of RFM Corp, said on Wednesday it posted 101 million pesos in profits for the first quarter of this year, 146 percent higher than the 41 million pesos in the same period in 1996.</p>
+<p>Cosmos president Antonio Panajon said in a report to stockholders that net sales of the company in the first quarter rose to 607 million from 302 million pesos.</p>
+<p>Panajon said strong growth should catapult net sales to 2.9 billion pesos by year-end and net income to 480 million pesos.</p>
+<p>Earnings per share is expected to increase to 56 centavos from 36 centavos last year.</p>
+<p>- Manila newsroom 63 2 841 8939 fax 817 6267</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

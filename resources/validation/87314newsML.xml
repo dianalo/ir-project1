@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87314" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Harris Speciality Chemicals seeks buyer for PCR.</title>
+<headline>Harris Speciality Chemicals seeks buyer for PCR.</headline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>Privately-held construction and specialty chemicals company Harris Speciality Chemicals said on Tuesday it was seeking a buyer for its PCR Inc subsidiary, which makes silicon and fluorine-based chemicals.</p>
+<p>The Florida-based unit has annual revenues of about $50 million and 189 employees, the company said in a statement.</p>
+<p>Proceeds from the sale would be used to reduce long-term debt, Harris said. The sale would allow Harris to focus on its core construction business, it said.  </p>
+<p>&quot;Since HSC was established in early 1994, PCR has experienced terrific growth - more than 50 percent in three years,&quot;  Chairman D. George Harris said.</p>
+<p>Two units of PCR, Hydrozo and Jeene, which make silane sealers and structural expansion joints for the construction industry, would remain with HSC, it said.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

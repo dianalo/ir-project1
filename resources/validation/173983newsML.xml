@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173983" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: MBIA qualifies muni 11 bond issues for insurance.</title>
+<headline>MBIA qualifies muni 11 bond issues for insurance.</headline>
+<dateline>NEW YORK 1996-11-07</dateline>
+<text>
+<p>MBIA Insurance Corp said Thursday it qualified for bond insurance the following 11 municipal bond issues scheduled for competitive sale today:</p>
+<p>--Pottsville School District No 61, Ark., $2.085 million contruction bonds.</p>
+<p>--St Helena, Calif., $6.4 million water refunding revenue bonds under direct purchase program.</p>
+<p>--Warren Building Authority, Mich., $10.9 million of revenue bonds.</p>
+<p>--Whittemore-Prescott, Mich., $10.2 million general obligation bonds.</p>
+<p>--Blaine, Minn., $2.04 million and $450,000 of GO tax increment bonds.</p>
+<p>--Clarksdale Muni School District, Miss., $7.83 million GOs.</p>
+<p>--Middletown City School District, N.Y., $34.884 million school bonds.</p>
+<p>--Oneida County, N.Y., $15.775 million improvement bonds.</p>
+<p>--Suffolk County, N.Y., $54 million and $18 million of public improvement bonds.</p>
+<p>--Bilma Public Utility District, Texas, $1.5 million unlimited tax bonds.</p>
+<p>--Conroe, Texas, $3.5 million certificates of obligation.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

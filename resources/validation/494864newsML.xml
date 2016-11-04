@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494864" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: Giant Industries sees sharply lower profits.</title>
+<headline>Giant Industries sees sharply lower profits.</headline>
+<dateline>SCOTTSDALE, Ariz. 1997-04-08</dateline>
+<text>
+<p>Giant Industries Inc said Tuesday it expects to report first quarter earnings per share of $0.06 to $0.10 compared with $0.21 a year earlier.</p>
+<p>The First Call consensus estimate for the latest quarter is $0.09.</p>
+<p>&quot;While I am not pleased with these estimated earnings, I believe first quarter earnings across the industry will be lower than those reported in the first quarter of 1996,&quot; chief executive Jim Acridge said.</p>
+<p>&quot;I am, however, encouraged with the improvement in refining margins that we have seen over the past month.&quot;  </p>
+<p>Giant has &quot;identified several potential opportunities which, if completed, could immediately contribute to shareholder value,&quot; Acridge added.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTSDALE, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55753" id="root" date="1996-09-16" xml:lang="en">
+<title>HONG KONG: Merrill Lynch boosts Asia-Pac equity team.</title>
+<headline>Merrill Lynch boosts Asia-Pac equity team.</headline>
+<dateline>HONG KONG 1996-09-16</dateline>
+<text>
+<p>Merrill Lynch announced on Monday four new appointments to its Asia Pacific Equity team, all of which would take effect at the end of the month.</p>
+<p>Gan Seow Ann, formerly the managing director in charge of Crosby Securities' South Asian equity business and head of all Asian sales, is joining Merrill Lynch's Singapore office as head of Sales, South Asia, the company said in a statement.</p>
+<p>Yeoh Keat Seng, formerly head of Crosby's Malaysian research team, is joining Merrill Lynch's joint venture partner Smith Zain Securities' Kuala Lumpur office as Head of Research for Malaysia.</p>
+<p>Wong Yee Hui and Alina Chiew, formerly analysts with Crosby Securities' Malaysian research team, are joining Smith Zain Securitites' Kuala Lumpur research office.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

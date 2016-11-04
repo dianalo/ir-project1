@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466238" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: Washoe Cty, Nev., won by PaineWebber.</title>
+<headline>Washoe Cty, Nev., won by PaineWebber.</headline>
+<text>
+<p>AMT: 10,000,000     DATE: 03/25/97	NYC Time: 1130     CUSIP: 940773</p>
+<p>ISSUER: Washoe County						  ST: NV</p>
+<p>ISSUE: GO Various Purpose, Series April 1, 1997		TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: A2/A+/NA							 BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: MBIA Aaa/AAA/NA					BANK QUAL: N</p>
+<p>DTD: 04/01/97							    SURE BID: Y</p>
+<p>DUE: 4/1/98-07						SR MGR: PaineWebber</p>
+<p>1ST CPN: 10/01/97					   DOLLAR BID: 99.385</p>
+<p>CALL: Non-Callable					  TIC 4.9724</p>
+<p>DELIVERY: 4/15/97 approx				  ORDERS: NA</p>
+<p>PAYING AGENT: First Bank N.A., Phoenix</p>
+<p>L.O.: Swendseid &amp; Stern, Reno</p>
+<p>F.A.: Howarth &amp; Associates, Las Vegas</p>
+<p>LAST SALE: $19,000,000 MBIA 12/10/96 @ 5.4102% TIC; 12yrs 11mos avg; BBI 5.57%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    820,000     4.000     4.000		  NET</p>
+<p>1999		    850,000     4.300     4.300		 .125</p>
+<p>2000		    885,000     4.450     4.450		 .125</p>
+<p>2001		    925,000     4.600     4.550		 .125</p>
+<p>2002		    965,000     4.700     4.650		 .125</p>
+<p>2003		  1,010,000     4.800     4.750		 .125</p>
+<p>2004		  1,055,000     4.900     4.850		 .125</p>
+<p>2005		  1,110,000     5.000     5.000		 .125</p>
+<p>2006		  1,160,000     5.000     5.100		  NET</p>
+<p>2007		  1,220,000     5.000     5.150		  NET</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

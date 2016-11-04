@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68703" id="root" date="1996-09-21" xml:lang="en">
+<title>BOSNIA: World Bank providing 6,000 cows to Bosnian farmers.</title>
+<headline>World Bank providing 6,000 cows to Bosnian farmers.</headline>
+<dateline>SARAJEVO 1996-09-21</dateline>
+<text>
+<p>The World Bank will deliver 6,000 pregnant cows to Bosnian farmers in another sign of a stepped-up international peace effort in the Balkan country.</p>
+<p>A NATO peace force spokesman said on Saturday the first group of cows would be handed over to farmers on September 23-27 after a month-long quarantine in holding farms following their arrival from Germany.</p>
+<p>Some 6,000 Bosnian farmers in all are buying the cows through a loan programme with the World Bank, said Major Brett Boudreau of NATO, whose Civil-Military Cooperation team is assisting the project.</p>
+<p>The imported cows will help replace around 60,000 cows killed during Bosnia's 1992-95 war.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

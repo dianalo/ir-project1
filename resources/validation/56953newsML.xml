@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56953" id="root" date="1996-09-16" xml:lang="en">
+<title>GERMANY: Germany's nursing insurance was profitable in 95.</title>
+<headline>Germany's nursing insurance was profitable in 95.</headline>
+<dateline>COLOGNE, Germany 1996-09-16</dateline>
+<text>
+<p>Germany's private health insurers made gross profits of 240 million marks on the newly introduced private nursing care insurance last year, their association PKV- Verband said.</p>
+<p>According to PKV-Verband's general manager Hans-Christoph Uleer, some 200 million marks will be used as reserves for future premium reductions, while 40 million marks are due to the insurers.</p>
+<p>Germany's eight million insured with private cover paid 2.56 million marks in premiums for nursing care insurance.</p>
+<p>&quot;Our calculations regarding prices and benefits worked out well,&quot; said Uleer.</p>
+<p>Claims and reserves amounted to 610 million marks, the initial investment into the system ran to 360 million marks.</p>
+<p>Some 1.06 billion marks was allocated to old-age reserves. Administrative costs totalled 15 million marks.</p>
+<p>Uleer said that so far 71,000 insured had claimed benefits for home care and another 34,000 for stationary care in a nursing home.</p>
+<p>Of the claims, the doctors evaluating cases on behalf of insurers turned down around 15 percent in the home care segment and 10 percent in the stationary segment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOGNE, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

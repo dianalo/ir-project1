@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236134" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: U.S. Franchise Systems Q3 full results.</title>
+<headline>U.S. Franchise Systems Q3 full results.</headline>
+<dateline>ATLANTA 1996-12-05</dateline>
+<text>
+<p>Three Mos		 Nine Mos</p>
+<p>					     Sep 30, 1996  Sep 30, 1996</p>
+<p> Revenues					  $469,000    $864,000</p>
+<p>Expenses:</p>
+<p>   Marketing and reservations		 532,000   1,022,000</p>
+<p>   Other franchise sales and advertising  774,000   2,037,000</p>
+<p>Corporate salaries, wages and benefits</p>
+<p>							548,000   1,541,000</p>
+<p>   Other general and administrative	 360,000   1,195,000</p>
+<p>   Depreciation and amortization	    143,000     411,000</p>
+<p>     Total					2,357,000   6,206,000</p>
+<p> Loss From Operations			 1,888,000   5,342,000</p>
+<p> Net Other Income (Expense)		   170,000     429,000</p>
+<p> Net Loss					 1,718,000   4,913,000</p>
+<p>Net Loss Applicable to Common</p>
+<p>   Stockholders				 2,158,000   6,191,000</p>
+<p>Weighted Average Number of Common Shares</p>
+<p>   Outstanding				 10,755,409  10,755,409</p>
+<p>Net Loss Applicable to Common</p>
+<p>   Shareholders per Share			  0.20	  0.58</p>
+<p> Pro Forma Shares Outstanding	    12,580,409  12,580,409</p>
+<p>Pro Forma Net Loss Applicable to Common</p>
+<p>    Shareholders per Share			 0.17	  0.49</p>
+<p>Note: Full company name is  U.S. Franchise Systems Inc.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

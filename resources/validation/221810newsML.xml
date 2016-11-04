@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221810" id="root" date="1996-11-27" xml:lang="en">
+<title>THAILAND: IBM wins incentives for Thai plants.</title>
+<headline>IBM wins incentives for Thai plants.</headline>
+<dateline>BANGKOK 1996-11-27</dateline>
+<text>
+<p>Thailand's Board of Investment (BoI) said on Wednesday it decided to grant tax incentives to International Business Machines Corp (IBM) to invest over 14 billion baht ($560 million) in two hard disk drive plants.</p>
+<p>BoI deputy secretary general Chackchai Panichapat told reporters he expects the planned IBM plants, in eastern Thailand, to start production in late 1997.</p>
+<p>He said 80 percent of the plants' output was geared for export with the remaining 20 percent destined for the Thai market.  </p>
+<p>BoI chief Staporn Kavitanond said on Tuesday that, if approved, the two IBM wholly-owned plants in Prachinburi and Chonburi provinces would generate about five billion baht in annual export revenue for Thailand.</p>
+<p>He said the plants would boost Thailand's image as a regional centre for the electronics industry.</p>
+<p>-- Bangkok newsroom (662)-2529950-3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203203" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Sterling Chemicals, BP start up plant.</title>
+<headline>Sterling Chemicals, BP start up plant.</headline>
+<dateline>HOUSTON 1996-11-20</dateline>
+<text>
+<p>Sterling Chemicals Inc said the the 150 million gallon per year methanol plant located at its Texas City, Texas, petrochemical facility has started-up and is operating smoothly.</p>
+<p>The plant is owned jointly with BP Chemicals Inc and the two company said its production equally, Sterling said.</p>
+<p>Construction of the methanol plant began in May 1995.</p>
+<p>Sterling said a major portion of the methanol production will be used as a feed stock in its acetic acid unit, which underwent a modernization and expansion project in fiscal 1996.</p>
+<p>The remainder of the methanol will be available for both the merchant market and for British Petroleum Co Plc's worldwide acetic acid business.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

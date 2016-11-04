@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38281" id="root" date="1996-09-06" xml:lang="en">
+<title>UK: Another tough week on LME copper options market.</title>
+<headline>Another tough week on LME copper options market.</headline>
+<byline>Mike Collett-White</byline>
+<dateline>LONDON 1996-09-06</dateline>
+<text>
+<p>Options traders had a tough time on the London Metal Exchange (LME) this week, hurt by increased volatility in underlying futures in the run-up to the September options declaration on Wednesday.</p>
+<p>The main exposure among market makers early this week was on $2,100 and $2,200-a-tonne September copper calls.</p>
+<p>So when futures raced higher on Friday and Monday, pushing September values above $2,200 at one stage, options-related buying was heavy.</p>
+<p>&quot;There was an element of panic buying early in the week,&quot; said one options trader.</p>
+<p>In the event copper settled back to $2,075 by declaration, meaning neither $2,100 nor $2,200 calls were excercised. The subsequent sell-off on underlying futures was partly attributed to options dealers unwinding their hedge.</p>
+<p>Traders played down the part options had to play in the latest big price move on Thursday.</p>
+<p>Three month copper futures plunged to a low of $1,925 from a $2,037 high as sell-stops below key support at $1,970 were triggered.</p>
+<p>&quot;Our problems certainly ended with the September declaration,&quot; said one options dealer.</p>
+<p>&quot;There might have been a bit of delta hedge selling against options, but it was mostly long (futures) liquidation,&quot; said another, referring to Thursday's collapse.</p>
+<p>&quot;People were more short of nearby upside exposure than downside,&quot; he added.</p>
+<p>Major bank players had used recent producer selling of downside puts to cover some if not most of their exposure there, dealers said. Market makers were also striving to square up their positions.</p>
+<p>Demand for nearby options both before and after the September declarations forced volatilities higher.</p>
+<p>&quot;Market makers were short of September options, but because they were so short-dated they went for Octobers and Novembers instead,&quot; said a trader.</p>
+<p>October was indicated at around 36 percent volatility early on Friday from 25.50 percent a week ago. November moved to 32.50 from 25.50 percent.</p>
+<p>Average 1997 volatility was quoted at 22 percent bid from 20/22 percent quoted a week ago.</p>
+<p>There is a continued reluctance in the options market to grant nearby options, with dealers under pressure from management not to increase exposure during such uncertain times.</p>
+<p>On other metal markets nickel featured early in the week, with $7,500 call buying for the final quarter of the year.</p>
+<p>Traders said the buying appeared to be on the back of bullish price expectations later in the year and as a cover against possible strike action at Inco's Manitoba plant later this month. The current labour contract expires on September 15.</p>
+<p>Underlying futures rose partly on covering against those calls on Monday through to Wednesday, but the rally petered out as did call option buying interest, said traders.</p>
+<p>Aluminium voltailities edged lower under light granting pressure, with futures holding relatively stable despite copper's volatility. October was quoted at 14 percent early on Friday from 15 percent a week ago.</p>
+<p>Average 1997 was steady at around 18 percent.</p>
+<p>Tin and zinc volatilities edged lower over the week on light selling, while lead held steady also in quiet trade.</p>
+<p>--London Newsroom +44 171 542 8057</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

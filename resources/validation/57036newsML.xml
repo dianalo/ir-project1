@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57036" id="root" date="1996-09-16" xml:lang="en">
+<title>AUSTRALIA: RTRS-Spicers says to merge stationery units.</title>
+<headline>RTRS-Spicers says to merge stationery units.</headline>
+<dateline>MELBOURNE 1996-09-16</dateline>
+<text>
+<p>Spicers Paper Ltd said on Monday it planned to merge two of its stationery units by March next year.</p>
+<p>Spicers Stationery and Croxley Collins Olympic would be merged to form Spicers &amp; Collins Stationery, Spicers said in a statement.</p>
+<p>The merger followed the 1994 consolidation of the company's stationery manufacturing operations at three Australian sites and was in line with changes in the structure of the market, managing director Peter Hammond said.  </p>
+<p>&quot;The emergence of stationery superstores and national buying groups, the expansion of the direct mail market and increased out-sourcing by major end users have radically changed the nature of the market,&quot; he said.</p>
+<p>Spicers shares closed unchanged at A$2.29</p>
+<p>-- Melbourne Bureau 61-3 9286-1435</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="527798" id="root" date="1997-04-22" xml:lang="en">
+<title>ARGENTINA: Argentine cash soybeans steady to firm.</title>
+<headline>Argentine cash soybeans steady to firm.</headline>
+<dateline>BUENOS AIRES 1997-04-22</dateline>
+<text>
+<p>Argentine soybeans were steady to firm in moderate volume cash market trade midsession Tuesday at the Buenos Aires Cereals Exchange, traders said.</p>
+<p>The market was fairly quiet in the absence of big movements in Chicago, although attention was focussed on the progressing harvest to see if yields are as bad as rumored. The spot price paid to soybean suppliers in Rosario was unchanged at $293. May sunflower seed firmed $2 in moderate volume to $222, fed by demand from crushers looking to meet oil export committments. Spot Buenos Aires maize was unchanged at $110 in good volume trade. Bahia Blanca wheat firmed $2 to $158.</p>
+<p>((Jason Webb Buenos Aires Newsroom +541 318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109330" id="root" date="1996-10-10" xml:lang="en">
+<title>NETHERLANDS: Dutch shares end lower, recent bliss ending.</title>
+<headline>Dutch shares end lower, recent bliss ending.</headline>
+<dateline>AMSTERDAM 1996-10-10</dateline>
+<text>
+<p>Dutch shares ended lower, after a dipping Wall Street opening and falling U.S. jobless claims added to already weaker sentiment.</p>
+<p>Dealers said they expected a sideways pattern in the near-term since recent euphoria was fading.</p>
+<p>The AEX share index slipped 3.47 points to 584.37. &quot;The index is likely to linger between 580-590 points,&quot; said one dealer, adding new highs were not expected in the near term.</p>
+<p>KLM closed at a year-low at 41.60 guilders, off 1.40.</p>
+<p>Industrial holding firm Atag and retail chain KBB nosedived on unfavourable profit forecasts.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

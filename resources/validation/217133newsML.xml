@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217133" id="root" date="1996-11-26" xml:lang="en">
+<title>MEXICO: FORECAST - Mexico 28-day Cetes seen at 29.41 pct.</title>
+<headline>FORECAST - Mexico 28-day Cetes seen at 29.41 pct.</headline>
+<dateline>MEXICO CITY 1996-11-26</dateline>
+<text>
+<p>The interest rate on Mexico's bellwether 28-day Cetes, or T-bills, is seen falling 44 points to 29.41 percent at this evening's primary auction, according to a Reuters' survey of 10 Cetes dealers.</p>
+<p>Rates are also seen falling at longer terms.</p>
+<p>Following is a table comparing last week's primary rates versus expectations for this week's auction and the expected change in basis points.</p>
+<p>    TERM	LAST WEEK    THIS WEEK'S SURVEY   CHANGE</p>
+<p>    28-DAY     29.85	    29.41		   - 44 bps</p>
+<p>    91-DAY     29.46	    28.82		   - 64 bps</p>
+<p>    182-DAY    27.79	    27.33		   - 46 bps</p>
+<p>    1-YEAR     26.74	    26.53		   - 21 bps</p>
+<p>The results will be released by Banco de Mexico at 1830 EST.</p>
+<p>-- Patricia Lezama, Mexico City newsroom 525 7289554</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

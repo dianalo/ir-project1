@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143317" id="root" date="1996-10-25" xml:lang="en">
+<title>HUNGARY: Hungary O/N rates end lower at 22.75 percent.</title>
+<headline>Hungary O/N rates end lower at 22.75 percent.</headline>
+<dateline>BUDAPEST 1996-10-25</dateline>
+<text>
+<p>Hungary's overnight rates bottomed out on Friday after a mid-week surge and were expected to remain at present low levels for the first two days of next week.</p>
+<p>Overnight rates closed at around 22.75 percent, the level where the central bank's one-week reverse repo facility, considered a benchmark, stands.</p>
+<p>&quot;Overnight rates have plunged as the market reconsidered its expectations of an imminent repo rate cut,&quot; said Zoltan Kalman of Hypo-Bank Hungaria.</p>
+<p>&quot;The central bank seems to keep us on our toes,&quot; said Zita Verner of Magyar Befektetesi es Fejlesztesi Bank.</p>
+<p>The National Bank of Hungary last cut four of its five repo rates by 0.25 percentage points on September 16 and at the time dealers said they expected another cut of similar size before the end of the year.</p>
+<p>-- Denes Albert, Budapest newsroom (36 1) 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

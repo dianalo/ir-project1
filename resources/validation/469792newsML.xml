@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="469792" id="root" date="1997-03-26" xml:lang="en">
+<title>BELGIUM: Electrafina profit soars on Tractebel sale.</title>
+<headline>Electrafina profit soars on Tractebel sale.</headline>
+<dateline>BRUSSELS 1997-03-26</dateline>
+<text>
+<p>Full-year 1996</p>
+<p>(in billion Belgian francs unless stated)</p>
+<p>    Group net (excludes minorities)    24.30 vs     5.3</p>
+<p>    Cons current				6.98 vs     6.06</p>
+<p>Note - Belgian holding company Electrafina said that earnings were boosted by an 18.9 billion franc capital gain on the sale of its stake in utility holding company Tractebel SA last year.  </p>
+<p>Electrafina proposes to pay an 106.50 franc net per share dividend.</p>
+<p>The group confirmed that its stake in French Compagnie de Suez had risen to 8.3 percent.</p>
+<p>The group said that on March 25 its net asset value per share was 4,520 francs,. At that date, its share closed at 3,200 francs, a discount of 29.2 percent.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

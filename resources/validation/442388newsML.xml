@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="442388" id="root" date="1997-03-14" xml:lang="en">
+<title>CROATIA: Croatian interbank rates high, demand huge.</title>
+<headline>Croatian interbank rates high, demand huge.</headline>
+<dateline>ZAGREB 1997-03-14</dateline>
+<text>
+<p>Croatian money market rates stayed high in active morning trade on Friday, with good supply barely matching extraordinary demand for kuna funds, dealers said.</p>
+<p>&quot;Every Friday is unpredictable due to usual announcements of tax and other payments,&quot; one dealer said.</p>
+<p>&quot;Banks want to secure funds for the weekend but we managed to persuade them to grant some loans, so demand has been met in full,&quot; she said.</p>
+<p>Fresh borrowings were 30.2 million kuna, mostly granted at 11 percent, unchanged from Thursday.</p>
+<p>Insurers granted one seven-day loan at 9.0 percent and one 30-day loan was struck at 16 percent.</p>
+<p>No banks reported shortfalls in Thursday's overnight trade but 16.2 million kuna were granted for maintenance of their statutory reserves.</p>
+<p>-- Laura Lui, Zagreb newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

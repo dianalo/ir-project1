@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="563496" id="root" date="1997-05-06" xml:lang="en">
+<title>FRANCE: US aid official sees thin North Korea harvest.</title>
+<headline>US aid official sees thin North Korea harvest.</headline>
+<dateline>PARIS 1997-05-06</dateline>
+<text>
+<p>North Korea will not produce food until the autumn harvest and even that is unlikely to end shortages because insufficient seed was planted, the top U.S. aid official said on Tuesday.</p>
+<p>&quot;The North Koreans won't have any more of their own food until the harvest in October. So there's a three-month gap where it's going to be dicey, especially for the children,&quot; Brian Atwood, administrator of the U.S. Agency for International Development (USAID), told a news briefing.</p>
+<p>He said the harvest was likely to be disappointing because a lot of seed was eaten. &quot;So they're in a cycle now. It's a very negative cycle,&quot; said Atwood, who was in Paris for a meeting of the OECD Development Assistance Committee.</p>
+<p>USAID sent North Korea a shipment of 50,000 tonnes of corn valued at $15 million and it was due to arrive this week under the World Food Program funded by the U.S. Agriculture Department.</p>
+<p>It was the first American food aid shipment to the isolationist Communist country since warnings of famine there were sounded.</p>
+<p>&quot;We're asking for access through the World Food Program to a part of the country we haven't seen before, the northern mountainous part,&quot; Atwood said. &quot;The people living there could be really vulnerable.&quot;</p>
+<p>North Korea's agricultural policies are more to blame for the shortages than the floods of 1995 and 1996, Atwood said, adding that he hoped the government in Pyongyang would reach out to the rest of the world for help in solving its economic problems.</p>
+<p>For the moment, he did not see a change in its stance. &quot;You can't expect this government to thank us,&quot; he said.</p>
+<p>&quot;We're not linking our food aid to...diplomatic efforts with the North Koreans, but diplomatic efforts will help mitigate this crisis in the long run.&quot;</p>
+<p>The U.S. government has sent $33.4 million in humanitarian aid to North Korea to date.</p>
+<p>China has delivered 35,000 tonnes of food aid to North Korea, Atwood said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

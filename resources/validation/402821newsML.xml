@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="402821" id="root" date="1997-02-25" xml:lang="en">
+<title>SINGAPORE: BP Chemicals to build $200 mln Malaysia plant.</title>
+<headline>BP Chemicals to build $200 mln Malaysia plant.</headline>
+<dateline>SINGAPORE 1997-02-25</dateline>
+<text>
+<p>BP Chemicals has signed a joint venture agreement with Malaysian state-oil company Petronas to build a 500,000-tonne per year acetic acid plant at a cost of US$200 million, BP Chemicals chief executive officer Bryan Sanderson said on Tuesday.  </p>
+<p>&quot;Yesterday we signed a letter of intent with Petronas to build a half-a-million-tonne per year acetic acid plant,&quot; Sanderson said.</p>
+<p>The plant will be 70 percent owned by BP and 30 percent by Petronas and will start up in 1999. It will be located at Kuantan on the east coast of peninsular Malaysia.</p>
+<p>-- Singapore newsroom 65-8703080</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

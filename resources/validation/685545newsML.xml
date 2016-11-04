@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="685545" id="root" date="1997-06-25" xml:lang="en">
+<title>ZIMBABWE: PRESS DIGEST - Zimbabwe - June 25.</title>
+<headline>PRESS DIGEST - Zimbabwe - June 25.</headline>
+<dateline>HARARE 1997-06-25</dateline>
+<text>
+<p>These are the leading stories in Zimbabwe's state-owned Herald newspaper on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>- - - -</p>
+<p>THE HERALD</p>
+<p>- An Air Zimbabwe Boeing 707 aircraft was damaged when the towbar broke while it was being taken to a hangar recently, forcing the national passenger airline to charter another plane to meet its schedules.</p>
+<p>- The World Solar Programme outlining some global solar activities to be implemented by various countries between 1996 and 2005 was adopted on Monday at the second session of the World Solar Commission in New York chaired by Zimbabwean President Robert Mugabe.</p>
+<p>- The Harare City Council has suspended its decision to move street vendors from the central business district following strong protests by the vendors.</p>
+<p>---Harare Newsroom: +263-4 72 52 28/9.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="361362" id="root" date="1997-02-06" xml:lang="en">
+<title>EGYPT: Egyptian state names more firms for share sales.</title>
+<headline>Egyptian state names more firms for share sales.</headline>
+<dateline>CAIRO 1997-02-06</dateline>
+<text>
+<p>The Egyptian government has released a list of company shares which the state intends it sell under its fast-moving privatisation programme. The shares have a total value of 2.2 billion pounds ($650 million), it said.</p>
+<p>The list was approved by the ministerial committee on privatisation on Wednesday and published in government newspapers on Thursday. The papers did not give a timeframe.</p>
+<p>The share holdings slated for sale are (with the state's current holding in the company in brackets):</p>
+<p>- 15 percent of Abu Qir Fertilisers and Chemical Industries (85 percent)</p>
+<p>- 38 percent of Chloride Egypt (38 percent)</p>
+<p>- Five percent of Alexandria National Iron and Steel (ANSDK) (65 percent)</p>
+<p>- Eight percent of Misr Gulf Oil Processing (MIGOP) (eight percent)</p>
+<p>- 10 percent of Aracemco/Arab Ceramic (35 percent)</p>
+<p>- 10 percent of Suez Cement (70 percent)</p>
+<p>- 4.2 percent of Cairo Poultry (4.2 percent)</p>
+<p>- 10 percent of Egyptian Engineers Arab Realty Investment (40 percent)</p>
+<p>- 10 percent of Misr Development (36.6 percent)</p>
+<p>- 10 percent of Suez Canal Bank (21 percent)</p>
+<p>- 48.8 percent of Misr International Bank/MIBANK, through an issue of global depositary receipts (GDRs) (48.8 peercent)</p>
+<p>- 10 percent of Egyptian American Bank (EAB)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I0100121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I81400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

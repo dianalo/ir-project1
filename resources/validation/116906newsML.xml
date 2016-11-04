@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116906" id="root" date="1996-10-15" xml:lang="en">
+<title>AUSTRALIA: RTRS-Moody's rates Citibank Australia Aa3.</title>
+<headline>RTRS-Moody's rates Citibank Australia Aa3.</headline>
+<dateline>SYDNEY 1996-10-16</dateline>
+<text>
+<p>Moody's Investors Service said it has assigned a long-term debt rating of Aa3 to Citibank Limited (Citibank Australia).  </p>
+<p>Moody's said it has also assigned a short-term rating of Prime-1 and and a bank financial strength rating of C to the bank, a wholly owned subsidiary of Citibank N.A., which is rated Aa3 for deposits.</p>
+<p>The rating agency said the ratings reflect Citibank Australia's sizable local franchise as the largest foreign bank in Australia, as well as the bank's strong ties and strategic importance to its parent.</p>
+<p>At present the bank's profitable retail and commerical banking operations are predominately conducted through 21 branches and numerous subsidiaries in Australia.  </p>
+<p>However, as Citicorp rationalises its operations in Australia, certain activities currently housed in Citibank Australia are likely to be transferred to the Australian branch of Citibank N.A.</p>
+<p>&quot;This will result in a somewhat narrower scope of business for Citibank Australia, and will likely reduce reported earnings at this unit,&quot; Moody's said.</p>
+<p>&quot;Nevertheless, Citibank Australia should continue to house the bulk of the expanding consumer banking businesses, which has increasingly been the focus of growth for Citicorp worldwide,&quot; it added. -- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

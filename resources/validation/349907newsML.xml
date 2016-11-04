@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349907" id="root" date="1997-02-02" xml:lang="en">
+<title>ISRAEL: Israel demands Palestinian Authority pay up.</title>
+<headline>Israel demands Palestinian Authority pay up.</headline>
+<dateline>JERUSALEM 1997-02-02</dateline>
+<text>
+<p>Israel demanded on Sunday the Palestinian Authority settle a 75 million shekel ($23 million) bill with Israeli utilities and other state-owned companies, the Treasury said.</p>
+<p>&quot;The Palestinian Authority (PA) promised to respond within 24 hours to the Treasury's demand it pay its debt to Israeli companies,&quot; the Treasury said in a statement issued after director-general David Brodet met a Palestinian delegation.</p>
+<p>It said the PA, in charge of Palestinian self-rule areas in the West Bank and Gaza, owed the money to service providers such as Bezeq Israel Telecom, Israel Electric Corp, the Mekorot water company and Jerusalem's Hadassah hospital.</p>
+<p>PA officials were not immediately available for comment.</p>
+<p>&quot;The Treasury's demand for immediate settlement of the Palestinian Authority's debts is a matter of principle,&quot; the statement said.</p>
+<p>The PA cabinet statement on Friday accused Israel of withholding &quot;70 million shekels of the Palestinian Authority's tax money from last month as part of the siege on the Authority&quot;.</p>
+<p>An Israeli treasury spokeswoman refused to comment on the withholding.</p>
+<p>The Authority has complained frequently of economic hardship stemming from Israeli closures of the West Bank and Gaza and delays in the dispatch of international donor money pledged to self-rule areas.</p>
+<p>($1 = 3.31 shekels)</p>
+<p>- Jerusalem newsroom, 972-2-537-0502</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

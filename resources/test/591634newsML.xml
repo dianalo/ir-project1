@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-05-16" id="root" itemid="591634" xml:lang="en">
+<title>FINLAND: FINNISH SHARES ON WALL STREET - CLOSING MAY 15.</title>
+<headline>FINNISH SHARES ON WALL STREET - CLOSING MAY 15.</headline>
+<dateline>HELSINKI 1997-05-16</dateline>
+<text>
+<p>Finnish shares traded on Wall</p>
+<p>Street closed as follows in New York on Wednesday, May 15:</p>
+<p>							Previous</p>
+<p> SHARE	 USD	 Change    FIM*     Helsinki     Change</p>
+<p>				($)		   close (FIM)   (FIM)</p>
+<p> NOKIA	 65-7/8    -0-1/8    337.67   337.00	  +3.50</p>
+<p> VALMET	33-3/4    -0-1/4     86.50   86.20	   -0.80</p>
+<p> RAUMA	 untraded			   118.00	  -1.00</p>
+<p> USD/FIM     5.1259*</p>
+<p>*(USD/FIM exchange rate at 2400/2100 GMT official NYSE close)</p>
+<p>-- Helsinki Newsroom +358-9-680 50 245, news@Reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-05-16" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-05-16" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="HELSINKI" />
+<dc element="dc.creator.location.country.name" value="FINLAND" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

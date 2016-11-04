@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="128891" id="root" date="1996-10-20" xml:lang="en">
+<title>ISRAEL: SOCCER-ISRAELI FIRST DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-ISRAELI FIRST DIVISION RESULTS/STANDINGS.</headline>
+<dateline>JERUSALEM 1996-10-20</dateline>
+<text>
+<p>Results of Israeli first</p>
+<p>division soccer matches at the weekend:</p>
+<p> Zafririm Holon	 0   Betar Jerusalem	 1</p>
+<p> Bnei Yehuda	    2   Maccabi Tel Aviv	1</p>
+<p> Hapoel Taibe	   1   Maccabi Herzliya	0</p>
+<p> Hapoel Petah Tikva   2   Hapoel Beersheba	0</p>
+<p> Maccabi Haifa	  2   Hapoel Haifa	    1</p>
+<p> Hapoel Kfar Sava     1   Maccabi Petah Tikva   0</p>
+<p> Hapoel Tel Aviv	0   Hapoel Beit She'an    2</p>
+<p> Hapoel Jerusalem     2   Ironi Rishon Lezion   1</p>
+<p>Standings (tabulated under played, won, drawn, lost, goals</p>
+<p>for, against, points):</p>
+<p> Hapoel Petah Tikva    6    6    0    0   14    3    18</p>
+<p> Betar Jerusalem	 6    5    1    0   14    5    16</p>
+<p> Maccabi Haifa	   6    3    2    1    9    6    11</p>
+<p> Maccabi Tel  Aviv     6    3    1    2   11   10    10</p>
+<p> Hapoel Kfar Sava	6    3    1    2    5    4    10</p>
+<p> Hapoel Jerusalem	6    3    1    2    7    7    10</p>
+<p> Bnei Yehuda	     6    3    1    2    7    9    10</p>
+<p> Hapoel Beersheba	6    3    0    3    8    7     9</p>
+<p> Maccabi Petah Tikva   6    3    0    3    6    6     9</p>
+<p> Hapoel Taibe	    6    3    0    3    6    8     9</p>
+<p> Hapoel Tel Aviv	 6    2    2    2    6    7     8</p>
+<p> Hapoel Beit She'an    6    1    1    4    4    6     4</p>
+<p> Zafririm Holon	  6    1    1    4    5    8     4</p>
+<p> Hapoel Haifa	    6    1    1    4    9   13     4</p>
+<p> Ironi Rishon Lezion   6    1    1    4    8    4     4</p>
+<p> Maccabi Herzliya	6    0    1    5    0    6     1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

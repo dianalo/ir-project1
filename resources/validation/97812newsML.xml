@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97812" id="root" date="1996-10-04" xml:lang="en">
+<title>PHILIPPINES: Enough food for Asia-Pacific, economists say.</title>
+<headline>Enough food for Asia-Pacific, economists say.</headline>
+<dateline>MANILA 1996-10-03</dateline>
+<text>
+<p>There will be enough food in the Asia-Pacific region for the next 20 years despite the increasing appetite of China and other emerging countries, economists said on Thursday.</p>
+<p>Economists attending a three-day conference in Manila on food and agricultural policy challenges in the region said they expected technological advances to bolster food production.</p>
+<p>&quot;The region's food basket is expected to produce more at cheaper costs, enough to offset projected rise in consumption from developing countries, primarily due to advances made in biotechnology,&quot; said Carl Pray, an economics professor from Rutgers University in New Jersey.</p>
+<p>Pray said he expected losses due to pests and diseases in agricultural products to lessen because of genetic engineering.</p>
+<p>&quot;Biotechnology is going to pay off in the next 10 to 20 years, and losses due to pests and diseases will go down,&quot; Pray said in an interview.</p>
+<p>Robert Evenson, professor of economics at Yale University, said on Tuesday he expected grain imports to rise to feed increasingly well-off China and other economies in the region.</p>
+<p>Rising grain imports from emerging countries would add pressure on prices in the short term, other economists said.</p>
+<p>&quot;Increases in China's food imports will slightly raise world prices for wheat, maize and drive up world prices for livestock products as well as feed grains,&quot;  Jikun Huang, an economist at the Chinese Academy of Agriculture Sciences, said in a paper presented at the meeting which ended on Thursday.</p>
+<p>Pray said he expected China, which recently became a net grain importer, would eventually increase its food supply to feed its swelling population.</p>
+<p>&quot;Eventually, China will produce a lot more, and the rest of Asia-Pacific countries,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="PACRM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

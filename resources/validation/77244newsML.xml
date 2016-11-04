@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77244" id="root" date="1996-09-25" xml:lang="en">
+<title>JORDAN: PRESS DIGEST - Jordan - Sept 25.</title>
+<headline>PRESS DIGEST - Jordan - Sept 25.</headline>
+<dateline>AMMAN 1996-09-25</dateline>
+<text>
+<p>These are some of the leading stories in the Jordanian press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL RAI</p>
+<p>- An extraordinary session of parliament for 48 hours to debate the resignation of deputies Amarin and al-Qadi.</p>
+<p>- King Hussein starts visit to Bahrain and talks with Sheikh Khalifa tackle bilateral ties and Arab and international issues.</p>
+<p>- Crown Prince Hassan says Israeli tunnel excavations in Jerusalem are an &quot;affront to feelings&quot; of Moslems.</p>
+<p>- Crown Prince patronises the meeting of religious affairs ministers.</p>
+<p>AD-DUSTOUR</p>
+<p>- Employees have a right to a month's end of service payment for every year's employment, says the labour minstry.</p>
+<p>- Ad-Dustour publishes the report on the financial crisis of the U.N. Relief and Works Agency for Palestinian refugees (UNRWA).</p>
+<p>AL-ASWAQ</p>
+<p>- Crown Prince Hassan warns Israel against tampering with Jerusalem's holy sites.</p>
+<p>JORDAN TIMES</p>
+<p>- Prime Minister Kabariti says opposition should offer solutions for country's problems instead of attacking government. Premier hints at pardon for detainees in recent unrest.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44694" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Genus to cut workforce, take charge.</title>
+<headline>Genus to cut workforce, take charge.</headline>
+<dateline>SUNNYVALE, Calif. 1996-09-10</dateline>
+<text>
+<p>Genus Inc, citing continued weakeness in the semiconductor industry, said it plans to trim its workforce by 39 people or 11 percent of the company's permanent employees worldwide.</p>
+<p>The company said it expects to take a restructuring charge of $3 to $4 million, $0.18 to $0.24 a share after-tax, during the third quarter of 1996 to cover severance costs and other related charges.</p>
+<p>In a statement, the maker of advanced thin film deposition used in the fabrication of semiconductor devices said it also plans cuts in discretionary spending and will continue to closely manage other operating expenses to further control costs.</p>
+<p>&quot;This workforce reduction helps match company expenses with current economic realities resulting from the semiconductor industry downturn,&quot; William Elder, Genus chairman and chief executive said. &quot;We will continue to aggressively align necessary cost savings programs with the company's long-term business strategy of providing our customers with competitive, cost-effective process simplification technologies.&quot;</p>
+<p>Genus was off 1/2 to 5-7/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

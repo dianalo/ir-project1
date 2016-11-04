@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229885" id="root" date="1996-12-02" xml:lang="en">
+<title>JAPAN: Japan lead content of batteries sold in Oct falls.</title>
+<headline>Japan lead content of batteries sold in Oct falls.</headline>
+<dateline>TOKYO 1996-12-02</dateline>
+<text>
+<p>The lead content of batteries sold in Japan in October fell 2.9 percent from the same month last year to 22,542 tonnes, the Japan Storage Battery Association said on Monday.</p>
+<p>Lead content of batteries sold in October (in tonnes):</p>
+<p>		     Oct 96	 yr/yr change</p>
+<p>   Total	   22,542	  -2.9 pct</p>
+<p>   Automotive    17,573	  -5.7 pct</p>
+<p>   Industrial     3,445	  +20.2 pct</p>
+<p>(NOTE: Automotive includes a small quantity of lead used in two-wheeled vehicles. Industrial use includes stationary power sources and electric vehicles, such as forklifts.)</p>
+<p>Automotive battery shipments in October (1,000 units):</p>
+<p>		     Oct 96	 yr/yr change</p>
+<p> TOTAL		2,065	  -6.5  pct</p>
+<p> Domestic	   2,040	  -4.9  pct</p>
+<p>   New cars	   999	  +14.0 pct</p>
+<p>   Replacement    1,041	  -17.9 pct</p>
+<p> Exports		 26	  -60.9 pct</p>
+<p>(NOTE: Totals exclude two-wheeled vehicles.)</p>
+<p>-- Tokyo Commodity Desk +81-3-3432-7391</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34320">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

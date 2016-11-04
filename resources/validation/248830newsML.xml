@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248830" id="root" date="1996-12-11" xml:lang="en">
+<title>LATVIA: IMF pleased as Latvia passes balanced budget.</title>
+<headline>IMF pleased as Latvia passes balanced budget.</headline>
+<dateline>RIGA 1996-12-11</dateline>
+<text>
+<p>The International Monetary Fund (IMF) on Wednesday said it was pleased that Latvia's parliament had passed a deficit-free budget for 1997.</p>
+<p>&quot;On the basis of my understanding, this is a very good development in line with Latvia's commitment to the IMF,&quot; IMF resident representative Dimitri Demekas told Reuters.</p>
+<p>&quot;We are very pleased that the government has been able to pass this budget,&quot; he added.</p>
+<p>A balanced budget was one of the key elements of Latvia's agreement with the IMF for access to a standby credit.</p>
+<p>Demekas said the balanced 1997 budget would help bring down inflation and increase efficiency in all areas of government spending.</p>
+<p>He also said that the IMF saw Latvia as recovering quicker than expected from its banking crisis last year.</p>
+<p>He said that gross domestic product (GDP) could grow by 1.5 to three percent in 1996 and by three percent or more next year if prudent fiscal policies were followed.</p>
+<p>-- Patrick Lannin, Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

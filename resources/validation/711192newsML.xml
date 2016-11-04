@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="711192" id="root" date="1997-07-07" xml:lang="en">
+<title>UK: Labour will tackle UK health inequalities-minister.</title>
+<headline>Labour will tackle UK health inequalities-minister.</headline>
+<dateline>LONDON 1997-07-07</dateline>
+<text>
+<p>Britain's new Labour government announced a public health strategy on Monday that links improvements in the nation's health with a reduction in poverty.</p>
+<p>Health minister Tessa Jowell told a conference of regional and local health authorities in England that the government will try to break the cycle of inequality that affects large sections of the population.</p>
+<p>&quot;Deprivation and inequality are blots on our society, and we want to remove them,&quot; Jowell said.</p>
+<p>&quot;Unfortunately, the previous government refused to acknowledge properly the link between poverty and health,&quot; she added.</p>
+<p>Speaking less than a week after Labour announced plans to bring welfare recipients into employment, Jowell said the Department of Health will build on the welfare-to-work initiative.</p>
+<p>The government will publish a Green Paper in the autumn on health strategy, and it has asked former chief medical officer Donald Acheson to conduct an independent review to look at, among other things, the link between inequalities in health and life expectancy.</p>
+<p>His findings and recommendations will be published next year.</p>
+<p>Jowell said, for example, that a long-term target for reducing the incidence of respiratory disease might be developed alongside medium-term targets for reducing levels of air pollution and improving the housing stock and a short-term target for reducing smoking.</p>
+<p>To illustrate the scope of the new strategy, Jowell said the government is now soliciting proposals for a one million pound research programme into the effects of air pollutants found in the home. The programme will be funded jointly by several government departments.</p>
+<p>&quot;This is a strategy that runs across departments,&quot; Jowell told a news conference.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

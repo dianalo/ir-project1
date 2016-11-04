@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250956" id="root" date="1996-12-11" xml:lang="en">
+<title>JAPAN: Sumitomo buys stake in US cable TV venture - paper.</title>
+<headline>Sumitomo buys stake in US cable TV venture - paper.</headline>
+<dateline>TOKYO 1996-12-11</dateline>
+<text>
+<p>Sumitomo Corp has purchased a stake in a California-based venture which makes cable television modems and acquired the right to market them in Japan, a Japanese business daily reported on Wednesday.</p>
+<p>The Japanese trading house has invested $5 million in the venture, the Nihon Keizai Shimbun said.</p>
+<p>The modems enable the provision of Internet and telecoms services via the cable television network, the newspaper said.</p>
+<p>Sumitomo operates about 10 cable TV stations in Japan through a subsidiary, the paper said.</p>
+<p>A Sumitomo spokesman was not immediately available for comment on the newspaper report.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

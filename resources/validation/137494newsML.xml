@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137494" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: New evidence that people get mad cow disease.</title>
+<headline>New evidence that people get mad cow disease.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>British scientists said on Wednesday they had found fresh evidence that people can get a new human form of mad cow disease from eating beef.</p>
+<p>They found a new variant of Creutzfeldt-Jakob Disease (CJD) leaves a clear chemical signature that is very similar to Bovine Spongiform Encephalopathy (BSE or mad cow disease).</p>
+<p>The &quot;molecular marker&quot; also can provide a test for the deadly, brain-wasting illness.</p>
+<p>The scientists, led by John Collinge of London's Imperial College of Science and Medicine and researchers at the National CJD Surveillance Unit, said their research added to more evidence that people can get CJD from eating infected beef.</p>
+<p>&quot;This provides supportive evidence for BSE being the cause of new variant CJD,&quot; Collinge told a news conference. &quot;Now that we have a distinct molecular marker we really can say this is a novel form of the disease,&quot; he added.</p>
+<p>CJD normally hits about one in a million people and there are four known strains. One is caused by a genetic mutation. Another arose when children were injected with human growth hormone mistakenly made from brains of people who died from CJD.</p>
+<p>A third strain occurs spontaneously and no one knows the cause. The fourth, called &quot;new variant&quot; CJD, was identified in March when government scientists said 10 people had been infected and the most likely cause was eating BSE-infected beef.</p>
+<p>The new variant hits people under the age of 40 -- CJD is usually a disease of the elderly because of its long incubation period. It also causes distinctive brain lesions.</p>
+<p>Collinge's group set out to find a better way to identify the new variant, and targeted the prion proteins associated with both BSE and CJD. Prions mutate in such diseases, building up and eventually causing a spongelike atrophying of the brain.</p>
+<p>They used an enzyme to dissolve prions from the brains of people who died of the various forms of CJD. They then compared them to each other and to prions from mice deliberately infected with BSE and CJD.</p>
+<p>Prions from the new variant of CJD looked more like those from mice infected with BSE than those of mice infected with CJD. They also looked different from prions from the brains of people who had died from the other variants of CJD.</p>
+<p>&quot;When you put BSE into mice, you get a signature like new variant CJD,&quot; Collinge said.</p>
+<p>Collinge said there would never be any way to prove that people got CJD from eating infected beef because there was no ethical way to do the necessary scientific tests on people.</p>
+<p>He also said it would not be clear for at least two years whether an epidemic of CJD would mirror the epidemic of mad cow disease that swept through British herds in the 1980s.</p>
+<p>Collinge's group is developing a test that would work on lymphatic tissue such as tonsils and perhaps even a blood test. CJD and BSE can now only be diagnosed by brain autopsy.</p>
+<p>The European Union imposed a global ban on British beef after the link to CJD was found. Britain is slaughtering cows that could be infected and has imposed stringent safeguards to ensure people cannot eat potentially infected cattle parts.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

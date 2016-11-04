@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207369" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: U.S. stock index futures end near new highs - Nov 19.</title>
+<headline>U.S. stock index futures end near new highs - Nov 19.</headline>
+<dateline>CHICAGO 1996-11-19</dateline>
+<text>
+<p>U.S. stock index futures closed higher and near new all-time highs in S&amp;P 500 and Value Line index futures.</p>
+<p>S&amp;P 500 stock index futures reached new highs in the last 15 minutes of the session, on buying that traders linked to gains in the cash stock market on broad-based participation.</p>
+<p>Strength in the bond market, despite weaker than expected demand in the auction of two-year notes by the Treasury today, contributed to the firm tone in stocks late.</p>
+<p>&quot;Bonds came back late. That helped us out at the end of the day,&quot; said one S&amp;P 500 trader on the CME floor.  </p>
+<p>Premiums widened on the afternoon advance in index futures, with at least three light arbitrage buy programs triggered in the December S&amp;P 500 contract when the premium over the spot index widened over 3.40 to 3.60 points, traders said.</p>
+<p>Futures had slipped in early afternoon dealings when the bond market fell on the weak auction results, traders noted.</p>
+<p>However, the S&amp;P 500 contract managed to stay above technical support which they pegged at about 737.00 in the Decmeber contract.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

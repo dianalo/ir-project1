@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-08-01" id="root" itemid="771833" xml:lang="en">
+<title>CANADA: TABLE -Taro Industries reports Q2 profit.</title>
+<headline>TABLE -Taro Industries reports Q2 profit.</headline>
+<dateline>CALGARY, Alberta 1997-08-01</dateline>
+<text>
+<p>1997			    1996</p>
+<p> Shr	 profit	C$0.12     loss	C$0.04</p>
+<p> Net	 profit	   708     loss	   236</p>
+<p> Revs			15,577		    8,751</p>
+<p>	    6 MONTHS</p>
+<p> Shr	 profit	C$0.14   profit	C$0.08</p>
+<p> Net	 profit	   829   profit	   468</p>
+<p> Revs			33,901		   17,223</p>
+<p> Avg shrs		   5,835		    5,768</p>
+<p>		(All data above 000s except per share numbers)</p>
+<p>		(Reuters Toronto Bureau (416) 941-8104)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-08-01" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-08-01" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="CALGARY, Alberta" />
+<dc element="dc.creator.location.country.name" value="CANADA" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

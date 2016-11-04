@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="430999" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: Niagara Mohawk settles with IPPs.</title>
+<headline>Niagara Mohawk settles with IPPs.</headline>
+<dateline>SYRACUSE 1997-03-10</dateline>
+<text>
+<p>Niagara Mohawk Power Corp said it has tentatively agreed in principle to restructure or terminate 44 contracts to purchase power from 19 independent power producers.</p>
+<p>That is 44 out of over 150 power purchase contracts the utility has with non-regulated generators, spokesman Nicholas J. Ashooh said, pointing out the 44 represent more than 90 percent of its above-market power costs.</p>
+<p>Niagara Mohawk said the agreement contemplates it will pay the 19 about $3.6 million in cash and/or debt securities, and 46 million common shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYRACUSE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

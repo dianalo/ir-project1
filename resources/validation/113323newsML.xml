@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113323" id="root" date="1996-10-13" xml:lang="en">
+<title>INDIA: McDonald's serves up &quot;Maharaja Mac&quot; in India.</title>
+<headline>McDonald's serves up &quot;Maharaja Mac&quot; in India.</headline>
+<dateline>NEW DELHI 1996-10-13</dateline>
+<text>
+<p>U.S. fast food fast giant McDonald's Corp opened its first restaurant in India on Sunday and said it planned to open 20 more branches in the country over the next three years.</p>
+<p>The restaurant is the first McDonald's in history not to offer beef or pork or their derivatives on its menu. Instead Mcdonald's will offer mutton and vegetable products for Indian consumers.</p>
+<p>McDonald's made its worldwide reputation serving hamburgers made of beef. But Hindus, who make up more than 80 percent of India's 950 million people, do not eat beef, and many are vegetarians.</p>
+<p>The &quot;Maharaja Mac&quot; will contain mutton -- eaten by Hindus and Moslems, who shun pork.</p>
+<p>&quot;Initially we would like to concentrate on Delhi and Bombay and we are looking at 20 outlets in next three years,&quot; Steve Simpson, vice-president McDonald's International, told Reuters.</p>
+<p>The first McDonald's family restaurant was opened in an upmarket New Delhi neighbourhood.</p>
+<p>Simpson said Macdonald's would not encounter the same difficulties as Pepsico Inc's Kentucky Fried Chicken chains in India.</p>
+<p>&quot;We have spent years studying not only the Indian market but also Indian culture and we have taken pains to ask people about their preferences and reservations and they understand that we are culturally sensitive,&quot; Simpson said.</p>
+<p>Farmers protesting against &quot;cultural imperialism&quot; ransacked a Kentucky Fried Chicken restaurant in the southern city of Bangalore in January.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

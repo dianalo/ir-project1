@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166472" id="root" date="1996-11-05" xml:lang="en">
+<title>SOUTH KOREA: Former South Korean diplomat jailed for forgery.</title>
+<headline>Former South Korean diplomat jailed for forgery.</headline>
+<dateline>SEOUL 1996-11-05</dateline>
+<text>
+<p>A Seoul court on Tuesday sentenced former South Korean diplomat Choi Seung-jin to two years in jail for forging a foreign ministry document, court officials said.</p>
+<p>&quot;The defendant, as a civil servant, forged a document, thereby damaging the reputation of the nation and the honour of the ministry,&quot; judge Shim Sang-chol told the court.</p>
+<p>Court officials said Choi, a former vice-consul at the South Korean embassy in New Zealand, confessed to the charge.</p>
+<p>The bogus document instructed South Korean embassies worldwide to analyse the electoral systems in their country of posting for ways in which governments could justify postponing an election.</p>
+<p>Choi said he forged the document because he wanted to expose what he believed was a plot by the government of President Kim Young-sam to postpone local-level elections last year because the ruling party feared defeat, court officials said.</p>
+<p>The polls were held last year as scheduled.</p>
+<p>The case caused a political storm last year when Kwon Roh-kap, a lawmaker aligned with the main opposition National Congress for New Politics, raised the allegations against the government in parliament after Choi sent him the forged document.</p>
+<p>Kwon was indicted in May on libel charges for attacking the government based on the contents of the document, which prosecutors said he knew were faked.</p>
+<p>After Choi was found out, he was sacked and ordered home, but applied for refugee status in New Zealand.</p>
+<p>Earlier this year, New Zealand turned down his application and deported him to South Korea where he was immediately arrested.</p>
+<p>New Zealand's political opposition cried foul, saying Choi had been sacrificed to keep relations with Seoul smooth.</p>
+<p>South Korea is New Zealand's fifth-largest export market and second-largest source of tourist arrivals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="727911" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Scholastic sees $50 mln Literacy revs.</title>
+<headline>Scholastic sees $50 mln Literacy revs.</headline>
+<dateline>NEW YORK 1997-07-15</dateline>
+<text>
+<p>Scholastic Corp said Tuesday that it has made strides in implementing its plan to refocus its four core businesses, and expects to book more than $50 million in Liberty Place revenues in the first half of the 1998 fiscal year.</p>
+<p>The company said its cost-reduction and restructuring plan includes new cost-cutting measures expected to save $25 million pre-tax per year as well as initiatives to increase growth and improve margins.</p>
+<p>Scholastic said it expects to book more than $50 million of Literacy Place revenues in the first half of fiscal 1998. Scholastic has won about 25 percent of the California reading market. The company said it has reduced unit costs, improving instructional publishing margins.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47530">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

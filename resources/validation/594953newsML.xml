@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="594953" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: Clear weather allows rapid Missouri crop planting.</title>
+<headline>Clear weather allows rapid Missouri crop planting.</headline>
+<dateline>COLUMBIA, Mo. 1997-05-19</dateline>
+<text>
+<p>Clear weather during most of the week ended Sunday allowed rapid planting of Missouri's corn, cotton, sorghum and soybean crops, according to the weekly Missouri Agricultural Statistics Service report.</p>
+<p>Corn was 94 percent planted versus, 83 a year ago and the 60 average. Corn planting was the most advanced for this date since 1989.</p>
+<p>Soybeans were 35 percent seeded, the most since 1992, and compared with nine percent a year ago and the 16 percent average.</p>
+<p>Sorghum was 43 percent planted versus 18 a year ago and the 27 average.</p>
+<p>Cotton was 85 percent planted, the most since 1992. Last year 52 percent was planted and the five-year average was 66 percent.</p>
+<p>Winter wheat conditions were mostly unchanged with 11 percent rated excellent, 49 good, 29 fair, 10 poor and one very poor. About 50 percent of the wheat was headed versus 40 a year ago and the 48 average.</p>
+<p>Topsoil moisture was rated five percent surplus, 66 adequate, 26 short and three very short.</p>
+<p>Pasture and range conditions were rated four percent excellent, 41 good, 42 fair, 12 poor and one very poor.</p>
+<p>((Chicago Newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

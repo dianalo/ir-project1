@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191567" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: ERLY Industries Inc Q2 net rises.</title>
+<headline>ERLY Industries Inc Q2 net rises.</headline>
+<dateline>LOS ANGELES 1996-11-15</dateline>
+<text>
+<p>For the three and six months ended Sept. 30, 1996 and 1995</p>
+<p>				  Quarter ended     Six months ended</p>
+<p>				    Sept. 30,	     Sept. 30,</p>
+<p>				  1996	1995	1996	1995</p>
+<p> Total revs		 155,966   111,641   280,557   224,530</p>
+<p> Minority interest	    157	 889     2,743     1,454</p>
+<p> Net income		   4,763	 900     3,513     3,164</p>
+<p>Net income per share</p>
+<p>of common and common</p>
+<p>stock equivalents(a):</p>
+<p> Primary		     94 cts    16 cts    67 cts    56 cts</p>
+<p> Fully diluted	     89 cts    16 cts    64 cts    53 cts</p>
+<p>Weighted average</p>
+<p>common and common</p>
+<p>stock equivalents(a):</p>
+<p> Primary			5,041     5,561     5,225     5,691</p>
+<p> Fully diluted		5,378     5,898     5,562     6,028</p>
+<p>(a)  Retroactively adjusted to give effect to a 10 percent stock dividend in September 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

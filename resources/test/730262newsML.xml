@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<newsitem date="1997-07-15" id="root" itemid="730262" xml:lang="en">
+<title>UK: Latest prices of Indonesian stocks in London.</title>
+<headline>Latest prices of Indonesian stocks in London.</headline>
+<dateline>LONDON 1997-07-15</dateline>
+<text>
+<p>Following are the latest prices of Indonesian stocks listed in London:</p>
+<p>    Stock				   Latest price ($)</p>
+<p>    Telkom					  32.25</p>
+<p>    Tambang Timah				 14.475</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<dc element="dc.date.created" value="1997-07-15" />
+<dc element="dc.publisher" value="Reuters Holdings Plc" />
+<dc element="dc.date.published" value="1997-07-15" />
+<dc element="dc.source" value="Reuters" />
+<dc element="dc.creator.location" value="LONDON" />
+<dc element="dc.creator.location.country.name" value="UK" />
+<dc element="dc.source" value="Reuters" />
+</metadata>
+</newsitem>

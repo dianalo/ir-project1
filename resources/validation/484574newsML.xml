@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="484574" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: U.S. senator urges probe into MTBE in tapwater.</title>
+<headline>U.S. senator urges probe into MTBE in tapwater.</headline>
+<dateline>WASHINGTON 1997-04-03</dateline>
+<text>
+<p>U.S. Senator Barbara Boxer Thursday urged the Environmental Protection Agency to investigate reports that the gasoline additive MTBE was contaminating tapwater in California.</p>
+<p>MTBE had been found in at least 12 drinking water reservoirs, the California Democrat said in an April 3 letter, her third to EPA Administrator Carol Browner raising concerns about methyl tertiary butyl ether.</p>
+<p>MTBE is used to make gasoline burn more cleanly.</p>
+<p>&quot;The chemical is thought to be entering reservoirs from boat exhaust and possibly from windborne emisssions, and is leaching into wells from leading underground tanks,&quot; she said.</p>
+<p>An EPA official who had not seen the latest letter said the agency informed Boxer and the city of Santa Monica last month that it would be investigating contamination at one of two wellfields the city was forced to close last year.</p>
+<p>&quot;We are involved in the process of trying to identify the sources of contamination,&quot; the EPA official said. &quot;There are a number of potential sources -- either tanks or pipelines that run through the wellfield.&quot;</p>
+<p>&quot;I don't think we've isolated the source of the leaks yet, and it may be more than one,&quot; she said.</p>
+<p>Santa Monica already reached a settlement with a Mobil gasoline service station to deal with contamination in the smaller wellfield that was shut.</p>
+<p>Boxer's latest letter asked Browner to explain what EPA was doing to investigate the problem, how serious it was, and whether there were alternatives to MTBE that would have the same clean air benefits but not threaten water supplies.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

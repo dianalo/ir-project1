@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242589" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Presstek says complies with SEC subpoenas.</title>
+<headline>Presstek says complies with SEC subpoenas.</headline>
+<dateline>WASHINGTON 1996-12-09</dateline>
+<text>
+<p>Presstek Inc, which confirmed in June that it is under investigation by the Securities and Exchange Commission, said Monday it and certain of its officials have received subpoenas from the agency.</p>
+<p>The subpoenas to Presstek requested the company to produce certain documents while those sent to certain officers, directors and employees were requests to provide testimony to the SEC, the company said in a filing with the agency.</p>
+<p>The company, officers, directors and employees requested have complied, it said in the filing.</p>
+<p>The company said it has not been advised by the SEC whether it intends to recommend that the agency bring any proceedings against it.</p>
+<p>The investigation involves the trading of the company's securities, according to a company spokesman.</p>
+<p>Presstek, a Hudson, N.H.-based digital imaging, printing plate technology company, said it has not been advised by the SEC whether the agency's staff intends to recommend that proceedings be initiated against it in connection with the investigation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

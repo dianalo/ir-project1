@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80327" id="root" date="1996-09-26" xml:lang="en">
+<title>SWITZERLAND: PRESS DIGEST - Switzerland - Sept 26.</title>
+<headline>PRESS DIGEST - Switzerland - Sept 26.</headline>
+<text>
+<p>NEUE ZUERCHER ZEITUNG</p>
+<p>- Switzerland considers the so-called Washington Agreement of 1946 still valid. The agreement regulated distribution of Nazi gold after World War II. A spokesman from foreign ministry said Switzerland did not see any need for action following U.S. senator Alfonse D'Amato's proposal to renegotiate the issue.</p>
+<p>TAGES ANZEIGER</p>
+<p>- Hansueli Loosli has been appointed new chief executive of Coop, the second largest supermarket chain in Switzerland.</p>
+<p>- The International Monetary (IMF) Found predicted in its latest World Economic Outlook a 2.5 percent growth in the gross domestic products in western countries in 1997. For Switzerland however, IMF forecast a 1.5 percent increase in GDP in 1997.</p>
+<p>- Zurich Insurance group offered 105 million Swiss francs to take over Norwegian insurance group Protector Forsikring ASA.</p>
+<p>JOURNAL DE GENEVE</p>
+<p>- Restructuring measures of Swiss textile machine manufacturer Saurer have so far been successful and the company recently raised its expectations for 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

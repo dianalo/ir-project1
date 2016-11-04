@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="775439" id="root" date="1997-08-04" xml:lang="en">
+<title>COLOMBIA: Colombia peso dips vs dlr in specualted markets.</title>
+<headline>Colombia peso dips vs dlr in specualted markets.</headline>
+<dateline>BOGOTA 1997-08-04</dateline>
+<text>
+<p>Colombia's peso dipped 1.5 pesos to 1,114.4 against the dollar amid market speculation, interbank traders said Monday.</p>
+<p>&quot;There was speculation and some demand for greenbacks from the chemical industry,&quot; one trader said.</p>
+<p>The peso opened at 1,112.35 and hit an intraday high of 1,111.85 and a low of 1,114.55. Dealers reported 308 operations worth a total $147 million.</p>
+<p>((--Nelson Bocanegra, Bogota newsroom, 571 610 7944))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

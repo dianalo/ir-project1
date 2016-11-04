@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="430710" id="root" date="1997-03-10" xml:lang="en">
+<title>SWITZERLAND: Swiss stocks hit record high.</title>
+<headline>Swiss stocks hit record high.</headline>
+<dateline>ZURICH 1997-03-10</dateline>
+<text>
+<p>Swiss stocks closed at a new record high on Monday on Wall Street's gains and soaring futures on government bonds, but dealers said support was thinning out.</p>
+<p>The shares rose for the fifth day in a row in high turnover which saw foreign buying in pharmaceuticals giant Novartis, insurer Winterthur and in bank shares, dealers said.</p>
+<p>The blue-chip Swiss Market Index (SMI) was below the day's high of almost 4,700 points on late profit-taking. It closed up 45.8 points, or 0.99 percent, at 4,684.7 points, after touching an all-time high at 4,696.5.</p>
+<p>The all-share Swiss Performance Index (SPI) also hit a record high of 2,959.03 points, 20.59 points or 0.7 percent firmer than Friday's close.</p>
+<p>One trader expected the rise to continue if players kept covering short positions.</p>
+<p>&quot;But the air is getting increasingly thin on these high levels and there's a danger of a bigger correction,&quot; he added.</p>
+<p>United Bank of Switzerland (UBS) bearers firmed 10 francs to 1,348 francs after meeting strong resistance at 1,350.</p>
+<p>Swiss Bank Corporation (SBC) jumped six francs, or nearly two percent, to 307 francs ahead of the bank's annual press conference on Wednesday. The market has high expectations for SBC's results since it has been the first among major Swiss banks to announce sweeping changes in its provisions policy.</p>
+<p>Novartis registereds were up 21 francs to 1,800, Roche certificates soared 155 francs to 12,695 and Insurer Winterthur climbed nine francs to 957.</p>
+<p>ABB, Alusuisse and Sulzer lost ground while Adecco slid 15.5 francs to 460 after a downgrade by NatWest.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

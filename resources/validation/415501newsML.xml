@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="415501" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: HFS to acquire Value Rent-A-Car for $175 mln.</title>
+<headline>HFS to acquire Value Rent-A-Car for $175 mln.</headline>
+<dateline>PARSIPPANY, N.J. 1997-03-03</dateline>
+<text>
+<p>HFS Inc said Monday it reached an agreement in principle to acquire Value Rent-A-Car from Mitsubishi Motor Sales of America for $175 million in cash.</p>
+<p>Value, a unit of Japan's Mitsubishi Motors Corp, mostly serves leisure customers from 45 corporate-owned rental car sites, primarily in Florida.  Value's fleet totals about 22,000 cars.  During 1996, Value reported revenues of about $180 million.  Closing is expected in the second quarter and is subject to customary conditions, including anti-trust clearance, execution of a definitive pact and board approvals.  </p>
+<p>HFS said it plans to expand Value through franchising additional locations. &quot;We expect to offer Value franchises to existing Avis licensees, to (HFS unit) Avis Rent a Car, which is planned to become an independent public company during the third quarter of 1997, and to other rental car operators,&quot; said Stephen Holmes, HFS Vice Chairman.  &quot;We expect Value to be marginally accretive to earnings initially, but to become a more significant contributor in 1998.&quot;</p>
+<p>HFS and Mitsubishi also intend to enter into a vehicle supply agreement and related marketing agreements in connection with Value's continuing fleet purchases from Mitsubishi.</p>
+<p>Mitsubishi Motor Sales of America Inc markets a full line of motor vehicles.</p>
+<p>HFS is a global consumer services company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="I84801">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARSIPPANY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

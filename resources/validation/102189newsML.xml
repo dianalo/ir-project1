@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102189" id="root" date="1996-10-08" xml:lang="en">
+<title>UKRAINE: Ukraine to maintain 40 percent key rate - c.bank.</title>
+<headline>Ukraine to maintain 40 percent key rate - c.bank.</headline>
+<dateline>KIEV 1996-10-08</dateline>
+<text>
+<p>Ukraine's central bank will maintain its 40 percent refinancing rate so that it corresponds to current inflation levels, the bank chairman said.</p>
+<p>&quot;The 2.0 percent inflation rate for September, as well as the level of commercial banks' interest rates, do not create conditions to allow the central bank to lower its rate,&quot; Viktor Yushchenko told reporters.</p>
+<p>The refinancing rate has been 40 percent since July, compared to 105 percent at the beginning of the year. It is the interest rate charged to banks borrowing money from the central bank.</p>
+<p>Commercial banks' lending rates have dropped to an average 60 percent since September from an average 73.4 percent at the beginning of the year.</p>
+<p>September inflation slowed to 2.0 percent monthly from 5.7 percent in August. Ukraine achieved record-low inflation rates of 0.1 percent in July and June.</p>
+<p>--Natalya Zinets, Kiev Newsroom +380 44 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

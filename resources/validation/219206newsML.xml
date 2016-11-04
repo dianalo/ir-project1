@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219206" id="root" date="1996-11-27" xml:lang="en">
+<title>CANADA: Canada real return bond yields median 3.950 pct.</title>
+<headline>Canada real return bond yields median 3.950 pct.</headline>
+<dateline>OTTAWA 1996-11-27</dateline>
+<text>
+<p>The Government of Canada said on Wednesday its C$400 million auction of 4.25 percent real return bonds due December 1, 2026 produced the following results:</p>
+<p>		YIELD	 PRICE</p>
+<p>    MED     3.950	   N/A</p>
+<p>    LOW     3.900	   N/A</p>
+<p>    HIGH    3.980	104.702  Allotment ratio 86.17886</p>
+<p>Bids from primary dealers totalled C$985 million, including C$27 million non-competitive tenders at the allotment yield. The bonds will be delivered on December 6. The outstanding debt of the issue totals C$1.85 billion.</p>
+<p>-- Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133160" id="root" date="1996-10-22" xml:lang="en">
+<title>BOSNIA: OSCE announces postponement of Bosnian polls.</title>
+<headline>OSCE announces postponement of Bosnian polls.</headline>
+<dateline>SARAJEVO 1996-10-22</dateline>
+<text>
+<p>The head of the international mission organising Bosnia's post-war elections announced on Tuesday that local polls set for November would be postponed &quot;due to continuing political problems&quot;.</p>
+<p>Robert Frowick, chief of the Bosnia mission for the Organisation for Security and Cooperation in Europe (OSCE), confirmed earlier reports from diplomats when he told a news conference that the municipal elections should be held sometime next year.  </p>
+<p>An OSCE commission unanimously decided on Tuesday to delay the voting, Frowick said.</p>
+<p>&quot;As chairman of the commission I would urge that these critically important elections take place as soon as possible in 1997.&quot;</p>
+<p>The move came a day after U.S. envoy John Kornblum met with Moslem, Croat and Serb leaders in the Bosnian capital Sarajevo to broker an agreement over the politically-sensitive municipal vote.</p>
+<p>Bosnian Serb authorities, citing security concerns in villages where Moslems have resettled, had threatened to boycott the poll if the OSCE went ahead with it in November.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

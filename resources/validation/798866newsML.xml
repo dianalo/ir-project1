@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798866" id="root" date="1997-08-14" xml:lang="en">
+<title>MEXICO: Wings eyeing new restaurant chain.</title>
+<headline>Wings eyeing new restaurant chain.</headline>
+<dateline>MEXICO CITY 1997-08-14</dateline>
+<text>
+<p>Mexican restaurant group Corporacion Mexicana de Restaurantes (Wings) may use the proceeds from its recent initial public offering to buy another chain, the Finamex brokerage said on Thursday.</p>
+<p>&quot;According to company officials, Wings may be opting to buy out another chain of similar, restaurants, possibly Toks of (retailer) Grupo Gigante,&quot; wrote analyst Gerardo Copca in a research report.</p>
+<p>&quot;Company officials told us recently, however, that the asking price may be too high,&quot; Copca added.</p>
+<p>Wings went public on June 2 by placing 27.15 percent of its equity on the Mexican bourse, from which it raised $21.8 million.</p>
+<p>((--Tomas de la Rosa, Mexico City newsroom +525 728-7912))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

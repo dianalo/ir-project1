@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70983" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Spine-Tech fusion system approved by FDA.</title>
+<headline>Spine-Tech fusion system approved by FDA.</headline>
+<dateline>MINNEAPOLIS 1996-09-23</dateline>
+<text>
+<p>Spine-Tech Inc said Monday the U.S. Food and Drug Administration approved its BAK Interbody Fusion System used to treat chronic low back pain caused by degenerative disc disease.</p>
+<p>Spine-Tech said the system consists of a series of patented implantable devices, proprietary instruments and surgical methods.  </p>
+<p>&quot;FDA approval opens the door to making Spine-Tech's BAK system and its medical benefits available in the United States,&quot; David Stassen, president and chief executive officer, said in a statement. &quot;We have completed a training center at our headquarters, which will give us the capacity to train hundreds of surgeons annually in BAK implantation surgical procedures.&quot;</p>
+<p>The current FDA approval is for the BAK system, which is designed to stabilize and fuse vertebrae in the lumbar, or lower, spine for treatment of chronic back pain caused by degenerative disc disease, the company said.</p>
+<p>It added it has also initiated clinical trials for the BAK/C for the cervical, or neck region, and the BAK/T for the thoracic, or chest, region.</p>
+<p>Outside the United States, the BAK system has been approved in more than 20 countries, Spine-Tech said.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
