@@ -25,6 +25,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
-	<classpathentry kind="lib" path="lib/tinyir-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/sfuab/app/eclipse_scala/workspace/ir-project1/lib/tinyir-1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

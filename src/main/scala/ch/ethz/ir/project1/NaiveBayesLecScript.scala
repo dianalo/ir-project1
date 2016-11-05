@@ -19,16 +19,23 @@ object NaiveBayesLecScript extends App {
      val l = nB.classify("resources/validation/validation_zip")
      println("done")
      
-     println("REGION\tTOPIC\tINDUSTRY")
+     println("ITEMID\tREGION\tTOPIC\tINDUSTRY")
      var t = System.currentTimeMillis()
-     var f = new File("resources/FoundTopicLabels/result"+t)
+     var f = new File("resources/FoundTopicLabels/result"+t + ".txt")
      f.createNewFile()
-     val pw = new PrintWriter("resources/FoundTopicLabels/result"+t)
+     val pw = new PrintWriter("resources/FoundTopicLabels/result"+t + ".txt")
      for(t <- l){
        println(t.mkString("\t"))
        pw.println(t.mkString("\t"))
      }
      pw.flush();
      pw.close();
+     
+     // Evaluation
+     var p: Double = 0
+     var r: Double = 0
+     var eval = new PrecRec(p, r)
+     println("evaluating...")
+     eval.evaluate("resources/FoundTopicLabels/result"+ t + ".txt", "resources/validation/validation_zip/0")
    }
 }
