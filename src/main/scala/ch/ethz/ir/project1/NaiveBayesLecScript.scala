@@ -11,22 +11,24 @@ object NaiveBayesLecScript extends App {
      var Pcat: Array[Double] = new Array[Double](config.codes.size)
      var logPwc: Array[Map[String, Double]] = new Array[Map[String, Double]](config.codes.size)
      
-     var nB = new NaiveBayesLec(config, 0.75, Pcat, logPwc)
+     var nB = new NaiveBayesLec(config, 0.5, Pcat, logPwc)
      println("computing probabilities...")
-     nB.computeProbabilities("resources/train/zips")
+     nB.computeProbabilities("resources/trainSmall/zips")
      println("done.")
      println("classifying...")
-     val l = nB.classify("resources/validation/zips")
+     val l = nB.classify("resources/validationSmall/zips")
      println("done")
      
-     println("REGION\tTOPIC\tINDUSTRY")
+     println("ID\tREGION\tTOPIC\tINDUSTRY")
      var t = System.currentTimeMillis()
-     var f = new File("resources/FoundTopicLabels/result"+t)
+     var f = new File("resources/FoundTopicLabels/resultNB"+t)
      f.createNewFile()
-     val pw = new PrintWriter("resources/FoundTopicLabels/result"+t)
+     val pw = new PrintWriter("resources/FoundTopicLabels/resultNB"+t)
      for(t <- l){
-       println(t.mkString("\t"))
-       pw.println(t.mkString("\t"))
+       println(t._1 + "\t" + t._2.mkString("\t"))
+       pw.println(t._1 + "\t" + t._2.mkString("\t"))
      }
+     pw.flush()
+     pw.close()
    }
 }
