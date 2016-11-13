@@ -47,8 +47,8 @@ class LogisticRegression(config: Config, var theta: Array[SMap], threshold: Doub
    * */
   def computeParameters(trainingDataFolder: String, iterations: Int, learningRate: Double) : Array[SMap] = {
     var str = new ReutersRCVStream(trainingDataFolder).stream
-    val features = str.map {d => (extractFeatureVector(d), d.codes)}
-    val nCodes = config.codes.length
+    //val features = str.map {d => (extractFeatureVector(d), d.codes)}
+    //val nCodes = config.codes.length
     //reusing functionality in tinyir library
     val lr = new ch.ethz.dal.tinyir.lectures.LogisticRegression()
     //need to transform to list to be able to walk over data randomly
