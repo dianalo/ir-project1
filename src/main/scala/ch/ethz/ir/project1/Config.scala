@@ -4,6 +4,8 @@ class Config {
   val trainingPath = "resources/train/zips"
   val validationPath = "resources/validation/zips"
   val nDocs: Int = 50001
+  val nDocsVerySmall: Int = 9
+  val nDocsSmall: Int = 99
   
   def codeDictionnary : Map[String, Int] = 
     Map[String, Int](codes.seq.zipWithIndex:_*)

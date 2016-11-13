@@ -9,7 +9,7 @@ import scala.collection.mutable.HashMap
 
 import breeze.linalg.DenseVector
 
-class SVM(config: Config, var theta: Array[SMap], iterations: Int, lambda: Double) {
+class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
     //maybe consider more features than term frequencies...
   def extractFeatureVector(d: XMLDocument) : Map[String, Double] = {
     val tks = d.tokens
@@ -37,14 +37,14 @@ class SVM(config: Config, var theta: Array[SMap], iterations: Int, lambda: Doubl
   def update(th: SMap, x: SMap, step: Int, c: Boolean) = {
     val y = if (c) 1 else -1
     if(y*(th*x) >= 1){
-      th*(1 - 1.0/(lambda*step)*lambda)
+      th*(1.0 - 1.0/(lambda*step)*lambda)
     }
     else{
-      plus(th*(1 - 1.0/(lambda*step)*lambda),(x*y)*(1 - 1.0/(lambda*step)*lambda))
+      plus(th*(1.0 - 1.0/(lambda*step)*lambda),(x*y)*(1.0 - 1.0/(lambda*step)*lambda))
     }
   }
   
-  def computeParameters(trainingDataFolder: String) = {
+  def computeParameters(trainingDataFolder: String, iterations: Int) : Array[SMap] = {
     var str = new ReutersRCVStream(trainingDataFolder).stream
     val features = str.map {d => (extractFeatureVector(d), d.codes)}
     val nCodes = config.codes.length
@@ -55,14 +55,18 @@ class SVM(config: Config, var theta: Array[SMap], iterations: Int, lambda: Doubl
     
     //iterate over it randomly
     for(j <- 0 to iterations){
-      for(i <- 0 to config.codes.size){
-        var d = docList(Random.nextInt(config.nDocs))
+      for(i <- 0 to config.codes.size-1){
+        //println(docList.length)
+        var d = docList(Random.nextInt(config.nDocsSmall))
         val f = extractFeatureVector(d)
         var x = new SMap(f)
         val c = d.codes.contains(config.invCodeDictionnary(i))
-        theta(i) = update(theta(i), x, j, c)
+        theta(i) = update(theta(i), x, j+1, c)
       }
+      println("Computing parameters: " + (j.toDouble/iterations.toDouble)*100.0 + "% complete.")
     }
+    
+    return theta
   }
     
   def classify(validationDataFolder: String) : List[(Int, List[String])] = {
@@ -72,7 +76,7 @@ class SVM(config: Config, var theta: Array[SMap], iterations: Int, lambda: Doubl
   
   private def classifyDoc(d: XMLDocument) :  (Int, List[String]) = {
     val feature = new SMap(extractFeatureVector(d))
-    val lr = new ch.ethz.dal.tinyir.lectures.LogisticRegression()
+    println(theta.map(_*feature).apply(0))
     val res = theta.map(_*feature).zipWithIndex.filter(_._1 > 0.0)
     
     return (d.ID, res.toList.map{ t => config.invCodeDictionnary(t._2)})
