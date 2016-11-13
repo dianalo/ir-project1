@@ -19,7 +19,7 @@ object NaiveBayesLecScript extends App {
      
      //PARAM 2:
      //THRESHOLD FOR CLASSIFICATION
-     var nB = new NaiveBayesLec(config, 0.5, Pcat, logPwc)
+     var nB = new NaiveBayesLec(config, 0.3, Pcat, logPwc)
      println("computing probabilities...")
      //PARAM:
      //PATH TO TRAINING DATA

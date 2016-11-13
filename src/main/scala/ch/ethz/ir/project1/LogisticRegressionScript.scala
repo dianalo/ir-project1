@@ -22,14 +22,16 @@ object LogisticRegressionScript extends App {
     
     //PARAM 3:
     //GLOBAL THRESHOLD USED BY LOGISTIC REGRESSION CLASSIFICATION
-    var lR = new LogisticRegression(config, theta, 0.3)
+    //PARAM 4:
+    //NUMBER OF FILES IN TRAINING FOLDER
+    var lR = new LogisticRegression(config, theta, 0.1, 10)
     
     println("computing parameters...")
     ///PARAMS:
     //PATH TO TRAINING FOLDER
     //NUMBER OF ITERATIONS
     //LEARNING RATE PARAMETER (FROM LR-ALGORITHM)
-    theta = lR.computeParameters("resources/trainSmall/zips", 100, 1/config.nDocs)
+    theta = lR.computeParameters("resources/trainVerySmall/zips", 5, 1/config.nDocs)
     println("classifying...")
     //PARAM:
     //PATH TO VALIDATION/TEST FOLDER

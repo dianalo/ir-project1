@@ -22,13 +22,15 @@ object SVMScript extends App {
     
     //PARAM 3:
     //LAMBDA PARAMETER FROM PEGASOS ALGORITHM
-    var svm = new SVM(config, theta, 1.0)
+    //PARAM 4:
+    //NUMBER OF FILES IN TRAINING FOLDER
+    var svm = new SVM(config, theta, 1.0, 100)
     
     println("computing parameters...")
     //PARAMS:
     //PATH TO TRAINING DATA
     //NUM OF ITERATIONS
-    val th = svm.computeParameters("resources/trainSmall/zips", 50)
+    val th = svm.computeParameters("resources/trainSmall/zips", 80)
     println("classifying...")
     //PARAM:
     //PATH TO VALIDATION/TEST DATA

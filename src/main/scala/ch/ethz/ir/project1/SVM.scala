@@ -6,17 +6,17 @@ import ch.ethz.dal.tinyir.processing.XMLDocument
 import ch.ethz.dal.tinyir.lectures.SMap
 import scala.util.Random
 import scala.collection.mutable.HashMap
+import ch.ethz.dal.tinyir.processing.StopWords
+import com.github.aztek.porterstemmer.PorterStemmer
 
-import breeze.linalg.DenseVector
-
-class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
+class SVM(config: Config, var theta: Array[SMap], lambda: Double, NumberOfTrainingFiles: Int) {
   
   //extracts the feature vector out of a XML document
   /*currently the feature vector only contains the frequencies
    * of terms present in the document
    */
   def extractFeatureVector(d: XMLDocument) : Map[String, Double] = {
-    val tks = d.tokens
+    val tks = StopWords.filterOutSW(d.tokens).map(PorterStemmer.stem(_))
     val tfs = tks.groupBy(identity).mapValues { l => l.length.toDouble }
     
     return tfs
@@ -65,7 +65,7 @@ class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
     //iterate over it randomly
     for(j <- 0 to iterations){
       for(i <- 0 to config.codes.size-1){
-        var d = docList(Random.nextInt(config.nDocsSmall))
+        var d = docList(Random.nextInt(NumberOfTrainingFiles-1))
         var x = new SMap(extractFeatureVector(d))
         val c = d.codes.contains(config.invCodeDictionnary(i))
         //perform update step

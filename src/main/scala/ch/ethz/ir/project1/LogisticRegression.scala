@@ -5,6 +5,8 @@ import ch.ethz.dal.tinyir.io.ReutersRCVStream
 import ch.ethz.dal.tinyir.processing.XMLDocument
 import ch.ethz.dal.tinyir.lectures._
 import scala.util.Random
+import ch.ethz.dal.tinyir.processing.StopWords
+import com.github.aztek.porterstemmer.PorterStemmer
 
 /*
  * LogisticRegression class
@@ -14,14 +16,14 @@ import scala.util.Random
  * theta: array containing the model vectors of all class labels
  * threshold: global threshold used to classify documents
  * */
-class LogisticRegression(config: Config, var theta: Array[SMap], threshold: Double) {
+class LogisticRegression(config: Config, var theta: Array[SMap], threshold: Double, numberOfTrainingFiles: Int) {
   
   //extracts the feature vector out of a XML document
   /*currently the feature vector only contains the frequencies
    * of terms present in the document
    */  
   def extractFeatureVector(d: XMLDocument) : Map[String, Double] = {
-    val tks = d.tokens
+    val tks = StopWords.filterOutSW(d.tokens).map(PorterStemmer.stem(_))
     val tfs = tks.groupBy(identity).mapValues { l => l.length.toDouble }
     
     return tfs
@@ -54,7 +56,7 @@ class LogisticRegression(config: Config, var theta: Array[SMap], threshold: Doub
     var j=0
     for(j <- 0 to iterations){
       //select next element randomly
-      var d = docList(Random.nextInt(config.nDocs))
+      var d = docList(Random.nextInt(numberOfTrainingFiles))
         val fV = new SMap(extractFeatureVector(d))
         for(i <- 0 to config.codes.size-1){
           //perform update step

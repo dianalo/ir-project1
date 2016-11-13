@@ -2,8 +2,9 @@ package ch.ethz.ir.project1
 
 import ch.ethz.dal.tinyir.io._
 
-import breeze.linalg._
 import scala.math._
+import ch.ethz.dal.tinyir.processing.StopWords
+import com.github.aztek.porterstemmer.PorterStemmer
 
 /*
  * NaiveBayes Class
@@ -27,7 +28,7 @@ class NaiveBayesLec (val config: Config,
       val reuters = new ReutersRCVStream(trainingDataFolder)
       val stream = reuters.stream
       //vocabsize could be hardcoded for full training set
-      val vocabSize = stream.flatMap(_.tokens).distinct.length
+      val vocabSize = stream.flatMap(d => StopWords.filterOutSW(d.tokens)).map(PorterStemmer.stem(_)).distinct.length
       val codes = config.codes
       for(i <- 0 to codes.size-1){
         val cat = codes(i)
@@ -35,7 +36,7 @@ class NaiveBayesLec (val config: Config,
         //log not really needed
         val v:Double = docsInCat.length.toDouble / stream.length.toDouble
         Pcat(i) = v
-        val tks = docsInCat.flatMap(_.tokens)
+        val tks = docsInCat.flatMap(d => StopWords.filterOutSW(d.tokens)).map(PorterStemmer.stem(_))
         val denominator: Double = tks.length.toDouble + vocabSize.toDouble
         val PwcSparseNumerator = tks.groupBy(identity).mapValues(l=>l.length+1)
         //log not really needed
@@ -58,7 +59,7 @@ class NaiveBayesLec (val config: Config,
     var topicScores: Array[Double] = new Array[Double](codes.size)
     var j=0
     for (doc <- stream){
-      val tfs = doc.tokens.groupBy(identity).mapValues(l=>l.length)
+      val tfs = StopWords.filterOutSW(doc.tokens).map(PorterStemmer.stem(_)).groupBy(identity).mapValues(l=>l.length)
       for(i <- 0 to codes.size-1){
         var sum = 0.0
         for(word <- tfs.keys){
