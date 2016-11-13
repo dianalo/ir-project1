@@ -10,7 +10,11 @@ import scala.collection.mutable.HashMap
 import breeze.linalg.DenseVector
 
 class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
-    //maybe consider more features than term frequencies...
+  
+  //extracts the feature vector out of a XML document
+  /*currently the feature vector only contains the frequencies
+   * of terms present in the document
+   */
   def extractFeatureVector(d: XMLDocument) : Map[String, Double] = {
     val tks = d.tokens
     val tfs = tks.groupBy(identity).mapValues { l => l.length.toDouble }
@@ -18,6 +22,7 @@ class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
     return tfs
   }
   
+  //addition of two SMaps
   def plus(a: SMap, b: SMap) : SMap = {
     var res = Map[String, Double]()
     for(key <- a.m.keySet.union(b.m.keySet)){
@@ -26,14 +31,13 @@ class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
     return new SMap(res)
   }
   
-  def minus(a: SMap, b: SMap) : SMap = {
-    var res = Map[String, Double]()
-    for(key <- a.m.keySet.union(b.m.keySet)){
-      res += (key -> (a.m.getOrElse(key, 0.0) - b.m.getOrElse(key, 0.0)))
-    }
-    return new SMap(res)
-  }
-  
+  //update function for our model vectors, from PEGASOS algorithm
+  //see slide Text Categorization, Slide No. 37
+  //params: 
+  //th: SMap with model vectors for label l
+  //x: SMap with training data
+  //step: iteration step
+  //c: boolean indicating whether current training document has label l
   def update(th: SMap, x: SMap, step: Int, c: Boolean) = {
     val y = if (c) 1 else -1
     if(y*(th*x) >= 1){
@@ -44,23 +48,27 @@ class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
     }
   }
   
+  /*	computes the model vectors for the different labels 
+   * 	by looking at training data according to PEGASOS algorithm
+   * 	return and stores the computed model vectors in theta array of SMaps
+   */
+  //params:
+  //trainingDataFolder: the path of the folder containing the training data
+  //iterations: number of iterations to be performed
   def computeParameters(trainingDataFolder: String, iterations: Int) : Array[SMap] = {
     var str = new ReutersRCVStream(trainingDataFolder).stream
     val features = str.map {d => (extractFeatureVector(d), d.codes)}
     val nCodes = config.codes.length
     
-    //-> stochastic optimization, walk through data in random order
-    //val randStr = Stream.fill(iterations)(Random.nextInt(config.nDocs-1))
     val docList = str.toList;
     
     //iterate over it randomly
     for(j <- 0 to iterations){
       for(i <- 0 to config.codes.size-1){
-        //println(docList.length)
         var d = docList(Random.nextInt(config.nDocsSmall))
-        val f = extractFeatureVector(d)
-        var x = new SMap(f)
+        var x = new SMap(extractFeatureVector(d))
         val c = d.codes.contains(config.invCodeDictionnary(i))
+        //perform update step
         theta(i) = update(theta(i), x, j+1, c)
       }
       println("Computing parameters: " + (j.toDouble/iterations.toDouble)*100.0 + "% complete.")
@@ -68,15 +76,19 @@ class SVM(config: Config, var theta: Array[SMap], lambda: Double) {
     
     return theta
   }
-    
+  
+  //classifies documents in folder
+  //returns:
+  //list of tuples containing the Document ID and a List of all identifies labels
+  //the returned list has the same order as the read in documents
   def classify(validationDataFolder: String) : List[(Int, List[String])] = {
     val stream = new ReutersRCVStream(validationDataFolder).stream
     return stream.map(classifyDoc(_)).foldLeft(List[(Int, List[String])]())((a,b)=>b::a).reverse
   }
   
+  //helper function that classifies one single document
   private def classifyDoc(d: XMLDocument) :  (Int, List[String]) = {
     val feature = new SMap(extractFeatureVector(d))
-    println(theta.map(_*feature).apply(0))
     val res = theta.map(_*feature).zipWithIndex.filter(_._1 > 0.0)
     
     return (d.ID, res.toList.map{ t => config.invCodeDictionnary(t._2)})

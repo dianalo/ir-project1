@@ -5,11 +5,24 @@ import ch.ethz.dal.tinyir.io._
 import breeze.linalg._
 import scala.math._
 
+/*
+ * NaiveBayes Class
+ * provides all the functions needed to compute parameters and classify
+ * according to NaiveBayes classifier, pretty much the same as on the slides
+ * params:
+ * config: configuration object
+ * threshold: global threshold to classify document
+ * Pcat: array where probabilities P(c) are stored
+ * Pwc: matrix where probabilites P(w|c) are stored for each class/label
+ * */
 class NaiveBayesLec (val config: Config, 
-                      val threshold:Double, var Pcat: Array[Double], var logPwc: Array[Map[String, Double]]){
+                      val threshold:Double, var Pcat: Array[Double], var Pwc: Array[Map[String, Double]]){
   
-  //encoding of codes in vector: region, topic, industry
   
+  /*
+   * computes probabilites P(c) and P(w|c) for given training data
+   * 
+   * */ 
   def computeProbabilities(trainingDataFolder: String) = {
       val reuters = new ReutersRCVStream(trainingDataFolder)
       val stream = reuters.stream
@@ -26,11 +39,18 @@ class NaiveBayesLec (val config: Config,
         val denominator: Double = tks.length.toDouble + vocabSize.toDouble
         val PwcSparseNumerator = tks.groupBy(identity).mapValues(l=>l.length+1)
         //log not really needed
-        logPwc(i) = PwcSparseNumerator.mapValues { v => v.toDouble/denominator}+("_df" -> 1.0/denominator) //default value
+        Pwc(i) = PwcSparseNumerator.mapValues { v => v.toDouble/denominator}+("_df" -> 1.0/denominator) //default value
         println((i.toDouble/codes.size.toDouble)*100 + "% computed")
       }
   }
   
+  /*
+   * classifies documents in given folder
+   * 
+   * returns:
+   * list of tuples containing the Document ID and a List of all identified labels
+   * the returned list has the same order as the read in documents
+   * */
   def classify(dataFolder: String) : List[(Int,List[String])] = {
     var ls: List[(Int,List[String])] = List()
     val stream = new ReutersRCVStream(dataFolder).stream
@@ -42,25 +62,14 @@ class NaiveBayesLec (val config: Config,
       for(i <- 0 to codes.size-1){
         var sum = 0.0
         for(word <- tfs.keys){
-          sum += tfs(word)*logPwc(i).getOrElse(word, logPwc(i)("_df"))
+          sum += tfs(word)*Pwc(i).getOrElse(word, Pwc(i)("_df"))
         }
         sum += Pcat(i)
         topicScores(i) = sum
       }
-      
-      //get single best labels... maybe multiple labels via thresholding
-      //filter region
-      //val region = config.invCodeDictionnary(topicScores.slice(0, config.nRegionCodes-1).zipWithIndex.maxBy(_._1)._2)
-      //filter topic
-      //val topic = config.invCodeDictionnary(topicScores.slice(config.nRegionCodes, config.nRegionCodes+config.nTopicCodes-1).zipWithIndex.maxBy(_._1)._2)
-      //filter industry
-      //val industry = config.invCodeDictionnary(topicScores.slice(config.nRegionCodes+config.nTopicCodes, codes.size-1).zipWithIndex.maxBy(_._1)._2)
-      
-      
+           
       val assignedTopics = topicScores.zipWithIndex.filter(_._1 > threshold).map(s => config.invCodeDictionnary(s._2))
-      
-      
-      
+          
       //val l = List(region, topic, industry)
       val l = (doc.ID, assignedTopics.toList)
       
@@ -69,6 +78,6 @@ class NaiveBayesLec (val config: Config,
       j+=1
       println((j.toDouble/stream.length.toDouble)*100 + "% classified")
     }
-    return ls
+    return ls.reverse
   }
 }

@@ -1,18 +1,23 @@
 package ch.ethz.ir.project1
 
 class Config {
+  
+  //some constants
   val trainingPath = "resources/train/zips"
   val validationPath = "resources/validation/zips"
-  val nDocs: Int = 50001
   val nDocsVerySmall: Int = 9
   val nDocsSmall: Int = 99
+  val nDocs: Int = 99999
   
+  //map that translates from label name to index in codes array
   def codeDictionnary : Map[String, Int] = 
     Map[String, Int](codes.seq.zipWithIndex:_*)
-   
+  
+  //map that translates from codes array index to name of topic label
   def invCodeDictionnary : Map[Int, String] = 
     Map[Int, String](codes.seq.zipWithIndex.map{_.swap}:_*)
   
+  //array containing all topic labels
   def codes = regionCodes ++ topicCodes ++ industryCodes
   
   def nRegionCodes: Int = regionCodes.size
