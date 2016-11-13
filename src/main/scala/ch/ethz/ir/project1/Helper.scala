@@ -3,6 +3,7 @@ package ch.ethz.ir.project1
 import java.io.File
 import scala.io.Source
 import scala.collection.mutable._
+import ch.ethz.dal.tinyir.io.ReutersRCVStream
 
 
 class Helper {
@@ -46,5 +47,15 @@ class Helper {
       return codesMap
       }
       
-      
+      def allWordsDic(minLength: Int) : List[(String, Int)] = {
+        var str = new ReutersRCVStream("resources/train/zips").stream
+        var wSet = new HashSet[String]()
+        for(d <- str){
+          val newWords = d.tokens.distinct.filter(_.length >= minLength).filter(a => wSet.contains(a))
+          newWords.map { w => wSet.add(w)}
+        }
+        val l = wSet.toList.sorted.zipWithIndex
+        
+        return l
+      }
 }
