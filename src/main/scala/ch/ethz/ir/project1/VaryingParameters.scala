@@ -26,7 +26,7 @@ object VaryingClassificationParameters extends App {
     }
     
     var lR = new LogisticRegression(config, theta, 10)
-    lR.computeParameters(trainingFiles, 25, 1.0/99)
+    lR.computeParameters(trainingFiles, 25)
     
     
     var threshold = 0.2
