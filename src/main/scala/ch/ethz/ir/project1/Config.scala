@@ -10,6 +10,14 @@ class Config {
    
   def invCodeDictionnary : Map[Int, String] = 
     Map[Int, String](codes.seq.zipWithIndex.map{_.swap}:_*)
+       
+  def invCodeDictionnaryInList(array: Array[(Double,Int)]) : List[String] = {
+    var result = List[String]()
+    for(item <- array){
+      result = invCodeDictionnary(item._2) :: result
+    }
+    result
+  }
   
   def codes = regionCodes ++ topicCodes ++ industryCodes
   

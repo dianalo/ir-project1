@@ -29,34 +29,44 @@ class PrecRec (var p: Double, var r: Double) {
 //    reuters.stream.sortWith(_(0) > _(0))
     
     // evaluation parameters
-    var relItemRetrieved = 0
-    var itemRetrieved = 0
-    var relItem = 0
+    var F1_score_sum : Double = 0
     
-    // for all files in the validation set
+    // for all files in the test set
     for(doc <- reuters.stream){
-      relItem += doc.codes.size
+      // relevant items are all the codes contained by a certain doc
+      val relItem = doc.codes.size
       println("codes for file " + doc.name + " is " + doc.codes);
-      // for all items in the result list
+      // for all items in the result list, find the corresponding file
       for(item <- rList){
+        // find the corresponding file by itemID
         if(item(0) == doc.name){
-          val numOfSame = item.size - item.filterNot(doc.codes.toSet).size
+          // filter for the same categories
+          val relItemRetrieved = item.filter(doc.codes.toSet).size
           // for debug
-          println(numOfSame)
-          relItemRetrieved += numOfSame
-          itemRetrieved += item.length-1
+          println(relItemRetrieved)
+          // the number of item retrieved is the list read from the result file minus the first element which is the item ID
+          val itemRetrieved = item.size - 1
+          println(itemRetrieved)
+          if(itemRetrieved == 0){
+            p = 0
+          } else {
+            p = relItemRetrieved.toDouble / itemRetrieved.toDouble
+          } 
+          r = relItemRetrieved.toDouble / relItem.toDouble
+          
+          println("precision is " + p)
+          println("recall is " + r)
+          
+          if(p == 0 & r == 0){
+            F1_score_sum = 0
+          } else {
+            F1_score_sum += 2 * p * r / (p + r)  
+          }
         }
       }
     }
-    println("relevant item retrieved " + relItemRetrieved)
-    println("item retrieved " + itemRetrieved)
-    println("relevant item in collection " + relItem)
-    
-    p = relItemRetrieved.toDouble / itemRetrieved.toDouble
-    r = relItemRetrieved.toDouble / relItem.toDouble
-    
-    println("Precision is " + p)
-    println("Recall is " + r)
+    var F1_score = F1_score_sum / reuters.stream.size
+    println("F1 score is " + F1_score)
 
   }
   
