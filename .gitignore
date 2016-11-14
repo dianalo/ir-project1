@@ -1,2 +1,6 @@
 /target/
 /resources/
+.classpath
+.project
+.DS_STORE
+

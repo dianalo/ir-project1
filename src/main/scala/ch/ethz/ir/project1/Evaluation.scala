@@ -7,7 +7,7 @@ object Evaluation extends App {
     val nValDocs = 73
     
     val docPath = "resources/validationSmall/zips"
-    val resPath = "resources/FoundTopicLabels/resultSVM1479073567798"
+    val resPath = "resources/FoundTopicLabels/resultNB_THRESHOLD_0.6"
     
     var p = new Array[Double](nValDocs)
     var r = new Array[Double](nValDocs)

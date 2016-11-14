@@ -21,10 +21,8 @@ object LogisticRegressionScript extends App {
     }
     
     //PARAM 3:
-    //GLOBAL THRESHOLD USED BY LOGISTIC REGRESSION CLASSIFICATION
-    //PARAM 4:
     //NUMBER OF FILES IN TRAINING FOLDER
-    var lR = new LogisticRegression(config, theta, 0.5, 10)
+    var lR = new LogisticRegression(config, theta, 10)
     
     println("computing parameters...")
     ///PARAMS:
@@ -34,9 +32,10 @@ object LogisticRegressionScript extends App {
     theta = lR.computeParameters("resources/trainSmall/zips", 20, 1.0/99)
     println(theta(0))
     println("classifying...")
-    //PARAM:
+    //PARAMS:
     //PATH TO VALIDATION/TEST FOLDER
-    val res = lR.classify("resources/validationSmall/zips")
+    //GLOBAL THRESHOLD
+    val res = lR.classify("resources/validationSmall/zips", 0.5)
     
     println("ID\tCODES")
      var t = System.currentTimeMillis()

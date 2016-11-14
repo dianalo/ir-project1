@@ -16,7 +16,7 @@ import com.github.aztek.porterstemmer.PorterStemmer
  * theta: array containing the model vectors of all class labels
  * threshold: global threshold used to classify documents
  * */
-class LogisticRegression(config: Config, var theta: Array[SMap], threshold: Double, numberOfTrainingFiles: Int) {
+class LogisticRegression(config: Config, var theta: Array[SMap], numberOfTrainingFiles: Int) {
   
   //extracts the feature vector out of a XML document
   /*currently the feature vector only contains the frequencies
@@ -73,13 +73,13 @@ class LogisticRegression(config: Config, var theta: Array[SMap], threshold: Doub
   //returns:
   //list of tuples containing the Document ID and a List of all identified labels
   //the returned list has the same order as the read in documents
-  def classify(validationDataFolder: String) : List[(Int, List[String])] = {
+  def classify(validationDataFolder: String, threshold: Double)  : List[(Int, List[String])] = {
     val stream = new ReutersRCVStream(validationDataFolder).stream
-    return stream.map(classifyDoc(_)).foldLeft(List[(Int, List[String])]())((a,b)=>b::a).reverse
+    return stream.map(classifyDoc(_, threshold)).foldLeft(List[(Int, List[String])]())((a,b)=>b::a).reverse
   }
   
   //helper function that classifies one single document
-  private def classifyDoc(d: XMLDocument) :  (Int, List[String]) = {
+  private def classifyDoc(d: XMLDocument, threshold: Double) :  (Int, List[String]) = {
     val feature = new SMap(extractFeatureVector(d))
     val lr = new ch.ethz.dal.tinyir.lectures.LogisticRegression()
     val res = theta.map(lr.logistic(feature, _)).zipWithIndex.filter(_._1 > threshold)

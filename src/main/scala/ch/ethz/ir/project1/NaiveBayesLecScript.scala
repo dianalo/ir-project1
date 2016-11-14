@@ -17,26 +17,26 @@ object NaiveBayesLecScript extends App {
      var Pcat: Array[Double] = new Array[Double](config.codes.size)
      var logPwc: Array[Map[String, Double]] = new Array[Map[String, Double]](config.codes.size)
      
-     //PARAM 2:
-     //THRESHOLD FOR CLASSIFICATION
-     var nB = new NaiveBayesLec(config, 0.3, Pcat, logPwc)
+     var nB = new NaiveBayesLec(config, Pcat, logPwc)
      println("computing probabilities...")
      //PARAM:
      //PATH TO TRAINING DATA
-     nB.computeProbabilities("resources/train/train_zip")
+     nB.computeProbabilities("resources/trainSmall/zips")
      println("done.")
      println("classifying...")
-     //PARAM:
+     //PARAMS:
      //PATH TO VALIDATION/TEST DATA
-     val l = nB.classify("resources/validation/validation_zip")
+     //THRESHOLD FOR CLASSIFICATION
+     val l = nB.classify("resources/validationSmall/zips", 0.3)
      println("done")
      
+     println("ID\tCODES")
      var t = System.currentTimeMillis()
      //PARAM:
      //PATH TO FILE WHERE RESULTS SHOULD BE STORED
-     var f = new File("resources/FoundTopicLabels/result"+t + ".txt")
+     var f = new File("resources/FoundTopicLabels/resultNB"+t)
      f.createNewFile()
-     val pw = new PrintWriter("resources/FoundTopicLabels/result"+t + ".txt")
+     val pw = new PrintWriter("resources/FoundTopicLabels/resultNB"+t)
      for(t <- l){
        println(t._1 + "\t" + t._2.mkString("\t"))
        pw.println(t._1 + "\t" + t._2.mkString("\t"))
