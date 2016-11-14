@@ -45,7 +45,7 @@ class LogisticRegression(config: Config, var theta: Array[SMap], numberOfTrainin
    * iterations: number of iterations to be performed
    * learningRate: parameter that regularizes conversion speed of algorithm
    * */
-  def computeParameters(trainingDataFolder: String, iterations: Int, learningRate: Double) : Array[SMap] = {
+  def computeParameters(trainingDataFolder: String, iterations: Int) : Array[SMap] = {
     var str = new ReutersRCVStream(trainingDataFolder).stream
     //val features = str.map {d => (extractFeatureVector(d), d.codes)}
     //val nCodes = config.codes.length
@@ -60,7 +60,7 @@ class LogisticRegression(config: Config, var theta: Array[SMap], numberOfTrainin
         val fV = new SMap(extractFeatureVector(d))
         for(i <- 0 to config.codes.size-1){
           //perform update step
-          theta(i) = minus(theta(i), lr.update(theta(i), fV, d.codes.contains(config.codes(i)))*learningRate)
+          theta(i) = minus(theta(i), lr.update(theta(i), fV, d.codes.contains(config.codes(i)))*(1.0/(j+1)))
         }
         println("computing parameters: " + (j.toDouble/str.size.toDouble)*100 + "% done")
     }

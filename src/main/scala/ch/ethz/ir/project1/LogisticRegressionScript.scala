@@ -29,7 +29,7 @@ object LogisticRegressionScript extends App {
     //PATH TO TRAINING FOLDER
     //NUMBER OF ITERATIONS
     //LEARNING RATE PARAMETER (FROM LR-ALGORITHM)
-    theta = lR.computeParameters("resources/trainSmall/zips", 20, 1.0/99)
+    theta = lR.computeParameters("resources/trainSmall/zips", 20)
     println(theta(0))
     println("classifying...")
     //PARAMS:
