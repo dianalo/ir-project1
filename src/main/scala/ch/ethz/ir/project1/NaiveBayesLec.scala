@@ -3,14 +3,28 @@ import java.io.PrintWriter
 import java.util.Calendar
 import ch.ethz.dal.tinyir.io._
 
-import breeze.linalg._
 import scala.math._
+import ch.ethz.dal.tinyir.processing.StopWords
+import com.github.aztek.porterstemmer.PorterStemmer
 
+/*
+ * NaiveBayes Class
+ * provides all the functions needed to compute parameters and classify
+ * according to NaiveBayes classifier, pretty much the same as on the slides
+ * params:
+ * config: configuration object
+ * threshold: global threshold to classify document
+ * Pcat: array where probabilities P(c) are stored
+ * Pwc: matrix where probabilites P(w|c) are stored for each class/label
+ * */
 class NaiveBayesLec (val config: Config, 
                       var threshold:Double, var Pcat: Array[Double], var logPwc: Array[Map[String, Double]]){
   
-  //encoding of codes in vector: region, topic, industry
   
+  /*
+   * computes probabilites P(c) and P(w|c) for given training data
+   * 
+   * */ 
   def computeProbabilities(trainingDataFolder: String) = {
        var t = System.currentTimeMillis()
        val pw = new PrintWriter("resources/values/prob_values"+t)
@@ -52,16 +66,20 @@ class NaiveBayesLec (val config: Config,
       val quick_path = "resources/train_t/zips"
       val reuters = new ReutersRCVStream(quick_path)
       val stream = reuters.stream
-      val vocabSize = stream.flatMap(_.tokens).distinct.length
+      //vocabsize could be hardcoded for full training set
+      val vocabSize = stream.flatMap(d => StopWords.filterOutSW(d.tokens)).map(PorterStemmer.stem(_)).distinct.length
       val codes = config.codes
       for(i <- 0 to codes.size-1){
         val cat = codes(i)
-        val v = log(stream.filter(_.codes(cat)).length /stream.length.toDouble)
+        val docsInCat = stream.filter(_.codes(cat))
+        //log not really needed
+        val v:Double = docsInCat.length.toDouble / stream.length.toDouble
         Pcat(i) = v
-        val tks = stream.filter(_.codes(cat)).flatMap(_.tokens)
-        val denominator = tks.length.toDouble + vocabSize
+        val tks = docsInCat.flatMap(d => StopWords.filterOutSW(d.tokens)).map(PorterStemmer.stem(_))
+        val denominator: Double = tks.length.toDouble + vocabSize.toDouble
         val PwcSparseNumerator = tks.groupBy(identity).mapValues(l=>l.length+1)
-        logPwc(i) = PwcSparseNumerator.mapValues { v => log(v/denominator) }+("_df" -> log(1.0/denominator)) //default value
+        //log not really needed
+        logPwc(i) = PwcSparseNumerator.mapValues { v => v.toDouble/denominator}+("_df" -> 1.0/denominator) //default value
         println((i.toDouble/codes.size.toDouble)*100 + "% computed")
       }
        
@@ -97,8 +115,15 @@ class NaiveBayesLec (val config: Config,
      pw.close();
   }
   
-  def classify(dataFolder: String) : List[List[String]] = {
-    var ls: List[List[String]] = List()
+  /*
+   * classifies documents in given folder
+   * 
+   * returns:
+   * list of tuples containing the Document ID and a List of all identified labels
+   * the returned list has the same order as the read in documents
+   * */
+  def classify(dataFolder: String) : List[(Int,List[String])] = {
+    var ls: List[(Int,List[String])] = List()
     
     /***********************************
     * slow version for the whole dataset
@@ -184,24 +209,15 @@ class NaiveBayesLec (val config: Config,
       println("threshold is " + threshold)
 //      println("up threshold is " + up_threshold)
       
-      //get single best labels... maybe multiple labels via thresholding
-      var l = config.invCodeDictionnaryInList(topicScores.zipWithIndex.filter{_._1 >= threshold})
+      val assignedTopics = topicScores.zipWithIndex.filter(_._1 > threshold).map(s => config.invCodeDictionnary(s._2))
+      val l = (doc.ID, assignedTopics.toList)
       
-      //filter region
-      val region = config.invCodeDictionnary(topicScores.slice(0, config.nRegionCodes-1).zipWithIndex.maxBy(_._1)._2)
-      //filter topic
-      val topic = config.invCodeDictionnary(topicScores.slice(config.nRegionCodes, config.nRegionCodes+config.nTopicCodes-1).zipWithIndex.maxBy(_._1)._2)
-      //filter industry
-      val industry = config.invCodeDictionnary(topicScores.slice(config.nRegionCodes+config.nTopicCodes, codes.size-1).zipWithIndex.maxBy(_._1)._2)
-      
-      l = doc.ID.toString() :: l
       ls = l::ls
       
       j+=1
       println((j.toDouble/stream.length.toDouble)*100 + "% classified")
     }
           
-          
-    return ls
+    return ls.reverse
   }
 }

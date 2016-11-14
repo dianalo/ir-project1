@@ -3,6 +3,7 @@ package ch.ethz.ir.project1
 import java.io.File
 import scala.io.Source
 import scala.collection.mutable._
+import ch.ethz.dal.tinyir.io.ReutersRCVStream
 
 
 class Helper {

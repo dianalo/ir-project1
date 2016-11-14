@@ -8,15 +8,9 @@ import scala.io.Source
   object App {
 
     def main(args: Array[String]) {
-      //parse documents in train set
-      val Helper = new Helper()
-      val Config = new Config()
+      var helper = new Helper()
       
-      var codeMap = Helper.makeCodeMap
-       
-      //compute term frequency map
-      var fList = Helper.getListOfFiles("resources/trainSmall").map(_.getPath);
-      
+      println(helper.allWordsDic(10).length)
     }
     
 

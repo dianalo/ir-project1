@@ -4,14 +4,13 @@ import ch.ethz.dal.tinyir.io._
 import java.io.File
 
 class PrecRec (var p: Double, var r: Double) {
-  def evaluate (resultPath: String, validationPath: String) = {
+  def evaluate (resultPath: String, validationPath: String) : Unit = {
     // get validation set
-//    val trainingFolder = "resources/validation/validation_zip/0"
+    // val trainingFolder = "resources/validation/validation_zip/0"
     
-    val reuters = new ReutersRCVStream(validationPath)
-    println("Reading from path = " + validationPath)
-    println("Number of documents = " + reuters.length)
-    
+    var valDocs = new ReutersRCVStream(validationPath).stream.toList
+    valDocs.sortBy(_.ID)
+    println(valDocs.head.ID)
     
     // get classification result
     var rList: List[List[String]] = List()
@@ -32,7 +31,7 @@ class PrecRec (var p: Double, var r: Double) {
     var F1_score_sum : Double = 0
     
     // for all files in the test set
-    for(doc <- reuters.stream){
+    for(doc <- valDocs){
       // relevant items are all the codes contained by a certain doc
       val relItem = doc.codes.size
       println("codes for file " + doc.name + " is " + doc.codes);
@@ -65,7 +64,7 @@ class PrecRec (var p: Double, var r: Double) {
         }
       }
     }
-    var F1_score = F1_score_sum / reuters.stream.size
+    var F1_score = F1_score_sum / valDocs.size
     println("F1 score is " + F1_score)
 
   }
