@@ -8,7 +8,7 @@ object VaryingClassificationParameters extends App {
   override def main(args: Array[String]){
     val config = new Config
     
-    var trainingFiles = "resources/trainVerySmall/zips"
+    var trainingFiles = "resources/trainSmall/zips"
     var validationFiles = "resources/validationSmall/zips"
     
     //compute parameters

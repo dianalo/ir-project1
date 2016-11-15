@@ -22,20 +22,19 @@ object LogisticRegressionScript extends App {
     
     //PARAM 3:
     //NUMBER OF FILES IN TRAINING FOLDER
-    var lR = new LogisticRegression(config, theta, 10)
+    var lR = new LogisticRegression(config, theta, 500)
     
     println("computing parameters...")
     ///PARAMS:
     //PATH TO TRAINING FOLDER
     //NUMBER OF ITERATIONS
     //LEARNING RATE PARAMETER (FROM LR-ALGORITHM)
-    theta = lR.computeParameters("resources/trainSmall/zips", 20)
-    println(theta(0))
+    theta = lR.computeParameters("resources/train500/zips", 50)
     println("classifying...")
     //PARAMS:
     //PATH TO VALIDATION/TEST FOLDER
     //GLOBAL THRESHOLD
-    val res = lR.classify("resources/validationSmall/zips", 0.5)
+    val res = lR.classify("resources/test/zips", 0.45)
     
     println("ID\tCODES")
      var t = System.currentTimeMillis()

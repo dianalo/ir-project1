@@ -21,22 +21,25 @@ object NaiveBayesLecScript extends App {
      println("computing probabilities...")
      //PARAM:
      //PATH TO TRAINING DATA
-     nB.computeProbabilities("resources/trainSmall/zips")
+     nB.computeProbabilities("resources/train/train_zip")
      println("done.")
      println("classifying...")
      //PARAMS:
      //PATH TO VALIDATION/TEST DATA
+<<<<<<< Updated upstream
+     val l = nB.classify("resources/validation/validation_zip")
+=======
      //THRESHOLD FOR CLASSIFICATION
-     val l = nB.classify("resources/test/zips", 0.45)
+     val l = nB.classify("resources/validationSmall/zips", 0.3)
+>>>>>>> Stashed changes
      println("done")
      
-     println("ID\tCODES")
      var t = System.currentTimeMillis()
      //PARAM:
      //PATH TO FILE WHERE RESULTS SHOULD BE STORED
-     var f = new File("resources/FoundTopicLabels/resultNB"+t)
+     var f = new File("resources/FoundTopicLabels/result"+t + ".txt")
      f.createNewFile()
-     val pw = new PrintWriter("resources/FoundTopicLabels/resultNB"+t)
+     val pw = new PrintWriter("resources/FoundTopicLabels/result"+t + ".txt")
      for(t <- l){
        println(t._1 + "\t" + t._2.mkString("\t"))
        pw.println(t._1 + "\t" + t._2.mkString("\t"))
@@ -44,5 +47,11 @@ object NaiveBayesLecScript extends App {
      pw.flush();
      pw.close();
      
+     // Evaluation
+     var p: Double = 0
+     var r: Double = 0
+     var eval = new PrecRec(p, r)
+     println("evaluating...")
+     eval.evaluate("resources/FoundTopicLabels/result"+ t + ".txt", "resources/validation/validation_zip/0")
    }
 }

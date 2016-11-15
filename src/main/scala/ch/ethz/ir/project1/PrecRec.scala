@@ -35,7 +35,7 @@ class PrecRec (resultPath: String, validationPath: String, var p: Array[Double],
     // for all files in the validation set
     for(i <- 0 to valDocs.size-1){
       val valDoc = valDocs(i)
-      realPositives += valDoc.codes.size
+      realPositives = valDoc.codes.size
       // for all items in the result list
       val rTup = rList(i)
       
@@ -46,15 +46,43 @@ class PrecRec (resultPath: String, validationPath: String, var p: Array[Double],
       }
       
       val numOfSame = rTup.filter(valDoc.codes.contains(_)).size
-      tp += numOfSame
-      labelsAssigned += rTup.length-1
+      tp = numOfSame
+      labelsAssigned = rTup.length-1
      
-      p(i) = tp.toDouble / labelsAssigned.toDouble
-      r(i) = tp.toDouble / realPositives.toDouble
-      f1(i) = 2*p(i)*r(i)/(p(i)+r(i))
+      if(labelsAssigned == 0){
+        p(i) = 0.0
+      }
+      else{
+        p(i) = tp.toDouble / labelsAssigned.toDouble
+      }
+      if(realPositives == 0){
+        r(i) = 0.0
+      }
+      else{
+        r(i) = tp.toDouble / realPositives.toDouble
+      }
+      if(p(i)+r(i) == 0.0){
+        f1(i) = 0.0
+      }
+      else{
+        f1(i) = 2*p(i)*r(i)/(p(i)+r(i))
+      }
+      
     }
     
-     avgF1 = f1.sum / f1.size   
+
+    avgF1 = f1.sum.toDouble / f1.size.toDouble 
+    
+    println("Best precision: " + p.max)
+    println("Worst precision: " + p.min)
+    
+    println("Best recall: " + r.max)
+    println("Worst recall: " + r.min)
+    
+    println("Best F1 score: " + f1.max)
+    println("Worst F1 score: " + f1.min)
+    
+    println("Average F1 Score: " + avgF1)
   }
      
 }

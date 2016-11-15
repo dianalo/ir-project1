@@ -3,7 +3,7 @@ package ch.ethz.ir.project1
 import ch.ethz.dal.tinyir.io._
 import java.io.File
 
-class PrecRec (var p: Double, var r: Double) {
+class PrecRecHoward (var p: Double, var r: Double) {
   def evaluate (resultPath: String, validationPath: String) : Unit = {
     // get validation set
     // val trainingFolder = "resources/validation/validation_zip/0"

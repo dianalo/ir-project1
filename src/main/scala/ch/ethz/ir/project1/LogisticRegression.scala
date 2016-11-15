@@ -62,7 +62,7 @@ class LogisticRegression(config: Config, var theta: Array[SMap], numberOfTrainin
           //perform update step
           theta(i) = minus(theta(i), lr.update(theta(i), fV, d.codes.contains(config.codes(i)))*(1.0/(j+1)))
         }
-        println("computing parameters: " + (j.toDouble/str.size.toDouble)*100 + "% done")
+        println("computing parameters: " + (j.toDouble/iterations)*100 + "% done")
     }
     
     return theta
